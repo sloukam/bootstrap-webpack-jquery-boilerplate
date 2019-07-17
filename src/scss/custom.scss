@@ -1,3 +1,22 @@
 @import './carousel.css';
 
 // Your customize CSS
+
+/*! `Custom` Bootstrap 4 theme */
+@import url(https://fonts.googleapis.com/css?family=Quicksand:200,300,400,700);
+$headings-font-family:Quicksand;
+
+$enable-grid-classes:false;
+$primary:#528078;
+$secondary:#eed75a;
+$success:#FEC100;
+$danger:#703B3B;
+$info:#63e792;
+$warning:#FFE869;
+$light:#FDFBF7;
+$dark:#555555;
+$spacer:1rem;
+$border-width:1px;
+$btn-border-radius:.25rem;
+
+// Add SASS theme customizations here..
