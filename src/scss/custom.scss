@@ -1,4 +1,3 @@
-@import './carousel.css';
 
 // Your customize CSS
 
@@ -6,17 +5,24 @@
 // @import url(https://fonts.googleapis.com/css?family=Quicksand:200,300,400,700);
 // $headings-font-family:Quicksand;
 
-// $enable-grid-classes:false;
-// $primary:#528078;
-// $secondary:#eed75a;
-// $success:#FEC100;
-// $danger:#703B3B;
-// $info:#63e792;
-// $warning:#FFE869;
-// $light:#FDFBF7;
-// $dark:#555555;
-// $spacer:1rem;
-// $border-width:1px;
-// $btn-border-radius:.25rem;
+$enable-grid-classes:true;
+$primary: #ffffff;
+//$secondary:#eed75a;
+//$success:#FEC100;
+//$danger:#703B3B;
+//$info:#63e792;
+//$warning:#FFE869;
+//$light: #b0fdc6;
+//$dark:#555555;
+//$spacer:1rem;
+//$border-width:1px;
+//$btn-border-radius:.25rem;
+
+.red-clr {
+  color: #7b140c;
+  text-decoration-color: #63e792;
+}
+
 
 // Add SASS theme customizations here..
+@import './carousel.css';
