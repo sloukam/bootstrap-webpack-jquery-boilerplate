@@ -15,3 +15,7 @@ $(document).ready(function() {
 });
 
 // Your jQuery code
+
+$(document).ready(function() {
+  $('#menu').load('html_parts.html #mainNav');
+});
