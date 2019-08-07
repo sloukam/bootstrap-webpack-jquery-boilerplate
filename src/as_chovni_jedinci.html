@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  <meta name="description" content=""/>
+  <meta name="author" content=""/>
+
+  <title id="pageTitle">www.mskao.cz</title>
+
+  <script id="dogDetail" type="text/template">
+    {{#dogs}}
+    <h1>name: {{name}} club info: {{club_info}}</h1>
+    <p>date of birth: <a href="{{date_of_birth}}">{{date_of_birth}}</a></p>
+    {{/dogs}}
+  </script>
+
+</head>
+
+<body>
+<div id="menu">menu</div>
+<br>
+<br>
+<br>
+<br>
+
+<div class="container">
+  <div id="dogList">
+    here should be rendered list of dogs via mustache.js
+  </div>
+
+</div>
+</body>
+</html>
