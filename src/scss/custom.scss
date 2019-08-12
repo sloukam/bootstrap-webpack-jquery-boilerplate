@@ -25,29 +25,32 @@
 a {
   color: #1c7430;
 }
+.singleRow {
+  @extend .row
+}
 
 // use next css style just for small devices
 @include media-breakpoint-down(sm) {
-  .row {
+  .singleRow {
     border-bottom: 1px solid #c1c1c1;
     padding-bottom: 5px;
   }
 }
 
-.row:nth-child(even) {
+.singleRow:nth-child(even) {
   background: #d6d6d6;
 }
 
-.row:nth-child(odd) {
+.singleRow:nth-child(odd) {
   background: #ececec;
 }
 
-.row:hover {
+.singleRow:hover {
   background: #a1d9ae;
 }
 
-.row-border-top {
-  border-top: 10px solid #000;
+.rowHeader {
+  background: #ade4ad;
 }
 
 // Add SASS theme customizations here..
