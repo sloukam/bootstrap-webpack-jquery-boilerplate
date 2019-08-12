@@ -1,4 +1,3 @@
-
 // Your customize CSS
 
 // /*! `Custom` Bootstrap 4 theme */
@@ -27,8 +26,29 @@ a {
   color: #1c7430;
 }
 
+// use next css style just for small devices
+@include media-breakpoint-down(sm) {
+  .row {
+    border-bottom: 1px solid #c1c1c1;
+    padding-bottom: 5px;
+  }
+}
+
+.row:nth-child(even) {
+  background: #d6d6d6;
+}
+
+.row:nth-child(odd) {
+  background: #ececec;
+}
+
+.row:hover {
+  background: #a1d9ae;
+}
+
 .row-border-top {
   border-top: 10px solid #000;
 }
+
 // Add SASS theme customizations here..
 @import './carousel.css';
