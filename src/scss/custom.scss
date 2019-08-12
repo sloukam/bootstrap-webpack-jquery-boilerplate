@@ -26,7 +26,7 @@ a {
   color: #1c7430;
 }
 .singleRow {
-  @extend .row
+  @extend .row;
 }
 
 // use next css style just for small devices
@@ -50,7 +50,9 @@ a {
 }
 
 .rowHeader {
-  background: #ade4ad;
+  @extend .row;
+  background: #474747;
+  color: #e0e0e0;
 }
 
 // Add SASS theme customizations here..
