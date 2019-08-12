@@ -25,6 +25,7 @@
 a {
   color: #1c7430;
 }
+
 .singleRow {
   @extend .row;
 }
@@ -53,6 +54,16 @@ a {
   @extend .row;
   background: #474747;
   color: #e0e0e0;
+}
+
+$newsFontSize: $font-size-base * 0.9;
+
+.newsTitle-sm {
+  font-size: $newsFontSize;
+}
+
+.newsText-sm {
+  font-size: $newsFontSize * 0.85;
 }
 
 // Add SASS theme customizations here..

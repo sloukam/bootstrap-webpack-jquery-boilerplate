@@ -19,7 +19,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $('#menu').load('html_parts.html #mainNav');
+  $('#news-container-sm').load('html_parts.html #news-content');
 });
+
 //
 // $.getJSON('../public/data/as_chovni_psi.json', function(data) {
 //   var template = $('#dogDetail').html();
