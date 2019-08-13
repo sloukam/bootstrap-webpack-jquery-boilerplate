@@ -66,5 +66,25 @@ $newsFontSize: $font-size-base * 0.9;
   font-size: $newsFontSize * 0.85;
 }
 
+.news-panel {
+  border: 1px solid #c1c1c1;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.warnTitle-sm {
+  @extend .newsTitle-sm;
+}
+
+.warnText-sm {
+  @extend .newsText-sm;
+}
+
+.warn-panel {
+  border: 1px solid #c1c1c1;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
 // Add SASS theme customizations here..
 @import './carousel.css';
