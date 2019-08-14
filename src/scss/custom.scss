@@ -86,5 +86,13 @@ $newsFontSize: $font-size-base * 0.9;
   margin-bottom: 30px;
 }
 
+//index
+.main-content {
+  @include media-breakpoint-down(sm) {
+    flex-flow: column-reverse;
+  }
+}
+
+
 // Add SASS theme customizations here..
 @import './carousel.css';

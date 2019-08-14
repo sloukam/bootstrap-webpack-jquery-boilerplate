@@ -1,5 +1,5 @@
 import 'bootstrap';
-import 'mustache';
+//import 'mustache';
 
 import '../scss/index.scss';
 
@@ -35,7 +35,7 @@ $('#btn').on('click', function() {
   var data = { name: 'Jonathan' };
   var template = 'Hello {{ name }}';
 
-  var text = Mustache.render(template, data);
+  // var text = Mustache.render(template, data);
 
   $('#mypanel').html(text);
 });
