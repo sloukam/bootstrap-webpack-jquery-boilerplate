@@ -100,6 +100,7 @@ $newsFontSize: $font-size-base * 0.9;
 
 .carousel-item {
   background-color: #ffffff;
+  height: 15rem;
 }
 
 .carousel-indicators li {
@@ -110,6 +111,10 @@ $newsFontSize: $font-size-base * 0.9;
 .carousel-indicators li.active {
   border: 1px solid white;
   background-color: black;
+}
+
+.carousel-container {
+  height: 250px;
 }
 
 // Add SASS theme customizations here..
