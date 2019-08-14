@@ -26,38 +26,32 @@ a {
   color: #1c7430;
 }
 
-.singleRow {
-  @extend .row;
-}
-
 // use next css style just for small devices
 @include media-breakpoint-down(sm) {
-  .singleRow {
+  .row {
     border-bottom: 1px solid #c1c1c1;
     padding-bottom: 5px;
   }
 }
 
-.singleRow:nth-child(even) {
+.rows-stripped .row:not(.rowHeader):nth-child(even) {
   background: #d6d6d6;
 }
 
-.singleRow:nth-child(odd) {
+.rows-stripped .row:not(.rowHeader):nth-child(odd) {
   background: #ececec;
 }
 
-.singleRow:hover {
+.rows-hover .row:not(.rowHeader):hover {
   background: #a1d9ae;
 }
 
 .rowHeader {
-  @extend .row;
   background: #474747;
   color: #e0e0e0;
 }
 
 $newsFontSize: $font-size-base * 0.9;
-
 .newsTitle-sm {
   font-size: $newsFontSize;
 }
@@ -94,18 +88,16 @@ $newsFontSize: $font-size-base * 0.9;
   }
 }
 
-@media (max-width: 1200px) {
-  .container {
+.container {
+  @media (max-width: 1200px) {
     max-width: 97vw;
   }
-}
-
-@media (max-width: 500px) {
-  .container {
+  @media (max-width: 500px) {
     padding-right: 3px;
     padding-left: 3px;
   }
 }
+
 
 
 // Add SASS theme customizations here..
