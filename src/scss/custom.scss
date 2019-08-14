@@ -87,9 +87,23 @@ $newsFontSize: $font-size-base * 0.9;
 }
 
 //index
+// bude zalamovat sloupce pod sebe...
 .main-content {
   @include media-breakpoint-down(sm) {
     flex-flow: column-reverse;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container {
+    max-width: 97vw;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    padding-right: 3px;
+    padding-left: 3px;
   }
 }
 
