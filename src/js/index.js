@@ -28,6 +28,9 @@ $(document).ready(function() {
   $('#img-carousel-container').load('html_parts.html #img-carousel');
 });
 
+$('#as-about-container').carousel();
+$('#as-standard-container').load('html_parts.html #as-standard-content');
+
 //
 // $.getJSON('../public/data/as_chovni_psi.json', function(data) {
 //   var template = $('#dogDetail').html();
