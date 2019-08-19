@@ -102,7 +102,6 @@ $newsFontSize: $font-size-base * 0.9;
     padding-right: 3px;
     padding-left: 3px;
   }
-  margin-top: 58px;
 }
 
 .carousel-item {
@@ -122,6 +121,23 @@ $newsFontSize: $font-size-base * 0.9;
 
 .carousel-container {
   height: 250px;
+}
+
+.wrap {
+  display: flex;
+  height: 100vh;
+  flex-flow: column;
+  width: 100%;
+}
+
+.header {
+  height: 60px;
+  flex: 0 0 58px;
+}
+
+.content {
+  flex: 1 1 auto;
+  overflow: auto;
 }
 
 // Add SASS theme customizations here..

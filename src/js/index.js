@@ -24,8 +24,14 @@ $(document).ready(function() {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-
   $('#img-carousel-container').load('html_parts.html #img-carousel');
+});
+
+$('article').each(function () {
+  $(this).find('p:not(:first)').hide()
+});
+$('.more').on('click', function () {
+  $(this).hide().closest('article').find('p').show();
 });
 
 $('#as-about-container').carousel();
