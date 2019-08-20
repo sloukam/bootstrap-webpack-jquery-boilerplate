@@ -17,6 +17,17 @@
 //$border-width:1px;
 //$btn-border-radius:.25rem;
 
+.navbar-collapse {
+//  position: absolute;
+//  left: 0;
+//  right: 0;
+//  top: 100%;
+  z-index: 100;
+  background: white;
+//  padding: 0.5rem 1rem;
+}
+
+
 .red-clr {
   color: #7b140c;
   text-decoration-color: #63e792;
@@ -132,7 +143,7 @@ $newsFontSize: $font-size-base * 0.9;
 
 .header {
   height: 60px;
-  flex: 0 0 58px;
+  flex: 0 0 60px;
 }
 
 .content {

@@ -61,6 +61,18 @@ $('#btn2').on('click', function() {
   // $('#mypanel').html(text);
 });
 
-$('body').on('click', '.scrollTop', function() {
-  // alert('should scroll to top');
+function scrollToAnchor(aid) {
+  // alert(aid);
+  var aTag = $("a[name='" + aid + "']");
+  $('.content').animate({ scrollTop: aTag.offset().top }, 'slow');
+}
+
+$('#link').click(function() {
+  scrollToAnchor('id3');
 });
+
+/*$('body').on('click', '.scrollTop', function() {
+  alert('should scroll to top');
+  scrollToAnchor('');
+  alert('should scroll to top 2');
+});*/
