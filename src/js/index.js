@@ -51,28 +51,27 @@ $('#as-about-container').carousel();
 //   $('#dogList').html(html);
 // });
 
-$('#btn2').on('click', function() {
-  alert('btn click...');
-  // var data = {name: 'Jonathan'};
-  // var template = 'Hello {{ name }}';
+// $('#btn2').on('click', function() {
+//   alert('btn click...');
+// var data = {name: 'Jonathan'};
+// var template = 'Hello {{ name }}';
 
-  // var text = Mustache.render(template, data);
+// var text = Mustache.render(template, data);
 
-  // $('#mypanel').html(text);
-});
+// $('#mypanel').html(text);
+// });
 
-function scrollToAnchor(aid) {
-  // alert(aid);
-  var aTag = $("a[name='" + aid + "']");
+function scrollToClass(clazz) {
+  // alert(clazz);
+  var aTag = $('.' + clazz);
+  // var aTag = $('#' + aid);
   $('.content').animate({ scrollTop: aTag.offset().top }, 'slow');
 }
 
-$('#link').click(function() {
-  scrollToAnchor('id3');
-});
+function scrollToContainer() {
+  scrollToClass('container');
+}
 
-/*$('body').on('click', '.scrollTop', function() {
-  alert('should scroll to top');
-  scrollToAnchor('');
-  alert('should scroll to top 2');
-});*/
+$('body').on('click', '.scrollTop', function() {
+  scrollToContainer();
+});
