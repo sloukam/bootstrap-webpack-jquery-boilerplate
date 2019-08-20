@@ -11,13 +11,13 @@ $('#alert2').click(() => {
   $('#testContent2').load('test.html #template2');
 });
 
-$(document).ready(function () {
+$(document).ready(function() {
   console.log('document is ready...');
 });
 
 // Your jQuery code
 
-$(document).ready(function () {
+$(document).ready(function() {
   $('#menu').load('html_parts.html #mainNav');
   $('#news-container-sm').load('html_parts.html #news-content');
   $('#warns-container-sm').load('html_parts.html #warns-content');
@@ -27,15 +27,21 @@ $(document).ready(function () {
   $('#img-carousel-container').load('html_parts.html #img-carousel');
 });
 
-$('article').each(function () {
-  $(this).find('p:not(:first)').hide()
+$('article').each(function() {
+  $(this)
+    .find('p:not(:first)')
+    .hide();
 });
-$('.more').on('click', function () {
-  $(this).hide().closest('article').find('p').show();
+$('.more').on('click', function() {
+  $(this)
+    .hide()
+    .closest('article')
+    .find('p')
+    .show();
 });
 
 $('#as-about-container').carousel();
-$('#as-standard-container').load('html_parts.html #as-standard-content');
+// $('#as-standard-container').load('html_parts.html #as-standard-content');
 
 //
 // $.getJSON('../public/data/as_chovni_psi.json', function(data) {
@@ -45,11 +51,16 @@ $('#as-standard-container').load('html_parts.html #as-standard-content');
 //   $('#dogList').html(html);
 // });
 
-$('#btn').on('click', function () {
-  var data = {name: 'Jonathan'};
-  var template = 'Hello {{ name }}';
+$('#btn2').on('click', function() {
+  alert('btn click...');
+  // var data = {name: 'Jonathan'};
+  // var template = 'Hello {{ name }}';
 
   // var text = Mustache.render(template, data);
 
-  $('#mypanel').html(text);
+  // $('#mypanel').html(text);
+});
+
+$('body').on('click', '.scrollTop', function() {
+  // alert('should scroll to top');
 });
