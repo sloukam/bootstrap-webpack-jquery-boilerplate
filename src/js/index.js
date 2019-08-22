@@ -1,5 +1,5 @@
 import 'bootstrap';
-//import 'mustache';
+import 'mustache/mustache';
 
 import '../scss/index.scss';
 
@@ -74,4 +74,14 @@ function scrollToContainer() {
 
 $('body').on('click', '.scrollTop', function() {
   scrollToContainer();
+});
+
+$("#btnAAA").on('click', function() {
+
+  var data = { name: "Jonathan (data 2)" };
+  var template = "Hello {{ name }}";
+
+  var text = Mustache.render(template, data);
+
+  $("#mypanel").html(text);
 });
