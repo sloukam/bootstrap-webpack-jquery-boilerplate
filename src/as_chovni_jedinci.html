@@ -9,9 +9,58 @@
   <title id="pageTitle">www.mskao.cz</title>
 
   <script id="dogDetail" type="text/template">
+    <h1>Chovní psi</h1>
     {{#dogs}}
-    <h1>name: {{name}} club info: {{club_info}}</h1>
-    <p>date of birth: <a href="{{date_of_birth}}">{{date_of_birth}}</a></p>
+    <strong>{{name}} club info: {{club_info}} Chip: {{chip}}</strong>
+    <div class="dogCard">
+      <div class="row">
+        <div class="col-8">
+          <div class="row">
+            <div class="col-2">výška</div>
+            <div class="col">{{body.height}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">barva:</div>
+            <div class="col">{{body.color}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">HD:</div>
+            <div class="col">{{body.HD}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">ED:</div>
+            <div class="col">{{body.ED}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">BAER:</div>
+            <div class="col">{{body.BAER}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">datum narození:</div>
+            <div class="col">{{date_of_birth}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">otec:</div>
+            <div class="col">{{father}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">matka:</div>
+            <div class="col">{{mother}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">výstavy:</div>
+            <div class="col">{{shows}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">zkoušky:</div>
+            <div class="col">{{exams}}</div>
+          </div>
+        </div>
+        <div class="col-4">
+          <img src="./public/images/as/{{chip}}.png" alt="{{name}}" class="img-thumbnail img-rounded img-responsive">
+        </div>
+      </div>
+    </div>
     {{/dogs}}
   </script>
 
