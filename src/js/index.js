@@ -45,13 +45,16 @@ $('.more').on('click', function() {
 $('#as-about-container').carousel();
 // $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-//
-// $.getJSON('../public/data/as_chovni_psi.json', function(data) {
-//   var template = $('#dogDetail').html();
-//   // var html = 'from js';
-//   var html = Mustache.to_html(template, data);
-//   $('#dogList').html(html);
-// });
+$('body').on('click', '.btnAsDogLoad', function() {
+  alert('btn clicked...');
+  $.getJSON('../public/data/as_chovni_psi.json', function(data) {
+    var template = $('#dogDetail').html();
+    // var html = 'from js';
+    var html = Mustache.to_html(template, data);
+    $('#dogList').html(html);
+  });
+});
+
 
 // $('#btn2').on('click', function() {
 //   alert('btn click...');
