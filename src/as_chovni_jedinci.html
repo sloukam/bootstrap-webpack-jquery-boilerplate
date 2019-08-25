@@ -56,9 +56,11 @@
             <div class="col">{{exams}}</div>
           </div>
         </div>
+        {{#img_ext}}
         <div class="col-4">
-          <img src="./public/images/as/{{chip}}.png" alt="{{name}}" class="img-thumbnail img-rounded img-responsive">
+          <img src="./public/images/as/{{chip}}.{{img_ext}}" alt="{{name}}" class="img-thumbnail img-rounded img-responsive">
         </div>
+        {{/img_ext}}
       </div>
     </div>
     {{/dogs}}
