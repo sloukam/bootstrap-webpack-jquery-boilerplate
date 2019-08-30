@@ -12,9 +12,9 @@
     <h1>Chovní psi</h1>
     {{#dogs}}
     <div class="dogCard">
-      <strong>{{name}}</strong>
+      <div class="dogName">{{name}}</div>
       <div class="row">
-        <div class="col-8">
+        <div class="col-7">
           <div class="row">
             <div class="col-2">ČLP</div>
             <div class="col">{{clp}}</div>
@@ -78,32 +78,35 @@
             <div class="col">{{mother}}</div>
           </div>
           <hr>
-          <div class="row">
-            <div class="col-2">majitel:</div>
-            <div class="col">{{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a {{owner.title_co_owner}} {{owner.first_name_co_owner}} {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">adresa:</div>
-            <div class="col">{{owner.address.street}} {{owner.address.number}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2"></div>
-            <div class="col">{{owner.address.post_code}} {{owner.address.city}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">telefon:</div>
-            <div class="col">{{owner.phone}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">emnail:</div>
-            <div class="col">{{owner.email}}</div>
-          </div>
-          {{#owner.web}}
-          <div class="row">
-            <div class="col-2">web:</div>
-            <div class="col">{{owner.web}}</div>
-          </div>
-          {{/owner.web}}
+<!--          <div class="row">-->
+<!--            <div class="col-2">majitel:</div>-->
+<!--            <div class="col">{{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a-->
+<!--              {{owner.title_co_owner}} {{owner.first_name_co_owner}}-->
+<!--              {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="row">-->
+<!--            <div class="col-2">adresa:</div>-->
+<!--            <div class="col">{{owner.address.street}} {{owner.address.number}}</div>-->
+<!--          </div>-->
+<!--          <div class="row">-->
+<!--            <div class="col-2"></div>-->
+<!--            <div class="col">{{owner.address.post_code}} {{owner.address.city}}</div>-->
+<!--          </div>-->
+<!--          <div class="row">-->
+<!--            <div class="col-2">telefon:</div>-->
+<!--            <div class="col">{{owner.phone}}</div>-->
+<!--          </div>-->
+<!--          <div class="row">-->
+<!--            <div class="col-2">emnail:</div>-->
+<!--            <div class="col">{{owner.email}}</div>-->
+<!--          </div>-->
+<!--          {{#owner.web}}-->
+<!--          <div class="row">-->
+<!--            <div class="col-2">web:</div>-->
+<!--            <div class="col">{{owner.web}}</div>-->
+<!--          </div>-->
+<!--          {{/owner.web}}-->
           {{#other}}
           <div class="row">
             <div class="col-2">ostatní:</div>
@@ -112,8 +115,62 @@
           {{/other}}
         </div>
         {{#img_ext}}
-        <div class="col-4">
-          <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}" class="img-thumbnail img-rounded img-responsive">
+        <div class="col">
+          <div class="row justify-content-end">
+            <div class="col-10">
+              <div class="dogCardStamp">
+                <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
+                     class="img-thumbnail img-rounded img-responsive">
+              </div>
+            </div>
+          </div>
+          <div class="row justify-content-end">
+            <div class="col">
+              <div class="dogCardAddress">
+                <div class="row">
+                  <div class="col-1"></div>
+                  <div class="col-10 dogCardAddressItem">
+                    {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
+                    {{owner.title_co_owner}} {{owner.first_name_co_owner}}
+                    {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1"></div>
+                  <div class="col-10 dogCardAddressItem">
+                    {{owner.address.street}} {{owner.address.number}}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1"></div>
+                  <div class="col-10 dogCardAddressItem">
+                    {{owner.address.post_code}} {{owner.address.city}}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
+                  <div class="col-10 dogCardAddressItem">
+                     {{owner.phone}}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-1"><img src="./public/images/email_icon.png" height="20" width="20"></div>
+                  <div class="col-10 dogCardAddressItem">
+                     {{owner.email}}
+                  </div>
+                </div>
+                {{#owner.web}}
+                <div class="row">
+                  <div class="col-1"><img src="./public/images/web_icon.png" height="20" width="20"></div>
+                  <div class="col-10 dogCardAddressItem">
+                    {{owner.web}}
+                  </div>
+                </div>
+                {{/owner.web}}
+
+              </div>
+            </div>
+          </div>
         </div>
         {{/img_ext}}
       </div>

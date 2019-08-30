@@ -152,7 +152,26 @@ $newsFontSize: $font-size-base * 0.9;
 }
 
 .dogCard {
+  padding: 30px;
   margin-bottom: 25px;
+  border: 1px solid #000000;
+}
+
+$dogNameFontSize: $font-size-base * 2;
+
+.dogName {
+  font-size: $dogNameFontSize;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+.dogCardStamp {
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+.dogCardAddressItem {
+  border-bottom: 1px solid #000000;
 }
 
 //.carousel-inner > .item > img {
