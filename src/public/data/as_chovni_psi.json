@@ -2,7 +2,7 @@
   "dogs": [
     {
       "name": "LORIEN JULY SUNBURST",
-      "club_info": "CH ČR - člp. 6022",
+      "championships": "CH ČR",
       "clp": "6022",
       "date_of_birth": "27.06.2008",
       "body": {
@@ -35,7 +35,7 @@
     },
     {
       "name": "DELLIOR TAPIO DAVARONI",
-      "club_info": "CH ČR",
+      "championships": "CH ČR",
       "clp": "5760",
       "date_of_birth": "08.02.2010",
       "body": {
@@ -69,7 +69,7 @@
     },
     {
       "name": "JUSTIN Z MEŠINSKÉ HÁJOVNY",
-      "club_info": "",
+      "championships": "",
       "clp": "5802",
       "date_of_birth": "24.3.2010",
       "body": {
@@ -105,7 +105,7 @@
     },
     {
       "name": "ARNY Z NOVÉHO REMÍZU",
-      "club_info": "",
+      "championships": "",
       "clp": "5857",
       "date_of_birth": "30.01.2011",
       "body": {
@@ -139,7 +139,7 @@
     },
     {
       "name": "FALCO Z LUHOVÉ SEČE",
-      "club_info": "",
+      "championships": "",
       "clp": "5865",
       "date_of_birth": "17.02.2011",
       "body": {
@@ -173,7 +173,7 @@
     },
     {
       "name": "AL PRIMO LORIDAM LYMARKOS",
-      "club_info": "CH ČR, SK, JCH ČR",
+      "championships": "CH ČR, SK, JCH ČR",
       "clp": "6017",
       "date_of_birth": "17.06.2012",
       "body": {
@@ -207,7 +207,7 @@
     },
     {
       "name": "JETHRO MORRISON",
-      "club_info": "JCH ČR",
+      "championships": "JCH ČR",
       "clp": "6058",
       "date_of_birth": "20.4.2013",
       "body": {
@@ -241,7 +241,7 @@
     },
     {
       "name": "ARGO Z VLČÍCH HOR",
-      "club_info": "",
+      "championships": "",
       "clp": "6194",
       "date_of_birth": "28.07.2015",
       "body": {
@@ -275,7 +275,7 @@
     },
     {
       "name": "NOELL MORRISON",
-      "club_info": "CH SR, JCH ČR, SR",
+      "championships": "CH SR, JCH ČR, SR",
       "clp": "6181",
       "date_of_birth": "21.6.2015",
       "body": {
@@ -309,7 +309,7 @@
     },
     {
       "name": "DARK REFLECTION SHADOW DOG ",
-      "club_info": "JCH ČR, SR",
+      "championships": "JCH ČR, SR",
       "clp": "6312",
       "date_of_birth": "04.02.2017",
       "body": {
@@ -343,7 +343,7 @@
     },
     {
       "name": "TRIN",
-      "club_info": "",
+      "championships": "",
       "clp": "6299",
       "date_of_birth": "07.07.2017",
       "body": {
@@ -377,7 +377,7 @@
     },
     {
       "name": "ASLAN LIKE AN ANGEL ROYAL SETTER",
-      "club_info": "JCH CZ, SK, A",
+      "championships": "JCH CZ, SK, A",
       "clp": "6241",
       "date_of_birth": "19.01.2016",
       "body": {

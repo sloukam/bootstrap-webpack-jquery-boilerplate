@@ -11,10 +11,20 @@
   <script id="dogDetail" type="text/template">
     <h1>Chovní psi</h1>
     {{#dogs}}
-    <strong>{{name}} club info: {{club_info}} Chip: {{chip}}</strong>
     <div class="dogCard">
+      <strong>{{name}}</strong>
       <div class="row">
         <div class="col-8">
+          <div class="row">
+            <div class="col-2">ČLP</div>
+            <div class="col">{{clp}}</div>
+          </div>
+          {{#championships}}
+          <div class="row">
+            <div class="col-2">šampionáty</div>
+            <div class="col">{{championships}}</div>
+          </div>
+          {{/championships}}
           <div class="row">
             <div class="col-2">výška</div>
             <div class="col">{{body.height}}</div>
@@ -24,17 +34,21 @@
             <div class="col">{{body.color}}</div>
           </div>
           <div class="row">
-            <div class="col-2">HD:</div>
-            <div class="col">{{body.HD}}</div>
+            <div class="col-2">HD / ED:</div>
+            <div class="col">{{body.HD}} / {{body.ED}}</div>
           </div>
-          <div class="row">
-            <div class="col-2">ED:</div>
-            <div class="col">{{body.ED}}</div>
-          </div>
+          {{#body.BAER}}
           <div class="row">
             <div class="col-2">BAER:</div>
             <div class="col">{{body.BAER}}</div>
           </div>
+          {{/body.BAER}}
+          {{#body.other}}
+          <div class="row">
+            <div class="col-2">ostatní:</div>
+            <div class="col">{{body.other}}</div>
+          </div>
+          {{/body.other}}
           <div class="row">
             <div class="col-2">datum narození:</div>
             <div class="col">{{date_of_birth}}</div>
@@ -54,6 +68,27 @@
           <div class="row">
             <div class="col-2">zkoušky:</div>
             <div class="col">{{exams}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">otec:</div>
+            <div class="col">{{father}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">matka:</div>
+            <div class="col">{{mother}}</div>
+          </div>
+          <hr>
+          <div class="row">
+            <div class="col-2">majitel:</div>
+            <div class="col">{{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a {{owner.title_co_owner}} {{owner.first_name_co_owner}} {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">adresa:</div>
+            <div class="col">{{owner.address.street}} {{owner.address.number}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2"></div>
+            <div class="col">{{owner.address.post_code}} {{owner.address.city}}</div>
           </div>
         </div>
         {{#img_ext}}
