@@ -90,6 +90,26 @@
             <div class="col-2"></div>
             <div class="col">{{owner.address.post_code}} {{owner.address.city}}</div>
           </div>
+          <div class="row">
+            <div class="col-2">telefon:</div>
+            <div class="col">{{owner.phone}}</div>
+          </div>
+          <div class="row">
+            <div class="col-2">emnail:</div>
+            <div class="col">{{owner.email}}</div>
+          </div>
+          {{#owner.web}}
+          <div class="row">
+            <div class="col-2">web:</div>
+            <div class="col">{{owner.web}}</div>
+          </div>
+          {{/owner.web}}
+          {{#other}}
+          <div class="row">
+            <div class="col-2">ostatní:</div>
+            <div class="col">{{other}}</div>
+          </div>
+          {{/other}}
         </div>
         {{#img_ext}}
         <div class="col-4">
