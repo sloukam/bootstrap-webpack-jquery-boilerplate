@@ -29,6 +29,7 @@ $(document).ready(function() {
   $('#img-carousel-container').load('html_parts.html #img-carousel');
 
   getAsDogs();
+  getNews();
 
 });
 
@@ -38,6 +39,15 @@ function getAsDogs() {
     // var html = 'from js';
     var html = Mustache.to_html(template, data);
     $('#dogList').html(html);
+  });
+}
+
+function getNews() {
+  $.getJSON('../public/data/news.json', function (data) {
+    var template = $('#newsListTemplate').html();
+    // var html = 'from js';
+    var html = Mustache.to_html(template, data);
+    $('#newsList').html(html);
   });
 }
 

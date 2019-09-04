@@ -28,8 +28,12 @@
 }
 
 
-.red-clr {
+.red {
   color: #7b140c;
+}
+
+.red-clr {
+  @extend .red;
   text-decoration-color: #63e792;
 }
 

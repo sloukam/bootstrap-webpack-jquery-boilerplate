@@ -1,0 +1,33 @@
+{
+  "news": [
+    {
+      "created": "4.9.2019",
+      "author": "Martin Slouka",
+      "visible": true,
+      "title": "Pozvánka a propozice na memoriál Karla Podhajského",
+      "paragraphs": [
+        {
+          "text": "Dovolujeme si Vás srdečně pozvat na memoriál Karla Podhajského, který se budou konat <strong>4.-6. října v Jaroměřicích Nad Rokytnou (OMS Třebíč)</strong>."
+        }
+      ]
+    },
+    {
+      "created": "4.9.2019",
+      "author": "Martin Slouka",
+      "visible": true,
+      "title": "Výsledky memoriálu Richarda Knolla",
+      "paragraphs": [
+        {
+          "text": "Dnes ve večerních hodinách byl slavnostně zakončen <strong>Memoriál Richarda Knolla</strong>. V teplotně vražedných podmínkách dokončilo tuto prestižní soutěž 17 ohařů."
+        },
+        {
+          "text": "Mezi nimi i pan <strong>Zdeněk Andrýsek</strong> se svým pointerem <strong>Donem z Borovinky</strong>."
+        },
+        {
+          "text": "<big>Panu Andrýskovi z celého srdce blahopřejeme, děkujeme za velmi dobrou reprezentaci klubu, manželce pak děkujeme za úžasnou podporu!</big>",
+          "css_class": "red"
+        }
+      ]
+    }
+  ]
+}

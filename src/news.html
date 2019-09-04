@@ -7,6 +7,20 @@
   <meta name="author" content=""/>
 
   <title id="pageTitle">www.mskao.cz</title>
+
+  <script id="newsListTemplate" type="text/template">
+    <h1>Novinky</h1>
+    {{#news}}
+    {{#visible}}
+    <div class="newsContainer">
+      <h2>{{title}}</h2>
+      {{#paragraphs}}
+      <p class='{{css_class}}'>{{{text}}}</p>
+      {{/paragraphs}}
+    </div>
+    {{/visible}}
+    {{/news}}
+  </script>
 </head>
 
 <body>
@@ -16,6 +30,13 @@
   </div>
   <div class="content">
     <div class="container">
+      <div id="newsList">
+        here should be rendered list of news via mustache.js
+      </div>
+
+      <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
       <h2>Moravskoslezský klub anglických ohařů, z.s.</h2>
 
       <div class="row">
