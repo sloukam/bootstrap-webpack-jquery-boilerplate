@@ -1,7 +1,7 @@
 import 'bootstrap';
-import 'mustache';
 import Mustache from 'mustache';
-
+import 'summernote';
+import 'trumbowyg';
 
 import '../scss/index.scss';
 
@@ -18,7 +18,6 @@ $(document).ready(function() {
 });
 
 // Your jQuery code
-
 $(document).ready(function() {
   $('#menu').load('html_parts.html #mainNav');
   $('#news-container-sm').load('html_parts.html #news-content');
@@ -26,31 +25,63 @@ $(document).ready(function() {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-  $('#img-carousel-container').load('html_parts.html #img-carousel');
-
   getAsDogs();
   getNews();
 
+  // $('#summernote').summernote();
+  $('#summernote').summernote({
+    height: 250, // set editor height
+    minHeight: null, // set minimum height of editor
+    maxHeight: null, // set maximum height of editor
+    focus: true, // set focus to editable area after initializing summernote
+  });
+
+  $('#trumbowygDemo').trumbowyg();
+});
+
+$('#btn2').on('click', function() {
+  alert($('#summernote').summernote('code'));
+});
+
+function showAndHideDependingOnResolution() {
+  if (screen.width > 600) {
+    console.log('show DESKTOP type of dog cards....');
+    $('.dogCardDesktop').show();
+    $('.dogCardMobile').hide();
+  } else {
+    console.log('show MOBILE type of dog cards....');
+    $('.dogCardMobile').show();
+    $('.dogCardDesktop').hide();
+  }
+}
+
+$(window).resize(function() {
+  showAndHideDependingOnResolution();
 });
 
 function getAsDogs() {
-  $.getJSON('../public/data/as_chovni_psi.json', function (data) {
-    var template = $('#dogDetail').html();
-    // var html = 'from js';
-    var html = Mustache.to_html(template, data);
-    $('#dogList').html(html);
+  $.getJSON('../public/data/as_chovni_psi.json', function(data) {
+    console.log(screen.width);
+    let template = $('#dogDetail').html();
+    if (template !== undefined) {
+      // var html = 'from js';
+      var html = Mustache.to_html(template, data);
+      $('#dogList').html(html);
+    }
+    showAndHideDependingOnResolution();
   });
 }
 
 function getNews() {
-  $.getJSON('../public/data/news.json', function (data) {
+  $.getJSON('../public/data/news.json', function(data) {
     var template = $('#newsListTemplate').html();
     // var html = 'from js';
-    var html = Mustache.to_html(template, data);
-    $('#newsList').html(html);
+    if (template !== undefined) {
+      var html = Mustache.to_html(template, data);
+      $('#newsList').html(html);
+    }
   });
 }
-
 
 $('article').each(function() {
   $(this)
@@ -93,12 +124,11 @@ $('body').on('click', '.scrollTop', function() {
   scrollToContainer();
 });
 
-$("#btnAAA").on('click', function() {
-
-  var data = { name: "Jonathan (data 2)" };
-  var template = "Hello {{ name }}";
+$('#btnAAA').on('click', function() {
+  var data = { name: 'Jonathan (data 2)' };
+  var template = 'Hello {{ name }}';
 
   var text = Mustache.render(template, data);
 
-  $("#mypanel").html(text);
+  $('#mypanel').html(text);
 });

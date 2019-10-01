@@ -178,6 +178,14 @@ $dogNameFontSize: $font-size-base * 2;
   border-bottom: 1px solid #000000;
 }
 
+.dogCardMobile {
+  padding-bottom: 50px;
+  border-bottom: 1px solid #c1c1c1;
+}
+
+.hidden {
+  display: none;
+}
 //.carousel-inner > .item > img {
 //  width:640px;
 //  height:360px;
