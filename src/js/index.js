@@ -56,19 +56,19 @@ function showAndHideDependingOnResolution() {
 }
 
 $(window).resize(function() {
-  showAndHideDependingOnResolution();
+  // showAndHideDependingOnResolution();
 });
 
 function getAsDogs() {
   $.getJSON('../public/data/as_chovni_psi.json', function(data) {
     console.log(screen.width);
-    let template = $('#dogDetail').html();
+    let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
       // var html = 'from js';
       var html = Mustache.to_html(template, data);
       $('#dogList').html(html);
     }
-    showAndHideDependingOnResolution();
+    // showAndHideDependingOnResolution();
   });
 }
 

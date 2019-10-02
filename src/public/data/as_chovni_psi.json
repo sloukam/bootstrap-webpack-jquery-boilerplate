@@ -5,6 +5,7 @@
       "championships": "CH ČR",
       "clp": "6022",
       "date_of_birth": "27.06.2008",
+      "sex": "male",
       "body": {
         "height": 64,
         "color": "orange belton",
@@ -38,6 +39,7 @@
       "championships": "CH ČR",
       "clp": "5760",
       "date_of_birth": "08.02.2010",
+      "sex": "male",
       "body": {
         "height": "64",
         "color": "černobílý",
@@ -72,6 +74,7 @@
       "championships": "",
       "clp": "5802",
       "date_of_birth": "24.3.2010",
+      "sex": "male",
       "body": {
         "height": "64",
         "color": "tricolor",
@@ -108,6 +111,7 @@
       "championships": "",
       "clp": "5857",
       "date_of_birth": "30.01.2011",
+      "sex": "male",
       "body": {
         "height": "63",
         "color": "černobílý",
@@ -142,6 +146,7 @@
       "championships": "",
       "clp": "5865",
       "date_of_birth": "17.02.2011",
+      "sex": "male",
       "body": {
         "height": "64",
         "color": "bíločerný",
@@ -176,6 +181,7 @@
       "championships": "CH ČR, SK, JCH ČR",
       "clp": "6017",
       "date_of_birth": "17.06.2012",
+      "sex": "male",
       "body": {
         "height": "65",
         "color": "blue belton",
@@ -210,6 +216,7 @@
       "championships": "JCH ČR",
       "clp": "6058",
       "date_of_birth": "20.4.2013",
+      "sex": "male",
       "body": {
         "height": "64",
         "color": "oranžový bělouš",
@@ -244,6 +251,7 @@
       "championships": "",
       "clp": "6194",
       "date_of_birth": "28.07.2015",
+      "sex": "male",
       "body": {
         "height": "64",
         "color": "tricolor",
@@ -278,6 +286,7 @@
       "championships": "CH SR, JCH ČR, SR",
       "clp": "6181",
       "date_of_birth": "21.6.2015",
+      "sex": "male",
       "body": {
         "height": "66",
         "color": "blue belton",
@@ -312,6 +321,7 @@
       "championships": "JCH ČR, SR",
       "clp": "6312",
       "date_of_birth": "04.02.2017",
+      "sex": "male",
       "body": {
         "height": "65",
         "color": "tricolor",
@@ -346,6 +356,7 @@
       "championships": "",
       "clp": "6299",
       "date_of_birth": "07.07.2017",
+      "sex": "male",
       "body": {
         "height": "62",
         "color": "tricolor",
@@ -380,6 +391,7 @@
       "championships": "JCH CZ, SK, A",
       "clp": "6241",
       "date_of_birth": "19.01.2016",
+      "sex": "male",
       "body": {
         "height": "67",
         "color": "orange belton",

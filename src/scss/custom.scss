@@ -161,12 +161,27 @@ $newsFontSize: $font-size-base * 0.9;
   border: 1px solid #000000;
 }
 
+.dogCard.male {
+  border: 2px solid darkblue;
+}
+
+.dogCard.female {
+  border: 2px solid deeppink;
+}
+
 $dogNameFontSize: $font-size-base * 2;
 
 .dogName {
   font-size: $dogNameFontSize;
   font-style: italic;
   padding-bottom: 10px;
+}
+
+.item-label{
+  font-weight: bolder;
+}
+
+.item-value {
 }
 
 .dogCardStamp {

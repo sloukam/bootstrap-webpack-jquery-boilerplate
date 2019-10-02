@@ -8,260 +8,48 @@
 
   <title id="pageTitle">www.mskao.cz</title>
 
-  <script id="dogDetail" type="text/template">
-    <h1>Chovní psi</h1>
-    {{#dogs}}
-    <div class="dogCardDesktop hidden">
-      <div class="dogName">{{name}} - large</div>
-      <div class="row">
-        <div class="col-7">
+  <script id="dogDetailDesktop" type="text/template">
+    <h1>Chovní jedinci</h1>
+    <div class="row">
+      {{#dogs}}
+      <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="dogCard {{sex}} rounded-lg">
+          <div class="dogName">{{name}}&nbsp;&nbsp;&nbsp;<img src="./public/images/{{sex}}_symbol.png" class="img-fluid" width="20"></div>
           <div class="row">
-            <div class="col-2">ČLP</div>
-            <div class="col">{{clp}}</div>
-          </div>
-          {{#championships}}
-          <div class="row">
-            <div class="col-2">šampionáty</div>
-            <div class="col">{{championships}}</div>
-          </div>
-          {{/championships}}
-          <div class="row">
-            <div class="col-2">výška</div>
-            <div class="col">{{body.height}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">barva:</div>
-            <div class="col">{{body.color}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">HD / ED:</div>
-            <div class="col">{{body.HD}} / {{body.ED}}</div>
-          </div>
-          {{#body.BAER}}
-          <div class="row">
-            <div class="col-2">BAER:</div>
-            <div class="col">{{body.BAER}}</div>
-          </div>
-          {{/body.BAER}}
-          {{#body.other}}
-          <div class="row">
-            <div class="col-2">ostatní:</div>
-            <div class="col">{{body.other}}</div>
-          </div>
-          {{/body.other}}
-          <div class="row">
-            <div class="col-2">datum narození:</div>
-            <div class="col">{{date_of_birth}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">otec:</div>
-            <div class="col">{{father}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">matka:</div>
-            <div class="col">{{mother}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">výstavy:</div>
-            <div class="col">{{shows}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">zkoušky:</div>
-            <div class="col">{{exams}}</div>
-          </div>
-          {{#other}}
-          <div class="row">
-            <div class="col-2">ostatní:</div>
-            <div class="col">{{other}}</div>
-          </div>
-          {{/other}}
-        </div>
-        <div class="col">
-          {{#img_ext}}
-          <div class="row justify-content-end">
-            <div class="col-10">
-              <div class="dogCardStamp">
-                <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
-                     class="img-thumbnail img-rounded img-responsive">
-              </div>
-            </div>
-          </div>
-          {{/img_ext}}
-          <div class="row justify-content-end">
             <div class="col">
-              <div class="dogCardAddress">
-                <div class="row">
-                  <div class="col-1"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
-                    {{owner.title_co_owner}} {{owner.first_name_co_owner}}
-                    {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}
-                  </div>
+              <div class="row">
+                <div class="col-auto item-label">číslo zápisu</div>
+                <div class="col-auto item-value">ČLP/AS/{{clp}}</div>
+              </div>
+              <div class="row">
+                <div class="col-auto item-label">datum narození:</div>
+                <div class="col-auto">{{date_of_birth}}</div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-auto">
+              <div class="row justify-content-center border-0">
+                {{^img_ext}}
+                <div class="col-4">
+                  <img src="./public/images/as-bw.jpg" alt="anglický setr"
+                       class="img-thumbnail img-rounded img-responsive">
                 </div>
-                <div class="row">
-                  <div class="col-1"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.address.street}} {{owner.address.number}}
-                  </div>
+                {{/img_ext}}
+                {{#img_ext}}
+                <div class="col">
+                  <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
+                       class="img-thumbnail img-rounded img-responsive">
                 </div>
-                <div class="row">
-                  <div class="col-1"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.address.post_code}} {{owner.address.city}}
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-1"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.phone}}
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-1"><img src="./public/images/email_icon.png" height="20" width="20"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.email}}
-                  </div>
-                </div>
-                {{#owner.web}}
-                <div class="row">
-                  <div class="col-1"><img src="./public/images/web_icon.png" height="20" width="20"></div>
-                  <div class="col-10 dogCardAddressItem">
-                    {{owner.web}}
-                  </div>
-                </div>
-                {{/owner.web}}
-
+                {{/img_ext}}
               </div>
             </div>
           </div>
         </div>
       </div>
+      {{/dogs}}
     </div>
-
-    <div class="dogCardMobile hidden">
-      <div class="dogName">{{name}}</div>
-      <div class="row justify-content-center border-0">
-        {{^img_ext}}
-        <div class="col-4">
-          <img src="./public/images/as-bw.jpg" alt="anglický setr"
-               class="img-thumbnail img-rounded img-responsive">
-        </div>
-        {{/img_ext}}
-        {{#img_ext}}
-        <div class="col">
-          <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
-               class="img-thumbnail img-rounded img-responsive">
-        </div>
-        {{/img_ext}}
-      </div>
-      <div class="row">
-        <div class="col-4">ČLP</div>
-        <div class="col">{{clp}}</div>
-      </div>
-      {{#championships}}
-      <div class="row">
-        <div class="col-4">šampionáty</div>
-        <div class="col">{{championships}}</div>
-      </div>
-      {{/championships}}
-      <div class="row">
-        <div class="col-4">výška</div>
-        <div class="col">{{body.height}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">barva:</div>
-        <div class="col">{{body.color}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">HD / ED:</div>
-        <div class="col">{{body.HD}} / {{body.ED}}</div>
-      </div>
-      {{#body.BAER}}
-      <div class="row">
-        <div class="col-4">BAER:</div>
-        <div class="col">{{body.BAER}}</div>
-      </div>
-      {{/body.BAER}}
-      {{#body.other}}
-      <div class="row">
-        <div class="col-4">ostatní:</div>
-        <div class="col">{{body.other}}</div>
-      </div>
-      {{/body.other}}
-      <div class="row">
-        <div class="col-4">datum narození:</div>
-        <div class="col">{{date_of_birth}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">otec:</div>
-        <div class="col">{{father}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">matka:</div>
-        <div class="col">{{mother}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">výstavy:</div>
-        <div class="col">{{shows}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">zkoušky:</div>
-        <div class="col">{{exams}}</div>
-      </div>
-      {{#other}}
-      <div class="row">
-        <div class="col-4">ostatní:</div>
-        <div class="col">{{other}}</div>
-      </div>
-      {{/other}}
-
-      <div class="row">
-        <div class="col-4">majitel:</div>
-        <div class="col">
-          {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
-          {{owner.title_co_owner}} {{owner.first_name_co_owner}}
-          {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-4"></div>
-        <div class="col">
-          {{owner.address.street}} {{owner.address.number}}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-4"></div>
-        <div class="col">
-          {{owner.address.post_code}} {{owner.address.city}}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
-        <div class="col">
-          <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
-        <div class="col">
-          <a href="mailto:{{owner.email}}">{{owner.email}}</a>
-        </div>
-      </div>
-      {{#owner.web}}
-      <div class="row">
-        <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
-        <div class="col">
-          <a href="http://{{owner.web}}" target="_blank">{{owner.web}}</a>
-        </div>
-      </div>
-      {{/owner.web}}
-
-
-
-    </div>
-    {{/dogs}}
   </script>
-
 
 </head>
 
