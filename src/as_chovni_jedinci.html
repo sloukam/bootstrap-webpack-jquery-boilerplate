@@ -12,7 +12,7 @@
     <h1>Chovní jedinci</h1>
     <div class="row">
       {{#dogs}}
-      <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+      <div class="col-sm-12 col-md-6 col-lg-4">
         <div class="dogCard {{sex}} rounded-lg">
           <div class="dogName">{{name}}&nbsp;&nbsp;&nbsp;<img src="./public/images/{{sex}}_symbol.png" class="img-fluid" width="20"></div>
           <div class="row">
@@ -21,13 +21,13 @@
                 <div class="col-auto item-label">číslo zápisu</div>
                 <div class="col-auto item-value">ČLP/AS/{{clp}}</div>
               </div>
-              <div class="row">
+              <div class="row border-0">
                 <div class="col-auto item-label">datum narození:</div>
                 <div class="col-auto">{{date_of_birth}}</div>
               </div>
             </div>
           </div>
-          <div class="row">
+          <div class="row border-0">
             <div class="col-auto">
               <div class="row justify-content-center border-0">
                 {{^img_ext}}
