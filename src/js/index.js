@@ -69,6 +69,12 @@ function getAsDogs() {
       $('#dogList').html(html);
     }
     // showAndHideDependingOnResolution();
+    $('.pop').on('click', function() {
+      console.log('click...');
+      $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+      $('#imagemodal').modal('show');
+    });
+
   });
 }
 
