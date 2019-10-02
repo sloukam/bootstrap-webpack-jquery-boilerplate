@@ -139,17 +139,22 @@
     </div>
 
     <div class="dogCardMobile hidden">
-      <div class="dogName">{{name}} - mobile</div>
-      {{#img_ext}}
-      <div class="row">
+      <div class="dogName">{{name}}</div>
+      <div class="row justify-content-center">
+        {{^img_ext}}
+        <div class="col-4">
+          <img src="./public/images/as-bw.jpg" alt="anglický setr"
+               class="img-thumbnail img-rounded img-responsive">
+        </div>
+        {{/img_ext}}
+        {{#img_ext}}
         <div class="col">
-          <div class="dogCardStamp">
-            <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
-                 class="img-thumbnail img-rounded img-responsive">
-          </div>
+          <img src="./public/images/as/{{clp}}.{{img_ext}}" alt="{{name}}"
+               class="img-thumbnail img-rounded img-responsive">
+        </div>
+        {{/img_ext}}
         </div>
       </div>
-      {{/img_ext}}
       <div class="row">
         <div class="col-4">ČLP</div>
         <div class="col">{{clp}}</div>
@@ -212,7 +217,7 @@
       {{/other}}
 
       <div class="row">
-        <div class="col-4"></div>
+        <div class="col-4">majitel:</div>
         <div class="col">
           {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
           {{owner.title_co_owner}} {{owner.first_name_co_owner}}
