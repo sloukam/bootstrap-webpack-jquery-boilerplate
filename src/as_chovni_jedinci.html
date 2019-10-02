@@ -13,7 +13,7 @@
     <div class="row">
       {{#dogs}}
       <div class="col-sm-12 col-md-6 col-lg-4">
-        <div class="dogCard {{sex}} rounded-lg">
+        <div class="dogCard {{sex}} rounded-lg" id="dogCard_{{clp}}">
           <div class="dogName">{{name}}&nbsp;&nbsp;&nbsp;<img src="./public/images/{{sex}}_symbol.png" class="img-fluid" width="20"></div>
           <div class="row">
             <div class="col">
@@ -43,6 +43,40 @@
                 </div>
                 {{/img_ext}}
               </div>
+            </div>
+          </div>
+          <div class="row border-0">
+            <div class="col text-right">
+              <div class="dogCardDetailClick" id="{{clp}}">detail</div>
+            </div>
+          </div>
+          <div class="dogDetail hidden" id="dogDetail_{{clp}}">
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col">detiled info {{clp}}</div>
             </div>
           </div>
         </div>

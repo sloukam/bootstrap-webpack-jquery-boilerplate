@@ -75,6 +75,19 @@ function getAsDogs() {
       $('#imagemodal').modal('show');
     });
 
+    var click = $('.dogCardDetailClick');
+    // click.getId
+    click.on('click', function(event) {
+      var id = $(event.target).attr('id');
+
+      $('#dogDetail_' + id).slideToggle(250);
+      //
+      // var closest = click.closest('.dogCard').first();
+      // closest.css('background-color', 'red');
+      // console.log('closest');
+      // console.log(closest);
+    });
+
   });
 }
 
