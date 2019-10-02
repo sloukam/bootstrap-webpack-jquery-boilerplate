@@ -69,15 +69,6 @@
             <div class="col-2">zkoušky:</div>
             <div class="col">{{exams}}</div>
           </div>
-          <div class="row">
-            <div class="col-2">otec:</div>
-            <div class="col">{{father}}</div>
-          </div>
-          <div class="row">
-            <div class="col-2">matka:</div>
-            <div class="col">{{mother}}</div>
-          </div>
-          <hr>
           {{#other}}
           <div class="row">
             <div class="col-2">ostatní:</div>
@@ -213,21 +204,56 @@
         <div class="col-4">zkoušky:</div>
         <div class="col">{{exams}}</div>
       </div>
-      <div class="row">
-        <div class="col-4">otec:</div>
-        <div class="col">{{father}}</div>
-      </div>
-      <div class="row">
-        <div class="col-4">matka:</div>
-        <div class="col">{{mother}}</div>
-      </div>
-      <hr>
       {{#other}}
       <div class="row">
         <div class="col-4">ostatní:</div>
         <div class="col">{{other}}</div>
       </div>
       {{/other}}
+
+      <div class="row">
+        <div class="col-4"></div>
+        <div class="col">
+          {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
+          {{owner.title_co_owner}} {{owner.first_name_co_owner}}
+          {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4"></div>
+        <div class="col">
+          {{owner.address.street}} {{owner.address.number}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4"></div>
+        <div class="col">
+          {{owner.address.post_code}} {{owner.address.city}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
+        <div class="col">
+          <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
+        <div class="col">
+          <a href="mailto:{{owner.email}}">{{owner.email}}</a>
+        </div>
+      </div>
+      {{#owner.web}}
+      <div class="row">
+        <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
+        <div class="col">
+          {{owner.web}}
+        </div>
+      </div>
+      {{/owner.web}}
+
+
+
     </div>
     {{/dogs}}
   </script>
