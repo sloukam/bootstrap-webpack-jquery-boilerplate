@@ -52,32 +52,98 @@
           </div>
           <div class="dogDetail hidden" id="dogDetail_{{clp}}">
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">otec:</div>
+              <div class="col">{{father}}</div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">matka:</div>
+              <div class="col">{{mother}}</div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">výška</div>
+              <div class="col">{{body.height}}</div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">barva:</div>
+              <div class="col">{{body.color}}</div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">HD / ED:</div>
+              <div class="col">{{body.HD}} / {{body.ED}}</div>
+            </div>
+            {{#body.BAER}}
+            <div class="row">
+              <div class="col-4">BAER:</div>
+              <div class="col">{{body.BAER}}</div>
+            </div>
+            {{/body.BAER}}
+            {{#championships}}
+            <div class="row">
+              <div class="col-4">šampionáty</div>
+              <div class="col">{{championships}}</div>
+            </div>
+            {{/championships}}
+            {{#body.other}}
+            <div class="row">
+              <div class="col-4">ostatní:</div>
+              <div class="col">{{body.other}}</div>
+            </div>
+            {{/body.other}}
+            <div class="row">
+              <div class="col-4">výstavy:</div>
+              <div class="col">{{shows}}</div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4">zkoušky:</div>
+              <div class="col">{{exams}}</div>
+            </div>
+            {{#other}}
+            <div class="row">
+              <div class="col-4">ostatní:</div>
+              <div class="col">{{other}}</div>
+            </div>
+            {{/other}}
+
+            <div class="row">
+              <div class="col-4">majitel:</div>
+              <div class="col">
+                {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
+                {{owner.title_co_owner}} {{owner.first_name_co_owner}}
+                {{owner.last_name2_co_owner}}{{/owner.first_name_co_owner}}
+              </div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4"></div>
+              <div class="col">
+                {{owner.address.street}} {{owner.address.number}}
+              </div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4"></div>
+              <div class="col">
+                {{owner.address.post_code}} {{owner.address.city}}
+              </div>
             </div>
             <div class="row">
-              <div class="col">detiled info {{clp}}</div>
+              <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
+              <div class="col">
+                <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
+              </div>
             </div>
+            <div class="row">
+              <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
+              <div class="col">
+                <a href="mailto:{{owner.email}}">{{owner.email}}</a>
+              </div>
+            </div>
+            {{#owner.web}}
+            <div class="row">
+              <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
+              <div class="col">
+                <a href="http://{{owner.web}}" target="_blank">{{owner.web}}</a>
+              </div>
+            </div>
+            {{/owner.web}}
           </div>
         </div>
       </div>
