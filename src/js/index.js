@@ -60,7 +60,7 @@ $(window).resize(function() {
 });
 
 function getAsDogs() {
-  $.getJSON('../public/data/as_chovni_psi.json', function(data) {
+  $.getJSON('../public/data/as_breeding_dogs.json', function(data) {
     console.log(screen.width);
     let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
