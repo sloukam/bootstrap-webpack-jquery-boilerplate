@@ -305,7 +305,8 @@ const handleFormSubmit = event => {
  * its class name, then attach the `handleFormSubmit()` function to the
  * `submit` event.
  */
-const form = document.getElementsByClassName('contact-form')[0];
+const form = document.getElementsByClassName('add-breeding-dog-form')[0];
+// const form = document.getElementsByClassName('contact-form')[0];
 form.addEventListener('submit', handleFormSubmit);
 
 

@@ -19,7 +19,7 @@
       <h1>Přidání dalšího chovného psa/feny</h1>
       <div class="row justify-content-center">
         <div class="col-8">
-          <form>
+          <form class="add-breeding-dog-form">
             <fieldset>
               <legend>základní informace</legend>
               <div class="row">
@@ -165,9 +165,25 @@
                 <input class="col" id="email" name="email" type="email">
               </div>
             </fieldset>
+            <fieldset>
+              <legend>další informace</legend>
+
+              <div class="row">
+                <label class="col-4 item-label" for="other">ostatní</label>
+                <textarea class="col" id="other" name="other" rows="3"></textarea>
+              </div>
+            </fieldset>
 
 
+            <button class="contact-form__button" type="submit">Send It!</button>
           </form>
+
+          <div class="results">
+            <h2 class="results__heading">Form Data</h2>
+            <pre class="results__display-wrapper"><code class="results__display">
+            </code>
+            </pre>
+          </div>
         </div>
       </div>
 
