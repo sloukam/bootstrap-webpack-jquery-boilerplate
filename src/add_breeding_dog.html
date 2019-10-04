@@ -20,74 +20,108 @@
       <div class="row justify-content-center">
         <div class="col-8">
           <form>
-            <div class="row">
-              <div class="col-4 item-label" for="name">Jméno</div>
-              <input class="col" id="name" name="name" type="text">
-            </div>
-            <div class="row">
-              <div class="col-4 item-label" for="date_of_birth">Datum narození</div>
-              <input class="col" id="date_of_birth" name="date_of_birth" type="date">
-            </div>
-            <div class="row">
-              <div class="col-4 item-label" for="championships">Šampionáty</div>
-              <input class="col" id="championships" name="championships" type="text">
-            </div>
-            <div class="row">
-              <div class="col-4 item-label" for="sex">Pes / fena</div>
-              <div class="col">
-                <input id="sex_male" name="sex" type="radio" value="male">
-                <label for="sex_male">pes</label>
-                <br>
-                <input id="sex_female" name="sex" type="radio" value="female">
-                <label for="sex_female">fena</label>
+            <fieldset>
+              <legend>základní informace</legend>
+              <div class="row">
+                <div class="col-4 item-label" for="name">Jméno</div>
+                <input class="col" id="name" name="name" type="text">
               </div>
-            </div>
+              <div class="row">
+                <div class="col-4 item-label" for="date_of_birth">Datum narození</div>
+                <input class="col" id="date_of_birth" name="date_of_birth" type="date">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="clp">ČLP</div>
+                <input class="col" id="clp" name="clp" type="number" required="required">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="father">otec</div>
+                <input class="col" id="father" name="father" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="mother">matka</div>
+                <input class="col" id="mother" name="mother" type="text">
+              </div>
+            </fieldset>
 
-            <div>
+            <fieldset>
+              <legend>zdravotní informace</legend>
               <div class="row">
-                <div class="col-4 item-label" for="date_of_birth">výška</div>
-                <input class="col" id="height" name="height" type="number">
-              </div>
-              <div class="row">
-                <div class="col-4 item-label" for="color">barva</div>
-                <input class="col" id="color" name="color" type="text">
-              </div>
-              <div class="row">
-                <div class="col-4 item-label" for="HD">HD</div>
-                <select class="col" id="HD" name="HD">
-                  <option></option>
-                  <option>A</option>
-                  <option>B</option>
-                  <option>C</option>
-                  <option>D</option>
-                </select>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label" for="ED">ED</div>
-                <select class="col" id="ED" name="ED">
-                  <option></option>
-                  <option>A</option>
-                  <option>B</option>
-                  <option>C</option>
-                  <option>D</option>
-                </select>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label" for="BAER">BAER</div>
+                <div class="col-4 item-label" for="sex">Pes / fena</div>
                 <div class="col">
-                  <input id="BAER_default" name="BAER" type="radio" value="">
-                  <label for="BAER_default">neni uvedeno</label>
+                  <input id="sex_male" name="sex" type="radio" value="male">
+                  <label for="sex_male">pes</label>
                   <br>
-                  <input id="BAER_normal" name="BAER" type="radio" value="normal">
-                  <label for="BAER_normal">normal</label>
+                  <input id="sex_female" name="sex" type="radio" value="female">
+                  <label for="sex_female">fena</label>
                 </div>
               </div>
+              <div>
+                <div class="row">
+                  <div class="col-4 item-label" for="date_of_birth">výška</div>
+                  <input class="col" id="height" name="height" type="number">
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="color">barva</div>
+                  <input class="col" id="color" name="color" type="text">
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="HD">HD</div>
+                  <select class="col" id="HD" name="HD">
+                    <option></option>
+                    <option>A</option>
+                    <option>B</option>
+                    <option>C</option>
+                    <option>D</option>
+                  </select>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="ED">ED</div>
+                  <select class="col" id="ED" name="ED">
+                    <option></option>
+                    <option>A</option>
+                    <option>B</option>
+                    <option>C</option>
+                    <option>D</option>
+                  </select>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="BAER">BAER</div>
+                  <div class="col">
+                    <input id="BAER_default" name="BAER" type="radio" value="">
+                    <label for="BAER_default">neni uvedeno</label>
+                    <br>
+                    <input id="BAER_normal" name="BAER" type="radio" value="normal">
+                    <label for="BAER_normal">normal</label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="other">dodatečné informace</div>
+                  <input class="col" id="other" name="other" type="text">
+                </div>
+              </div>
+            </fieldset>
+
+            <fieldset>
+              <legend>šampionáty, výstavy, zkoušky...</legend>
               <div class="row">
-                <div class="col-4 item-label" for="other">dodatečné informace</div>
-                <input class="col" id="other" name="other" type="text">
+                <div class="col-4 item-label" for="championships">Šampionáty</div>
+                <input class="col" id="championships" name="championships" type="text">
               </div>
 
-            </div>
+              <div class="row">
+                <div class="col-4 item-label" for="shows">výstavy</div>
+                <textarea class="col" id="shows" name="shows" rows="3" type="text"></textarea>
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="exams">prac. zkoušky</div>
+                <textarea class="col" id="exams" name="exams" rows="3" type="text"></textarea>
+              </div>
+            </fieldset>
+
+            <fieldset>
+              <legend>Majitel</legend>
+            </fieldset>
 
             <div class="row">
               <label class="col-4" for="email">Email Address</label>
