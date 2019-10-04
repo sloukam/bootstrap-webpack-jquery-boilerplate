@@ -121,12 +121,51 @@
 
             <fieldset>
               <legend>Majitel</legend>
+
+              <div class="row">
+                <div class="col-4 item-label" for="title">titul</div>
+                <input class="col" id="title" name="title" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="first_name">jméno</div>
+                <input class="col" id="first_name" name="first_name" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="last_name">příjmnení</div>
+                <input class="col" id="last_name" name="last_name" type="text">
+              </div>
+
+              <fieldset>
+                <legend>Adresa</legend>
+
+                <div class="row">
+                  <div class="col-4 item-label" for="street">ulice</div>
+                  <input class="col" id="street" name="street" type="text">
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="number">číslo popisné</div>
+                  <input class="col" id="number" name="number" type="text">
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="city">město</div>
+                  <input class="col" id="city" name="city" type="text">
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="post_code">PSČ</div>
+                  <input class="col" id="post_code" name="post_code" type="number">
+                </div>
+              </fieldset>
+
+              <div class="row">
+                <div class="col-4 item-label" for="phone">telefon</div>
+                <input class="col" id="phone" name="phone" type="tel">
+              </div>
+              <div class="row">
+                <label class="col-4 item-label" for="email">email</label>
+                <input class="col" id="email" name="email" type="email">
+              </div>
             </fieldset>
 
-            <div class="row">
-              <label class="col-4" for="email">Email Address</label>
-              <input class="col" id="email" name="email" type="email">
-            </div>
 
           </form>
         </div>
@@ -151,12 +190,12 @@
           <label class="contact-form__label contact-form__label--radio" for="salutation-ms">Ms.</label>
         </div>
         <div class="contact-form__input-group">
-          <label class="contact-form__label" for="name">Full Name</label>
-          <input class="contact-form__input contact-form__input--text" id="name" name="name" type="text">
+          <label class="contact-form__label" for="general.name">Full Name</label>
+          <input class="contact-form__input contact-form__input--text" id="general.name" name="general.name" type="text">
         </div>
         <div class="contact-form__input-group">
-          <label class="contact-form__label" for="email">Email Address</label>
-          <input class="contact-form__input contact-form__input--email" id="email" name="email" type="email">
+          <label class="contact-form__label" for="general.email">Email Address</label>
+          <input class="contact-form__input contact-form__input--email" id="general.email" name="general.email" type="email">
         </div>
         <div class="contact-form__input-group">
           <label class="contact-form__label" for="subject">How can I help you?</label>
