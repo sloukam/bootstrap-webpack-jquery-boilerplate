@@ -420,6 +420,47 @@
       },
       "other": "Uchovněn na výjimku - chybí 2x M3 viz. zápis z výboru 23.7.2017",
       "img_ext": "jpg"
+    },
+
+
+
+
+
+
+
+    {
+      "name": "----------",
+      "championships": "----------",
+      "clp": "----------",
+      "date_of_birth": "----------",
+      "sex": "female",
+      "body": {
+        "height": 64,
+        "color": "----------",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal",
+        "other": ""
+      },
+      "shows": "----------",
+      "exams": "----------",
+      "father": "----------",
+      "mother": "----------",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Kostelník",
+        "address": {
+          "street": "Sadová",
+          "number": "315/7",
+          "city": "Mnichovice",
+          "post_code": ""
+        },
+        "phone": "602212634",
+        "email": "martin@nip.cz"
+      },
+      "other": "Import Itálie",
+      "img_ext": "png"
     }
   ]
 }
