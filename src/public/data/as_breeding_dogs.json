@@ -594,8 +594,93 @@
         "web": "http://www.deaarduinna.wbs.cz"
       },
       "other": "Uchovněna na výjimku 1 vrhu – skus"
+    },
+    {
+      "name": "BASTA FIDLI BAMBOLA LYMARKOS",
+      "date_of_birth": "2015-02-24",
+      "clp": "6153",
+      "father": "Fanchon Paints It Black Jack",
+      "mother": "Latin Lover Snow On the Sahara",
+      "sex": "female",
+      "body": {
+        "height": "62",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "shows": "V, VT, Oblastní vítěz, CAC, NV,\nCAC ČMKU, CACIB, BOS, BOB",
+      "exams": "ZV- I.c., Polabské derby ohařů - I.c., PZ - II.c.",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Barbora",
+        "last_name": "Černá",
+        "address": {
+          "street": "17.listopadu",
+          "number": "121",
+          "city": "Kutná Hora"
+        },
+        "phone": "732944098",
+        "email": "bara.cerna@atlas.cz"
+      }
+    },
+    {
+      "name": "ESCA BRILLARE DAVARONI",
+      "date_of_birth": "2015-09-09",
+      "clp": "6213",
+      "father": "Wyndswept’s Reflection of A Legacy",
+      "mother": "Editions Secret for Davaroni",
+      "sex": "female",
+      "body": {
+        "height": "61",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "shows": "res. CAC",
+      "exams": "ZV – I.cena",
+      "owner": {
+        "last_name": "Ing. Lucie Studýnková & Ing. Ondřej Novák",
+        "address": {
+          "street": "Brambory",
+          "number": "9",
+          "phone": "737413598",
+          "email": "davaroni@davaroni.com",
+          "web": "http://www.davaroni.com"
+        }
+      }
+    },
+    {
+      "name": "CECILIA MISS OF SETTERCITY",
+      "date_of_birth": "2017-02-07",
+      "clp": "6300",
+      "father": "Fanchon Call Me Maybe Kyle",
+      "mother": "Annabelle Miss of Settercity",
+      "sex": "female",
+      "body": {
+        "height": "60",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, BOS",
+      "exams": "ZV – I.cena",
+      "owner": {
+        "first_name": "Daniela",
+        "last_name": "Vincová",
+        "address": {
+          "street": "Káraný",
+          "number": "E 208",
+          "city": "Osada Tři duby"
+        },
+        "phone": "774269211",
+        "email": "sejvlova2004@seznam.cz"
+      },
+      "other.other": "Import Rakousko"
     }
-
 
   ]
 }
