@@ -1,6 +1,7 @@
 {
   "dogs": [
     {
+      "visible": false,
       "name": "LORIEN JULY SUNBURST",
       "championships": "CH ČR",
       "clp": "6022",
@@ -35,6 +36,7 @@
       "img_ext": "png"
     },
     {
+      "visible": true,
       "name": "DELLIOR TAPIO DAVARONI",
       "championships": "CH ČR",
       "clp": "5760",
@@ -70,6 +72,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "JUSTIN Z MEŠINSKÉ HÁJOVNY",
       "championships": "",
       "clp": "5802",
@@ -107,6 +110,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "ARNY Z NOVÉHO REMÍZU",
       "championships": "",
       "clp": "5857",
@@ -142,6 +146,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "FALCO Z LUHOVÉ SEČE",
       "championships": "",
       "clp": "5865",
@@ -177,6 +182,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "AL PRIMO LORIDAM LYMARKOS",
       "championships": "CH ČR, SK, JCH ČR",
       "clp": "6017",
@@ -212,6 +218,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "JETHRO MORRISON",
       "championships": "JCH ČR",
       "clp": "6058",
@@ -247,6 +254,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "ARGO Z VLČÍCH HOR",
       "championships": "",
       "clp": "6194",
@@ -282,6 +290,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "NOELL MORRISON",
       "championships": "CH SR, JCH ČR, SR",
       "clp": "6181",
@@ -317,6 +326,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "DARK REFLECTION SHADOW DOG ",
       "championships": "JCH ČR, SR",
       "clp": "6312",
@@ -352,6 +362,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "TRIN",
       "championships": "",
       "clp": "6299",
@@ -387,6 +398,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "ASLAN LIKE AN ANGEL ROYAL SETTER",
       "championships": "JCH CZ, SK, A",
       "clp": "6241",
@@ -422,6 +434,7 @@
       "img_ext": "jpg"
     },
     {
+      "visible": true,
       "name": "SAPPHIRE DAMA KRKONOŠE",
       "date_of_birth": "2012-06-25",
       "clp": "6011",
@@ -454,9 +467,8 @@
       },
       "other.other": ""
     },
-
-
     {
+      "visible": true,
       "name": "EDITIONS SECRET FOR DAVARONI",
       "date_of_birth": "2012-08-06",
       "clp": "6020",
@@ -487,6 +499,7 @@
       "other.other": "Uchovněna na výjimku - chudozubost\nImport USA"
     },
     {
+      "visible": true,
       "name": "JANIS JOPLIN MORRISON",
       "date_of_birth": "2013-04-20",
       "clp": "6062",
@@ -511,8 +524,8 @@
       },
       "phone": "776658147"
     },
-
     {
+      "visible": true,
       "name": "RIKY Z KRZÁKU",
       "date_of_birth": "2013-04-28",
       "clp": "6048",
@@ -541,6 +554,7 @@
       }
     },
     {
+      "visible": true,
       "name": "CRANBERRY DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
       "clp": "6077",
@@ -568,6 +582,7 @@
       }
     },
     {
+      "visible": true,
       "name": "CALLIOPPE DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
       "clp": "6076",
@@ -596,6 +611,7 @@
       "other": "Uchovněna na výjimku 1 vrhu – skus"
     },
     {
+      "visible": true,
       "name": "BASTA FIDLI BAMBOLA LYMARKOS",
       "date_of_birth": "2015-02-24",
       "clp": "6153",
@@ -625,6 +641,7 @@
       }
     },
     {
+      "visible": true,
       "name": "ESCA BRILLARE DAVARONI",
       "date_of_birth": "2015-09-09",
       "clp": "6213",
@@ -652,6 +669,7 @@
       }
     },
     {
+      "visible": true,
       "name": "CECILIA MISS OF SETTERCITY",
       "date_of_birth": "2017-02-07",
       "clp": "6300",
@@ -680,6 +698,36 @@
         "email": "sejvlova2004@seznam.cz"
       },
       "other.other": "Import Rakousko"
+    },
+    {
+      "visible": "true",
+      "name": "CRICKET JUMBO BEDNAR LYMARKOS",
+      "date_of_birth": "2017-06-05",
+      "clp": "6306",
+      "father": "Kadon Here’s Dunley Charismatic",
+      "mother": "Latin Lover Show On The Sahara",
+      "sex": "male",
+      "body": {
+        "height": "67",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "championships": "JCH CZ, CH CZ",
+      "shows": "BOB, CACIB, Res. CACIB, CACA, CWC, CAC, Res. CACA, Nejlepší pracovní pes výstavy",
+      "exams": "ZV - I.c",
+      "owner": {
+        "first_name": "Taťána",
+        "last_name": "Bednářová Wilczková",
+        "address": {
+          "street": "Jižní",
+          "number": "718",
+          "city": "Rychvald"
+        },
+        "phone": "724474360",
+        "email": "Tatana.bednarova@gmail.com"
+      }
     }
 
   ]
