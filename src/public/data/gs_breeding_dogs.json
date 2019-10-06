@@ -1,0 +1,59 @@
+{
+  "dogs": [
+    {
+      "visible": true,
+      "name": "IDOR Z ŽELEČKY",
+      "date_of_birth": "2008-05-24",
+      "clp": "6029",
+      "father": "Prim z Podmaršovic",
+      "mother": "Elza z Želečky",
+      "sex": "male",
+      "body": {
+        "height": "64",
+        "HD": "A/A"
+      },
+      "shows": "CAC, res.CACIB, Klubový vítěz",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "first_name": "Josef",
+        "last_name": "Machač",
+        "address": {
+          "street": "Trnov",
+          "number": "47",
+          "city": "Trnov",
+          "post_code": "51733"
+        },
+        "phone": "728207775"
+      }
+    },
+    {
+      "visible": true,
+      "name": "BRITT Z DVORKU ČAMOURKU",
+      "date_of_birth": "2019-06-14",
+      "clp": "6122",
+      "father": "Forester ́s Zampano of Darkmoor",
+      "mother": "Dyksi z Krátošických strání",
+      "sex": "male",
+      "body": {
+        "height": "68",
+        "HD": "A/B",
+        "other": "PRA rcd4 clear"
+      },
+      "championships": "Grand CH ČR, CH ČR, CH ČMKU, JCH ČR",
+      "shows": "CAJC, res.CAC, CAC NV, CACIB, BOB",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Radislav",
+        "last_name": "Nemet",
+        "address": {
+          "street": "Komenského",
+          "number": "33",
+          "city": "Šternberk",
+          "post_code": "78501"
+        },
+        "phone": "604714712"
+      }
+    }
+
+  ]
+}

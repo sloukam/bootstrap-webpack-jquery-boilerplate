@@ -69,9 +69,15 @@
                 <div class="col">{{body.color}}</div>
               </div>
               <div class="row">
-                <div class="col-4 item-label">HD / ED:</div>
-                <div class="col">{{body.HD}} / {{body.ED}}</div>
+                <div class="col-4 item-label">HD:</div>
+                <div class="col">{{body.HD}}</div>
               </div>
+              {{#body.ED}}
+              <div class="row">
+                <div class="col-4 item-label">ED:</div>
+                <div class="col">{{body.ED}}</div>
+              </div>
+              {{/body.ED}}
               {{#body.BAER}}
               <div class="row">
                 <div class="col-4 item-label">BAER:</div>
@@ -162,8 +168,8 @@
   </div>
   <div class="content">
     <div class="container">
-      <div id="asDogList">
-        here should be rendered list of as dogs via mustache.js
+      <div id="gsDogList">
+        here should be rendered list of gs dogs via mustache.js
       </div>
     </div>
   </div>

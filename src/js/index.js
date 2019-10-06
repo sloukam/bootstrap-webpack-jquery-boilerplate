@@ -25,7 +25,8 @@ $(document).ready(function() {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-  getAsDogs();
+  getDogs('as');
+  getDogs('gs');
   getNews();
 
   // $('#summernote').summernote();
@@ -59,14 +60,14 @@ $(window).resize(function() {
   // showAndHideDependingOnResolution();
 });
 
-function getAsDogs() {
-  $.getJSON('../public/data/as_breeding_dogs.json', function(data) {
+function getDogs(rasa) {
+  $.getJSON('../public/data/' + rasa + '_breeding_dogs.json', function(data) {
     console.log(screen.width);
     let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
       // var html = 'from js';
       var html = Mustache.to_html(template, data);
-      $('#dogList').html(html);
+      $('#' + rasa + 'DogList').html(html);
     }
     // showAndHideDependingOnResolution();
     $('.pop').on('click', function() {

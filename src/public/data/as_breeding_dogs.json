@@ -10,7 +10,7 @@
       "body": {
         "height": 64,
         "color": "orange belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal",
         "other": ""
@@ -45,7 +45,7 @@
       "body": {
         "height": "64",
         "color": "černobílý",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal",
         "other": ""
@@ -81,7 +81,7 @@
       "body": {
         "height": "64",
         "color": "tricolor",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "",
         "other": ""
@@ -155,7 +155,7 @@
       "body": {
         "height": "64",
         "color": "bíločerný",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "",
         "other": ""
@@ -191,7 +191,7 @@
       "body": {
         "height": "65",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "norm.",
         "other": ""
@@ -227,7 +227,7 @@
       "body": {
         "height": "64",
         "color": "oranžový bělouš",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "",
         "other": ""
@@ -263,7 +263,7 @@
       "body": {
         "height": "64",
         "color": "tricolor",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "norm.",
         "other": ""
@@ -335,7 +335,7 @@
       "body": {
         "height": "65",
         "color": "tricolor",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "",
         "other": ""
@@ -371,7 +371,7 @@
       "body": {
         "height": "62",
         "color": "tricolor",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "norm.",
         "other": ""
@@ -407,7 +407,7 @@
       "body": {
         "height": "67",
         "color": "orange belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "",
         "other": ""
@@ -444,7 +444,7 @@
       "body": {
         "height": "59",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "",
         "BAER": "",
         "other": ""
@@ -478,7 +478,7 @@
       "body": {
         "height": "62",
         "color": "tricolor",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal"
       },
@@ -509,7 +509,7 @@
       "body": {
         "height": "60",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A"
       },
       "championships": "CH ČR",
@@ -535,7 +535,7 @@
       "body": {
         "height": "60",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A"
       },
       "shows": "CAC, res. CACIB",
@@ -564,7 +564,7 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A"
+        "HD": "A/A"
       },
       "shows": "CAJC, res. CAC",
       "exams": "ZV – I.c.",
@@ -592,7 +592,7 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A"
+        "HD": "A/A"
       },
       "shows": "CAC",
       "exams": "ZV – I.c.",
@@ -621,7 +621,7 @@
       "body": {
         "height": "62",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal"
       },
@@ -651,7 +651,7 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal"
       },
@@ -679,7 +679,7 @@
       "body": {
         "height": "60",
         "color": "orange belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal"
       },
@@ -700,7 +700,7 @@
       "other.other": "Import Rakousko"
     },
     {
-      "visible": "true",
+      "visible": true,
       "name": "CRICKET JUMBO BEDNAR LYMARKOS",
       "date_of_birth": "2017-06-05",
       "clp": "6306",
@@ -710,7 +710,7 @@
       "body": {
         "height": "67",
         "color": "orange belton",
-        "HD": "A",
+        "HD": "A/A",
         "ED": "A",
         "BAER": "normal"
       },
@@ -730,7 +730,7 @@
       }
     },
     {
-      "visible": "true",
+      "visible": true,
       "name": "LOUISA MORRISON",
       "date_of_birth": "2014-10-14",
       "clp": "6128",
@@ -740,7 +740,7 @@
       "body": {
         "height": "61",
         "color": "orange belton",
-        "HD": "A"
+        "HD": "A/A"
       },
       "championships": "JCH ČR",
       "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
