@@ -468,7 +468,7 @@
       "other.other": ""
     },
     {
-      "visible": true,
+      "visible": false,
       "name": "EDITIONS SECRET FOR DAVARONI",
       "date_of_birth": "2012-08-06",
       "clp": "6020",
@@ -728,7 +728,37 @@
         "phone": "724474360",
         "email": "Tatana.bednarova@gmail.com"
       }
+    },
+    {
+      "visible": "true",
+      "name": "LOUISA MORRISON",
+      "date_of_birth": "2014-10-14",
+      "clp": "6128",
+      "father": "Raven White Magenta",
+      "mother": "Beretta Morrison",
+      "sex": "female",
+      "body": {
+        "height": "61",
+        "color": "orange belton",
+        "HD": "A"
+      },
+      "championships": "JCH ČR",
+      "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
+      "exams": "KZV – I.c.",
+      "owner": {
+        "owner.title": "Ing.",
+        "owner.first_name": "Renata",
+        "owner.last_name": "Krakovková",
+        "address": {
+          "street": "Okružní",
+          "number": "237",
+          "city": "Píšť"
+        },
+        "phone": "775193190",
+        "email": "r.krakovkova@seznam.cz"
+      }
     }
+
 
   ]
 }
