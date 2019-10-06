@@ -420,6 +420,72 @@
       },
       "other": "Uchovněn na výjimku - chybí 2x M3 viz. zápis z výboru 23.7.2017",
       "img_ext": "jpg"
+    },
+    {
+      "name": "SAPPHIRE DAMA KRKONOŠE",
+      "date_of_birth": "2012-06-25",
+      "clp": "6011",
+      "father": "Charming Vagabonds Azzuro-Blue",
+      "mother": "Ivonne Lady DAMA Krkonoše",
+      "sex": "female",
+      "body": {
+        "height": "59",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "",
+        "BAER": "",
+        "other": ""
+      },
+      "championships": "",
+      "shows": "CAJC, BOJ, CAC, res. CACIB, CACIB",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "title": "",
+        "first_name": "Darina",
+        "last_name": "Kocúrová",
+        "address": {
+          "street": "Levín",
+          "number": "13",
+          "city": "Chlumec nad Cidlinou",
+          "post_code": ""
+        },
+        "phone": "",
+        "email": "dkocurova@seznam.cz"
+      },
+      "other.other": ""
+    },
+
+
+    {
+      "name": "EDITIONS SECRET FOR DAVARONI",
+      "date_of_birth": "2012-08-06",
+      "clp": "6020",
+      "father": "Editions Kryptonite",
+      "mother": "Editions Good Morning America",
+      "sex": "female",
+      "body": {
+        "height": "62",
+        "color": "tricolor",
+        "HD": "A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "championships": "šampion práce ČR",
+      "shows": "CAJC, 2. Nejlepší mladá fena výstavy, VT, CAC, res. CACIB",
+      "exams": "MFT MSKAO - CACIT, CACT, 18 b., KZV MSKAO - I. cena, Vítěz zkoušek, CACT, MJL, MVV, Novomlýnské Derby, T.A.N.",
+      "owner": {
+        "owner.title": "Ing.",
+        "owner.first_name": "Lucie",
+        "owner.last_name": "Studýnková",
+        "address": {
+          "street": "Brambory",
+          "number": "9"
+        },
+        "phone": "737413598",
+        "email": "davaroni@davaroni.com"
+      },
+      "other.other": "Uchovněna na výjimku - chudozubost\nImport USA"
     }
+
   ]
 }

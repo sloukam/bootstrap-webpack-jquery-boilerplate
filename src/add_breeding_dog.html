@@ -22,6 +22,7 @@
           <form class="add-breeding-dog-form">
             <fieldset>
               <legend>základní informace</legend>
+
               <div class="row">
                 <div class="col-4 item-label" for="name">Jméno</div>
                 <input class="col" id="name" name="name" type="text">
@@ -123,16 +124,16 @@
               <legend>Majitel</legend>
 
               <div class="row">
-                <div class="col-4 item-label" for="title">titul</div>
-                <input class="col" id="title" name="title" type="text">
+                <div class="col-4 item-label" for="owner.title">titul</div>
+                <input class="col" id="owner.title" name="owner.title" type="text">
               </div>
               <div class="row">
-                <div class="col-4 item-label" for="first_name">jméno</div>
-                <input class="col" id="first_name" name="first_name" type="text">
+                <div class="col-4 item-label" for="owner.first_name">jméno</div>
+                <input class="col" id="owner.first_name" name="owner.first_name" type="text">
               </div>
               <div class="row">
-                <div class="col-4 item-label" for="last_name">příjmnení</div>
-                <input class="col" id="last_name" name="last_name" type="text">
+                <div class="col-4 item-label" for="owner.last_name">příjmnení</div>
+                <input class="col" id="owner.last_name" name="owner.last_name" type="text">
               </div>
 
               <fieldset>
@@ -164,13 +165,17 @@
                 <label class="col-4 item-label" for="email">email</label>
                 <input class="col" id="email" name="email" type="email">
               </div>
+              <div class="row">
+                <label class="col-4 item-label" for="web">web</label>
+                <input class="col" id="web" name="web" type="url">
+              </div>
             </fieldset>
             <fieldset>
               <legend>další informace</legend>
 
               <div class="row">
-                <label class="col-4 item-label" for="other">ostatní</label>
-                <textarea class="col" id="other" name="other" rows="3"></textarea>
+                <label class="col-4 item-label" for="other.other">ostatní</label>
+                <textarea class="col" id="other.other" name="other.other" rows="3"></textarea>
               </div>
             </fieldset>
 
@@ -183,6 +188,8 @@
             <pre class="results__display-wrapper"><code class="results__display">
             </code>
             </pre>
+          </div>
+          <div class="results2">
           </div>
         </div>
       </div>

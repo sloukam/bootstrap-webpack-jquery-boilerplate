@@ -310,8 +310,31 @@ const form = document.getElementsByClassName('add-breeding-dog-form')[0];
 form.addEventListener('submit', handleFormSubmit);
 
 
-
-
+//
+// $.fn.serializeObject = function() {
+//   var o = {};
+//   var a = this.serializeArray();
+//   $.each(a, function() {
+//     if (o[this.name] !== undefined) {
+//       if (!o[this.name].push) {
+//         o[this.name] = [o[this.name]];
+//       }
+//       o[this.name].push(this.value || '');
+//     } else {
+//       o[this.name] = this.value || '';
+//     }
+//   });
+//   return o;
+// };
+//
+// const form2 = document.getElementsByClassName('add-breeding-dog-form')[0];
+// // const form = document.getElementsByClassName('contact-form')[0];
+// form2.addEventListener('submit', (function(e) {
+//   e.preventDefault();
+//   $('.results2').text(JSON.stringify($('.add-breeding-dog-form').serializeObject()));
+//   return false;
+// }));
+//
 
 
 
