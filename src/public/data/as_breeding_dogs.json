@@ -485,7 +485,62 @@
         "email": "davaroni@davaroni.com"
       },
       "other.other": "Uchovněna na výjimku - chudozubost\nImport USA"
+    },
+    {
+      "name": "JANIS JOPLIN MORRISON",
+      "date_of_birth": "2013-04-20",
+      "clp": "6062",
+      "father": "Easter Morrison",
+      "mother": "Kety z Podřipské Břízy",
+      "sex": "female",
+      "body": {
+        "height": "60",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, CACIB, BOS, BOB",
+      "exams": "ZV – I.c., PZ – I.c., Klubové Derby MSKAO",
+      "owner":{
+        "first_name": "Růžena",
+        "owner.last_name": "Lepařová",
+        "street": "Pod Skalkou",
+        "number": "69/10",
+        "city": "Přerov"
+      },
+      "phone": "776658147"
+    },
+
+    {
+      "name": "RIKY Z KRZÁKU",
+      "date_of_birth": "2013-04-28",
+      "clp": "6048",
+      "father": "Easter Morrison",
+      "mother": "Kety z Podřipské Břízy",
+      "sex": "female",
+      "body": {
+        "height": "60",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "A"
+      },
+      "shows": "CAC, res. CACIB",
+      "exams": "ZV – I.c., SVP – I.c.",
+      "owner": {
+        "owner.title": "Mgr.",
+        "owner.first_name": "Hana Kneřová",
+        "owner.last_name": "Zbyněk Pochman",
+        "address": {
+          "street": "Řevničov",
+          "number": "464"
+        },
+        "phone": "725407708",
+        "email": "hana.knerova@centrum.cz",
+        "web": "https://www.zkrasnedoliny.cz"
+      }
     }
+
 
   ]
 }
