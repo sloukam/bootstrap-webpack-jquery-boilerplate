@@ -539,6 +539,33 @@
         "email": "hana.knerova@centrum.cz",
         "web": "https://www.zkrasnedoliny.cz"
       }
+    },
+    {
+      "name": "CRANBERRY DEA ARDUINNA",
+      "date_of_birth": "2013-08-31",
+      "clp": "6077",
+      "father": "Danger Shahrastani",
+      "mother": "Connemara’s Cheyenne",
+      "sex": "female",
+      "body": {
+        "height": "61",
+        "color": "blue belton",
+        "HD": "A"
+      },
+      "shows": "CAJC, res. CAC",
+      "exams": "ZV – I.c.",
+      "owner": {
+        "first_name": "Jana",
+        "last_name": "Zouharová",
+        "address": {
+          "street": "Lesní",
+          "number": "173",
+          "city": "Bučovice - Kloboučky"
+        },
+        "phone": "604797859",
+        "email": "molly88@seznam.cz",
+        "web": "http://www.deaarduinna.wbs.cz"
+      }
     }
 
 
