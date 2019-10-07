@@ -2,6 +2,7 @@ import 'bootstrap';
 import Mustache from 'mustache';
 import 'summernote';
 import 'trumbowyg';
+import 'lodash';
 
 import '../scss/index.scss';
 
@@ -13,12 +14,12 @@ $('#alert2').click(() => {
   $('#testContent2').load('test.html #template2');
 });
 
-$(document).ready(function() {
+$(document).ready(function () {
   console.log('document is ready...');
 });
 
 // Your jQuery code
-$(document).ready(function() {
+$(document).ready(function () {
   $('#menu').load('html_parts.html #mainNav');
   $('#news-container-sm').load('html_parts.html #news-content');
   $('#warns-container-sm').load('html_parts.html #warns-content');
@@ -40,7 +41,7 @@ $(document).ready(function() {
   $('#trumbowygDemo').trumbowyg();
 });
 
-$('#btn2').on('click', function() {
+$('#btn2').on('click', function () {
   alert($('#summernote').summernote('code'));
 });
 
@@ -56,12 +57,12 @@ function showAndHideDependingOnResolution() {
   }
 }
 
-$(window).resize(function() {
+$(window).resize(function () {
   // showAndHideDependingOnResolution();
 });
 
 function getDogs(rasa) {
-  $.getJSON('../public/data/' + rasa + '_breeding_dogs.json', function(data) {
+  $.getJSON('../public/data/' + rasa + '_breeding_dogs.json', function (data) {
     console.log(screen.width);
     let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
@@ -70,7 +71,7 @@ function getDogs(rasa) {
       $('#' + rasa + 'DogList').html(html);
     }
     // showAndHideDependingOnResolution();
-    $('.pop').on('click', function() {
+    $('.pop').on('click', function () {
       console.log('click...');
       $('.imagepreview').attr('src', $(this).find('img').attr('src'));
       $('#imagemodal').modal('show');
@@ -78,7 +79,7 @@ function getDogs(rasa) {
 
     var click = $('.dogCardDetailClick');
     // click.getId
-    click.on('click', function(event) {
+    click.on('click', function (event) {
       var id = $(event.target).attr('id');
 
       $('#dogDetail_' + id).slideToggle(250);
@@ -93,7 +94,7 @@ function getDogs(rasa) {
 }
 
 function getNews() {
-  $.getJSON('../public/data/news.json', function(data) {
+  $.getJSON('../public/data/news.json', function (data) {
     var template = $('#newsListTemplate').html();
     // var html = 'from js';
     if (template !== undefined) {
@@ -103,12 +104,12 @@ function getNews() {
   });
 }
 
-$('article').each(function() {
+$('article').each(function () {
   $(this)
     .find('p:not(:first)')
     .hide();
 });
-$('.more').on('click', function() {
+$('.more').on('click', function () {
   $(this)
     .hide()
     .closest('article')
@@ -133,47 +134,25 @@ function scrollToClass(clazz) {
   // alert(clazz);
   var aTag = $('.' + clazz);
   // var aTag = $('#' + aid);
-  $('.content').animate({ scrollTop: aTag.offset().top }, 'slow');
+  $('.content').animate({scrollTop: aTag.offset().top}, 'slow');
 }
 
 function scrollToContainer() {
   scrollToClass('container');
 }
 
-$('body').on('click', '.scrollTop', function() {
+$('body').on('click', '.scrollTop', function () {
   scrollToContainer();
 });
 
-$('#btnAAA').on('click', function() {
-  var data = { name: 'Jonathan (data 2)' };
+$('#btnAAA').on('click', function () {
+  var data = {name: 'Jonathan (data 2)'};
   var template = 'Hello {{ name }}';
 
   var text = Mustache.render(template, data);
 
   $('#mypanel').html(text);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /**
@@ -263,17 +242,19 @@ const formToJSON = elements => [].reduce.call(elements, (data, element) => {
   // Make sure the element has the required properties and should be added.
   if (isValidElement(element) && isValidValue(element)) {
 
+    let value;
     /*
      * Some fields allow for more than one value, so we need to check if this
      * is one of those fields and, if so, store the values as an array.
      */
     if (isCheckbox(element)) {
-      data[element.name] = (data[element.name] || []).concat(element.value);
+      value = (data[element.name] || []).concat(element.value);
     } else if (isMultiSelect(element)) {
-      data[element.name] = getSelectValues(element);
+      value = getSelectValues(element);
     } else {
-      data[element.name] = element.value;
+      value = element.value;
     }
+    _.set(data, element.name, value);
   }
 
   return data;
