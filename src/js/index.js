@@ -248,7 +248,9 @@ const formToJSON = elements => [].reduce.call(elements, (data, element) => {
      * is one of those fields and, if so, store the values as an array.
      */
     if (isCheckbox(element)) {
-      value = (data[element.name] || []).concat(element.value);
+      // value = (data[element.name] || []).concat(element.value);
+      console.log('checkbox value = ' + element.value);
+      value = element.checked;
     } else if (isMultiSelect(element)) {
       value = getSelectValues(element);
     } else {
