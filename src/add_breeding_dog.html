@@ -51,7 +51,7 @@
               <div class="row">
                 <div class="col-4 item-label" for="sex">Pes / fena</div>
                 <div class="col">
-                  <input id="sex_male" name="sex" type="radio" value="male">
+                  <input id="sex_male" name="sex" type="radio" value="male" checked>
                   <label for="sex_male">pes</label>
                   <br>
                   <input id="sex_female" name="sex" type="radio" value="female">
@@ -94,7 +94,7 @@
                 <div class="row">
                   <div class="col-4 item-label" for="body.BAER">BAER</div>
                   <div class="col">
-                    <input id="BAER_default" name="body.BAER" type="radio" value="">
+                    <input id="BAER_default" name="body.BAER" type="radio" value="" checked>
                     <label for="BAER_default">neni uvedeno</label>
                     <br>
                     <input id="BAER_normal" name="body.BAER" type="radio" value="normal">
@@ -102,8 +102,8 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="other">dodatečné informace</div>
-                  <input class="col" id="other" name="other" type="text">
+                  <div class="col-4 item-label" for="body.other">dodatečné informace</div>
+                  <input class="col" id="body.other" name="body.other" type="text">
                 </div>
               </div>
             </fieldset>
@@ -145,42 +145,42 @@
                 <legend>Adresa</legend>
 
                 <div class="row">
-                  <div class="col-4 item-label" for="street">ulice</div>
-                  <input class="col" id="street" name="street" type="text">
+                  <div class="col-4 item-label" for="owner.address.street">ulice</div>
+                  <input class="col" id="owner.address.street" name="owner.address.street" type="text">
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="number">číslo popisné</div>
-                  <input class="col" id="number" name="number" type="text">
+                  <div class="col-4 item-label" for="owner.address.number">číslo popisné</div>
+                  <input class="col" id="owner.address.number" name="owner.address.number" type="text">
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="city">město</div>
-                  <input class="col" id="city" name="city" type="text">
+                  <div class="col-4 item-label" for="owner.address.city">město</div>
+                  <input class="col" id="owner.address.city" name="owner.address.city" type="text">
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="post_code">PSČ</div>
-                  <input class="col" id="post_code" name="post_code" type="number">
+                  <div class="col-4 item-label" for="owner.address.post_code">PSČ</div>
+                  <input class="col" id="owner.address.post_code" name="owner.address.post_code" type="number">
                 </div>
               </fieldset>
 
               <div class="row">
-                <div class="col-4 item-label" for="phone">telefon</div>
-                <input class="col" id="phone" name="phone" type="tel">
+                <div class="col-4 item-label" for="owner.phone">telefon</div>
+                <input class="col" id="owner.phone" name="owner.phone" type="tel">
               </div>
               <div class="row">
-                <label class="col-4 item-label" for="email">email</label>
-                <input class="col" id="email" name="email" type="email">
+                <label class="col-4 item-label" for="owner.email">email</label>
+                <input class="col" id="owner.email" name="owner.email" type="email">
               </div>
               <div class="row">
-                <label class="col-4 item-label" for="web">web</label>
-                <input class="col" id="web" name="web" type="url">
+                <label class="col-4 item-label" for="owner.web">web</label>
+                <input class="col" id="owner.web" name="owner.web" type="url">
               </div>
             </fieldset>
             <fieldset>
               <legend>další informace</legend>
 
               <div class="row">
-                <label class="col-4 item-label" for="other.other">ostatní</label>
-                <textarea class="col" id="other.other" name="other.other" rows="3"></textarea>
+                <label class="col-4 item-label" for="other">ostatní</label>
+                <textarea class="col" id="other" name="other" rows="3"></textarea>
               </div>
             </fieldset>
 

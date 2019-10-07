@@ -210,7 +210,36 @@
       "post_code": "500606",
       "phone": "774139545",
       "email": "Ita.Kadet@seznam.cz"
+    },
+    {
+      "visible": true,
+      "name": "CELTIC CHIVAS KOCHANEJ EMILKI",
+      "date_of_birth": "2013-12-04",
+      "clp": "6529",
+      "father": "Fairray Black To The Future",
+      "mother": "Rosalie Von Der Wilden Horde",
+      "sex": "male",
+      "body": {
+        "height": "68",
+        "HD": "A/A",
+        "ED": "A",
+        "other": "PRA rcd4 clear"
+      },
+      "championships": "JCH ČR, CH ČR, GRAND CH ČR",
+      "shows": "CAC,CAJC, res.CACIB, CACIB",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Stanislav",
+        "last_name": "Vít",
+        "address": {
+          "street": "Slaádkova",
+          "number": "662",
+          "city": "Česká Kamenice",
+          "post_code": "40721"
+        },
+        "phone": "603833655",
+        "email": "standa.vit@gmail.com"
+      }
     }
-
   ]
 }
