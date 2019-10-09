@@ -240,6 +240,88 @@
         "phone": "603833655",
         "email": "standa.vit@gmail.com"
       }
+    },
+    {
+      "visible": true,
+      "name": "BRIX Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2013-11-09",
+      "clp": "6484",
+      "father": "Glen z Želečky",
+      "mother": "Zira z Holubické stráně",
+      "sex": "male",
+      "body": {
+        "height": "71",
+        "HD": "A/A",
+        "other": "PRA rcd4 clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAC, NV, BOB",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Spurný",
+        "address": {
+          "street": "Bolhuslavice",
+          "number": "8",
+          "city": "Bolhuslavice",
+          "post_code": "79856"
+        },
+        "phone": "774547816"
+      }
+    },
+    {
+      "visible": true,
+      "name": "SCOT Z SCOTCH DAMA KRKONOŠE",
+      "date_of_birth": "2014-05-09",
+      "clp": "6525",
+      "father": "Zir z Holubické stráně",
+      "mother": "Sarmando Dream Erica",
+      "sex": "male",
+      "body": {
+        "height": "67",
+        "HD": "A/C"
+      },
+      "shows": "CAJC, BOJ",
+      "exams": "CAJC, BOJ",
+      "owner": {
+        "first_name": "Darina",
+        "last_name": "Kocúrová`",
+        "address": {
+          "street": "Horka",
+          "number": "88",
+          "city": "Kounice",
+          "post_code": "28915"
+        },
+        "phone": "774305702",
+        "email": "dkocurova@seznam.cz"
+      }
+    },
+    {
+      "visible": true,
+      "name": "GORDON ROBIN HOOD ÁRES ŠAMARKAN",
+      "date_of_birth": "2015-12-31",
+      "clp": "6625",
+      "father": "Liric Jupiter Ludstar",
+      "mother": "Cassiopea Cabbi Ares Šamarkan",
+      "sex": "male",
+      "body": {
+        "height": "65",
+        "HD": "A/A"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Sylva",
+        "last_name": "Sošková",
+        "address": {
+          "street": "Bruzovice",
+          "number": "62",
+          "city": "Sedliště",
+          "post_code": "73936"
+        },
+        "phone": "737248182",
+        "email": "soskova@centrum.cz"
+      }
     }
   ]
 }
