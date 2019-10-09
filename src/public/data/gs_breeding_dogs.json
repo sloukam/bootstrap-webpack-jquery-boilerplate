@@ -380,6 +380,59 @@
         },
         "phone": "728226275"
       }
+    },
+    {
+      "visible": true,
+      "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
+      "date_of_birth": "2016-09-28",
+      "clp": "6716",
+      "father": "Sunsetter ́s Sing O The Times",
+      "mother": "Celtic Carpediem Samarkan Kochanej Emilki",
+      "sex": "male",
+      "body": {
+        "height": "65",
+        "HD": "A/A",
+        "other": "PRA (rcd4) clear"
+      },
+      "championships": "JCH ČR, CH ČR, CH SK",
+      "shows": "CAJC, CAC, BOJ, BIS, BOB",
+      "exams": "ZV I.c ., TAN, VP I.c., PZ I.c., MJL, NFT derby VD 13b.",
+      "owner": {
+        "first_name": "Klára",
+        "last_name": "Radič",
+        "address": {
+          "street": "Přemyslovice",
+          "number": "480",
+          "post_code": "79851"
+        },
+        "phone": "733620797",
+        "email": "k.dadakova@email.cz"
+      }
+    },
+    {
+      "visible": true,
+      "name": "AIKEN LEANNAN SANTINI ́S LEGACY",
+      "date_of_birth": "2017-04-18",
+      "clp": "6746",
+      "father": "Flynnrock ́s Flynn",
+      "mother": "Al Berta Scotch do pole",
+      "sex": "male",
+      "body": {
+        "height": "63",
+        "HD": "A/A"
+      },
+      "shows": "CAJC, CAC, BOJ, BIS, BOB",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Radka",
+        "last_name": "Macková",
+        "address": {
+          "street": "Vatín",
+          "number": "1",
+          "post_code": "59101"
+        },
+        "email": "mackova.r@email.cz"
+      }
     }
   ]
 }
