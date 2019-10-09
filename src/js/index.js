@@ -41,8 +41,8 @@ $(document).ready(function () {
   $('#trumbowygDemo').trumbowyg();
 });
 
-$('#btn2').on('click', function () {
-  alert($('#summernote').summernote('code'));
+$('#copyToClippboardBtn').on('click', function () {
+  copyToClipboard('results__display');
 });
 
 function showAndHideDependingOnResolution() {
@@ -321,4 +321,18 @@ form.addEventListener('submit', handleFormSubmit);
 //
 
 
+function copyToClipboard(elementId) {
+  /* Get the text field */
+  var copyText = $('.' + elementId);
+  // var copyText = $('.' + elementId).text();
 
+  // /* Select the text field */
+  copyText.select();
+  // copyText.setSelectionRange(0, 99999); /*For mobile devices*/
+  //
+  // /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  // /* Alert the copied text */
+  // alert("Copied the text: " + copyText);
+}

@@ -322,6 +322,64 @@
         "phone": "737248182",
         "email": "soskova@centrum.cz"
       }
+    },
+    {
+      "visible": true,
+      "name": "CEDRIC Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2015-07-03",
+      "clp": "6603",
+      "father": "Lamborghini Black Ivy",
+      "mother": "Zira z Holubické stráně",
+      "sex": "male",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "other": "PRA (rcd4) clear"
+      },
+      "championships": "JCH ČR, CH ČR, CH CRO, CH SK, CH ČMKU",
+      "shows": "CAJC, BOJ,CAC,NV, BIS prac.pes MSKAO, KV MSKAO 2017, CACIB, BOS, BOB",
+      "exams": "ZV I.c ",
+      "owner": {
+        "first_name": "Jakub",
+        "last_name": "Doležal",
+        "address": {
+          "street": "Malotickí",
+          "number": "1646",
+          "city": "Újedz nad Lesy",
+          "post_code": "19016"
+        },
+        "phone": "602323676",
+        "email": "dolezal@nikwax.cz"
+      }
+    },
+    {
+      "visible": true,
+      "name": "BRODEY PEARL MORAVIA",
+      "date_of_birth": "2016-02-09",
+      "clp": "6646",
+      "father": "Zir z Holubické stráně",
+      "mother": "Ashley Princess Pearl Moravia",
+      "sex": "male",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "other": "PRA (rcd4) clear"
+      },
+      "championships": "JCH ČR, CH ČR, Grand CH ČR",
+      "shows": "CAJC, CAC, res.CACIB, CACIB, BOB, BIG V.",
+      "exams": "ZV I.c .",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Aneta",
+        "last_name": "Línková",
+        "address": {
+          "street": "Kovářov",
+          "number": "53",
+          "city": "Bojanov",
+          "post_code": "53807"
+        },
+        "phone": "728226275"
+      }
     }
   ]
 }
