@@ -26,8 +26,14 @@ $(document).ready(function () {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-  getDogs('as');
-  getDogs('gs');
+  // getDogs('as');
+  // getDogs('gs');
+
+  var breed = GetURLParameter('rasa');
+  if (breed !== undefined) {
+    console.log('breed = ' + breed);
+    getDogs(breed);
+  }
   getNews();
 
   // $('#summernote').summernote();
@@ -45,6 +51,20 @@ $('#copyToClippboardBtn').on('click', function () {
   copyToClipboard('results__display');
 });
 
+function addOnClickEvents() {
+  var clickLinkElement = $('.dogCardDetailClick');
+  clickLinkElement.on('click', function (event) {
+    var id = $(event.target).attr('id');
+
+    $('#dogDetail_' + id).toggle(250);
+    //
+    // var closest = click.closest('.dogCard').first();
+    // closest.css('background-color', 'red');
+    // console.log('closest');
+    // console.log(closest);
+  });
+}
+
 function showAndHideDependingOnResolution() {
   if (screen.width > 600) {
     console.log('show DESKTOP type of dog cards....');
@@ -61,14 +81,16 @@ $(window).resize(function () {
   // showAndHideDependingOnResolution();
 });
 
-function getDogs(rasa) {
-  $.getJSON('../public/data/' + rasa + '_breeding_dogs.json', function (data) {
-    console.log(screen.width);
+function getDogs(breed) {
+  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function (data) {
+    console.log('screen.width = ' + screen.width);
     let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
       // var html = 'from js';
       var html = Mustache.to_html(template, data);
-      $('#' + rasa + 'DogList').html(html);
+      $('#dogList').html(html);
+    } else {
+      console.log('there is something totally wrong 1');
     }
     // showAndHideDependingOnResolution();
     $('.pop').on('click', function () {
@@ -76,20 +98,7 @@ function getDogs(rasa) {
       $('.imagepreview').attr('src', $(this).find('img').attr('src'));
       $('#imagemodal').modal('show');
     });
-
-    var click = $('.dogCardDetailClick');
-    // click.getId
-    click.on('click', function (event) {
-      var id = $(event.target).attr('id');
-
-      $('#dogDetail_' + id).slideToggle(250);
-      //
-      // var closest = click.closest('.dogCard').first();
-      // closest.css('background-color', 'red');
-      // console.log('closest');
-      // console.log(closest);
-    });
-
+    addOnClickEvents();
   });
 }
 
@@ -290,8 +299,9 @@ const handleFormSubmit = event => {
  * `submit` event.
  */
 const form = document.getElementsByClassName('add-breeding-dog-form')[0];
-// const form = document.getElementsByClassName('contact-form')[0];
-form.addEventListener('submit', handleFormSubmit);
+if (form !== undefined) {
+  form.addEventListener('submit', handleFormSubmit);
+}
 
 
 //
@@ -335,4 +345,15 @@ function copyToClipboard(elementId) {
 
   // /* Alert the copied text */
   // alert("Copied the text: " + copyText);
+}
+
+function GetURLParameter(sParam) {
+  var sPageURL = window.location.search.substring(1);
+  var sURLVariables = sPageURL.split('&');
+  for (var i = 0; i < sURLVariables.length; i++) {
+    var sParameterName = sURLVariables[i].split('=');
+    if (sParameterName[0] === sParam) {
+      return sParameterName[1];
+    }
+  }
 }
