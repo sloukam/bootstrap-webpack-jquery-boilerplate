@@ -224,3 +224,34 @@ $dogNameFontSize: $font-size-base * 1.5;
 
 // Add SASS theme customizations here..
 @import './carousel.css';
+
+
+
+#summary {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+#summary p.collapse:not(.show) {
+  //height: 42px !important;
+  height: 6em !important;
+  overflow: hidden;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#summary p.collapsing {
+  //min-height: 42px !important;
+  min-height: 6em !important;
+}
+
+#summary a.collapsed:after  {
+  content: '+ více';
+}
+
+#summary a:not(.collapsed):after {
+  content: '- méně';
+}
+

@@ -25,6 +25,7 @@
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
     "popper.js": "^1.15.0",
+    "readmore-js": "^2.2.1",
     "summernote": "^0.8.12",
     "trumbowyg": "^2.19.1"
   },
