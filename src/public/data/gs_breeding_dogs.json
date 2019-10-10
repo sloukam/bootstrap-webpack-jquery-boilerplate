@@ -65,17 +65,23 @@
       "father": "Glen z Želečky",
       "mother": "Bumble-Bee Áres Šamarkan",
       "sex": "male",
-      "body.height": "67",
-      "body.HD": "B/B",
+      "body": {
+        "height": "67",
+        "HD": "B/B"
+      },
       "championships": "CH ČR",
       "shows": "CAC, CACIB, BOB, Vítěz spec.výst",
       "exams": "ZV – I.c., PZ – III.c",
-      "owner.first_name": "Zdeněk",
-      "owner.last_name": "Spurný",
-      "street": "Buhuslavice",
-      "number": "8",
-      "post_code": "79856",
-      "phone": "774547816"
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Spurný",
+        "address": {
+          "street": "Buhuslavice",
+          "number": "8",
+          "post_code": "79856"
+        },
+        "phone": "774547816"
+      }
     },
     {
       "visible": true,
@@ -86,21 +92,27 @@
       "father": "Sangerfild Earldom",
       "mother": "Quina z Holubické stráně",
       "sex": "male",
-      "body.height": "66",
-      "body.HD": "A/A",
-      "body.ED": "A",
-      "other": "PRA rcd4 clear",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "ED": "A",
+        "other": "PRA rcd4 clear"
+      },
       "championships": "Šampion práce, C.I.B., C.I.E.Grand CH SK, Grand CH ČR, CH ČR, CH SK, CH HU, CH PL, JCH ČR, JCH SK",
       "shows": "CAJC, BOJ, CAC, CWC, CACA, CACIB, NV, BOB, III.BIG, JBIS, BOD, BIS, BIS pracovní",
       "exams": "ZV – I.c. CACT, PZ I.c., mem.M.Němce CACT, mem.J.LAmmera I.c, mem.J.Daňka I.c CACT, VZ I.c.,KVZ CACT",
-      "owner.first_name": "Olga",
-      "owner.last_name": "Vránová",
-      "street": "Nížkovice",
-      "number": "261",
-      "city": "Nížkovice",
-      "post_code": "68401",
-      "email": "fiorchara@seznam.cz",
-      "web": "http://www.fiorchara.cz"
+      "owner": {
+        "first_name": "Olga",
+        "last_name": "Vránová",
+        "address": {
+          "street": "Nížkovice",
+          "number": "261",
+          "city": "Nížkovice",
+          "post_code": "68401"
+        },
+        "email": "fiorchara@seznam.cz",
+        "web": "http://www.fiorchara.cz"
+      }
     },
     {
       "visible": true,
@@ -111,20 +123,26 @@
       "father": "Britt z Dvorku Čamourku",
       "mother": "Happy z Želečky",
       "sex": "male",
-      "body.height": "67",
-      "body.HD": "A/B",
-      "other": "PRA rcd4 clear",
+      "body": {
+        "height": "67",
+        "HD": "A/B",
+        "other": "PRA rcd4 clear"
+      },
       "shows": "CAC, CAJC, BIG V.",
       "exams": "ZV – I.c.",
-      "owner.first_name": "Radislav a Jitka",
-      "owner.last_name": "Nemetovi",
-      "street": "Komenského",
-      "number": "33",
-      "city": "Šternberk",
-      "post_code": "78501",
-      "phone": "604714712",
-      "email": "nemet.radek@tiscali.cz",
-      "web": "http://www.britt- dvorekcamourek.freepage.cz"
+      "owner": {
+        "first_name": "Radislav a Jitka",
+        "owner.last_name": "Nemetovi",
+        "address": {
+          "street": "Komenského",
+          "number": "33",
+          "city": "Šternberk",
+          "post_code": "78501"
+        },
+        "phone": "604714712",
+        "email": "nemet.radek@tiscali.cz",
+        "web": "http://www.britt- dvorekcamourek.freepage.cz"
+      }
     },
     {
       "visible": true,
@@ -135,20 +153,26 @@
       "father": "Sundower ́s Amaretto-Kiss",
       "mother": "Xsara z Holubické stráně",
       "sex": "male",
-      "body.height": "66",
-      "body.HD": "A/A",
-      "body.ED": "A",
-      "other": "PRA rcd4 clear",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "ED": "A",
+        "other": "PRA rcd4 clear"
+      },
       "shows": "CAC, CAJC, res.CACIB",
       "exams": "ZV – I.c.",
-      "owner.first_name": "Zuzana",
-      "owner.last_name": "Nedavašková",
-      "street": "V Důlkách",
-      "number": "480/2",
-      "city": "Ostrava-Nová Bělá",
-      "post_code": "72400",
-      "phone": "605917503",
-      "web": "http://www.manonlescaut.net"
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Nedavašková",
+        "address": {
+          "street": "V Důlkách",
+          "number": "480/2",
+          "city": "Ostrava-Nová Bělá",
+          "post_code": "72400"
+        },
+        "phone": "605917503",
+        "web": "http://www.manonlescaut.net"
+      }
     },
     {
       "visible": true,
@@ -159,18 +183,24 @@
       "father": "Laurelhach Moviestrar",
       "mother": "Sundowner ́s Cuba-Libre",
       "sex": "male",
-      "body.height": "64",
-      "body.HD": "A/A",
+      "body": {
+        "height": "64",
+        "HD": "A/A"
+      },
       "shows": " res.CACIB, CAC, CAJC",
       "exams": "ZV I.c.",
-      "owner.first_name": "Zuzana",
-      "owner.last_name": "Bártová",
-      "street": "Nádražní",
-      "number": "49",
-      "city": "Štranberk",
-      "post_code": "74266",
-      "phone": "603556750",
-      "email": "sorculi@seznam.cz"
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Bártová",
+        "address": {
+          "street": "Nádražní",
+          "number": "49",
+          "city": "Štranberk",
+          "post_code": "74266"
+        },
+        "phone": "603556750",
+        "email": "sorculi@seznam.cz"
+      }
     },
     {
       "visible": true,
@@ -181,20 +211,26 @@
       "father": "Misty Lake ́s Never ay Never",
       "mother": "Maria Matilda Scotch DAMA Krkonoše",
       "sex": "male",
-      "body.height": "66",
-      "body.HD": "A/A",
-      "body.ED": "A",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "ED": "A"
+      },
       "championships": "JCH ČR, JCH SK, JCH PL, CH ČR, CH SK",
       "shows": "CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, III.BIG, BOD",
       "exams": "ZV I.c CACT, PZ I.c CACT,VP I.c, LZ I.c, VZ I.c., FT",
-      "owner.first_name": "Lubomír a Alena",
-      "owner.last_name": "Fialovi",
-      "street": "Pančava",
-      "number": "462",
-      "city": "Otnice",
-      "post_code": "68354",
-      "phone": "734131560",
-      "email": "fiala49@centrum.cz"
+      "owner": {
+        "first_name": "Lubomír a Alena",
+        "last_name": "Fialovi",
+        "address": {
+          "street": "Pančava",
+          "number": "462",
+          "city": "Otnice",
+          "post_code": "68354"
+        },
+        "phone": "734131560",
+        "email": "fiala49@centrum.cz"
+      }
     },
     {
       "visible": true,
@@ -205,20 +241,26 @@
       "father": "Hemingway Beauty of Gordon",
       "mother": "Quina z Holubické stráně",
       "sex": "male",
-      "body.height": "66",
-      "body.HD": "A/A",
-      "other": "PRA rcd4 clear",
+      "body": {
+        "height": "66",
+        "HD": "A/A",
+        "other": "PRA rcd4 clear"
+      },
       "shows": "výborná",
       "exams": "ZV I.c .",
-      "owner.title": "Bc.",
-      "owner.first_name": "Iveta",
-      "owner.last_name": "Kadeřávková",
-      "street": "Pod zámečkem",
-      "number": "1055",
-      "city": "Hradec Králové",
-      "post_code": "500606",
-      "phone": "774139545",
-      "email": "Ita.Kadet@seznam.cz"
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Iveta",
+        "last_name": "Kadeřávková",
+        "address": {
+          "street": "Pod zámečkem",
+          "number": "1055",
+          "city": "Hradec Králové",
+          "post_code": "500606"
+        },
+        "phone": "774139545",
+        "email": "Ita.Kadet@seznam.cz"
+      }
     },
     {
       "visible": true,
@@ -261,6 +303,7 @@
       "mother": "Zira z Holubické stráně",
       "sex": "male",
       "body": {
+        "height": "71",
         "height": "71",
         "HD": "A/A",
         "other": "PRA rcd4 clear"

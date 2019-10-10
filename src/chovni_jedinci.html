@@ -64,14 +64,24 @@
                 <div class="col-4 item-label">výška</div>
                 <div class="col">{{body.height}}</div>
               </div>
+              {{#body.color}}
               <div class="row">
                 <div class="col-4 item-label">barva:</div>
                 <div class="col">{{body.color}}</div>
               </div>
+              {{/body.color}}
+              {{#body.HD}}
               <div class="row">
-                <div class="col-4 item-label">HD / ED:</div>
-                <div class="col">{{body.HD}} / {{body.ED}}</div>
+                <div class="col-4 item-label">HD:</div>
+                <div class="col">{{body.HD}}</div>
               </div>
+              {{/body.HD}}
+              {{#body.ED}}
+              <div class="row">
+                <div class="col-4 item-label">ED:</div>
+                <div class="col">{{body.ED}}</div>
+              </div>
+              {{/body.ED}}
               {{#body.BAER}}
               <div class="row">
                 <div class="col-4 item-label">BAER:</div>
