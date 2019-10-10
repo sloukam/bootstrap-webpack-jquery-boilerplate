@@ -3,7 +3,6 @@ import Mustache from 'mustache';
 import 'summernote';
 import 'trumbowyg';
 import 'lodash';
-import 'readmore-js';
 
 import '../scss/index.scss';
 
@@ -46,8 +45,6 @@ $(document).ready(function () {
   });
 
   $('#trumbowygDemo').trumbowyg();
-  $('.readmoreArticle').readmore();
-
 });
 
 $('#copyToClippboardBtn').on('click', function () {
