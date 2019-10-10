@@ -448,6 +448,37 @@
     {
       "visible": true,
       "breed": "as",
+      "name": "CRICKET JUMBO BEDNAR LYMARKOS",
+      "date_of_birth": "2017-06-05",
+      "clp": "6306",
+      "father": "Kadon Here’s Dunley Charismatic",
+      "mother": "Latin Lover Show On The Sahara",
+      "sex": "male",
+      "body": {
+        "height": "67",
+        "color": "orange belton",
+        "HD": "A/A",
+        "ED": "A",
+        "BAER": "normal"
+      },
+      "championships": "JCH CZ, CH CZ",
+      "shows": "BOB, CACIB, Res. CACIB, CACA, CWC, CAC, Res. CACA, Nejlepší pracovní pes výstavy",
+      "exams": "ZV - I.c",
+      "owner": {
+        "first_name": "Taťána",
+        "last_name": "Bednářová Wilczková",
+        "address": {
+          "street": "Jižní",
+          "number": "718",
+          "city": "Rychvald"
+        },
+        "phone": "724474360",
+        "email": "Tatana.bednarova@gmail.com"
+      }
+    },
+    {
+      "visible": true,
+      "breed": "as",
       "name": "SAPPHIRE DAMA KRKONOŠE",
       "date_of_birth": "2012-06-25",
       "clp": "6011",
@@ -719,37 +750,6 @@
         "email": "sejvlova2004@seznam.cz"
       },
       "other.other": "Import Rakousko"
-    },
-    {
-      "visible": true,
-      "breed": "as",
-      "name": "CRICKET JUMBO BEDNAR LYMARKOS",
-      "date_of_birth": "2017-06-05",
-      "clp": "6306",
-      "father": "Kadon Here’s Dunley Charismatic",
-      "mother": "Latin Lover Show On The Sahara",
-      "sex": "male",
-      "body": {
-        "height": "67",
-        "color": "orange belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
-      },
-      "championships": "JCH CZ, CH CZ",
-      "shows": "BOB, CACIB, Res. CACIB, CACA, CWC, CAC, Res. CACA, Nejlepší pracovní pes výstavy",
-      "exams": "ZV - I.c",
-      "owner": {
-        "first_name": "Taťána",
-        "last_name": "Bednářová Wilczková",
-        "address": {
-          "street": "Jižní",
-          "number": "718",
-          "city": "Rychvald"
-        },
-        "phone": "724474360",
-        "email": "Tatana.bednarova@gmail.com"
-      }
     },
     {
       "visible": true,
