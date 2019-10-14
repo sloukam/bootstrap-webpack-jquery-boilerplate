@@ -28,7 +28,7 @@
                 <div class="col">
                   <div class="row">
                     <div class="col">
-                      <input id="as" name="breed" type="radio" value="as">
+                      <input id="as" name="breed" type="radio" value="as" required="required">
                       <label for="as">AS</label>
                     </div>
                     <div class="col">
@@ -53,11 +53,11 @@
               <div class="row">
                 <input type="checkbox" id="visible" name="visible" checked="checked" hidden="hidden">
                 <div class="col-4 item-label" for="name">Jméno</div>
-                <input class="col" id="name" name="name" type="text">
+                <input class="col" id="name" name="name" type="text" required="required">
               </div>
               <div class="row">
                 <div class="col-4 item-label" for="date_of_birth">Datum narození</div>
-                <input class="col" id="date_of_birth" name="date_of_birth" type="date">
+                <input class="col" id="date_of_birth" name="date_of_birth" type="date" required="required">
               </div>
               <div class="row">
                 <div class="col-4 item-label" for="clp">ČLP</div>
@@ -65,11 +65,11 @@
               </div>
               <div class="row">
                 <div class="col-4 item-label" for="father">otec</div>
-                <input class="col" id="father" name="father" type="text">
+                <input class="col" id="father" name="father" type="text" required="required">
               </div>
               <div class="row">
                 <div class="col-4 item-label" for="mother">matka</div>
-                <input class="col" id="mother" name="mother" type="text">
+                <input class="col" id="mother" name="mother" type="text" required="required">
               </div>
             </fieldset>
 
@@ -78,17 +78,22 @@
               <div class="row">
                 <div class="col-4 item-label" for="sex">Pes / fena</div>
                 <div class="col">
-                  <input id="sex_male" name="sex" type="radio" value="male" checked>
-                  <label for="sex_male">pes</label>
-                  <br>
-                  <input id="sex_female" name="sex" type="radio" value="female">
-                  <label for="sex_female">fena</label>
+                  <div class="row">
+                    <div class="col">
+                      <input id="sex_male" name="sex" type="radio" value="male" required="required" checked="checked">
+                      <label for="sex_male">pes</label>
+                    </div>
+                    <div class="col">
+                      <input id="sex_female" name="sex" type="radio" value="female">
+                      <label for="sex_female">fena</label>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.height">výška</div>
-                  <input class="col" id="body.height" name="body.height" type="number">
+                  <input class="col" id="body.height" name="body.height" type="number" required="required">
                 </div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.color">barva</div>
@@ -119,17 +124,19 @@
                   </select>
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="body.BAER">BAER</div>
+                  <div class="col-4 item-label" for="body.BAER">BAER normal:</div>
                   <div class="col">
-                    <input id="BAER_default" name="body.BAER" type="radio" value="" checked>
-                    <label for="BAER_default">neni uvedeno</label>
-                    <br>
-                    <input id="BAER_normal" name="body.BAER" type="radio" value="normal">
-                    <label for="BAER_normal">normal</label>
+                    <input id="BAER_normal" name="body.BAER" type="checkbox" value="normal">
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="body.other">dodatečné informace</div>
+                  <div class="col-4 item-label" for="body.rcd4">PRA rcd4 clear</div>
+                  <div class="col">
+                    <input id="body.rcd4" name="body.rcd4" type="checkbox">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="body.other">dodatečn zdr. inf.</div>
                   <input class="col" id="body.other" name="body.other" type="text">
                 </div>
               </div>
@@ -144,11 +151,11 @@
 
               <div class="row">
                 <div class="col-4 item-label" for="shows">výstavy</div>
-                <textarea class="col" id="shows" name="shows" rows="3" type="text"></textarea>
+                <textarea class="col" id="shows" name="shows" rows="3" type="text" required="required"></textarea>
               </div>
               <div class="row">
                 <div class="col-4 item-label" for="exams">prac. zkoušky</div>
-                <textarea class="col" id="exams" name="exams" rows="3" type="text"></textarea>
+                <textarea class="col" id="exams" name="exams" rows="3" type="text" required="required"></textarea>
               </div>
             </fieldset>
 
