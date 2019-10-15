@@ -11,10 +11,24 @@
   <script id="articlePreviewTemplate" type="text/template">
 
     <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2>{{title}}</h2>
-        <p>odstavec.... {{paragraphs.0}}</p>
-      </div>
+      {{#img}}
+        <div class="col-md-7 order-md-2">
+      {{/img}}
+      {{^img}}
+        <div class="col">
+      {{/img}}
+          <h2>{{title}}</h2>
+          <p>odstavec.... {{paragraphs.0}}</p>
+          <a href="article.html?articleid=1" class="btn btn-sm btn-outline-secondary">vice zde</a>
+        </div>
+      {{#img}}
+        <div class="col-md-5 order-md-1">
+          <img
+            class="featurette-image img-fluid mx-auto"
+            src="./public/images/zakupy_2019_vysledky_as_gord.png"
+            alt="Generic placeholder image"/>
+        </div>
+      {{/img}}
     </div>
 
   </script>

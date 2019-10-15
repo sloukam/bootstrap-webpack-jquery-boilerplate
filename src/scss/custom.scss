@@ -252,3 +252,8 @@ $dogNameFontSize: $font-size-base * 1.5;
 #summary a:not(.collapsed):after {
   content: '- Read Less';
 }
+
+.articleImg {
+  max-width: 35%;
+  margin: 5px 20px;
+}
