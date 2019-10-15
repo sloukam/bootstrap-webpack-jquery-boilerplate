@@ -7,6 +7,19 @@
   <meta name="author" content=""/>
 
   <title id="pageTitle">www.mskao.cz</title>
+
+  <script id="articlePreviewTemplate" type="text/template">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2>{{title}}</h2>
+        <p>odstavec.... {{paragraphs.0}}</p>
+      </div>
+    </div>
+
+  </script>
+
+
 </head>
 
 <body>
@@ -115,6 +128,19 @@
           <div class="row main-content">
             <div class="col-12 col-lg-9">
               <div class="container marketing">
+                <div id="articlePreviewContainer">
+                  here will be previe of all articles rendered via Mustache.js
+                </div>
+              </div>
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+
+
+<!--        <div class="container">-->
+<!--          <div class="row main-content">-->
+<!--            <div class="col-12 col-lg-9">-->
+              <div class="container marketing">
                 <div class="row featurette">
                   <div class="col-md-7 order-md-2 articleContainer">
                     <span class="shownText">
@@ -203,8 +229,8 @@
                       Day handsome addition horrible sensible goodness two contempt. Evening for married his account removal. Estimable me disposing of be moonlight cordially curiosity. Delay rapid joy share allow age manor six. Went why far saw many knew. Exquisite excellent son gentleman acuteness her. Do is voice total power mr ye might round still.
                       </p>
                     </span>
-                    <a class="expandContent">... více ...</a>
-                    <a class="shortenContent hidden">... méně ...</a>
+                    <a class="btn btn-sm btn-outline-secondary expandContent" href="#" role="button">... více ...</a>
+                    <a class="btn btn-sm btn-outline-secondary shortenContent hidden" href="#" role="button">... méně ...</a>
                     <div class="fullText hidden">
                       <h2>Testovaci clanek 2...</h2>
                       <p class="lead">

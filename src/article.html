@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  <meta name="description" content=""/>
+  <meta name="author" content=""/>
+
+  <title id="pageTitle">www.mskao.cz</title>
+
+  <script id="articleTemplate" type="text/template">
+    <h1>{{title}}</h1>
+    {{#paragraphs}}
+      <p>odstavec.... {{.}}</p>
+    {{/paragraphs}}
+  </script>
+
+</head>
+
+<body>
+<div class="wrap">
+  <div class="header">
+    <div id="menu">menu</div>
+  </div>
+  <div class="content">
+    <div class="container">
+      <div id="articleContainer">
+        here should be rendered whole article via mustache.js
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

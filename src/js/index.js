@@ -32,6 +32,8 @@ $(document).ready(function () {
     getDogs(breed);
   }
   getNews();
+  renderArticle();
+  renderData('articlePreviewTemplate', 'articlePreviewContainer', 'articles.json');
 
   // $('#summernote').summernote();
   $('#summernote').summernote({
@@ -114,6 +116,31 @@ function showAndHideDependingOnResolution() {
 $(window).resize(function () {
   // showAndHideDependingOnResolution();
 });
+
+function renderData(templateName, elementWhereToInsert, dataFileName) {
+  $.getJSON('../public/data/' + dataFileName, function (data) {
+    let template = $('#' + templateName).html();
+    if (template !== undefined) {
+      let html = Mustache.to_html(template, data);
+      $('#' + elementWhereToInsert).html(html);
+    } else {
+      console.log('there is something totally wrong 1');
+    }
+  });
+}
+function renderArticle(articleId) {
+  $.getJSON('../public/data/articles.json', function (data) {
+    let template = $('#articleTemplate').html();
+    if (template !== undefined) {
+      let html = Mustache.to_html(template, data);
+      $('#articleContainer').html(html);
+    } else {
+      console.log('there is something totally wrong 1');
+    }
+  });
+}
+
+
 
 function getDogs(breed) {
   $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function (data) {
