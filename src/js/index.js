@@ -43,10 +43,10 @@ $(document).ready(function () {
 
   $('#trumbowygDemo').trumbowyg();
 
-  $('.shownText').each(function(index, value) {
-    let fullText = $(this).html();
+  $('.articleContainer').each(function(index, value) {
+    let fullText = $(this).children('.fullText').html();
     // var moreLink = ' <a class="expandContent">... více</a><div class="fullText hidden">' + fullText + '</div>';
-    $(this).html(getShortenedText(fullText)); // number of characters
+    $(this).children('.shownText').html(getShortenedText(fullText)); // number of characters
   });
 
   $('.expandContent').on('click', function () {
