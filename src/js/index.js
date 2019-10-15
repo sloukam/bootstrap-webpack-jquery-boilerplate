@@ -26,9 +26,6 @@ $(document).ready(function () {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
-  // getDogs('as');
-  // getDogs('gs');
-
   var breed = GetURLParameter('rasa');
   if (breed !== undefined) {
     console.log('breed = ' + breed);
@@ -45,7 +42,44 @@ $(document).ready(function () {
   });
 
   $('#trumbowygDemo').trumbowyg();
+
+  $('.shownText').each(function(index, value) {
+    let fullText = $(this).html();
+    // var moreLink = ' <a class="expandContent">... více</a><div class="fullText hidden">' + fullText + '</div>';
+    $(this).html(getShortenedText(fullText)); // number of characters
+  });
+
+  $('.expandContent').on('click', function () {
+    let parentDiv = $(this).parents('.articleContainer');
+    let divToExpand = parentDiv.children('.shownText:first-child');
+    let fullTextDiv = parentDiv.children('.fullText');
+    // console.log('full text: ' + fullTextDiv.html());
+
+    divToExpand.html(fullTextDiv.html());
+
+    parentDiv.children('.shortenContent').removeClass('hidden');
+    parentDiv.children('.expandContent').addClass('hidden');
+  });
+
+  $('.shortenContent').on('click', function () {
+    let parentDiv = $(this).parents('.articleContainer');
+    let divToShorten = parentDiv.children('.shownText:first-child');
+    let fullTextDiv = parentDiv.children('.fullText');
+    // console.log('full text: ' + fullTextDiv.html());
+
+    divToShorten.html(getShortenedText(fullTextDiv.html()));
+
+    parentDiv.children('.shortenContent').addClass('hidden');
+    parentDiv.children('.expandContent').removeClass('hidden');
+  });
+
 });
+
+function getShortenedText(text, length) {
+  if (length === undefined)
+    length = 230;
+  return text.substring(0, length) + '.....';
+}
 
 $('#copyToClippboardBtn').on('click', function () {
   copyToClipboard('results__display');
