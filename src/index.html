@@ -10,9 +10,10 @@
 
   <script id="articlePreviewTemplate" type="text/template">
 
-    <div class="row featurette">
+    {{#articles}}
+    <div class="row featurette rows-stripped">
       {{#img}}
-        <div class="col-md-7 order-md-2">
+      <div class="col-md-7 order-md-2">
       {{/img}}
       {{^img}}
         <div class="col">
@@ -25,12 +26,14 @@
         <div class="col-md-5 order-md-1">
           <img
             class="featurette-image img-fluid mx-auto"
-            src="./public/images/zakupy_2019_vysledky_as_gord.png"
+            src="{{img}}"
             alt="Generic placeholder image"/>
         </div>
       {{/img}}
+      </div>
     </div>
-
+    <hr class="featurette-divider"/>
+    {{/articles}}
   </script>
 
 

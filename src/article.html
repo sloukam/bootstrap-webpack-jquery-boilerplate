@@ -9,13 +9,15 @@
   <title id="pageTitle">www.mskao.cz</title>
 
   <script id="articleTemplate" type="text/template">
+    {{#articles.0}}
     <h2>{{title}}</h2>
     {{#img}}
-    <img src="./public/images/2019-pohar_vzpominek_Milos_Knotek.jpg" class="rounded float-right articleImg" alt="image ALT text">
+    <img src="{{.}}" class="rounded float-right articleImg" alt="image ALT text">
     {{/img}}
     {{#paragraphs}}
       <p>odstavec.... {{.}}</p>
     {{/paragraphs}}
+    {{/articles.0}}
   </script>
 
 </head>

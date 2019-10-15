@@ -75,6 +75,7 @@ a {
 $newsFontSize: $font-size-base * 0.9;
 .newsTitle-sm {
   font-size: $newsFontSize;
+  padding-top: 10px;
 }
 
 .newsText-sm {
@@ -82,9 +83,15 @@ $newsFontSize: $font-size-base * 0.9;
 }
 
 .news-panel {
-  border: 1px solid #c1c1c1;
   padding: 10px;
   margin-bottom: 15px;
+  @include media-breakpoint-down(sm) {
+    //background-color: red;
+  }
+  @include media-breakpoint-up(md) {
+    border: 1px solid #c1c1c1;
+    //background-color: blue;
+  }
 }
 
 .warnTitle-sm {
@@ -96,10 +103,18 @@ $newsFontSize: $font-size-base * 0.9;
 }
 
 .warn-panel {
-  border: 1px solid #c1c1c1;
   padding: 10px;
   margin-bottom: 30px;
+  @include media-breakpoint-down(sm) {
+    //background-color: red;
+  }
+  @include media-breakpoint-up(md) {
+    border: 1px solid #c1c1c1;
+    //background-color: blue;
+  }
 }
+
+
 
 //index
 // bude zalamovat sloupce pod sebe...
