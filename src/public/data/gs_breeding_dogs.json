@@ -2,7 +2,7 @@
   "dogs": [
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "IDOR Z ŽELEČKY",
       "date_of_birth": "2008-05-24",
       "clp": "6029",
@@ -29,7 +29,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "BRITT Z DVORKU ČAMOURKU",
       "date_of_birth": "2009-06-14",
       "clp": "6122",
@@ -58,7 +58,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "DARK DEVIL ÁRES ŠAMARKAN",
       "date_of_birth": "2010-05-07",
       "clp": "6254",
@@ -85,7 +85,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "ZIR Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2011-01-14",
       "clp": "6286",
@@ -116,7 +116,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "KAIRO Z ŽELEČKY",
       "date_of_birth": "2011-09-09",
       "clp": "6324",
@@ -146,7 +146,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "BANDIT MANON LESCAUT",
       "date_of_birth": "2012-05-14",
       "clp": "6373",
@@ -176,7 +176,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "ABARO OD ZÁMECKÉHO KOPCE",
       "date_of_birth": "2012-01-11",
       "clp": "6340",
@@ -204,7 +204,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "ANTHONY SCOTCH DO POLE",
       "date_of_birth": "2013-03-18",
       "clp": "6463",
@@ -234,7 +234,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "ARMANI Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2013-04-16",
       "clp": "6475",
@@ -264,7 +264,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "CELTIC CHIVAS KOCHANEJ EMILKI",
       "date_of_birth": "2013-12-04",
       "clp": "6529",
@@ -295,7 +295,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "BRIX Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2013-11-09",
       "clp": "6484",
@@ -324,7 +324,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "SCOT Z SCOTCH DAMA KRKONOŠE",
       "date_of_birth": "2014-05-09",
       "clp": "6525",
@@ -352,7 +352,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "GORDON ROBIN HOOD ÁRES ŠAMARKAN",
       "date_of_birth": "2015-12-31",
       "clp": "6625",
@@ -380,7 +380,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "CEDRIC Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2015-07-03",
       "clp": "6603",
@@ -410,7 +410,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "BRODEY PEARL MORAVIA",
       "date_of_birth": "2016-02-09",
       "clp": "6646",
@@ -440,7 +440,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
       "date_of_birth": "2016-09-28",
       "clp": "6716",
@@ -469,7 +469,7 @@
     },
     {
       "visible": true,
-      "breed": "gs",
+      "breed": "GS",
       "name": "AIKEN LEANNAN SANTINI ́S LEGACY",
       "date_of_birth": "2017-04-18",
       "clp": "6746",

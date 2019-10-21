@@ -2,7 +2,7 @@
   "dogs": [
     {
       "visible": false,
-      "breed": "as",
+      "breed": "AS",
       "name": "LORIEN JULY SUNBURST",
       "championships": "CH ČR",
       "clp": "6022",
@@ -38,7 +38,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "DELLIOR TAPIO DAVARONI",
       "championships": "CH ČR",
       "clp": "5760",
@@ -75,7 +75,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "JUSTIN Z MEŠINSKÉ HÁJOVNY",
       "championships": "",
       "clp": "5802",
@@ -114,7 +114,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "ARNY Z NOVÉHO REMÍZU",
       "championships": "",
       "clp": "5857",
@@ -151,7 +151,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "FALCO Z LUHOVÉ SEČE",
       "championships": "",
       "clp": "5865",
@@ -188,7 +188,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "AL PRIMO LORIDAM LYMARKOS",
       "championships": "CH ČR, SK, JCH ČR",
       "clp": "6017",
@@ -225,7 +225,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "JETHRO MORRISON",
       "championships": "JCH ČR",
       "clp": "6058",
@@ -262,7 +262,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "ARGO Z VLČÍCH HOR",
       "championships": "",
       "clp": "6194",
@@ -299,7 +299,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "NOELL MORRISON",
       "championships": "CH SR, JCH ČR, SR",
       "clp": "6181",
@@ -336,7 +336,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "DARK REFLECTION SHADOW DOG ",
       "championships": "JCH ČR, SR",
       "clp": "6312",
@@ -373,7 +373,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "TRIN",
       "championships": "",
       "clp": "6299",
@@ -410,7 +410,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "ASLAN LIKE AN ANGEL ROYAL SETTER",
       "championships": "JCH CZ, SK, A",
       "clp": "6241",
@@ -447,7 +447,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "CRICKET JUMBO BEDNAR LYMARKOS",
       "date_of_birth": "2017-06-05",
       "clp": "6306",
@@ -478,7 +478,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "SAPPHIRE DAMA KRKONOŠE",
       "date_of_birth": "2012-06-25",
       "clp": "6011",
@@ -513,7 +513,7 @@
     },
     {
       "visible": false,
-      "breed": "as",
+      "breed": "AS",
       "name": "EDITIONS SECRET FOR DAVARONI",
       "date_of_birth": "2012-08-06",
       "clp": "6020",
@@ -545,7 +545,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "JANIS JOPLIN MORRISON",
       "date_of_birth": "2013-04-20",
       "clp": "6062",
@@ -572,7 +572,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "RIKY Z KRZÁKU",
       "date_of_birth": "2013-04-28",
       "clp": "6048",
@@ -602,7 +602,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "CRANBERRY DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
       "clp": "6077",
@@ -631,7 +631,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "CALLIOPPE DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
       "clp": "6076",
@@ -661,7 +661,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "BASTA FIDLI BAMBOLA LYMARKOS",
       "date_of_birth": "2015-02-24",
       "clp": "6153",
@@ -692,7 +692,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "ESCA BRILLARE DAVARONI",
       "date_of_birth": "2015-09-09",
       "clp": "6213",
@@ -721,7 +721,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "CECILIA MISS OF SETTERCITY",
       "date_of_birth": "2017-02-07",
       "clp": "6300",
@@ -753,7 +753,7 @@
     },
     {
       "visible": true,
-      "breed": "as",
+      "breed": "AS",
       "name": "LOUISA MORRISON",
       "date_of_birth": "2014-10-14",
       "clp": "6128",
