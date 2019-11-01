@@ -60,10 +60,12 @@
                 <div class="col-4 item-label">matka:</div>
                 <div class="col">{{mother}}</div>
               </div>
+              {{#body.height}}
               <div class="row">
                 <div class="col-4 item-label">výška</div>
                 <div class="col">{{body.height}}</div>
               </div>
+              {{/body.height}}
               {{#body.color}}
               <div class="row">
                 <div class="col-4 item-label">barva:</div>
@@ -135,18 +137,22 @@
                   {{owner.address.post_code}} {{owner.address.city}}
                 </div>
               </div>
+              {{#owner.phone}}
               <div class="row">
                 <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
                 <div class="col">
                   <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
                 </div>
               </div>
+              {{/owner.phone}}
+              {{#owner.email}}
               <div class="row">
                 <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
                 <div class="col">
                   <a href="mailto:{{owner.email}}">{{owner.email}}</a>
                 </div>
               </div>
+              {{/owner.email}}
               {{#owner.web}}
               <div class="row">
                 <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>

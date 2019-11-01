@@ -1,0 +1,112 @@
+{
+  "dogs": [
+    {
+      "breed": "IS",
+      "visible": true,
+      "name": "HERA ČERVENÝ VÍTR",
+      "date_of_birth": "2012-04-25",
+      "clp": "15723",
+      "father": "Hrabia z Orszaku Chrobrego",
+      "mother": "Pera od Klapavce",
+      "sex": "female",
+      "body": {
+        "HD": "B"
+      },
+      "shows": "výborný, CAJC",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Arnošt",
+        "last_name": "Cahlík",
+        "address": {
+          "street": "Kladeruby",
+          "number": "132",
+          "city": "Kelč",
+          "post_code": "75643"
+        },
+        "phone": "733 105 952",
+        "web": "http://www.zluhovesece.estranky.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "visible": true,
+      "name": "EMOTIONAL EUPHORIA EVERDENE",
+      "date_of_birth": "2013-01-02",
+      "clp": "15812",
+      "father": "Salford Wizard z Arislandu",
+      "mother": "Neiven Arouse Admiration",
+      "sex": "female",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAJC, VT, Krajský vítěz",
+      "exams": "PZ I.cena, SZVP I.cena",
+      "owner": {
+        "first_name": "Věra",
+        "last_name": "Vajdíková",
+        "address": {
+          "street": "Novinky",
+          "number": "702",
+          "city": "Prušánky",
+          "post_code": "69621"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "visible": true,
+      "name": "COUNTRY MELODY MAHAGONY PAW",
+      "date_of_birth": "2013-01-31",
+      "clp": "15042",
+      "father": "Garden Star ́s Royal Legend",
+      "mother": "Ashley Punk Mahagony Paw",
+      "sex": "female",
+      "body": {
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "CLADN/N"
+      },
+      "shows": "CAC, res. CACIB",
+      "exams": "ZV I.cena CACT, PZ I.cena",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10"
+        },
+        "phone": " 603410711",
+        "email": "uctarna@rontgen.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "visible": true,
+      "name": "CLOTILDE Z BŘEVNOVSKÉHO VRCHU",
+      "date_of_birth": "2013-04-08",
+      "clp": "15876",
+      "father": "Thendara Satisfaction",
+      "mother": "Adelaide z Břevnovského vrchu",
+      "sex": "female",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborná, VT, Oblastní vítěz",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Jan",
+        "last_name": "Václavík",
+        "address": {
+          "street": "Přílepská",
+          "number": "155",
+          "city": "Lukoveček",
+          "post_code": "76316"
+        },
+        "phone": " 603482856",
+        "email": "j.vaclavik@aeroservis.aero"
+      }
+    }
+  ]
+}
