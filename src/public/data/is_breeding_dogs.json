@@ -272,7 +272,32 @@
         "phone": "603410711",
         "email": "uctarna@rontgen.cz"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BELINDA BOHEMIA TÁTRUM",
+      "date_of_birth": "2013-07-04",
+      "clp": "15923",
+      "father": "Eddy z Košumberka",
+      "mother": "Dolly z Jirouškova dvora",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Jiří",
+        "last_name": "Baláš",
+        "address": {
+          "street": "Dolní Roveň",
+          "number": "329",
+          "post_code": "53371"
+        },
+        "phone": "721364459",
+        "email": "jurabalas@seznam.cz"
+      }
     }
-
   ]
 }
