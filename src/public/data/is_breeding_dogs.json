@@ -85,7 +85,7 @@
       "visible": true,
       "name": "CLOTILDE Z BŘEVNOVSKÉHO VRCHU",
       "date_of_birth": "2013-04-08",
-      "clp": "15876",
+      "clp": "15876-???????",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
       "sex": "female",
@@ -107,6 +107,172 @@
         "phone": " 603482856",
         "email": "j.vaclavik@aeroservis.aero"
       }
+    },
+    {
+      "breed": "IS",
+      "visible": true,
+      "name": "CRAZY DAISY Z BŘEVNOVSKÉHO VRCHU",
+      "date_of_birth": "2013-04-08",
+      "clp": "15876-?????",
+      "father": "Thendara Satisfaction",
+      "mother": "Adelaide z Břevnovského vrchu",
+      "sex": "female",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAJC, BOJ, CAC, CACIB, Národní vítěz, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Jana",
+        "last_name": "Kupková",
+        "address": {
+          "street": "Poláškova",
+          "number": "22",
+          "city": "Ostrava",
+          "post_code": "71600"
+        },
+        "email": "jana-kupkova@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "DOREEN MAHAGONY BEAUTY",
+      "date_of_birth": "2014-09-17",
+      "clp": "16067",
+      "father": "M ́Eudail The Temptation",
+      "mother": "Bethany Lady Everdene",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "V, VT, KV",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Kateřina",
+        "last_name": "Sosnová",
+        "address": {
+          "street": "Studničkova",
+          "number": "7",
+          "city": "Ostrava",
+          "post_code": "71500"
+        },
+        "phone": "603195315"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ARINA OD NÁPLAVKY",
+      "date_of_birth": "2014-03-08",
+      "clp": "16009",
+      "father": "Lary ze Srbeckých luhů",
+      "mother": "Brela Apoli Gwen",
+      "body": {
+        "HD": "C"
+      },
+      "shows": "VD",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Hýsek",
+        "address": {
+          "street": "K Chatám",
+          "number": "36/36",
+          "city": "Roudnička",
+          "post_code": "50002"
+        },
+        "phone": "725379607",
+        "email": "jh.hysek@gmail.com"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "EKKI Z LUHOVÉ SEČE",
+      "date_of_birth": "2014-06-15",
+      "clp": "16028",
+      "father": "Douglas Redweed",
+      "mother": "Hera Červený vítr",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "V, CAC, BOS",
+      "exams": " ZV I.cena, MFT 8 b.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Ondřej",
+        "last_name": "Homola",
+        "address": {
+          "street": "Předvrší",
+          "number": "436/44",
+          "city": "Ostrava Krásné Pole",
+          "post_code": "72526"
+        },
+        "phone": "777148716"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "EBONY MAHAGONY BEAUTY",
+      "date_of_birth": "2015-06-04",
+      "clp": "16186",
+      "father": "Neiven Amor ́s Arrow",
+      "mother": "Rita z Dubské",
+      "body": {
+        "HD": "A",
+        "other": "CLAD N/N"
+      },
+      "championships": "CH PL",
+      "shows": " res. CAC, CAC, CACIB, BOS",
+      "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b.",
+      "owner": {
+        "first_name": "Miroslava",
+        "last_name": "Němcová",
+        "address": {
+          "street": "Heroltovice",
+          "number": "1512",
+          "city": "Město Libavá",
+          "post_code": "78307"
+        },
+        "phone": "739406622",
+        "email": "nemcova_m@centrum.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ELECTRA RUBY MAHAGONY PAW",
+      "date_of_birth": "2015-04-25",
+      "clp": "16166",
+      "father": "Garden Star ́s Red Bull",
+      "mother": "Assonance Mahagony Paw",
+      "body": {
+        "HD": "A",
+        "other": "CLAD N/N, PRA rcd 4 N/N"
+      },
+      "championships": "CH ČR, JCH ČR",
+      "shows": "CAC, CACIB, BOS",
+      "exams": "2x ZV I.cena, T.A.N. - obstál, Novomlýnské derby I. cena, PZ I.cena, SZVP I.cena, Mem. Josefa Lammera (PZ + SZVP) I.cena + II. cena",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10"
+        },
+        "phone": "603410711",
+        "email": "uctarna@rontgen.cz"
+      }
     }
+
   ]
 }
