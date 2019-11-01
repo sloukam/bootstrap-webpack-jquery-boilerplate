@@ -298,6 +298,254 @@
         "phone": "721364459",
         "email": "jurabalas@seznam.cz"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ZEPHYRE MAYA REDWEED",
+      "date_of_birth": "2015-05-03",
+      "clp": "16174",
+      "father": "Stamboek Redweed",
+      "mother": "Isabel Montefigueiras",
+      "body": {
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "CLAD N/N"
+      },
+      "championships": "CH ČR, CH SK",
+      "shows": "CAC, CACIB, KV, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Robert + Marie",
+        "last_name": "Braunerovi",
+        "address": {
+          "street": "Uhřičice",
+          "number": "140",
+          "city": "Kojetín",
+          "post_code": "75201"
+        },
+        "phone": "731135649",
+        "web": "http://www.redweedirishsetters.webnode"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BWINDI MAHAGON KENYA",
+      "date_of_birth": "2015-06-28",
+      "clp": "16197",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Flea Červený vítr",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "C.I.B., CH ČR, CH SK",
+      "shows": "CAC, CACA, CACIB, NV, BOS",
+      "exams": "ZV I.cena CACT",
+      "owner": {
+        "first_name": "Filip",
+        "last_name": "Zeman",
+        "address": {
+          "street": "Zahradní",
+          "number": "205",
+          "city": "Opatovice",
+          "post_code": "75356"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BETTY BARCLEY DAISY RAIN",
+      "date_of_birth": "2016-01-13",
+      "clp": "16221",
+      "father": "Garden Star ́s Red Bull",
+      "mother": "Artemis Elimar Doubrava",
+      "body": {
+        "HD": "A",
+        "ED": "A/A",
+        "rcd4": "clear",
+        "other": "CLAD N/N, PRA rcd 1 "
+      },
+      "championships": "GRAND CH ČR, CH ČR, CH AT, JCH ČR, JCH AT",
+      "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, KV, BOS, BOB, JBIG3",
+      "exams": "ZV I.cena, PZ I.cena, SZVP II.cena",
+      "owner": {
+        "first_name": "Hana Bočková",
+        "last_name": "Roman Pražák",
+        "address": {
+          "street": "Pod Vartou",
+          "number": "636",
+          "city": "Zliv",
+          "post_code": "37344"
+        },
+        "phone": "776171298",
+        "email": "daisy.rain@seznam.cz",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "TEATIME AT ROMANTIC GARDEN Z ARISLANDU",
+      "date_of_birth": "2016-05-20",
+      "clp": "16334",
+      "father": "Nucky of McBirdy",
+      "mother": " Julia Roberts z Arislandu",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAC, CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Sosnová",
+        "address": {
+          "street": "Studničkova",
+          "city": "Ostrava",
+          "post_code": "71500"
+        },
+        "phone": "603195315"
+      },
+      "other": "import Polsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "AMY AZARIEL CEDARWOOD ROAD",
+      "date_of_birth": "2016-09-01",
+      "clp": "16322",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Crazy Daisy z Břevnovského vrchu",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAC, NV, BOS",
+      "exams": " ZV I.cena",
+      "owner": {
+        "first_name": "Monika",
+        "last_name": "Hutyrová",
+        "address": {
+          "street": "Gen. Sachera",
+          "number": "9",
+          "city": "Prostějov",
+          "post_code": "79604"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "CORIN ZE SVRATECKÝCH PLÁŇAV",
+      "date_of_birth": "2016-09-02",
+      "clp": "16303",
+      "father": "Eddy z Košumberka",
+      "mother": "Arka ze Srbického kopce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Jaroslav",
+        "last_name": "Černý",
+        "address": {
+          "street": "Záhumenní",
+          "number": "857/3",
+          "city": "Rokycany",
+          "post_code": "33701"
+        },
+        "phone": "777137370"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ETERNAL FLAME GOLDSET",
+      "date_of_birth": "2016-08-05",
+      "clp": "16325",
+      "father": "Garden Star ́s Irish Tequila",
+      "mother": "Autumn Legend Goldset",
+      "body": {
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, CACIB, NV, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "K Rovinám",
+          "number": "558/4",
+          "city": "Praha 5",
+          "post_code": "15800"
+        },
+        "email": "verustechovska@gmail.com"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BINJARA MAHAGON KENYA",
+      "date_of_birth": "2015-06-28",
+      "clp": "16196",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Flea Červený vítr",
+      "body": {
+        "HD": "B",
+        "ED": "A/A"
+      },
+      "championships": "CH SK",
+      "shows": "CAC, NV, BOB",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Smutný",
+        "address": {
+          "street": "Římov",
+          "number": "93",
+          "city": "Stařeč",
+          "post_code": "67522"
+        },
+        "phone": "608646666"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "CHASING LOVE Z ARISLANDU",
+      "date_of_birth": "2017-05-08",
+      "clp": "16490",
+      "father": "Chase Cinnamon ́s",
+      "mother": "Lasterfield Lucky Card Game z Arislandu",
+      "body": {
+        "HD": "A"
+      },
+      "shows": " CAJC, BOJ, CAC, CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Sosnová",
+        "address": {
+          "street": "Studničkova",
+          "number": "857/7",
+          "city": "Ostrava",
+          "post_code": "71500"
+        },
+        "phone": "603195315"
+      }
     }
   ]
 }
