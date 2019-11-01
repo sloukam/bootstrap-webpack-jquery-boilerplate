@@ -103,6 +103,16 @@
                   <div class="col-4 item-label" for="body.HD">HD</div>
                   <select class="col" id="body.HD" name="body.HD">
                     <option></option>
+                    <option>A</option>
+                    <option>B</option>
+                    <option>C</option>
+                    <option>D</option>
+                  </select>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="body.ED">ED</div>
+                  <select class="col" id="body.ED" name="body.ED">
+                    <option></option>
                     <option>A/A</option>
                     <option>A/B</option>
                     <option>A/C</option>
@@ -114,16 +124,6 @@
                   </select>
                 </div>
                 <div class="row">
-                  <div class="col-4 item-label" for="body.ED">ED</div>
-                  <select class="col" id="body.ED" name="body.ED">
-                    <option></option>
-                    <option>A</option>
-                    <option>B</option>
-                    <option>C</option>
-                    <option>D</option>
-                  </select>
-                </div>
-                <div class="row">
                   <div class="col-4 item-label" for="body.BAER">BAER normal:</div>
                   <div class="col">
                     <input id="BAER_normal" name="body.BAER" type="checkbox" value="normal">
@@ -131,9 +131,13 @@
                 </div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.rcd4">PRA rcd4 clear</div>
-                  <div class="col">
-                    <input id="body.rcd4" name="body.rcd4" type="checkbox">
-                  </div>
+<!--                    <input id="body.rcd4" name="body.rcd4" type="checkbox">-->
+                    <select class="col" id="body.rcd4" name="body.rcd4">
+                      <option></option>
+                      <option>PRA-rcd4 clear</option>
+                      <option>carrier</option>
+                      <option>affected</option>
+                    </select>
                 </div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.other">dodatečn zdr. inf.</div>
