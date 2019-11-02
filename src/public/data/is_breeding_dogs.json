@@ -2,6 +2,65 @@
   "dogs": [
     {
       "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BARDOLF KING NONSTOP",
+      "date_of_birth": "2007-01-18",
+      "clp": "14866",
+      "father": "Dorian Grey Jenny ́s Irsal",
+      "mother": "Irish Destiny Nonstop",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Střelec",
+        "address": {
+          "street": "Opatovice ",
+          "number": "65",
+          "post_code": "68201"
+        },
+        "phone": "607747027"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ATYLA WARRIOR MAHAGONY PAW",
+      "date_of_birth": "2007-12-26",
+      "clp": "15037",
+      "father": "Vicary ́s Cobacabana",
+      "mother": "Country Melody Jenny ́s Irsal",
+      "body": {
+        "HD": "A",
+        "other": "CLAD N/N"
+      },
+      "championships": "CH ČR, JCH ČR, Veterán CH ČR",
+      "shows": "vítěz Prahy, BOB",
+      "exams": "ZV I.cena, PZ I.cena, SZVP I.cena",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10"
+        },
+        "phone": "603410711"
+      }
+    },
+
+
+
+
+
+
+
+    {
+      "breed": "IS",
       "visible": true,
       "name": "HERA ČERVENÝ VÍTR",
       "date_of_birth": "2012-04-25",
