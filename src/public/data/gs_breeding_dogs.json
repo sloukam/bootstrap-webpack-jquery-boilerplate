@@ -492,6 +492,111 @@
         },
         "email": "mackova.r@email.cz"
       }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "AMÉLIE OD ZÁMECKÉHO KOPCE",
+      "date_of_birth": "2012-01-11",
+      "clp": "6342",
+      "father": "Laurelhach Moviestar",
+      "mother": " Sundownerś Cuba-Libre",
+      "body": {
+        "height": "58",
+        "HD": "C",
+        "rcd4": "clear"
+      },
+      "championships": "CH ČR, JCH ČR, CH SK",
+      "shows": "CAJC, , CAC, res. CACIB, CACIB, BOS, BOB",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Bártová",
+        "address": {
+          "street": "Nádražní",
+          "number": "469",
+          "city": "Štranberk",
+          "post_code": "74266"
+        },
+        "phone": "603556750",
+        "email": "sorculi@seznam.cz",
+        "web": "http://www.archeraconaressamarkan.wbs.cz"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "CITTA Z DVORKU ČAMOURKU",
+      "date_of_birth": "2012-02-17",
+      "clp": "6356",
+      "father": "Samson z Podmaršovic",
+      "mother": "Dyksi z Krátošických strání",
+      "body": {
+        "height": "65",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV I.c., PZ I.c.",
+      "owner": {
+        "first_name": "Luděk",
+        "last_name": "Zvolánek",
+        "address": {
+          "street": "Viničky",
+          "number": "401",
+          "city": "Krucemburk",
+          "post_code": "58266"
+        },
+        "phone": "721635145"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ALOTRIA NEVERENDING GRACE",
+      "date_of_birth": "2013-01-01",
+      "clp": "6447",
+      "father": "Liric Xcaliber",
+      "mother": "Arry z Dvorku Čamourku",
+      "body": {
+        "height": "65",
+        "HD": "A",
+        "ED": "A/A",
+        "rcd4": "clear"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, CACIB, res.CACIB, res.CAC, BOJ, CAJC, Vítěz spec.výst, Oblast.Vítěz",
+      "exams": "ZV – I.c",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Darja",
+        "last_name": "Musilová Ph.D.",
+        "address": {
+          "street": "Přítoky",
+          "number": "107",
+          "city": "Miskovice",
+          "post_code": "28401"
+        },
+        "phone": "605450508",
+        "email": "darja.musilova@seznam.cz",
+        "web": "http://www.neverending.websnadno.cz"
+      }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
