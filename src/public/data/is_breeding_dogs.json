@@ -145,6 +145,7 @@
       "body": {
         "HD": "B"
       },
+      "championships": "CH ČR",
       "shows": "CAC, res. CACIB",
       "exams": "PZ I.cena, SZVP I.cena, LZ I.cena",
       "owner": {
@@ -159,8 +160,115 @@
         "phone": "731171053"
       }
     },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DEXTER REDWEED",
+      "date_of_birth": "2010-12-16",
+      "clp": "15534",
+      "father": "Corranroo Redweed",
+      "mother": "Isabel Montefigueiras",
+      "body": {
+        "HD": "C"
+      },
+      "championships": "CH ČR",
+      "shows": "CAJC, CAC, CWC, CACIB",
+      "exams": "ZV I.cena, SZVP I.cena",
+      "owner": {
+        "title": "MUDr.",
+        "first_name": "Dajána",
+        "last_name": "Dvorská",
+        "address": {
+          "street": "Číhadlo",
+          "number": "855",
+          "city": "Litovel",
+          "post_code": "78401"
+        },
+        "phone": "734635343"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "LARY OD ZÁPOTOCKÉHO",
+      "date_of_birth": "2011-04-03",
+      "clp": "15579",
+      "father": "Dor z Hosteckých vrchů",
+      "mother": "Baronessa Kitty Nonstop",
+      "body": {
+        "HD": "C"
+      },
+      "shows": " res.CAC, CAC",
+      "exams": "ZV I.cena, PZ I.cena, SZVP I.cena, LZ II.cena, VZ I.cena",
+      "owner": {
+        "first_name": "František",
+        "last_name": "Pospíšil",
+        "address": {
+          "street": "Charváty",
+          "number": "104",
+          "city": "Charváty",
+          "post_code": "78375"
+        },
+        "phone": "721260553"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DERCETUS EVERDENE",
+      "date_of_birth": "2012-03-09",
+      "clp": "15673",
+      "father": "Neiven Amor ́s Arrow",
+      "mother": "Vanesa z Luhové seče",
+      "body": {
+        "HD": "B"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Taťána",
+        "last_name": "Bednářová Wilczková",
+        "address": {
+          "street": "Jižní",
+          "number": "718",
+          "city": "Rychvald",
+          "post_code": "73532"
+        },
+        "phone": "724474360"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ARAMIS APOLLY MORAVIA",
+      "date_of_birth": "2012-09-09",
+      "clp": "15762",
+      "father": "Neiven Amor ́s Arrow",
+      "mother": "Mira z Bolešínské hůrky",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK",
+      "shows": "CAJC, CAC, CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Kaspřík",
+        "address": {
+          "street": "Jaklovecká",
+          "number": "1411/28",
+          "city": "Slezská Ostrava",
+          "post_code": "71000"
+        },
+        "phone": "602500986"
+      }
+    },
     
-
 
 
 
