@@ -88,7 +88,281 @@
         "web": "http://www.zvinnychtrati.estranky.cz"
       }
     },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "OLIVER ZE ŠTÍPEK",
+      "date_of_birth": "2012-01-31",
+      "clp": "10865",
+      "father": "Diablo ze Štípek",
+      "mother": "Indi Juta z Bolatic",
+      "body": {
+        "height": "66",
+        "color": "černobílá",
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "KV MSKAO 2015, CAJC, BOJ,\nCWC, OV, NV, res.CAC, CAC,\nres.CACIB, CACIB, BOB, BOS, JBIG, IBIG;",
+      "exams": "2x ZV – I. c, 2x PZ – I. c, SZVP – I. c, Memoriál Josefa Lamera 2015 (LZ+SZVP) -\nI. c, vítěz putovního poháru, Memoriál Miroslava Sullera 2015 (PZ+SZVP) -I. c, Memoriál Stanislava Hloucha 2015 (VZ)-II. c, Klubové VZ MSKAO 2015 I. c, Klubový\nvítěz, nejlepší pole, CACT.",
+      "owner": {
+        "first_name": "František",
+        "last_name": "Tihelka",
+        "address": {
+          "street": "Hálkova",
+          "number": "1245/5",
+          "city": "Opava",
+          "post_code": "74705"
+        },
+        "phone": "721077819",
+        "web": "http://www.chszestipek.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "BRIT OD ZELENÉHO STOLU",
+      "date_of_birth": "2013-06-23",
+      "clp": "10961",
+      "father": "Marko z Knollovy školy",
+      "mother": "Alma od Zeleného stolu",
+      "body": {
+        "height": "66",
+        "color": "černá se znaky",
+        "HD": "A"
+      },
+      "shows": "Výborný 2",
+      "exams": "ZV I. c, PZ – II. c, SZVP – I. c",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Andrýsek",
+        "address": {
+          "street": "Sazovice",
+          "number": "90",
+          "city": "Sazovice",
+          "post_code": "76301"
+        },
+        "phone": "739644759",
+        "email": "andrysek.zdenek@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "BEST Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2015-08-30",
+      "clp": "11227",
+      "father": "AJZON Z HALIKARNASU",
+      "mother": "AMY Z BÍTÝŠSKÝCH BAŽIN",
+      "body": {
+        "height": "64",
+        "color": "bíložemlová",
+        "HD": "A"
+      },
+      "shows": "V1, VT, OV, KV, res. CACIB,\nres. CAC., CAC",
+      "exams": "ZV II. c",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Otáhalová",
+        "address": {
+          "street": "Sadová",
+          "number": "652/9",
+          "city": "Troubky",
+          "post_code": "75102"
+        },
+        "phone": "721546741",
+        "email": "otahalova.v@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ALVIN Z BUKOVSKÉHO VRŠKU",
+      "date_of_birth": "2014-08-29",
+      "clp": "11088",
+      "father": "Kord z Měšínské hájovny,",
+      "mother": "Orka z Krzáku",
+      "body": {
+        "height": "62",
+        "color": "bílooranžová",
+        "HD": "B"
+      },
+      "shows": "V1, VT",
+      "exams": "ZV – I. c, PZ – I. c, 3x VZ - I. c., nominační soutěž MRK - I. c., MRK – III. c. 431 b. – nejlepší voda, MKP – III. c. 474 b.,",
+      "owner": {
+        "first_name": "Václav",
+        "last_name": "Hejna",
+        "address": {
+          "street": "Uhřice",
+          "number": "36",
+          "city": "Uhřice",
+          "post_code": "67963"
+        },
+        "email": "vaclav.hejna@centrum.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "CAR OD ZELENÉHO STOLU",
+      "date_of_birth": "2014-10-09",
+      "clp": "11099",
+      "father": "Ciro z Borovinky",
+      "mother": "Alma od Zeleného stolu",
+      "body": {
+        "height": "64",
+        "color": "žemlová se znaky",
+        "HD": "A"
+      },
+      "shows": "V, res. CA",
+      "exams": "ZV I. c, CACT, PZ - I. c, LZ - I. c, ZVP - I. c, VZ – II. c, MFT – Exc., res. CACIT, CACT",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Eva",
+        "last_name": "Illová",
+        "address": {
+          "street": "Mohelno",
+          "number": "514",
+          "city": "Mohelno",
+          "post_code": "67575"
+        },
+        "phone": "602788769,",
+        "email": "evaillova@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ANOOK ZE ŠTÍPEK",
+      "date_of_birth": "2015-06-25",
+      "clp": "11205",
+      "father": "Ajzon z Halikarnasu",
+      "mother": "Odeta ze Štípek",
+      "body": {
+        "height": "63",
+        "color": "černobílý",
+        "HD": "A"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, CAC, CAC ČMKU, NV, CACIB, BOS, BOB",
+      "exams": "ZV – I. c, PZ – I. c., VZ – II. c., ZV – CACT, MFT – Exc., CACT, CACIT,\nZVP – I. c., - res.CACT",
+      "owner": {
+        "first_name": "Martina",
+        "last_name": "Mullerová",
+        "address": {
+          "street": "Na Hříbovci",
+          "number": "271",
+          "city": "Markvartovice",
+          "post_code": "74714"
+        },
+        "phone": "776281286",
+        "web": "http://www.chszestipek.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "WHIPSPAN GOLDEN LEGACY",
+      "date_of_birth": "2014-05-15",
+      "clp": "11132",
+      "father": "ASPYRE FOLLOW YOUR DREAMS TO KISWAHILI",
+      "mother": "WHIPSPAN BONDI PEACH",
+      "body": {
+        "height": "65",
+        "color": "žlutobílý",
+        "HD": "A"
+      },
+      "championships": "CH ČR, CH SK",
+      "shows": " CAJC, BOJ",
+      "exams": " ZV-I. c",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Janečková Horáková",
+        "address": {
+          "street": "Nádražní",
+          "number": "1738",
+          "city": "Dubňany",
+          "post_code": "69603"
+        },
+        "phone": "728942000",
+        "web": "http://www.natyavegrove.com"
+      },
+      "other": "Import Anglie"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "DON Z BOROVINKY",
+      "date_of_birth": "2013-07-28",
+      "clp": "10987",
+      "father": "Marko z Knollovy školy",
+      "mother": "Iša z Oklikova",
+      "body": {
+        "height": "66",
+        "color": "hnědá, bílé znaky",
+        "HD": "A"
+      },
+      "shows": "Výborný 3",
+      "exams": "ZV – CACT, PZ – CACT, SZVP,\nVZ – vše I. c., Derby – AO, NFT, MFT",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Andrýsek",
+        "address": {
+          "street": "Sazovice",
+          "number": "90",
+          "city": "Sazovice",
+          "post_code": "76301"
+        },
+        "phone": "739644759",
+        "email": "andrysek.zdenek@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ALSAN Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2012-08-11",
+      "clp": "10918",
+      "father": " Endy z Hovoran",
+      "mother": "Mona z Knollovy školy",
+      "body": {
+        "height": "65",
+        "color": "žemlová s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "V, CAC, BOS",
+      "exams": "ZV II. c, PZ I. c",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Otáhalová",
+        "address": {
+          "street": "Sadová",
+          "number": "652/9",
+          "city": "Troubky",
+          "post_code": "75102"
+        },
+        "phone": "721546741",
+        "email": "otahalova.v@seznam.cz"
+      }
+    },
     
+
+
+
+
+
+
+
+
+
   ]
 }
 
