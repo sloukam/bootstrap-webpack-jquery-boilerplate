@@ -583,20 +583,345 @@
         "email": "darja.musilova@seznam.cz",
         "web": "http://www.neverending.websnadno.cz"
       }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ALBERTA SCOTCH DO POLE",
+      "date_of_birth": "2013-03-18",
+      "clp": "6471",
+      "father": "Místy Lakeś Never Say Never",
+      "mother": "Maria Matilde Scotch DAMA Krkonoše",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "shows": "CAJC, BOJ, CAC, res. CACIB",
+      "exams": "ZV – I.c.",
+      "owner": {
+        "first_name": "Miloš",
+        "last_name": "Klimeš",
+        "address": {
+          "street": "Vatín",
+          "number": "84",
+          "city": "Žďár nad Sázavou",
+          "post_code": "59101"
+        }
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ASTANA Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2013-04-16",
+      "clp": "6480",
+      "father": "Hemingway Beauty of Gordon",
+      "mother": "Quina z Holubické stráně",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "shows": "CAC, výborná",
+      "exams": "ZV – I.c.",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Hermanová",
+        "address": {
+          "street": "Ve dvoře",
+          "number": "111",
+          "city": "Slatina",
+          "post_code": "74293"
+        },
+        "phone": "737052898"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "BERETTA Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2013-11-09",
+      "clp": "6485",
+      "father": "Glen z Želečky",
+      "mother": "Zira z Holubické stráně",
+      "body": {
+        "height": "65",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "shows": "CAC, Oblastní vítěz",
+      "exams": "ZV – I.c., PZ I.c. LZ II.c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Karolina",
+        "last_name": "Vybíralová",
+        "address": {
+          "street": "Králová",
+          "number": "69",
+          "city": "Uničov",
+          "post_code": "78391"
+        },
+        "phone": "722931443,",
+        "web": "http://www.gordonsetr.com"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "DAYA Z DVORKU ČAMOURKU",
+      "date_of_birth": "2014-01-08",
+      "clp": "6493",
+      "father": "Zoom z Holubické stráně",
+      "mother": "Bora z Dvorku Čamourku",
+      "body": {
+        "height": "66"
+      },
+      "shows": "výborná",
+      "exams": "PZ I.c.",
+      "owner": {
+        "first_name": "Ladislav",
+        "last_name": "Bříza",
+        "address": {
+          "street": "Dřeveš",
+          "number": "3",
+          "city": "Dřeveš",
+          "post_code": "53973"
+        },
+        "phone": "737180665"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "DEINA Z DVORKU ČAMOURKU",
+      "date_of_birth": "2014-01-08",
+      "clp": "6489",
+      "father": "Zoom z Holubické stráně",
+      "mother": "Bora z Dvorku Čamourku",
+      "body": {
+        "height": "62",
+        "HD": "A"
+      },
+      "shows": "res.CAC, CAJC",
+      "exams": "ZV I.c .",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Tarabová",
+        "address": {
+          "street": "Lažany",
+          "number": "96",
+          "city": "Lipůvka",
+          "post_code": "67922"
+        }
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "CAFFÉ RACER MANON LESCAUT",
+      "date_of_birth": "2014-06-02",
+      "clp": "6536",
+      "father": "Dolce Link Everywhere z Ojcowskiej doliny",
+      "mother": "Xsara z Holubické stráně",
+      "body": {
+        "height": "60",
+        "HD": "A",
+        "ED": "A/A",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR, CH ČR, CH SK, CH PL, CH HR, CH ROM, CH UY, GrandCH CZ, GrandCH UY, Ch ČMKU, C.I.B., C.I.E.",
+      "shows": "Evropský vítěz mladých, Klub. vítěz 2017, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, III.BIG",
+      "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c.",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Nedavašková",
+        "address": {
+          "street": "V Důlkách",
+          "number": "480/2",
+          "city": "Ostrava-Nová Bělá",
+          "post_code": "72400"
+        },
+        "phone": "605917503",
+        "email": "nedavaskovi@seznam.cz",
+        "web": "http://www.manonlescaut.net"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ELZA Z DVORKU ČAMOURKU",
+      "date_of_birth": "2015-05-22",
+      "clp": "6600",
+      "father": " Lochfain An Aus Approach To Glenmaurangl",
+      "mother": "Bora z Dvorku Čamourku",
+      "body": {
+        "height": "60",
+        "HD": "A"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAC, CAJC",
+      "exams": "ZV I.c ., PZ II.c, MFT- v.d. 13b",
+      "owner": {
+        "first_name": "Jiřina",
+        "last_name": "Moravcová",
+        "address": {
+          "street": "Na Vyhlídce",
+          "number": "1164",
+          "city": "Polná"
+        }
+      },
+      "other": "Uchovněna na vyjímku – chybí 2x P3"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "CAREN Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2015-07-03",
+      "clp": "6608",
+      "father": "Lamborghini Black Ivy",
+      "mother": "Zira z Holubické stráně",
+      "body": {
+        "height": "64",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR, JCH SK, CH SK",
+      "shows": "CAC,CAJC, NV, CACIB, BOJ, BOB, BOS",
+      "exams": "ZV I.c ., PZ I.c,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Karolina",
+        "last_name": "Vybíralová",
+        "address": {
+          "street": "Králová",
+          "number": "69",
+          "city": "Uničov",
+          "post_code": "78391"
+        },
+        "phone": "722931443",
+        "web": "http://www.gordonsetr.com"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ARI KRALUPSKÁ ZAHRÁDKA",
+      "date_of_birth": "2015-08-05",
+      "clp": "6617",
+      "father": "Diamond Dudu Áres Šamarkan",
+      "mother": "Kaira z Želečky",
+      "body": {
+        "height": "61",
+        "HD": "A"
+      },
+      "shows": "výborná, VT, Kr.V",
+      "exams": "PZ I.c,",
+      "owner": {
+        "first_name": "Ilja",
+        "last_name": "Šubert",
+        "address": {
+          "street": "Radostín nad Oslavou",
+          "number": "41",
+          "city": "Radostín nad Oslavou"
+        }
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "BEITRIS PEARL MORAVIA",
+      "date_of_birth": "2016-02-09",
+      "clp": "6648",
+      "father": "Zir z Holubické stráně",
+      "mother": "Ashley Princes Pearl Moravia",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAC, CAJC, BOJ, BOS",
+      "exams": "ZV I.c ., MJL-PZ I.c CACT, MJL-VP I.c",
+      "owner": {
+        "first_name": " Jana a Bronislav",
+        "last_name": "Vajdíkovi",
+        "address": {
+          "street": "V uličce",
+          "number": "305",
+          "city": "Uherské Hradiště ",
+          "post_code": "68601"
+        },
+        "phone": "733761328",
+        "email": "va.jana305@seznam.cz",
+        "web": "http://www.pearlmoravia.cz"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "BLAIRE PEARL MORAVIA",
+      "date_of_birth": "2016-02-09",
+      "clp": "6649",
+      "father": "Zir z Holubické stráně",
+      "mother": " Ashley Princes Pearl Moravia",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, CAJC, BOJ, BOC",
+      "exams": "ZV I.c ., MJL-PZ I.c CACT, MJL-VP I.c",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Vávra",
+        "address": {
+          "street": "Podlesí",
+          "number": "265",
+          "city": "Chropyně",
+          "post_code": "76811"
+        },
+        "phone": "724081669",
+        "email": "vavrape@seznam.cz"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "FIL-KAZ FROM THE GREEN SCOTLAND KAMA",
+      "date_of_birth": "2017-03-28",
+      "clp": "6728",
+      "father": "Taransay Alexander",
+      "mother": "Helena from Gordon ́s Castle Tesab-Aksed",
+      "body": {
+        "height": "58",
+        "HD": "A"
+      },
+      "shows": "výborná",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Ivan",
+        "last_name": "Havala",
+        "address": {
+          "street": "Nová",
+          "number": "188",
+          "city": "Jevišovka",
+          "post_code": "69183"
+        }
+      }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   ]
 }
