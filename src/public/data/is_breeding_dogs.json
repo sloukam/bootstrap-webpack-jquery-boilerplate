@@ -268,19 +268,551 @@
         "phone": "602500986"
       }
     },
-    
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "WALTER REDWEED",
+      "date_of_birth": "2012-09-20",
+      "clp": "15774",
+      "father": "Garden Star ́s Royal Legend",
+      "mother": " Isabel Montefigueiras",
+      "body": {
+        "HD": "C"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, NV, res.CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Robert",
+        "last_name": "Brauner",
+        "address": {
+          "street": "Uhřičice",
+          "number": "140",
+          "city": "Kojetín",
+          "post_code": "75201"
+        },
+        "phone": "731135649"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "KARMINO MADE OLEANDER",
+      "date_of_birth": "2013-01-04",
+      "clp": "15855",
+      "father": "Applegrove Bechamel",
+      "mother": " Karmino Made Improvisation",
+      "body": {
+        "HD": "C",
+        "rcd4": "clear",
+        "other": "CLAD N/N"
+      },
+      "championships": "CH ČR, CH AT, JCH ČR, JCH AT",
+      "shows": " CAJC, BOJ, CAC, CACA, res.CACIB, NV, BOB, BIG II, BIS",
+      "exams": "ZV I.cena, PZ I.cena, SZVP II.cena",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Hana",
+        "last_name": "Bočková",
+        "address": {
+          "street": "Pod Vartou",
+          "number": "636",
+          "city": "Zliv",
+          "post_code": "37344"
+        },
+        "phone": "776171298",
+        "web": "http://www.irsky-setr.cz"
+      },
+      "other": "import Litva"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "CLIFFORD Z BŘEVNOVSKÉHO VRCHU",
+      "date_of_birth": "2013-04-08",
+      "clp": "15867",
+      "father": "Thendara Satisfaction",
+      "mother": "Adelaide z Břevnovského vrchu",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, res. CAC, CAC",
+      "exams": "PZ I.cena",
+      "owner": {
+        "first_name": "Petra",
+        "last_name": "Drechslerová",
+        "address": {
+          "street": "Pionýrská",
+          "number": "7",
+          "city": "Bruntál",
+          "post_code": "79201"
+        },
+        "phone": "777239100"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DORIAN GRAY MAHAGONY PAW",
+      "date_of_birth": "2013-11-23",
+      "clp": "15940",
+      "father": "De Facto Sagari Redweed",
+      "mother": "Assonance Mahagony Paw",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAC",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "title": "Ondřej Novosad",
+        "first_name": "Naďa Ingrová",
+        "address": {
+          "street": "Řebříčkova",
+          "number": "130",
+          "city": "Květnice",
+          "post_code": "25084"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "EARNEST ENTHUSIAST EVERDENE",
+      "date_of_birth": "2013-01-02",
+      "clp": "15806",
+      "father": "Salford Wizard z Arislandu",
+      "mother": "Neiven Arouse Admiration",
+      "body": {
+        "HD": "C"
+      },
+      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, JCH ČR, JCH SK",
+      "shows": "CAJC, CAC, CACIB, NV, BOB, JBIG, BIG",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jarmila",
+        "last_name": "Viktoříková",
+        "address": {
+          "street": "Zálešná",
+          "number": "4/1161",
+          "city": "Zlín",
+          "post_code": "76001"
+        },
+        "phone": "724344162"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "EXCELLENT ENTERTAINER EVERDENE",
+      "date_of_birth": "2013-04-08",
+      "clp": "15808",
+      "father": "Salford Wizard z Arislandu",
+      "mother": "Neiven Arouse Admiration",
+      "body": {
+        "HD": "A",
+        "ED": "A/A",
+        "other": "CLAD N/N, PRA rcd 1 clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, CAC, CACIB, BOB, BIG 4",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Klára",
+        "last_name": "Chlupatá",
+        "address": {
+          "street": "Na Bitevní pláni",
+          "number": "21",
+          "city": "Praha 4 - Nusle"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ATHOS OD NÁPLAVKY",
+      "date_of_birth": "2014-03-08",
+      "clp": "16007",
+      "father": " Lary ze Srbeckých luhů",
+      "mother": "Brela Apoli Gwen",
+      "body": {
+        "HD": "C"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, SZVP I.cena, VZ II.cena",
+      "owner": {
+        "first_name": "Milan",
+        "last_name": "Vacek",
+        "address": {
+          "street": "Velké Koloděje",
+          "number": "60",
+          "city": "Velké Koloděje",
+          "post_code": "53304"
+        },
+        "phone": "736671346"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "AGAR AKIMBO DAISY RAIN",
+      "date_of_birth": "2014-03-13",
+      "clp": "15989",
+      "father": "Cordarragh Picasso",
+      "mother": "Artemis Elimar Doubrava",
+      "body": {
+        "HD": "A",
+        "rcd4": "carrier",
+        "other": "CLAD N/N, PRA rcd 1 clear"
+      },
+      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK, CH AT",
+      "shows": "CAC, CACA, CWC, CACIB, NV, BOB, BIG",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Zdeňka",
+        "last_name": "Kořínková",
+        "address": {
+          "street": "Hnanice",
+          "number": "3",
+          "city": "Znojmo",
+          "post_code": "66902"
+        },
+        "phone": "607953974",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DENY OD KLAPAVCE",
+      "date_of_birth": "2014-02-23",
+      "clp": "15958",
+      "father": "Dag z Křenovic",
+      "mother": "Zuzi od Klapavce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný, VT",
+      "exams": "PZ I.cena, LZ I.cena, SZVP II.cena, VZ II.cena",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Dušková",
+        "address": {
+          "street": "Masarykovo náměstí",
+          "number": "12",
+          "city": "Nové dvory",
+          "post_code": "28531"
+        },
+        "phone": "721637209"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "Y-COLIN Z HRADISKA RÁJCE",
+      "date_of_birth": "2014-07-14",
+      "clp": "16045",
+      "father": "Neiven Amor ́s Arrow",
+      "mother": "X-Apache Lady z Hradiska Rájce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jiří",
+        "last_name": "Rada",
+        "address": {
+          "street": "Hlavní Náměstí",
+          "number": "105/28",
+          "city": "Krnov",
+          "post_code": "79401"
+        },
+        "phone": "608338542"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ANGELLUS SILVIAN MAHAGONY STAR",
+      "date_of_birth": "2014-09-09",
+      "clp": "16073",
+      "father": "Quinniver ́s Old Time Rock ́n ́Roll",
+      "mother": "Baileys The Original Magahony Paw",
+      "body": {
+        "HD": "B"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, CAC, CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Šmídová",
+        "address": {
+          "street": "Václavské náměstí",
+          "number": "39/821",
+          "city": "Praha 1",
+          "post_code": "11000"
+        }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ANDY WARHOL DAISY RAIN",
+      "date_of_birth": "2014-03-13",
+      "clp": "15994",
+      "father": "Cordarragh Picasso",
+      "mother": "Artemis Elimar Doubrava",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": " CAJC, BOJ,CAC, JBIG",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Lucie",
+        "last_name": "Vitíková",
+        "address": {
+          "street": "Okružní",
+          "number": "908",
+          "city": "Týniště nad Orlicí",
+          "post_code": "51721"
+        },
+        "phone": "731774062",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "EDENDERRY MAHAGONY PAW",
+      "date_of_birth": "2015-04-25",
+      "clp": "16159",
+      "father": "Garden Star ́s Red Bull",
+      "mother": " Assonance Mahagony Paw",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "res.CAC",
+      "exams": "T.A.N., ZV I.cena CACT",
+      "owner": {
+        "first_name": "Adéla",
+        "last_name": "Matějková",
+        "address": {
+          "street": "Hekrova",
+          "number": "852/8",
+          "city": "Praha 4",
+          "post_code": "14900"
+        },
+        "phone": "723387243"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BOSIA MAHAGON KENYA",
+      "date_of_birth": "2015-06-28",
+      "clp": "16192",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Flea Červený vítr",
+      "body": {
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "championships": "CH ČR, CH SK",
+      "shows": "CAC, CACA, r.CACIB",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Daniš",
+        "address": {
+          "street": "Nádražní",
+          "number": "629/38",
+          "city": "Střelice",
+          "post_code": "66447"
+        },
+        "phone": "602569704",
+        "email": "petr.danis71@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BLACK JACK DAISY RAIN",
+      "date_of_birth": "2016-01-13",
+      "clp": "16214",
+      "father": "Garden Star ́s Red Bull",
+      "mother": "Artemis Elimar Doubrava",
+      "body": {
+        "HD": "B"
+      },
+      "championships": "GRAND CH ČR, CH ČMKU, CH ČR, CH SK, JCH ČR",
+      "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, BOB, JBIG, BIG 3",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Ladislav",
+        "last_name": "Lokaj",
+        "address": {
+          "street": "Kamínky",
+          "number": "2",
+          "city": "Brno",
+          "post_code": "63400"
+        },
+        "phone": "606499792",
+        "email": "llokaj@seznam.cz",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "HENDY Z JIROUŠKOVA DVORA",
+      "date_of_birth": "2016-03-18",
+      "clp": "16253",
+      "father": "Navarro Jay Slovak Base",
+      "mother": "Bereta Apoli Gwen",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný, VT",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Václav",
+        "last_name": "Kostiha",
+        "address": {
+          "street": "Sobůlky",
+          "number": "26",
+          "city": "Sobůlky",
+          "post_code": "69701"
+        },
+        "phone": "774500830",
+        "email": "vasekostiha@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "AMON Z MALÝCH KOLODĚJ",
+      "date_of_birth": "2017-02-10",
+      "clp": "16336",
+      "father": "Pad ze Srbeckých luhů",
+      "mother": "Brela Apoli Gwen",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Klaudie",
+        "last_name": "Rosenbergová",
+        "address": {
+          "street": "Březinova",
+          "number": "4",
+          "city": "Břeclav",
+          "post_code": "69002"
+        },
+        "email": "klaudiarosenbergova69@gmail.com"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ALAN Z LUKOVEČSKÉHO REMÍZU",
+      "date_of_birth": "2017-05-28",
+      "clp": "16428",
+      "father": "Aramis Apolly Moravia",
+      "mother": "Clotilde z Břevnovského vrchu",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAJC, BOJ, CAC, CACIB",
+      "exams": "ZV I.cena CACT",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Kaspřík",
+        "address": {
+          "street": "Jaklovecká",
+          "number": "1411/28",
+          "city": "Slezská Ostrava",
+          "post_code": "71000"
+        },
+        "phone": "602500986"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "CHARON Z JIROUŠKOVA DVORA",
+      "date_of_birth": "2017-05-23",
+      "clp": "16399",
+      "father": "Almost Picasso Daisy Rain",
+      "mother": "Bereta Apoli Gwen",
+      "body": {
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "shows": "CAJC, CAC, BOB",
+      "exams": "ZV I.cena, PZ I.cena, Mem. Josefa Lammera (PZ+SZVP) I.cena CACT + II.cena",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Smutný",
+        "address": {
+          "street": "Římov",
+          "number": "93",
+          "city": "Stařeč",
+          "post_code": "67522"
+        },
+        "phone": "608646666"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "SARMANDO DREAM PIECE OOF GOLD",
+      "date_of_birth": "2017-11-17",
+      "clp": "16584",
+      "father": "Lanascol Smoke and Mirrors",
+      "mother": " Jendally Lady in Red",
+      "body": {
+        "HD": "B"
+      },
+      "shows": "CAC, res. CACIB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Sosonová",
+        "address": {
+          "street": "Studničkova",
+          "number": "857/7",
+          "city": "Ostrava",
+          "post_code": "71500"
+        },
+        "phone": "603195315"
+      },
+      "other": "import Lotyšsko"
+    },
     {
       "breed": "IS",
       "visible": true,
