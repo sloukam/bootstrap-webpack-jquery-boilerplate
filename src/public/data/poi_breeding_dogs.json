@@ -1,0 +1,94 @@
+{
+  "dogs": [
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ENDY Z HOVORAN",
+      "date_of_birth": "2009-01-11",
+      "clp": "10532",
+      "father": "Best di Torre Brencola",
+      "mother": "Bora z Hovoran",
+      "body": {
+        "height": "68",
+        "color": "černobílý",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, NV",
+      "exams": "ZV-I. c, PZ-I. c, SZVP-I. c, LZ-I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "David",
+        "last_name": "Březina Ph.D.",
+        "address": {
+          "street": "Skalice",
+          "number": "39",
+          "city": "Hostěradice",
+          "post_code": "67171"
+        },
+        "phone": "728972005",
+        "email": "DBrezina@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "IR Z OKLIKOVA",
+      "date_of_birth": "2009-02-16",
+      "clp": "10547",
+      "father": "Ajax z Knollovy školy",
+      "mother": "Brenda Blahud",
+      "body": {
+        "color": "hnědobílý",
+        "HD": "A"
+      },
+      "shows": "CAC",
+      "exams": "ZV-I. c, PZ-I. c, SZVP-I. c, LZ-I. c, VZ - I. c",
+      "owner": {
+        "first_name": "František",
+        "last_name": "Zahradníček",
+        "address": {
+          "street": "17 listopadu",
+          "number": "2235",
+          "city": "Dvůr Králové n/L",
+          "post_code": "54401"
+        },
+        "phone": "737217117",
+        "email": "f.zahradnicek@petergfk.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ARAMIS Z VINNÝCH TRATÍ",
+      "date_of_birth": "2009-09-09",
+      "clp": "10615",
+      "father": "Ort z Měšínské hájovny",
+      "mother": "Dorotka z Černých blat",
+      "body": {
+        "height": "63",
+        "color": "žlutobílý",
+        "HD": "C"
+      },
+      "shows": "CAC, CAC ČMKU, res.CACIB, NV, KV",
+      "exams": "ZV-I. c CACT, PZ-I. c, SZVP-I. c, SZVP-II. c, LZ-I. c,",
+      "owner": {
+        "first_name": "Aleš",
+        "last_name": "Ševčík",
+        "address": {
+          "street": "Vlkoš",
+          "number": "337",
+          "city": "Vlkoš",
+          "post_code": "69641"
+        },
+        "phone": "608533303",
+        "email": "zvinnychtrati@seznam.cz",
+        "web": "http://www.zvinnychtrati.estranky.cz"
+      }
+    },
+    
+  ]
+}
+
