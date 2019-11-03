@@ -52,6 +52,120 @@
         "phone": "603410711"
       }
     },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "SYNDY ZE SRBECKÝCH LUHŮ",
+      "date_of_birth": "2009-02-15",
+      "clp": "15235",
+      "father": "Cit z Hosteckých vrchů",
+      "mother": "Lexa ze Srbeckých luhů",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný, Krajský vítěz",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Antonín",
+        "last_name": "Halla",
+        "address": {
+          "street": "Novinky",
+          "number": "250",
+          "city": "Prušánky",
+          "post_code": "69621"
+        },
+        "phone": "728202955"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BERNARD LORD EVERDENE",
+      "date_of_birth": "2009-08-27",
+      "clp": "15332",
+      "father": "Indian Boy Jay Slovak Base",
+      "mother": "Vanesa z Luhové seče",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný, CAC, Krajský vítěz, VSV, res. CACIB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jarmila",
+        "last_name": "Viktoříková",
+        "address": {
+          "street": "Zálešná",
+          "number": "4/1161",
+          "city": "Zlín",
+          "post_code": "76001"
+        },
+        "phone": "724344162"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "HRABIA Z ORSAKU CHROBREGO",
+      "date_of_birth": "2009-11-26",
+      "clp": "15450",
+      "father": "Kerrimere Winter Wine",
+      "mother": "Shadwell Absolutely All My Loving",
+      "body": {
+        "HD": "B"
+      },
+      "shows": "CAJC, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Arnošt",
+        "last_name": "Cahlík",
+        "address": {
+          "street": "Kladeruby",
+          "number": "132",
+          "city": "Kelč",
+          "post_code": "75643"
+        },
+        "email": "cahlikova.marie@seznam.cz",
+        "web": "http://www.zluhovesece.estranky.cz"
+      },
+      "other": "Import Polsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DOUGLAS REDWEED",
+      "date_of_birth": "2010-12-16",
+      "clp": "15531",
+      "father": "Corranroo Redweed",
+      "mother": " Isabel Montefigueiras",
+      "body": {
+        "HD": "B"
+      },
+      "shows": "CAC, res. CACIB",
+      "exams": "PZ I.cena, SZVP I.cena, LZ I.cena",
+      "owner": {
+        "first_name": "Oldřich",
+        "last_name": "Slavotínek",
+        "address": {
+          "street": "J.V.Sládka",
+          "number": "4",
+          "city": "Prostějov",
+          "post_code": "79604"
+        },
+        "phone": "731171053"
+      }
+    },
+    
+
+
+
+
+
+
 
 
 
