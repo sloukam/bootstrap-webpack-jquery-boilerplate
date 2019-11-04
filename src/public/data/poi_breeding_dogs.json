@@ -353,7 +353,123 @@
         "email": "otahalova.v@seznam.cz"
       }
     },
-    
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ALL ALL ALL ARTEGERD",
+      "date_of_birth": "2017-06-27",
+      "clp": "11414",
+      "father": " SOLIVIA‘S WELL WELL WELL",
+      "mother": "WHIPSPAN LEGACY",
+      "body": {
+        "height": "67",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, BOJ, BOS, BOB, JBIG, JBIS,",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Thiel",
+        "address": {
+          "street": "Nová Ves",
+          "number": "141",
+          "post_code": "46331"
+        },
+        "phone": "721546741",
+        "email": "pavlos2211@gmail.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "AMPIO DEL WINEPOINT",
+      "date_of_birth": "2017-04-21",
+      "clp": "11436",
+      "father": "Dio Vom Kleebachtal",
+      "mother": "Pawprint Flaming Soul",
+      "body": {
+        "height": "64",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "CAJC, BOS, CACIB, BOB",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Gabriela",
+        "last_name": "Lyčková",
+        "address": {
+          "street": "Luční",
+          "number": "183",
+          "city": "Lučina",
+          "post_code": "73939"
+        }
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "COLUMBO Z MĚNÍNSKÉHO LESA",
+      "date_of_birth": "2016-12-06",
+      "clp": "11337",
+      "father": "Bert Bohemia Frony",
+      "mother": "Deby z Borovinky",
+      "body": {
+        "height": "66",
+        "color": "žemlová",
+        "HD": "C"
+      },
+      "shows": "V2, res. CAC",
+      "exams": "ZV I. c CACT, PZ I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Pavel",
+        "last_name": "Konečný",
+        "address": {
+          "street": "Měnín",
+          "number": "180",
+          "city": "Měnín",
+          "post_code": "66457"
+        },
+        "phone": "724523332",
+        "email": "konecny.lz4@lesycr.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "AVON",
+      "date_of_birth": "2014-04-01",
+      "clp": "11537",
+      "father": "DAG",
+      "mother": "ALMA-N",
+      "body": {
+        "height": "64",
+        "color": "černobílá",
+        "HD": "B"
+      },
+      "shows": " V1, CAC, res. CACIB, BOB",
+      "exams": " I.U.O. Srbsko, ZV I. c,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz",
+        "web": "http://www.ze-zajecich-poli.webnode.cZ"
+      }
+    }
 
 
 
