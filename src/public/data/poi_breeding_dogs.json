@@ -469,7 +469,97 @@
         "email": "zlatka.z@seznam.cz",
         "web": "http://www.ze-zajecich-poli.webnode.cZ"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "PORTA WK – SB",
+      "date_of_birth": "2011-04-27",
+      "clp": "10885",
+      "father": "Pluto z Knollovy školy",
+      "mother": "Ralla Franzini",
+      "body": {
+        "height": "63",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV-I. c, PZ-I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Petr",
+        "last_name": "Oliva",
+        "address": {
+          "street": "Větrná",
+          "number": "79",
+          "city": "Miroslav",
+          "post_code": "67172"
+        },
+        "phone": "731178425",
+        "email": "OlivaP6@seznam.cz"
+      }
+    },{
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "ONIIE Z LUKOVSKÝCH LÁNŮ",
+      "date_of_birth": "2011-06-14",
+      "clp": "10815",
+      "father": "Keepsake z Lukovských lánů",
+      "mother": "Nika z Lukovských lánů",
+      "body": {
+        "height": "60",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V, VT, OV",
+      "exams": "ZV-I. c",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Čestmír",
+        "last_name": "Šrámek CSc",
+        "address": {
+          "street": "Údolní",
+          "number": "1",
+          "city": "Klobouky u Brna",
+          "post_code": "69172"
+        },
+        "phone": "777944933",
+        "email": "cestmir.sramek@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "ODETA ZE ŠTÍPEK",
+      "date_of_birth": "2012-01-31",
+      "clp": "10871",
+      "father": "Diablo ze Štípek",
+      "mother": "Indi Juta z Bolatic",
+      "body": {
+        "height": "60",
+        "color": "černobílá",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, res. CACIB, NV",
+      "exams": "ZV-I. c, PZ-I. c",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Martina",
+        "last_name": "Müllerová",
+        "address": {
+          "street": "Na Hříbovci",
+          "number": "271",
+          "city": "Markvartovice",
+          "post_code": "74714"
+        },
+        "phone": "776281286",
+        "web": "http://www.chszestipek.cz"
+      }
     }
+
 
 
 
