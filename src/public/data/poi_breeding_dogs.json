@@ -558,6 +558,64 @@
         "phone": "776281286",
         "web": "http://www.chszestipek.cz"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "OSKA ZE ŠTÍPEK",
+      "date_of_birth": "2012-01-31",
+      "clp": "10869",
+      "father": "Diablo ze Štípek",
+      "mother": "Indi Juta z Bolatic",
+      "body": {
+        "height": "63",
+        "color": "bílohnědá",
+        "HD": "A"
+      },
+      "shows": "VT, res. CAC",
+      "exams": "ZV-I. c",
+      "owner": {
+        "first_name": "Edita",
+        "last_name": "Štusáková",
+        "address": {
+          "street": "Dr. E. Beneše",
+          "number": "651",
+          "city": "Česká Třebová",
+          "post_code": "56002"
+        },
+        "phone": "731616753",
+        "email": "stusakova@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CORA Z BOROVINKY",
+      "date_of_birth": "2012-06-22",
+      "clp": "10906",
+      "father": "Prim z Knollovy školy",
+      "mother": "Iša z Oklikova",
+      "body": {
+        "height": "60",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "CAC, res CACIB, CACIB",
+      "exams": "ZV-I. c, PZ-I. c, VZ-I. c",
+      "owner": {
+        "first_name": "Jiří",
+        "last_name": "Abraham",
+        "address": {
+          "street": "Záměstí",
+          "number": "115",
+          "city": "Choceň",
+          "post_code": "56501"
+        },
+        "phone": "736641209",
+        "email": "zdenabrzy@seznam.cz"
+      }
     }
 
 
