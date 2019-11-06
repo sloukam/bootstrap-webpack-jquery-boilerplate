@@ -881,6 +881,297 @@
         "email": "info@beskydypointer.cz",
         "web": "http://www.beskydypointer.cz"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "ARGA SYROVICKÉ LÁNY",
+      "date_of_birth": "2014-05-24",
+      "clp": "11040",
+      "father": "Aramis z Vinných tratí",
+      "mother": "Juka z Mešinské hájovny",
+      "body": {
+        "height": "58",
+        "color": "hnědá bílé znaky",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV – I. C, CACT, ZV – II. c., PZ –\nIII. c., 2x ZVP - I. c., LZ - I. c., VZ – II. c, NFT- VD 12 b., NFT-VD 15 b., ZVP Memoriál J. Hrabala II. c., Memoriál Josefa Lammera PZ+VP – I. c. CACT, MFT MSKAO – Exc. 16 b.",
+      "owner": {
+        "first_name": "Aleš",
+        "last_name": "Ševčík",
+        "address": {
+          "street": "Vlkoš",
+          "number": "337",
+          "city": "Vlkoš",
+          "post_code": "69641"
+        },
+        "phone": "608533303",
+        "email": "zvinnychtrati@seznam.cz",
+        "web": "http://www.zvinnychtrati.estranky.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AIŠA OD HLUBOKÉHO ÚVOZU",
+      "date_of_birth": "2013-11-25",
+      "clp": "11004",
+      "father": "Pluto z Knollovy školy",
+      "mother": "Karen od Nezdického potoka",
+      "body": {
+        "color": "bíločerná",
+        "HD": "C"
+      },
+      "shows": "CAJC, BOJ",
+      "exams": "ZV-I. c",
+      "owner": {
+        "first_name": "Tereza",
+        "last_name": "Kopecká",
+        "address": {
+          "street": "Vítovice",
+          "number": "124",
+          "city": "Rousínov",
+          "post_code": "68301"
+        }
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "ELIŠKA Z HELMU",
+      "date_of_birth": "2014-06-06",
+      "clp": "11046",
+      "father": "Lesan od Nezdického potoka",
+      "mother": "Lea ze Srnína",
+      "body": {
+        "height": "60",
+        "color": "bíložlutá",
+        "HD": "A"
+      },
+      "shows": "CAC",
+      "exams": "ZV-I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Miloslava",
+        "last_name": "Šišková",
+        "address": {
+          "street": "Nevojice",
+          "number": "73",
+          "city": "Bučovice",
+          "post_code": "68501"
+        },
+        "phone": "776761901",
+        "email": "beaglekennel@seznam.cz",
+        "web": "http://www.zlonskeholeta.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AUDREY Z MEŠINSKÉ HÁJOVNY",
+      "date_of_birth": "2015-04-29",
+      "clp": "11182",
+      "father": "Scott z Mešinské hájovny",
+      "mother": "Perla z Knollovy školy",
+      "body": {
+        "height": "62",
+        "color": "žemlová",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, CAC ČMKU, res. CACIB, CACIB, NV, BOS, BOB, KV",
+      "exams": "PZ I.c",
+      "owner": {
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz",
+        "web": "http://www.ze-zajecich–poli.webnode.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "DAISY LUČNÍ KVĚT",
+      "date_of_birth": "2015-05-22",
+      "clp": "11202",
+      "father": "Adar z Hanáckých polí,",
+      "mother": "Iwi Blahud",
+      "body": {
+        "height": "58",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV I. c, PZ I. c",
+      "owner": {
+        "first_name": "Ladislav",
+        "last_name": "Kuchta",
+        "address": {
+          "street": "Hodějice",
+          "number": "50",
+          "city": "Hodějice",
+          "post_code": "68401"
+        },
+        "phone": "723741696",
+        "email": "SlavekKuchta@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "DAFNÉ LUČNÍ KVĚT",
+      "date_of_birth": "2015-05-22",
+      "clp": "11204",
+      "father": "Adar z Hanáckých polí",
+      "mother": "Iwi Blahud",
+      "body": {
+        "height": "60",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "CAC, res. CACIB",
+      "exams": "ZV I. c, PZ I. c, ZVP I. c",
+      "owner": {
+        "first_name": "Milena",
+        "last_name": "Štěpánková",
+        "address": {
+          "street": "Vysoká Srbská",
+          "number": "8",
+          "city": "Hronov",
+          "post_code": "54931"
+        },
+        "phone": "777015493",
+        "email": "alibaba1@mujmail.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "APACHE ZE ŠTÍPEK",
+      "date_of_birth": "2015-06-25",
+      "clp": "11206",
+      "father": "Ajzon z Halikarnasu",
+      "mother": "Odeta ze Štípek",
+      "body": {
+        "height": "60",
+        "color": "černobílá",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV I. c, PZ I. c, SZVP I. c, LZ I. c, VZ I. c",
+      "owner": {
+        "first_name": "Martina",
+        "last_name": "Müllerová",
+        "address": {
+          "street": "Na Hříbovci",
+          "number": "271",
+          "city": "Markvartovice",
+          "post_code": "74714"
+        },
+        "phone": "776281286",
+        "web": "http://www.chszestipek.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BENGIE Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2015-08-30",
+      "clp": "11231",
+      "father": "Ajzon z Halikarnasu",
+      "mother": "Amy z Bítýšských bažin",
+      "body": {
+        "height": "63",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "CAJC, BOJ",
+      "exams": "ZV- I. c",
+      "owner": {
+        "first_name": "Sára",
+        "last_name": "Pešatová",
+        "address": {
+          "street": "Oráčová",
+          "number": "1390/7",
+          "city": "Ostrava",
+          "post_code": "70030"
+        },
+        "phone": "605978346",
+        "email": "sara.pesatova@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BEZZUBKA Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2015-08-30",
+      "clp": "11230",
+      "father": "Ajzon z Halikarnasu",
+      "mother": "Amy z Bítýšských bažin",
+      "body": {
+        "height": "63",
+        "color": "černá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "V, res. CAC",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Kristýna",
+        "last_name": "Hejlová",
+        "address": {
+          "street": "Dolní Branka",
+          "number": "140",
+          "city": "Mor. Knínice",
+          "post_code": "66434"
+        },
+        "phone": "724974630",
+        "email": "beach.kristyna@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AURA Z VLČÍCH HOR",
+      "date_of_birth": "2016-06-06",
+      "clp": "11294",
+      "father": "JOJO ALADEMMA",
+      "mother": "CITA Z ŽEHUNSKÉ KOVÁRNY",
+      "body": {
+        "height": "61",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV I. c, PZ I. c",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Grygar",
+        "address": {
+          "street": "Věrovany",
+          "number": "68",
+          "city": "Věrovany",
+          "post_code": "78375"
+        },
+        "phone": "737766134",
+        "email": "hogr1@seznam.cz"
+      }
     }
 
 
