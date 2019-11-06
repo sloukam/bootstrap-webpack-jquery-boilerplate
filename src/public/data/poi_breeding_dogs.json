@@ -1172,7 +1172,241 @@
         "phone": "737766134",
         "email": "hogr1@seznam.cz"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "HOLLY Z KARCZEWSKIEJ ZAGRODY",
+      "date_of_birth": "2016-01-25",
+      "clp": "11314",
+      "father": "Basco z Karczewskiej Zagrody",
+      "mother": "Chesterhope Franka",
+      "body": {
+        "height": "61",
+        "color": "bílooranžová",
+        "HD": "B"
+      },
+      "shows": "BOJ, BOS, BOB",
+      "exams": "ZV - I. c., CACT, PZ - I. c.,NFT – Derby T.B. 14 b., Memoriál Josefa Luxe - I. c 208 b., NFT -17 b., MFT – GT 14 b.",
+      "owner": {
+        "first_name": "Viktor",
+        "last_name": "Mára",
+        "address": {
+          "street": "Hřiby",
+          "number": "54",
+          "city": "Vitice",
+          "post_code": "28106"
+        },
+        "phone": "775785087",
+        "email": "mara.viktor@gmail.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AGATA FROM WINEPOINT NATYAVE GROVE",
+      "date_of_birth": "2016-01-03",
+      "clp": "11245",
+      "father": "Athos Pointerland Sáregresi",
+      "mother": "Dheli z Karczewskiej Zagrody",
+      "body": {
+        "height": "64",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "BOJ, BOB, BOS",
+      "exams": "ZV-I. c",
+      "owner": {
+        "first_name": "Nikol",
+        "last_name": "Hajmonová",
+        "address": {
+          "street": "Zahradní",
+          "number": "20",
+          "city": "Břeclav",
+          "post_code": "69003"
+        },
+        "phone": "775638947",
+        "web": "http://www.natyavegroce.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "FANY Z HELMU",
+      "date_of_birth": "2016-08-21",
+      "clp": "11320",
+      "father": "Endy z Hovoran",
+      "mother": "Diana z Helmu",
+      "body": {
+        "height": "61",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "VN1, V2, res. CAC",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Karel",
+        "last_name": "Pokorný",
+        "address": {
+          "street": "Sulíkov",
+          "number": "8",
+          "city": "Křetín",
+          "post_code": "67962"
+        },
+        "phone": "723276897",
+        "email": "karel8pokorny@seznam.cz",
+        "web": "http://www.sulikovska-stran.webnode.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "FERA Z HELMU",
+      "date_of_birth": "2016-08-21",
+      "clp": "11321",
+      "father": "Endy z Hovoran",
+      "mother": "Diana z Helmu",
+      "body": {
+        "height": "62",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, BOJ, CAC, BOS, BOB",
+      "exams": "ZV I. c, VP II. c, PZ CACT I. c",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Hájek",
+        "address": {
+          "street": "Žešov",
+          "number": "115",
+          "city": "Prostějov",
+          "post_code": "79601"
+        },
+        "phone": "604664205",
+        "email": "haja46@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CILKA Z MĚNÍNSKÉHO LESA",
+      "date_of_birth": "2016-12-06",
+      "clp": "11346",
+      "father": "Beart Bohemia Frony",
+      "mother": "Deby z Borovinky",
+      "body": {
+        "height": "60",
+        "color": "hnědá bílé znaky",
+        "HD": "C"
+      },
+      "shows": "V1, CAC",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Bronislav",
+        "last_name": "Procinger",
+        "address": {
+          "street": "Střední",
+          "number": "13",
+          "city": "Velké Pavlovice",
+          "post_code": "69106"
+        },
+        "phone": "702514644",
+        "email": "b.procinger@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CEDRA Z MIROSLAVSKÉHO DVORA",
+      "date_of_birth": "2016-01-09",
+      "clp": "11256",
+      "father": "Bert Bohemia Frony",
+      "mother": "Porta WK-SB",
+      "body": {
+        "height": "59",
+        "color": "bíloranžová",
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "V1, CAC, res. CACIB",
+      "exams": "ZV I. c, SVP I. c, PZ I. c",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Nýčová",
+        "address": {
+          "street": "Kostelní",
+          "number": "1129",
+          "city": "Náchod",
+          "post_code": "54701"
+        },
+        "phone": "776616149",
+        "email": "zuzana.nycova@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "JORIKA BLAHUD",
+      "date_of_birth": "2016-01-14",
+      "clp": "11262",
+      "father": "Artex Cabalia",
+      "mother": "Bonnie Zadní lesy",
+      "body": {
+        "height": "58",
+        "color": "bíločerná",
+        "HD": "B"
+      },
+      "shows": "V1, VT, KV",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Valenta",
+        "address": {
+          "street": "Vkoš",
+          "number": "229",
+          "city": "Vkoš",
+          "post_code": "69641"
+        },
+        "phone": "725464857"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BETTY Z KUNČINY VSI",
+      "date_of_birth": "2015-03-04",
+      "clp": "11116",
+      "father": "Argo od Zeleného stolu",
+      "mother": " Iris z Oklikova",
+      "body": {
+        "height": "58",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V3",
+      "exams": "ZV I. c, PZ II. c",
+      "owner": {
+        "first_name": "Jaroslav",
+        "last_name": "Mráček",
+        "address": {
+          "street": "Studentská",
+          "number": "1",
+          "city": "Prostějov",
+          "post_code": "79601"
+        },
+        "phone": "725822232",
+        "email": "mracek.jarek@seznam.cz"
+      }
     }
+    
 
 
 
