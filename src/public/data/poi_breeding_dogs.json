@@ -616,8 +616,272 @@
         "phone": "736641209",
         "email": "zdenabrzy@seznam.cz"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CILKA Z BOROVINKY",
+      "date_of_birth": "2012-06-22",
+      "clp": "10909",
+      "father": "Prim z Knollovy školy",
+      "mother": "Iša z Oklikova",
+      "body": {
+        "height": "61",
+        "color": "hnědá bílé znaky",
+        "HD": "A"
+      },
+      "shows": "V 1, VT, KV",
+      "exams": "ZV-I. c, PZ-I. c",
+      "owner": {
+        "first_name": "František",
+        "last_name": "Srnec",
+        "address": {
+          "street": "Dlouhá",
+          "number": "42",
+          "city": "Veverská Bítýška",
+          "post_code": "66471"
+        },
+        "phone": "777014724",
+        "email": "Srnec.Franta@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "DHELI Z KARCZEWSKIEJ ZAGRODY",
+      "date_of_birth": "2012-07-28",
+      "clp": "10940",
+      "father": "ROBYN DREAMS ARE FRE",
+      "mother": "BANDHURA z Kaczewskiej Zagrody",
+      "body": {
+        "height": "65",
+        "color": "bílooranžová",
+        "HD": "C"
+      },
+      "championships": "CH ČR, CH SK, JCH ČR, KV MSKAO 2014, KV MSKAO 2015, KV SKPS 2016, KV MSKAO 2018",
+      "shows": "CAJC, BOJ, CAC, CACIB, KL. VÍTĚZ, BOS, BOB",
+      "exams": "ZV-I. c",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Janečková Horáková",
+        "address": {
+          "street": "Nádražní",
+          "number": "1738",
+          "city": "Dubňany",
+          "post_code": "69603"
+        },
+        "phone": "728942000",
+        "web": "http://www.natyavegrove.com"
+      },
+      "other": "Import Polsko"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AMY Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2012-08-11",
+      "clp": "10920",
+      "father": "Endy z Hovoran",
+      "mother": "Mona z Knollovy školy",
+      "body": {
+        "height": "63",
+        "color": "černá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "CAC, CACIB, BOS",
+      "exams": "ZV-II. c",
+      "owner": {
+        "first_name": "Kristýna",
+        "last_name": "Hejlová",
+        "address": {
+          "street": "Dolní Branka",
+          "number": "140",
+          "city": "Mor. Knínice",
+          "post_code": "66434"
+        },
+        "phone": "724974630",
+        "email": "beach.kristyna@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CEDRA Z VINNÝCH TRATÍ",
+      "date_of_birth": "2012-12-30",
+      "clp": "10936",
+      "father": "Monty Somola",
+      "mother": "Dorotka z Černých blat",
+      "body": {
+        "height": "60",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V1, VT, OV, CAC",
+      "exams": "ZV-I. c, PZ-I. c, ZVP I. c",
+      "owner": {
+        "first_name": "Milena",
+        "last_name": "Štěpánková",
+        "address": {
+          "street": "Vysoká Srbská",
+          "number": "8",
+          "city": "Hronov",
+          "post_code": "54931"
+        },
+        "phone": "777015493",
+        "email": "alibaba1@mujmail.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "DIANA Z HELMU",
+      "date_of_birth": "2013-05-22",
+      "clp": "10958",
+      "father": "Ort z Měšínské hájovny",
+      "mother": "Lea ze Srnína",
+      "body": {
+        "height": "60",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV-I. c, PZ-I. c",
+      "owner": {
+        "first_name": "Karel",
+        "last_name": "Pokorný",
+        "address": {
+          "street": "Sulíkov",
+          "number": "8",
+          "city": "Křetín",
+          "post_code": "67962"
+        },
+        "phone": "723276897",
+        "email": "han.pokorna@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "DEBÝ Z BOROVINKY",
+      "date_of_birth": "2013-07-28",
+      "clp": "10990",
+      "father": "Marko z Knollovy školy",
+      "mother": "Iša z Oklikova",
+      "body": {
+        "height": "60",
+        "color": "60",
+        "HD": "A"
+      },
+      "shows": "res. CAC",
+      "exams": "LZ-I. c, ZVP-I. c, PZ-I. c, VZ-I. c",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Konečný",
+        "address": {
+          "street": "Doubravka",
+          "number": "216",
+          "city": "Lanžhot",
+          "post_code": "69151"
+        },
+        "phone": "724523332",
+        "email": "konecny.lz4@lesycr.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "WELA Z MEŠINSKÉ HÁJOVNY",
+      "date_of_birth": "2013-11-04",
+      "clp": "11009",
+      "father": "Hako z Mešinské Hájovny",
+      "mother": "Nela z Lukovských lánů",
+      "body": {
+        "height": "58",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "res. CAC",
+      "exams": "PZ II. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Kozárek",
+        "last_name": "Jaroslav",
+        "address": {
+          "street": "Ohrozim",
+          "number": "21",
+          "city": "Plumlov",
+          "post_code": "79803"
+        }
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AJDA OD HLUBOKÉHO ÚVOZU",
+      "date_of_birth": "2013-11-25",
+      "clp": "11005",
+      "father": "Pluto z Knollovy školy",
+      "mother": "Karen od Nezdického potoka",
+      "body": {
+        "height": "59",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV-I. c, PZ-I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Petr",
+        "last_name": "Oliva",
+        "address": {
+          "street": "Větrná",
+          "number": "79",
+          "city": "Miroslav",
+          "post_code": "67172"
+        },
+        "phone": "731178425",
+        "email": "OlivaP6@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "POLI OD NEZDICKÉHO POTOKA",
+      "date_of_birth": "2014-03-09",
+      "clp": "11031",
+      "father": "Hako z Mešinské hájovny",
+      "mother": "Lili od Nezdického potoka",
+      "body": {
+        "height": "60",
+        "color": "bíločerná",
+        "HD": "B"
+      },
+      "shows": "res. CAC",
+      "exams": "ZV I. c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Roman",
+        "last_name": "Bližnák",
+        "address": {
+          "street": "Lučina",
+          "number": "183",
+          "city": "Lučina",
+          "post_code": "73939"
+        },
+        "phone": "608574271",
+        "email": "info@beskydypointer.cz",
+        "web": "http://www.beskydypointer.cz"
+      }
     }
-
 
 
 
