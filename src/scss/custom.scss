@@ -27,6 +27,11 @@
 //  padding: 0.5rem 1rem;
 }
 
+@include media-breakpoint-down(md) {
+  .navbar-nav {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+  }
+}
 
 .red {
   color: #7b140c;
