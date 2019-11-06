@@ -598,7 +598,8 @@
         "phone": "725407708",
         "email": "hana.knerova@centrum.cz",
         "web": "https://www.zkrasnedoliny.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -627,7 +628,8 @@
         "phone": "604797859",
         "email": "molly88@seznam.cz",
         "web": "http://www.deaarduinna.wbs.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -657,7 +659,8 @@
         "email": "molly88@seznam.cz",
         "web": "http://www.deaarduinna.wbs.cz"
       },
-      "other": "Uchovněna na výjimku 1 vrhu – skus"
+      "other": "Uchovněna na výjimku 1 vrhu – skus",
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -688,7 +691,8 @@
         },
         "phone": "732944098",
         "email": "bara.cerna@atlas.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -717,7 +721,8 @@
           "email": "davaroni@davaroni.com",
           "web": "http://www.davaroni.com"
         }
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -749,7 +754,8 @@
         "phone": "774269211",
         "email": "sejvlova2004@seznam.cz"
       },
-      "other.other": "Import Rakousko"
+      "other.other": "Import Rakousko",
+      "img_ext": "jpg"
     },
     {
       "visible": true,
@@ -779,7 +785,8 @@
         },
         "phone": "775193190",
         "email": "r.krakovkova@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     }
   ]
 }
