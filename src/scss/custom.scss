@@ -27,6 +27,17 @@
   //  padding: 0.5rem 1rem;
 // }
 
+
+// .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+//   background-color: #FFFF00;
+//   color: #FFC0CB;
+// }
+
+.dropdown-menu a:hover {
+  background-color: #a1d9ae;
+  color: black;
+}
+
 @include media-breakpoint-down(md) {
   .navbar-nav {
     border: 1px solid rgba(0, 0, 0, 0.15);
