@@ -4,18 +4,6 @@
 // @import url(https://fonts.googleapis.com/css?family=Quicksand:200,300,400,700);
 // $headings-font-family:Quicksand;
 
-//$enable-grid-classes: true;
-//$primary: #1c7430;
-//$secondary:#eed75uiha;
-//$success:#FEC100;
-//$danger:#703B3B;
-//$info:#63e792;
-//$warning:#FFE869;
-//$light: #eeeeee;
-//$dark:#555555;
-//$spacer:1rem;
-//$border-width:1px;
-//$btn-border-radius:.25rem;
 
 // .navbar-collapse {
   //  position: absolute;
@@ -60,9 +48,13 @@ a {
 // use next css style just for small devices
 @include media-breakpoint-down(sm) {
   .row {
-    border-bottom: 1px solid #c1c1c1;
-    padding-bottom: 5px;
+    border-bottom: 1px solid darkgreen;
   }
+}
+
+.row {
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(even) {
@@ -71,12 +63,12 @@ a {
 }
 
 .rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(odd) {
-  background: #c4e5c4;
+  background: #a4c2a4;
   // background: #ececec;
 }
 
-.rows-hover .row:not(.rowHeader):hover {
-  background: #B4C5B4;
+ .rows-hover .row:not(.rowHeader):not(.noStrip):hover {
+  background: white;
   // background: #a1d9ae;
 }
 
@@ -113,33 +105,48 @@ $newsFontSize: $font-size-base * 0.9;
   }
 }
 
-//.content {
-//  @include media-breakpoint-down(sm) {
-//    background-color: red;
-//  }
-//  @include media-breakpoint-up(md) {
-//    //background-color: blue;
-//    //background-image: linear-gradient(to right, red, yellow);
-//    border: 1px solid #c1c1c1;
-//    background-image: url('../public/images/AS/6048.jpg');
-//    background-attachment: fixed;
-//
-//    //rozmazani textu a pozadi
-//    //filter: blur(8px);
-//    //-webkit-filter: blur(8px);
-//
-//  }
-//}
+.content {
+  @include media-breakpoint-down(sm) {
+    background-color: red;
+  }
+  @include media-breakpoint-up(md) {
+    //background-color: blue;
+    //background-image: linear-gradient(to right, red, yellow);
+    border: 1px solid #c1c1c1;
 
-//.container {
-//  @include media-breakpoint-down(sm) {
-//    background-color: white;
-//  }
-//  @include media-breakpoint-up(md) {
-//    border: 1px solid #c1c1c1;
-//    background-color: #D2E5CD;
-//  }
-//}
+    background-attachment: fixed;
+
+    //rozmazani textu a pozadi
+    //filter: blur(8px);
+    //-webkit-filter: blur(8px);
+
+    &:after {
+      content: "";
+      background-image: url('../public/images/AS/6048.jpg');
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 100vh;
+      width: 100vw;
+      filter: blur(8px);
+      -webkit-filter: blur(8px);
+      z-index: 1;
+    }
+  }
+}
+
+.container {
+  @include media-breakpoint-down(sm) {
+    background-color: white;
+  }
+  @include media-breakpoint-up(md) {
+    border: 1px solid #c1c1c1;
+    background-color: #D2E5CD;
+  }
+  position: relative;
+  z-index: 2;
+  box-shadow: 33px 0 39px #d2e5cd,  -33px 0 39px #d2e5cd;
+}
 
 //.main-menu {
 //  @include media-breakpoint-down(sm) {

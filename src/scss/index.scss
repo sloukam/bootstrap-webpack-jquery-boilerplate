@@ -1,6 +1,20 @@
 $body-bg: #D2E5CD;
 $body-color: black;
 
+//$enable-grid-classes: true;
+//$primary: #1c7430;
+//$secondary:#eed75uiha;
+//$success:#FEC100;
+//$danger:#703B3B;
+//$info:#63e792;
+//$warning:#FFE869;
+//$light: #eeeeee;
+//$dark:#555555;
+//$spacer:1rem;
+//$border-width:1px;
+//$btn-border-radius:.25rem;
+
+
 @import '../../node_modules/bootstrap/scss/bootstrap';
 
 @import './custom.scss';
