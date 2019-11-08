@@ -66,15 +66,18 @@ a {
 }
 
 .rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(even) {
-  background: #d6d6d6;
+  background: #B4C5B4;
+  // background: #d6d6d6;
 }
 
 .rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(odd) {
-  background: #ececec;
+  background: #c4e5c4;
+  // background: #ececec;
 }
 
 .rows-hover .row:not(.rowHeader):hover {
-  background: #a1d9ae;
+  background: #B4C5B4;
+  // background: #a1d9ae;
 }
 
 .rowHeader {
