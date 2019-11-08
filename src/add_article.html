@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  <meta name="description" content=""/>
+  <meta name="author" content=""/>
+
+  <title id="pageTitle">www.mskao.cz</title>
+</head>
+
+<body>
+<div class="wrap">
+  <div class="header">
+    <div id="menu">menu</div>
+  </div>
+  <div class="content">
+    <div class="container">
+<!--      <h1>Přidání dalšího chovného psa/feny</h1>-->
+      <div class="row justify-content-center">
+        <div class="col-8">
+          <h2>Novy clanek</h2>
+          <form class="add-breeding-dog-form">
+            <fieldset>
+              <legend>Základní informace</legend>
+
+              <div class="row"></div>
+
+              <div class="row">
+                <input type="checkbox" id="visible" name="visible" checked="checked" hidden="hidden">
+                <div class="col-4 item-label" for="name">Titulek</div>
+                <input class="col" id="name" name="name" type="text" required="required">
+              </div>
+
+              <fieldset>
+                <legend>odstavce</legend>
+                <div class="row">
+                  <div class="col-4 item-label" for="shows">odstavec</div>
+                  <textarea class="col" id="shows" name="shows" rows="3" type="text" required="required"></textarea>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="shows">odstavec</div>
+                  <textarea class="col" id="shows" name="shows" rows="3" type="text" required="required"></textarea>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="shows">odstavec</div>
+                  <textarea class="col" id="shows" name="shows" rows="3" type="text" required="required"></textarea>
+                </div>
+                <div class="row">
+                  <div class="col-4 item-label" for="shows">odstavec</div>
+                  <textarea class="col" id="shows" name="shows" rows="3" type="text" required="required"></textarea>
+                </div>
+
+              </fieldset>
+
+
+
+            <button class="contact-form__button" type="submit">Send It!</button>
+          </form>
+
+          <button id="copyToClippboardBtn">copy to clipboard</button>
+          <div class="results">
+            <h2 class="results__heading">Form Data</h2>
+            <pre class="results__display-wrapper">
+
+              <textarea id="results__display" class="results__display" rows="20" cols="50">
+              </textarea>
+            </pre>
+          </div>
+          <div class="results2">
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+</body>
+</html>

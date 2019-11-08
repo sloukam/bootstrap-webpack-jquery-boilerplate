@@ -17,15 +17,15 @@
 //$border-width:1px;
 //$btn-border-radius:.25rem;
 
-.navbar-collapse {
-//  position: absolute;
-//  left: 0;
-//  right: 0;
-//  top: 100%;
-  z-index: 100;
-  background: white;
-//  padding: 0.5rem 1rem;
-}
+// .navbar-collapse {
+  //  position: absolute;
+  //  left: 0;
+  //  right: 0;
+  //  top: 100%;
+  // z-index: 100;
+  // background: white;
+  //  padding: 0.5rem 1rem;
+// }
 
 @include media-breakpoint-down(md) {
   .navbar-nav {
@@ -99,6 +99,68 @@ $newsFontSize: $font-size-base * 0.9;
   }
 }
 
+//.content {
+//  @include media-breakpoint-down(sm) {
+//    background-color: red;
+//  }
+//  @include media-breakpoint-up(md) {
+//    //background-color: blue;
+//    //background-image: linear-gradient(to right, red, yellow);
+//    border: 1px solid #c1c1c1;
+//    background-image: url('../public/images/AS/6048.jpg');
+//    background-attachment: fixed;
+//
+//    //rozmazani textu a pozadi
+//    //filter: blur(8px);
+//    //-webkit-filter: blur(8px);
+//
+//  }
+//}
+
+//.container {
+//  @include media-breakpoint-down(sm) {
+//    background-color: white;
+//  }
+//  @include media-breakpoint-up(md) {
+//    border: 1px solid #c1c1c1;
+//    background-color: #D2E5CD;
+//  }
+//}
+
+//.main-menu {
+//  @include media-breakpoint-down(sm) {
+//    background-color: white;
+//  }
+//  @include media-breakpoint-up(md) {
+//    border: 1px solid #c1c1c1;
+//    background-color: #B4C5B0;
+//  }
+//}
+
+.main-menu, .navbar-collapse {
+  border: 1px solid #c1c1c1;
+  background-color: #B4C5B0;
+  z-index: 100;
+}
+
+.dropdown-menu {
+  border: 1px solid black;
+  background-color: #c4e5c4;
+  z-index: 100;
+}
+
+
+//.navbar {
+//  @include media-breakpoint-down(sm) {
+//    background-color: #D2E5CD;
+//  }
+//  @include media-breakpoint-up(md) {
+//    border: 1px solid #c1c1c1;
+//    background-color: #D2E5CD;
+//  }
+//}
+
+
 .warnTitle-sm {
   @extend .newsTitle-sm;
 }
@@ -118,7 +180,6 @@ $newsFontSize: $font-size-base * 0.9;
     //background-color: blue;
   }
 }
-
 
 
 //index
@@ -201,7 +262,7 @@ $dogNameFontSize: $font-size-base * 1.5;
   max-width: 70%;
 }
 
-.item-label{
+.item-label {
   font-weight: bolder;
 }
 
@@ -229,6 +290,7 @@ $dogNameFontSize: $font-size-base * 1.5;
 .hidden {
   display: none;
 }
+
 //.carousel-inner > .item > img {
 //  width:640px;
 //  height:360px;
@@ -265,7 +327,7 @@ $dogNameFontSize: $font-size-base * 1.5;
   min-height: 6em !important;
 }
 
-#summary a.collapsed:after  {
+#summary a.collapsed:after {
   content: '+ Read More';
 }
 
