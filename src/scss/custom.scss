@@ -68,7 +68,7 @@ a {
 }
 
  .rows-hover .row:not(.rowHeader):not(.noStrip):hover {
-  background: white;
+  background: rgb(167, 232, 162);
   // background: #a1d9ae;
 }
 
@@ -107,7 +107,7 @@ $newsFontSize: $font-size-base * 0.9;
 
 .content {
   @include media-breakpoint-down(sm) {
-    background-color: red;
+    // background-color: red;
   }
   @include media-breakpoint-up(md) {
     //background-color: blue;
@@ -149,7 +149,7 @@ $newsFontSize: $font-size-base * 0.9;
   }
 
   @include media-breakpoint-down(sm) {
-    background-color: white;
+    background-color: #D2E5CD;
   }
   @include media-breakpoint-up(md) {
     border: 1px solid #c1c1c1;
