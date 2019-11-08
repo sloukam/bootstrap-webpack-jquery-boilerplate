@@ -122,20 +122,32 @@ $newsFontSize: $font-size-base * 0.9;
 
     &:after {
       content: "";
-      background-image: url('../public/images/AS/6048.jpg');
+      background-image: url('../public/images/cpsk_bg.jpg');
+      background-attachment: fixed;
+      background-position: center top;
+      background-repeat: no-repeat;
+
       position: absolute;
       left: 0;
       top: 0;
       height: 100vh;
       width: 100vw;
-      filter: blur(8px);
-      -webkit-filter: blur(8px);
+      // filter: blur(8px);
+      // -webkit-filter: blur(8px);
       z-index: 1;
     }
   }
 }
 
 .container {
+  @media (max-width: 1200px) {
+    max-width: 97vw;
+  }
+  @media (max-width: 500px) {
+    padding-right: 3px;
+    padding-left: 3px;
+  }
+
   @include media-breakpoint-down(sm) {
     background-color: white;
   }
@@ -145,7 +157,7 @@ $newsFontSize: $font-size-base * 0.9;
   }
   position: relative;
   z-index: 2;
-  box-shadow: 33px 0 39px #d2e5cd,  -33px 0 39px #d2e5cd;
+  box-shadow: 50px 0 50px #d2e5cd, -50px 0 39px #d2e5cd
 }
 
 //.main-menu {
@@ -208,16 +220,6 @@ $newsFontSize: $font-size-base * 0.9;
 .main-content {
   @include media-breakpoint-down(sm) {
     flex-flow: column-reverse;
-  }
-}
-
-.container {
-  @media (max-width: 1200px) {
-    max-width: 97vw;
-  }
-  @media (max-width: 500px) {
-    padding-right: 3px;
-    padding-left: 3px;
   }
 }
 
