@@ -11,9 +11,9 @@
       "body": {
         "height": 64,
         "color": "orange belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal",
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true,
         "other": ""
       },
       "shows": "CAC, CACIB, BOB",
@@ -47,9 +47,9 @@
       "body": {
         "height": "64",
         "color": "černobílý",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal",
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true,
         "other": ""
       },
       "shows": " CAJC, res.CAC, CAC, res.CACIB",
@@ -84,10 +84,7 @@
       "body": {
         "height": "64",
         "color": "tricolor",
-        "HD": "A/A",
-        "ED": "",
-        "BAER": "",
-        "other": ""
+        "HD": "A"
       },
       "shows": "CAJC, CAC, VT, KV, BOJ, BOB",
       "exams": "ZV - I.c, Jarní pohár ČPSK – I. c",
@@ -123,10 +120,8 @@
       "body": {
         "height": "63",
         "color": "černobílý",
-        "HD": "B/C (vyšetřeno ve stáří 6 let)",
-        "ED": "",
-        "BAER": "",
-        "other": ""
+        "HD": "C",
+        "other": "HD vyšetřeno ve stáří 6 let"
       },
       "shows": "velmi dobrý",
       "exams": "ZV - I.c., PZ – I.c., ZVP – I. c., LZ – I.c.",
@@ -160,10 +155,7 @@
       "body": {
         "height": "64",
         "color": "bíločerný",
-        "HD": "A/A",
-        "ED": "",
-        "BAER": "",
-        "other": ""
+        "HD": "A"
       },
       "shows": "CAJC, BOJ",
       "exams": "ZV - I.c",
@@ -197,9 +189,9 @@
       "body": {
         "height": "65",
         "color": "blue belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "norm.",
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true,
         "other": ""
       },
       "shows": "CAJC, BOJ, CAC, res.CACIB, Národní vítěz, CACIB, BOB",
@@ -234,9 +226,8 @@
       "body": {
         "height": "64",
         "color": "oranžový bělouš",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "",
+        "HD": "A",
+        "ED": "A/A",
         "other": ""
       },
       "shows": "CAJC, CAC, BOJ",
@@ -271,9 +262,9 @@
       "body": {
         "height": "64",
         "color": "tricolor",
-        "HD": "A/A",
+        "HD": "A",
         "ED": "",
-        "BAER": "norm.",
+        "BAER": true,
         "other": ""
       },
       "shows": "res. CAC, CAC, VT, Krajský vítěz",
@@ -310,7 +301,6 @@
         "color": "blue belton",
         "HD": "C",
         "ED": "",
-        "BAER": "",
         "other": ""
       },
       "shows": "BOJ, res. CACIB",
@@ -345,9 +335,8 @@
       "body": {
         "height": "65",
         "color": "tricolor",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "",
+        "HD": "A",
+        "ED": "A/A",
         "other": ""
       },
       "shows": "CAJC, CAC, BOJ, KVM, KV, BOB",
@@ -382,9 +371,9 @@
       "body": {
         "height": "62",
         "color": "tricolor",
-        "HD": "A/A",
+        "HD": "A",
         "ED": "",
-        "BAER": "norm.",
+        "BAER": true,
         "other": ""
       },
       "shows": "CAJC, BOJ",
@@ -419,9 +408,8 @@
       "body": {
         "height": "67",
         "color": "orange belton",
-        "HD": "A/A",
+        "HD": "A",
         "ED": "",
-        "BAER": "",
         "other": ""
       },
       "shows": "BIS, BIG, J.BIS CZ, res. J.BIS, J.BOD, J.BIG, BOB, Junior roku 2017 ČMKU, Šampion šampionů CZ 2017 BIG 3, Šampión Šampionov SK 2017 BIG 2, TOP DOG 2018 ČMKU",
@@ -457,9 +445,9 @@
       "body": {
         "height": "67",
         "color": "orange belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
       },
       "championships": "JCH CZ, CH CZ",
       "shows": "BOB, CACIB, Res. CACIB, CACA, CWC, CAC, Res. CACA, Nejlepší pracovní pes výstavy",
@@ -489,9 +477,8 @@
       "body": {
         "height": "59",
         "color": "blue belton",
-        "HD": "A/A",
+        "HD": "A",
         "ED": "",
-        "BAER": "",
         "other": ""
       },
       "championships": "",
@@ -524,9 +511,9 @@
       "body": {
         "height": "62",
         "color": "tricolor",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
       },
       "championships": "šampion práce ČR",
       "shows": "CAJC, 2. Nejlepší mladá fena výstavy, VT, CAC, res. CACIB",
@@ -556,8 +543,8 @@
       "body": {
         "height": "60",
         "color": "blue belton",
-        "HD": "A/A",
-        "ED": "A"
+        "HD": "A",
+        "ED": "A/A"
       },
       "championships": "CH ČR",
       "shows": "CAC, CACIB, BOS, BOB",
@@ -583,8 +570,8 @@
       "body": {
         "height": "60",
         "color": "blue belton",
-        "HD": "A/A",
-        "ED": "A"
+        "HD": "A",
+        "ED": "A/A"
       },
       "shows": "CAC, res. CACIB",
       "exams": "ZV – I.c., SVP – I.c.",
@@ -614,7 +601,7 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A/A"
+        "HD": "A"
       },
       "shows": "CAJC, res. CAC",
       "exams": "ZV – I.c.",
@@ -644,7 +631,7 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A/A"
+        "HD": "A"
       },
       "shows": "CAC",
       "exams": "ZV – I.c.",
@@ -675,9 +662,9 @@
       "body": {
         "height": "62",
         "color": "blue belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
       },
       "shows": "V, VT, Oblastní vítěz, CAC, NV,\nCAC ČMKU, CACIB, BOS, BOB",
       "exams": "ZV- I.c., Polabské derby ohařů - I.c., PZ - II.c.",
@@ -707,9 +694,9 @@
       "body": {
         "height": "61",
         "color": "blue belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
       },
       "shows": "res. CAC",
       "exams": "ZV – I.cena",
@@ -737,9 +724,9 @@
       "body": {
         "height": "60",
         "color": "orange belton",
-        "HD": "A/A",
-        "ED": "A",
-        "BAER": "normal"
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
       },
       "championships": "JCH ČR",
       "shows": "CAJC, BOJ, BOS",
@@ -770,7 +757,7 @@
       "body": {
         "height": "61",
         "color": "orange belton",
-        "HD": "A/A"
+        "HD": "A"
       },
       "championships": "JCH ČR",
       "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
