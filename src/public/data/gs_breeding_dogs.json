@@ -494,7 +494,8 @@
       "sex": "male",
       "body": {
         "height": "63",
-        "HD": "A/A"
+        "HD": "A/A",
+        "rcd4": "clear"
       },
       "shows": "CAJC, CAC, BOJ, BIS, BOB",
       "exams": "ZV I.c",

@@ -90,6 +90,12 @@
                 <div class="col">{{body.BAER}}</div>
               </div>
               {{/body.BAER}}
+              {{#body.rcd4}}
+              <div class="row">
+                <div class="col-4 item-label">PRA rcd4:</div>
+                <div class="col">{{body.rcd4}}</div>
+              </div>
+              {{/body.rcd4}}
               {{#championships}}
               <div class="row">
                 <div class="col-4 item-label">šampionáty</div>
@@ -120,9 +126,10 @@
               <div class="row">
                 <div class="col-4 item-label">majitel:</div>
                 <div class="col">
-                  {{owner.title}} {{owner.first_name}} {{owner.last_name}} {{#owner.first_name_co_owner}} a
-                  {{owner.title_co_owner}} {{owner.first_name_co_owner}}
-                  {{owner.last_name_co_owner}}{{/owner.first_name_co_owner}}
+                  {{owner.title}} {{owner.first_name}} {{owner.last_name}}
+                  {{#owner.first_name_co_owner}} 
+                    a {{owner.title_co_owner}} {{owner.first_name_co_owner}} {{owner.last_name_co_owner}}
+                  {{/owner.first_name_co_owner}}
                 </div>
               </div>
               <div class="row">
