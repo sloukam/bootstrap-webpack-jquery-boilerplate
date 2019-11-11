@@ -266,12 +266,17 @@ $newsFontSize: $font-size-base * 0.9;
   border: 1px solid #000000;
 }
 
+$maleColor: darkblue;
+$femaleColor: deeppink;
+
 .dogCard.male {
-  border: 2px solid darkblue;
+  border: 2px solid $maleColor;
+  // background-color: lighten( $maleColor, 20% );
 }
 
 .dogCard.female {
-  border: 2px solid deeppink;
+  border: 2px solid $femaleColor;
+  // background-color: lighten( $femaleColor, 20% );
 }
 
 $dogNameFontSize: $font-size-base * 1.5;

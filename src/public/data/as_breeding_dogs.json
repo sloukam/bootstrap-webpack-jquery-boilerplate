@@ -497,10 +497,11 @@
         "phone": "",
         "email": "dkocurova@seznam.cz"
       },
-      "other.other": ""
+      "other.other": "",
+      "img_ext": "jpg"
     },
     {
-      "visible": false,
+      "visible": true,
       "breed": "AS",
       "name": "EDITIONS SECRET FOR DAVARONI",
       "date_of_birth": "2012-08-06",
@@ -519,9 +520,9 @@
       "shows": "CAJC, 2. Nejlepší mladá fena výstavy, VT, CAC, res. CACIB",
       "exams": "MFT MSKAO - CACIT, CACT, 18 b., KZV MSKAO - I. cena, Vítěz zkoušek, CACT, MJL, MVV, Novomlýnské Derby, T.A.N.",
       "owner": {
-        "owner.title": "Ing.",
-        "owner.first_name": "Lucie",
-        "owner.last_name": "Studýnková",
+        "title": "Ing.",
+        "first_name": "Lucie",
+        "last_name": "Studýnková",
         "address": {
           "street": "Brambory",
           "number": "9"
@@ -551,12 +552,16 @@
       "exams": "ZV – I.c., PZ – I.c., Klubové Derby MSKAO",
       "owner": {
         "first_name": "Růžena",
-        "owner.last_name": "Lepařová",
-        "street": "Pod Skalkou",
-        "number": "69/10",
-        "city": "Přerov"
+        "last_name": "Lepařová",
+        "address":{
+          "street": "Pod Skalkou",
+          "number": "69/10",
+          "city": "Přerov"
+        },
+        "phone": "776658147"
       },
-      "phone": "776658147"
+      "img_ext": "jpg"
+
     },
     {
       "visible": true,
@@ -576,9 +581,9 @@
       "shows": "CAC, res. CACIB",
       "exams": "ZV – I.c., SVP – I.c.",
       "owner": {
-        "owner.title": "Mgr.",
-        "owner.first_name": "Hana Kneřová",
-        "owner.last_name": "Zbyněk Pochman",
+        "title": "Mgr.",
+        "first_name": "Hana Kneřová",
+        "last_name": "Zbyněk Pochman",
         "address": {
           "street": "Řevničov",
           "number": "464"
@@ -763,9 +768,9 @@
       "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
       "exams": "KZV – I.c.",
       "owner": {
-        "owner.title": "Ing.",
-        "owner.first_name": "Renata",
-        "owner.last_name": "Krakovková",
+        "title": "Ing.",
+        "first_name": "Renata",
+        "last_name": "Krakovková",
         "address": {
           "street": "Okružní",
           "number": "237",
