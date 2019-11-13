@@ -17,7 +17,7 @@
   <div class="content">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-8">
+        <div class="col-11">
           <form class="add-breeding-dog-form">
             <fieldset>
               <legend>Základní informace</legend>
@@ -25,7 +25,7 @@
               <div class="row">
                 <div class="col-4 item-label" for="date_of_birth">rasa:</div>
                 <div class="col">
-                  <div class="row">
+                  <div class="row row-no-bottom-border">
                     <div class="col">
                       <input id="as" name="breed" type="radio" value="AS" required="required">
                       <label for="as">AS</label>
@@ -52,7 +52,7 @@
               <div class="row">
                 <div class="col-4 item-label" for="sex">pes / fena</div>
                 <div class="col">
-                  <div class="row">
+                  <div class="row row-no-bottom-border">
                     <div class="col">
                       <input id="sex_male" name="sex" type="radio" value="male" required="required" checked="checked">
                       <label for="sex_male">pes</label>
@@ -219,25 +219,26 @@
                 <textarea class="col" id="other" name="other" rows="3"></textarea>
               </div>
             </fieldset>
-
-
-            <button class="contact-form__button" type="submit">vygeneruj data</button>
+            <div class="row row-no-bottom-border">
+              <div class="col">
+                <button class="btn btn-sm btn-outline-primary contact-form__button" type="submit">vygeneruj data</button>
+              </div>
+            </div>
+            <div class="row row-no-bottom-border">
+              <div class="col">
+                <button id="copyToClippboardBtn" class="btn btn-sm btn-outline-primary">copy to clipboard</button>
+              </div>
+            </div>
+              <h2 class="results__heading">Vyplnena data</h2>
+              <div class="results__display-wrapper">
+                <textarea id="results__display" class="results__display" rows="20" cols="50">
+                </textarea>
+              </div>
+              <div class="results2">
+            </div>
           </form>
-
-          <button id="copyToClippboardBtn">copy to clipboard</button>
-          <div class="results">
-            <h2 class="results__heading">Form Data</h2>
-            <pre class="results__display-wrapper">
-
-              <textarea id="results__display" class="results__display" rows="20" cols="50">
-              </textarea>
-            </pre>
-          </div>
-          <div class="results2">
-          </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>
