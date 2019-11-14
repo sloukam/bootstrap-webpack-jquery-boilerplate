@@ -164,7 +164,8 @@
         "ED": "A/A",
         "rcd4": "clear"
       },
-      "shows": "CAC, CAJC, res.CACIB",
+      "championships": "JCH CZ, CH CZ, CH SK, GrandCH CZ, C.I.B.",
+      "shows": "CAJC, CAC, CAC ČMKU, NV, CACIB, BOJ, BOS",
       "exams": "ZV – I.c.",
       "owner": {
         "first_name": "Zuzana",
@@ -347,10 +348,10 @@
         "HD": "C"
       },
       "shows": "CAJC, BOJ",
-      "exams": "CAJC, BOJ",
+      "exams": "ZV I.c.",
       "owner": {
         "first_name": "Darina",
-        "last_name": "Kocúrová`",
+        "last_name": "Kocúrová",
         "address": {
           "street": "Horka",
           "number": "88",
@@ -469,7 +470,7 @@
       },
       "championships": "JCH ČR, CH ČR, CH SK",
       "shows": "CAJC, CAC, BOJ, BIS, BOB",
-      "exams": "ZV I.c ., TAN, VP I.c., PZ I.c., MJL, NFT derby VD 13b.",
+      "exams": "ZV I.c ., TAN, VP I.c., PZ I.c., MJL, NFT derby VD 13b., BZ I.c, FSS I.c. 62b, JSS II.c 213b, NFT – D 8 b., NFT – D 6 b., Mem.A. Sklenáře EX 17b CACT",
       "owner": {
         "first_name": "Klára",
         "last_name": "Radič",
@@ -508,6 +509,36 @@
           "post_code": "59101"
         },
         "email": "mackova.r@email.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
+      "name": "BARNABY SCOTCH DO POLE",
+      "date_of_birth": "2017-07-06",
+      "clp": "6761",
+      "father": "Yukki Hill Mesmerizer for Silent North",
+      "mother": "Abigail Scotch do pole",
+      "body": {
+        "height": "66",
+        "HD": "A",
+        "ED": "A/A",
+        "rcd4": "carrier"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, CAC, r.CACIB, BOJ,NV, BOB",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Dana",
+        "last_name": "Dušková",
+        "address": {
+          "street": "Bojov",
+          "number": "116",
+          "city": "Bojov",
+          "post_code": "25210"
+        }
       },
       "img_ext": "jpg"
     },
