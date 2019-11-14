@@ -617,7 +617,7 @@
         "ED": "A/A",
         "rcd4": "clear"
       },
-      "championships": "CH ČR",
+      "championships": "CH ČR, CH SK",
       "shows": "CAC, CACIB, res.CACIB, res.CAC, BOJ, CAJC, Vítěz spec.výst, Oblast.Vítěz",
       "exams": "ZV – I.c",
       "owner": {
@@ -650,6 +650,7 @@
         "HD": "A",
         "ED": "A/A"
       },
+      "championships": "JCH ČR",
       "shows": "CAJC, BOJ, CAC, res. CACIB",
       "exams": "ZV – I.c.",
       "owner": {
@@ -664,6 +665,35 @@
       },
       "img_ext": "jpg"
     },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ABIGAIL SCOTCH DO POLE",
+      "date_of_birth": "2013-03-18",
+      "clp": "6466",
+      "father": "Místy Lake ́s Never Say Never",
+      "mother": "Maria Matilde Scotch DAMA Krkonoše",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "championships": "JCH ČR, CH ČR, CH PL, CH ÖST, GCH ČR, CH ČMKU, CH SK, C.I.E.",
+      "shows": "CAJC, BOJ, CAC, r.CAC, CACIB, r.CACIB, BOS, BOB, Vítěz sp.výst.",
+      "exams": "ZV – I.c., ZOP",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Rychlá",
+        "address": {
+          "street": "Pražská",
+          "number": "79",
+          "city": "Řitka",
+          "post_code": "25203"
+        }
+      },
+      "img_ext": "jpg"
+    },    
     {
       "breed": "GS",
       "sex": "female",
