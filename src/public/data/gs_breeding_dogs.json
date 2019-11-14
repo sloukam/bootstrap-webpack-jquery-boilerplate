@@ -994,6 +994,37 @@
       "breed": "GS",
       "sex": "female",
       "visible": true,
+      "name": "SANGERFILD JIJI",
+      "date_of_birth": "2017-02-09",
+      "clp": "6759",
+      "father": "Sangerfild Geronimo",
+      "mother": "Triseter Celtic Swansy",
+      "body": {
+        "height": "61",
+        "HD": "A",
+        "ED": "A/A"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.c CACT, PZ II.c",
+      "owner": {
+        "first_name": "Olga",
+        "last_name": "Vránová",
+        "address": {
+          "street": "Nížkovice",
+          "number": "261",
+          "city": "Nížkovice",
+          "post_code": "68401"
+        },
+        "email": "fiorchara@seznam.cz",
+        "web": "http://www.fiorchara.cz"
+      },
+      "other": "uchovněna na vyjimku – nepravidelný skus",
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
       "name": "FIL-KAZ FROM THE GREEN SCOTLAND KAMA",
       "date_of_birth": "2017-03-28",
       "clp": "6728",
