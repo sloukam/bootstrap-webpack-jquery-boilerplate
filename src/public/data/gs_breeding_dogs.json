@@ -98,7 +98,7 @@
       "body": {
         "height": "66",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "championships": "Šampion práce, C.I.B., C.I.E.Grand CH SK, Grand CH ČR, CH ČR, CH SK, CH HU, CH PL, JCH ČR, JCH SK",
@@ -161,7 +161,7 @@
       "body": {
         "height": "66",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "championships": "JCH CZ, CH CZ, CH SK, GrandCH CZ, C.I.B.",
@@ -222,7 +222,7 @@
       "body": {
         "height": "66",
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "JCH ČR, JCH SK, JCH PL, CH ČR, CH SK",
       "shows": "CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, III.BIG, BOD",
@@ -284,7 +284,7 @@
       "body": {
         "height": "68",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "championships": "JCH ČR, CH ČR, GRAND CH ČR, CH ÖST",
@@ -524,7 +524,7 @@
       "body": {
         "height": "66",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "carrier"
       },
       "championships": "JCH ČR",
@@ -614,7 +614,7 @@
       "body": {
         "height": "65",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "championships": "CH ČR, CH SK",
@@ -648,7 +648,7 @@
       "body": {
         "height": "63",
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "JCH ČR",
       "shows": "CAJC, BOJ, CAC, res. CACIB",
@@ -677,7 +677,7 @@
       "body": {
         "height": "63",
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "JCH ČR, CH ČR, CH PL, CH ÖST, GCH ČR, CH ČMKU, CH SK, C.I.E.",
       "shows": "CAJC, BOJ, CAC, r.CAC, CACIB, r.CACIB, BOS, BOB, Vítěz sp.výst.",
@@ -820,7 +820,7 @@
       "body": {
         "height": "60",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "championships": "JCH ČR, CH ČR, CH SK, CH PL, CH HR, CH ROM, CH UY, GrandCH CZ, GrandCH UY, Ch ČMKU, C.I.B., C.I.E.",
@@ -1002,7 +1002,7 @@
       "body": {
         "height": "61",
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear"
       },
       "shows": "velmi dobrá",

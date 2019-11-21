@@ -433,7 +433,7 @@
       "mother": "Neiven Arouse Admiration",
       "body": {
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "JCH ČR",
@@ -656,7 +656,7 @@
       "mother": "Flea Červený vítr",
       "body": {
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "CH ČR, CH SK",
       "shows": "CAC, CACA, r.CACIB",
@@ -798,7 +798,7 @@
       "mother": "Bereta Apoli Gwen",
       "body": {
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "shows": "CAJC, CAC, BOB",
       "exams": "ZV I.cena, PZ I.cena, Mem. Josefa Lammera (PZ+SZVP) I.cena CACT + II.cena",
@@ -1221,7 +1221,7 @@
       "mother": "Artemis Elimar Doubrava",
       "body": {
         "HD": "A",
-        "ED": "A/A",
+        "ED": "0/0",
         "rcd4": "clear",
         "other": "CLAD N/N, PRA rcd 1 "
       },
@@ -1335,7 +1335,7 @@
       "mother": "Autumn Legend Goldset",
       "body": {
         "HD": "A",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "CH ČR",
       "shows": "CAC, CACIB, NV, BOS",
@@ -1364,7 +1364,7 @@
       "mother": "Flea Červený vítr",
       "body": {
         "HD": "B",
-        "ED": "A/A"
+        "ED": "0/0"
       },
       "championships": "CH SK",
       "shows": "CAC, NV, BOB",
