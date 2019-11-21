@@ -577,7 +577,7 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CITTA Z DVORKU ČAMOURKU",
       "date_of_birth": "2012-02-17",
       "clp": "6356",

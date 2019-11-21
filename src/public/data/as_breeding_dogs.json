@@ -780,6 +780,39 @@
         "email": "r.krakovkova@seznam.cz"
       },
       "img_ext": "jpg"
-    }
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "visible": true,
+      "name": "LATIN LOVER VERTIGO",
+      "date_of_birth": "2018-02-28",
+      "clp": "6372",
+      "father": "Latin Lover The Boss",
+      "mother": "Latin Lover The Black Dhalia",
+      "body": {
+        "height": "61",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "A/A",
+        "BAER": true
+      },
+      "championships": "JCH A",
+      "shows": "Jugendbester, BOS, CACIB, Res. CACIB, CAC",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Slouka",
+        "address": {
+          "street": "Kateřinice",
+          "number": "222",
+          "city": "Kateřinice",
+          "post_code": "74258"
+        },
+        "email": "sloukam@gmail.com"
+      },
+      "img_ext": "jpg"
+    }    
   ]
 }
