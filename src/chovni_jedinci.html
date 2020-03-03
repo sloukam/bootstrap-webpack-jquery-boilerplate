@@ -15,7 +15,16 @@
         {{#visible}}
         <div class="col-sm-12 col-md-6 col-lg-4">
           <div class="dogCard {{sex}} rounded-lg" id="dogCard_{{clp}}">
-            <div class="dogName">{{name}}&nbsp;&nbsp;&nbsp;<img src="./public/images/{{sex}}_symbol.png" class="img-fluid" width="20"></div>
+            <div class="row border-0">
+              <div class="col">
+                <div class="dogName">{{name}}</div>
+              </div>
+              <div class="col-3">
+                <div class="sex-symbol">
+                  <img src="./public/images/{{sex}}_symbol.png" class="img-fluid">
+                </div>
+              </div>
+            </div>
             <div class="row border-0">
               <div class="col">
                 <div class="row border-0">
@@ -25,10 +34,10 @@
               </div>
             </div>
             <div class="row border-0">
-              <div class="col-auto">
-                <div class="row justify-content-center border-0">
+              <div class="col">
+                <div class="row justify-content-center border-0 img-tumbnail-max-height">
                   {{^img_ext}}
-                  <div class="col-4">
+                  <div class="col">
                     <img src="./public/images/{{breed}}-bw.png" alt=""
                          class="img-thumbnail img-rounded img-responsive">
                   </div>
@@ -36,7 +45,7 @@
                   {{#img_ext}}
                   <div class="col pop">
                     <img src="./public/images/{{breed}}/{{clp}}.{{img_ext}}" alt="{{name}}"
-                         class="img-thumbnail img-rounded img-responsive">
+                         class="img-thumbnail img-rounded img-responsive img-max-height">
                   </div>
                   {{/img_ext}}
                 </div>
@@ -127,7 +136,7 @@
                 <div class="col-4 item-label">majitel:</div>
                 <div class="col">
                   {{owner.title}} {{owner.first_name}} {{owner.last_name}}
-                  {{#owner.first_name_co_owner}} 
+                  {{#owner.first_name_co_owner}}
                     a {{owner.title_co_owner}} {{owner.first_name_co_owner}} {{owner.last_name_co_owner}}
                   {{/owner.first_name_co_owner}}
                 </div>

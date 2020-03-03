@@ -45,6 +45,11 @@ a {
   color: #1c7430;
 }
 
+.sex-symbol {
+  min-height: 65px;
+  max-height: 65px;
+}
+
 // use next css style just for small devices
 @include media-breakpoint-down(sm) {
   .row:not(.row-no-bottom-border){
@@ -279,12 +284,26 @@ $femaleColor: deeppink;
   // background-color: lighten( $femaleColor, 20% );
 }
 
-$dogNameFontSize: $font-size-base * 1.5;
+$dogNameFontSize: $font-size-base * 1.2;
 
 .dogName {
   font-size: $dogNameFontSize;
   font-style: italic;
   padding-bottom: 10px;
+  height: $dogNameFontSize * 2 * 1.2;
+}
+
+$img-tumbnail-max-height: 200px;
+.img-tumbnail-max-height {
+  height: $img-tumbnail-max-height;
+
+  //margin-left: auto;
+  //margin-right: auto;
+  display: block;
+}
+
+.img-max-height {
+  height: $img-tumbnail-max-height * 0.95;
 }
 
 .modal-dialog {
@@ -314,6 +333,7 @@ $dogNameFontSize: $font-size-base * 1.5;
 
 .dogCardDetailClick {
   cursor: pointer;
+  color: #1c7430;
 }
 
 .hidden {
