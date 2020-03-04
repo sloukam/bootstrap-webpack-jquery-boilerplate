@@ -49,7 +49,8 @@ a:hover {
 // use next css style just for small devices
 @include media-breakpoint-down(sm) {
   .row:not(.row-no-bottom-border){
-    border-bottom: 1px solid darkgreen;
+    //border-bottom: 1px solid darkgreen;
+    border-bottom: 1px solid darkslategray;
   }
 }
 
@@ -97,7 +98,7 @@ $newsFontSize: $font-size-base * 0.9;
 .news-panel {
   padding: 10px;
   margin-bottom: 15px;
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(md) {
     //background-color: red;
   }
   @include media-breakpoint-up(md) {
@@ -348,7 +349,8 @@ $img-tumbnail-max-height: 200px;
 }
 
 .modal-dialog {
-  max-width: 70%;
+  //max-width: 70%;
+  max-height: 90%;
 }
 
 .item-label {

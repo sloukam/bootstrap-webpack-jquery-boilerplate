@@ -22,7 +22,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('#menu').load('html_parts.html #mainNav');
   $('#news-container-sm').load('html_parts.html #news-content');
-  $('#warns-container-sm').load('html_parts.html #warns-content');
+  // $('#warns-container-sm').load('html_parts.html #warns-content');
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
