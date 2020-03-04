@@ -14,12 +14,12 @@ $('#alert2').click(() => {
   $('#testContent2').load('test.html #template2');
 });
 
-$(document).ready(function () {
+$(document).ready(function() {
   console.log('document is ready...');
 });
 
 // Your jQuery code
-$(document).ready(function () {
+$(document).ready(function() {
   $('#menu').load('html_parts.html #mainNav');
   $('#news-container-sm').load('html_parts.html #news-content');
   $('#warns-container-sm').load('html_parts.html #warns-content');
@@ -32,8 +32,12 @@ $(document).ready(function () {
     getDogs(breed);
   }
   getNews();
-  renderArticle();
-  renderData('articlePreviewTemplate', 'articlePreviewContainer', 'articles.json');
+  // renderArticle();
+  renderData(
+    'articlePreviewTemplate',
+    'articlePreviewContainer',
+    'articles.json'
+  );
 
   // $('#summernote').summernote();
   $('#summernote').summernote({
@@ -46,12 +50,16 @@ $(document).ready(function () {
   $('#trumbowygDemo').trumbowyg();
 
   $('.articleContainer').each(function(index, value) {
-    let fullText = $(this).children('.fullText').html();
+    let fullText = $(this)
+      .children('.fullText')
+      .html();
     // var moreLink = ' <a class="expandContent">... více</a><div class="fullText hidden">' + fullText + '</div>';
-    $(this).children('.shownText').html(getShortenedText(fullText)); // number of characters
+    $(this)
+      .children('.shownText')
+      .html(getShortenedText(fullText)); // number of characters
   });
 
-  $('.expandContent').on('click', function () {
+  $('.expandContent').on('click', function() {
     let parentDiv = $(this).parents('.articleContainer');
     let divToExpand = parentDiv.children('.shownText:first-child');
     let fullTextDiv = parentDiv.children('.fullText');
@@ -63,7 +71,7 @@ $(document).ready(function () {
     parentDiv.children('.expandContent').addClass('hidden');
   });
 
-  $('.shortenContent').on('click', function () {
+  $('.shortenContent').on('click', function() {
     let parentDiv = $(this).parents('.articleContainer');
     let divToShorten = parentDiv.children('.shownText:first-child');
     let fullTextDiv = parentDiv.children('.fullText');
@@ -74,22 +82,20 @@ $(document).ready(function () {
     parentDiv.children('.shortenContent').addClass('hidden');
     parentDiv.children('.expandContent').removeClass('hidden');
   });
-
 });
 
 function getShortenedText(text, length) {
-  if (length === undefined)
-    length = 230;
+  if (length === undefined) length = 230;
   return text.substring(0, length) + '.....';
 }
 
-$('#copyToClippboardBtn').on('click', function () {
+$('#copyToClippboardBtn').on('click', function() {
   copyToClipboard('results__display');
 });
 
 function addOnClickEvents() {
   var clickLinkElement = $('.dogCardDetailClick');
-  clickLinkElement.on('click', function (event) {
+  clickLinkElement.on('click', function(event) {
     var id = $(event.target).attr('id');
 
     $('#dogDetail_' + id).toggle(250);
@@ -113,12 +119,12 @@ function showAndHideDependingOnResolution() {
   }
 }
 
-$(window).resize(function () {
+$(window).resize(function() {
   // showAndHideDependingOnResolution();
 });
 
 function renderData(templateName, elementWhereToInsert, dataFileName) {
-  $.getJSON('../public/data/' + dataFileName, function (data) {
+  $.getJSON('../public/data/' + dataFileName, function(data) {
     let template = $('#' + templateName).html();
     if (template !== undefined) {
       let html = Mustache.to_html(template, data);
@@ -126,10 +132,21 @@ function renderData(templateName, elementWhereToInsert, dataFileName) {
     } else {
       console.log('there is something totally wrong 1');
     }
+    $('.pop').on('click', function() {
+      console.log('click...');
+      $('.imagepreview').attr(
+        'src',
+        $(this)
+          .find('img')
+          .attr('src')
+      );
+      $('#imagemodal').modal('show');
+    });
+    addOnClickEvents();
   });
 }
-function renderArticle(articleId) {
-  $.getJSON('../public/data/articles.json', function (data) {
+function renderArticle() {
+  $.getJSON('../public/data/articles.json', function(data) {
     let template = $('#articleTemplate').html();
     if (template !== undefined) {
       let html = Mustache.to_html(template, data);
@@ -140,10 +157,8 @@ function renderArticle(articleId) {
   });
 }
 
-
-
 function getDogs(breed) {
-  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function (data) {
+  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function(data) {
     console.log('screen.width = ' + screen.width);
     let template = $('#dogDetailDesktop').html();
     if (template !== undefined) {
@@ -154,9 +169,14 @@ function getDogs(breed) {
       console.log('there is something totally wrong 1');
     }
     // showAndHideDependingOnResolution();
-    $('.pop').on('click', function () {
+    $('.pop').on('click', function() {
       console.log('click...');
-      $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+      $('.imagepreview').attr(
+        'src',
+        $(this)
+          .find('img')
+          .attr('src')
+      );
       $('#imagemodal').modal('show');
     });
     addOnClickEvents();
@@ -164,7 +184,7 @@ function getDogs(breed) {
 }
 
 function getNews() {
-  $.getJSON('../public/data/news.json', function (data) {
+  $.getJSON('../public/data/news.json', function(data) {
     var template = $('#newsListTemplate').html();
     // var html = 'from js';
     if (template !== undefined) {
@@ -174,12 +194,12 @@ function getNews() {
   });
 }
 
-$('article').each(function () {
+$('article').each(function() {
   $(this)
     .find('p:not(:first)')
     .hide();
 });
-$('.more').on('click', function () {
+$('.more').on('click', function() {
   $(this)
     .hide()
     .closest('article')
@@ -204,26 +224,25 @@ function scrollToClass(clazz) {
   // alert(clazz);
   var aTag = $('.' + clazz);
   // var aTag = $('#' + aid);
-  $('.content').animate({scrollTop: aTag.offset().top}, 'slow');
+  $('.content').animate({ scrollTop: aTag.offset().top }, 'slow');
 }
 
 function scrollToContainer() {
   scrollToClass('container');
 }
 
-$('body').on('click', '.scrollTop', function () {
+$('body').on('click', '.scrollTop', function() {
   scrollToContainer();
 });
 
-$('#btnAAA').on('click', function () {
-  var data = {name: 'Jonathan (data 2)'};
+$('#btnAAA').on('click', function() {
+  var data = { name: 'Jonathan (data 2)' };
   var template = 'Hello {{ name }}';
 
   var text = Mustache.render(template, data);
 
   $('#mypanel').html(text);
 });
-
 
 /**
  * Checks that an element has a non-empty `name` and `value` property.
@@ -240,7 +259,7 @@ const isValidElement = element => {
  * @return {Boolean}          true if the value should be added, false if not
  */
 const isValidValue = element => {
-  return (!['checkbox', 'radio'].includes(element.type) || element.checked);
+  return !['checkbox', 'radio'].includes(element.type) || element.checked;
 };
 
 /**
@@ -262,9 +281,14 @@ const isMultiSelect = element => element.options && element.multiple;
  * @param  {HTMLOptionsCollection} options  the options for the select
  * @return {Array}                          an array of selected option values
  */
-const getSelectValues = options => [].reduce.call(options, (values, option) => {
-  return option.selected ? values.concat(option.value) : values;
-}, []);
+const getSelectValues = options =>
+  [].reduce.call(
+    options,
+    (values, option) => {
+      return option.selected ? values.concat(option.value) : values;
+    },
+    []
+  );
 
 /**
  * A more verbose implementation of `formToJSON()` to explain how it works.
@@ -276,10 +300,8 @@ const getSelectValues = options => [].reduce.call(options, (values, option) => {
  * @return {Object}                               form data as an object literal
  */
 const formToJSON_deconstructed = elements => {
-
   // This is the function that is called on each element of the array.
   const reducerFunction = (data, element) => {
-
     // Add the current field to the object.
     data[element.name] = element.value;
 
@@ -296,7 +318,11 @@ const formToJSON_deconstructed = elements => {
   console.log('Initial `data` value:', JSON.stringify(reducerInitialValue));
 
   // Now we reduce by `call`-ing `Array.prototype.reduce()` on `elements`.
-  const formData = [].reduce.call(elements, reducerFunction, reducerInitialValue);
+  const formData = [].reduce.call(
+    elements,
+    reducerFunction,
+    reducerInitialValue
+  );
 
   // The result is then returned for use elsewhere.
   return formData;
@@ -307,30 +333,33 @@ const formToJSON_deconstructed = elements => {
  * @param  {HTMLFormControlsCollection} elements  the form elements
  * @return {Object}                               form data as an object literal
  */
-const formToJSON = elements => [].reduce.call(elements, (data, element) => {
+const formToJSON = elements =>
+  [].reduce.call(
+    elements,
+    (data, element) => {
+      // Make sure the element has the required properties and should be added.
+      if (isValidElement(element) && isValidValue(element)) {
+        let value;
+        /*
+         * Some fields allow for more than one value, so we need to check if this
+         * is one of those fields and, if so, store the values as an array.
+         */
+        if (isCheckbox(element)) {
+          // value = (data[element.name] || []).concat(element.value);
+          console.log('checkbox value = ' + element.value);
+          value = element.checked;
+        } else if (isMultiSelect(element)) {
+          value = getSelectValues(element);
+        } else {
+          value = element.value;
+        }
+        _.set(data, element.name, value);
+      }
 
-  // Make sure the element has the required properties and should be added.
-  if (isValidElement(element) && isValidValue(element)) {
-
-    let value;
-    /*
-     * Some fields allow for more than one value, so we need to check if this
-     * is one of those fields and, if so, store the values as an array.
-     */
-    if (isCheckbox(element)) {
-      // value = (data[element.name] || []).concat(element.value);
-      console.log('checkbox value = ' + element.value);
-      value = element.checked;
-    } else if (isMultiSelect(element)) {
-      value = getSelectValues(element);
-    } else {
-      value = element.value;
-    }
-    _.set(data, element.name, value);
-  }
-
-  return data;
-}, {});
+      return data;
+    },
+    {}
+  );
 
 /**
  * A handler function to prevent default submission and run our custom script.
@@ -338,7 +367,6 @@ const formToJSON = elements => [].reduce.call(elements, (data, element) => {
  * @return {void}
  */
 const handleFormSubmit = event => {
-
   // Stop the form from submitting since we’re handling that with AJAX.
   event.preventDefault();
 
@@ -349,7 +377,7 @@ const handleFormSubmit = event => {
   const dataContainer = document.getElementsByClassName('results__display')[0];
 
   // Use `JSON.stringify()` to make the output valid, human-readable JSON.
-  dataContainer.textContent = JSON.stringify(data, null, "  ");
+  dataContainer.textContent = JSON.stringify(data, null, '  ');
 
   // ...this is where we’d actually do something with the form data...
 };
@@ -363,7 +391,6 @@ const form = document.getElementsByClassName('add-breeding-dog-form')[0];
 if (form !== undefined) {
   form.addEventListener('submit', handleFormSubmit);
 }
-
 
 //
 // $.fn.serializeObject = function() {
@@ -391,7 +418,6 @@ if (form !== undefined) {
 // }));
 //
 
-
 function copyToClipboard(elementId) {
   /* Get the text field */
   var copyText = $('.' + elementId);
@@ -402,7 +428,7 @@ function copyToClipboard(elementId) {
   // copyText.setSelectionRange(0, 99999); /*For mobile devices*/
   //
   // /* Copy the text inside the text field */
-  document.execCommand("copy");
+  document.execCommand('copy');
 
   // /* Alert the copied text */
   // alert("Copied the text: " + copyText);
