@@ -181,6 +181,12 @@ $newsFontSize: $font-size-base * 0.9;
 //  }
 //}
 
+
+.header {
+  border-bottom: 1px solid darkslategray;
+}
+
+
 @include media-breakpoint-up(lg) {
   .mobile-menu {
     display: none;
@@ -188,9 +194,13 @@ $newsFontSize: $font-size-base * 0.9;
   }
   .menu-container {
     width: 100%;
-    border: 3px solid red;
+    //border: 3px solid red;
     display: flex;
     justify-content: center;
+  }
+  .header {
+    height: 118px;
+    flex: 0 0 120px;
   }
 }
 
@@ -204,6 +214,10 @@ $newsFontSize: $font-size-base * 0.9;
     border: 3px solid blue;
     display: block;
     justify-content: center;
+  }
+  .header {
+    height: 60px;
+    flex: 0 0 60px;
   }
 }
 
@@ -290,12 +304,6 @@ $newsFontSize: $font-size-base * 0.9;
   height: 100vh;
   flex-flow: column;
   width: 100%;
-}
-
-.header {
-  height: 360px;
-  flex: 0 0 60px;
-  border-bottom: 1px solid darkslategray;
 }
 
 .content {
