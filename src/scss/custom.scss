@@ -1,25 +1,8 @@
 // Your customize CSS
 
-// /*! `Custom` Bootstrap 4 theme */
-// @import url(https://fonts.googleapis.com/css?family=Quicksand:200,300,400,700);
-// $headings-font-family:Quicksand;
+$a-color: #8B4513;
+$a-hover-color: #8b6349;
 
-
-// .navbar-collapse {
-  //  position: absolute;
-  //  left: 0;
-  //  right: 0;
-  //  top: 100%;
-  // z-index: 100;
-  // background: white;
-  //  padding: 0.5rem 1rem;
-// }
-
-
-// .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
-//   background-color: #FFFF00;
-//   color: #FFC0CB;
-// }
 
 .dropdown-menu a:hover {
   //background-color: #a1d9ae;
@@ -43,7 +26,15 @@
 }
 
 a {
-  color: #1c7430;
+  color: $a-color;
+}
+
+a:hover {
+  color: $a-hover-color;
+}
+
+.dropdown-item:hover {
+  font-weight: bolder;
 }
 
 .header-images {
@@ -383,7 +374,7 @@ $img-tumbnail-max-height: 200px;
 
 .dogCardDetailClick {
   cursor: pointer;
-  color: #1c7430;
+  color: $a-color;
 }
 
 .hidden {
