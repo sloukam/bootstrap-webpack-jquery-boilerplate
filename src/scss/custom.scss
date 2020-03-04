@@ -181,11 +181,30 @@ $newsFontSize: $font-size-base * 0.9;
 //  }
 //}
 
-.menu-container {
-  width: 100%;
-  //border: 1px solid black;
-  display: flex;
-  justify-content: center;
+@include media-breakpoint-up(lg) {
+  .mobile-menu {
+    display: none;
+    border: 3px solid red;
+  }
+  .menu-container {
+    width: 100%;
+    border: 3px solid red;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .full-menu {
+    display: none;
+    border: 3px solid green;
+  }
+  .menu-container {
+    width: 100%;
+    border: 3px solid blue;
+    display: block;
+    justify-content: center;
+  }
 }
 
 .main-menu, .navbar-collapse {
@@ -276,7 +295,7 @@ $newsFontSize: $font-size-base * 0.9;
 .header {
   height: 360px;
   flex: 0 0 60px;
-  border: 1px solid #1c7430;
+  border-bottom: 1px solid darkslategray;
 }
 
 .content {

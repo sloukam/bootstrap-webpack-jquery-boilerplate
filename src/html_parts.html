@@ -1,129 +1,259 @@
 <div id="mainNav">
-  <a href="./index.html" style="text-decoration: none">
-    <div class="header-images" style="text-decoration: none">
-      <img src="./public/images/mskao.png" style="height: 58px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="./public/images/logo.png" style="height: 50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="./public/images/logo_mskao_small.png" style="height: 50px">
-    </div>
-  </a>
+  <div id="mobile-menu" class="mobile-menu">
+<!--    <a href="./index.html" style="text-decoration: none">-->
+<!--      <div class="header-images" style="text-decoration: none">-->
+<!--        <img src="./public/images/mskao.png" style="height: 58px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--        <img src="./public/images/logo.png" style="height: 50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<!--        <img src="./public/images/logo_mskao_small.png" style="height: 50px">-->
+<!--      </div>-->
+<!--    </a>-->
+    <div class="menu-container">
+      <nav class="main-menu navbar navbar-right navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html"><img src="./public/images/home.png" height="30" alt="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-  <div class="menu-container">
-    <nav class="main-menu navbar navbar-right navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="index.html"><img src="./public/images/home.png" height="30" alt="logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <!--        <li class="nav-item active">-->
-          <!--          <a class="nav-link" href="index.html">Home</a>-->
-          <!--        </li>-->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Anglický setr</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="as_about.html">o plemeni</a>
-              <a class="dropdown-item" href="as_standard.html">standard</a>
-              <!-- <a class="dropdown-item" href="article.html">clanek</a> -->
-              <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
-              <!--          <a class="dropdown-item" href="as_chovni_jedinci.html">chovní jedinci</a>-->
-              <a class="dropdown-item" href="chovni_jedinci.html?rasa=as">chovní jedinci</a>
-    <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
-    <!--          <div class="dropdown-divider"></div>-->
-    <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
-            </div>
-          </li>
-
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Gordonsetr</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="gs_about.html">o plemeni</a>
-              <a class="dropdown-item" href="gs_standard.html">standard</a>
-    <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
-              <a class="dropdown-item" href="chovni_jedinci.html?rasa=gs">chovní jedinci</a>
-    <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
-    <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
-            </div>
-          </li>
-
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Irský červenobílý setr</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="irws_about.html">o plemeni</a>
-              <a class="dropdown-item" href="irws_standard.html">standard</a>
-    <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
-              <a class="dropdown-item" href="chovni_jedinci.html?rasa=irws">chovní jedinci</a>
-    <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
-    <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
-            </div>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Irský setr</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="is_about.html">o plemeni</a>
-              <a class="dropdown-item" href="is_standard.html">standard</a>
-    <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
-              <a class="dropdown-item" href="chovni_jedinci.html?rasa=is">chovní jedinci</a>
-    <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
-    <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
-            </div>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Pointer</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="poi_about.html">o plemeni</a>
-              <a class="dropdown-item" href="poi_standard.html">standard</a>
-    <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
-              <a class="dropdown-item" href="chovni_jedinci.html?rasa=poi">chovní jedinci</a>
-    <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
-    <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#">Inzerce</a>
-          </li>
-
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
-               aria-haspopup="true" aria-expanded="false">Klub</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="news.html">Novinky</a>
-              <a class="dropdown-item" href="kalendar_akci.html">Kalendář klubových akcí</a>
-              <a class="dropdown-item" href="normativy.html">Klubové normativy</a>
-              <a class="dropdown-item disabled" href="#">Členství</a>
-              <a class="dropdown-item" href="klubove_poplatky.html">Poplatky</a>
-              <a class="dropdown-item disabled" href="#">Podmínky uchovnění</a>
-              <!--            <a class="dropdown-item disabled" href="#">Klubový zpravodaj</a>-->
-              <!--            <a class="dropdown-item disabled" href="#">Pes roku</a>-->
-              <a class="dropdown-item disabled" href="#">Výroční členská schůze</a>
-              <!--            <a class="dropdown-item disabled" href="#">Historie a součastnost</a>-->
-              <a class="dropdown-item" href="contacts.html">Kontakty</a>
-            </div>
-          </li>
-
-          <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
-                 aria-haspopup="true" aria-expanded="false">Uzivatelská sekce</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <!--        <li class="nav-item active">-->
+            <!--          <a class="nav-link" href="index.html">Home</a>-->
+            <!--        </li>-->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Anglický setr</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="add_breeding_dog.html">pridat psa</a>
-                  <a class="dropdown-item" href="add_article.html">vloz novy clanek</a>
+                <a class="dropdown-item" href="as_about.html">o plemeni</a>
+                <a class="dropdown-item" href="as_standard.html">standard</a>
+                <!-- <a class="dropdown-item" href="article.html">clanek</a> -->
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <!--          <a class="dropdown-item" href="as_chovni_jedinci.html">chovní jedinci</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=as">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <div class="dropdown-divider"></div>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
               </div>
             </li>
 
-        </ul>
-        <!--       <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-              </form>
-         -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Gordonsetr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="gs_about.html">o plemeni</a>
+                <a class="dropdown-item" href="gs_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=gs">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Irský červenobílý setr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="irws_about.html">o plemeni</a>
+                <a class="dropdown-item" href="irws_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=irws">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Irský setr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="is_about.html">o plemeni</a>
+                <a class="dropdown-item" href="is_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=is">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Pointer</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="poi_about.html">o plemeni</a>
+                <a class="dropdown-item" href="poi_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=poi">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Inzerce</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Klub</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="news.html">Novinky</a>
+                <a class="dropdown-item" href="kalendar_akci.html">Kalendář klubových akcí</a>
+                <a class="dropdown-item" href="normativy.html">Klubové normativy</a>
+                <a class="dropdown-item disabled" href="#">Členství</a>
+                <a class="dropdown-item" href="klubove_poplatky.html">Poplatky</a>
+                <a class="dropdown-item disabled" href="#">Podmínky uchovnění</a>
+                <!--            <a class="dropdown-item disabled" href="#">Klubový zpravodaj</a>-->
+                <!--            <a class="dropdown-item disabled" href="#">Pes roku</a>-->
+                <a class="dropdown-item disabled" href="#">Výroční členská schůze</a>
+                <!--            <a class="dropdown-item disabled" href="#">Historie a součastnost</a>-->
+                <a class="dropdown-item" href="contacts.html">Kontakty</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Uzivatelská sekce</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="add_breeding_dog.html">pridat psa</a>
+                <a class="dropdown-item" href="add_article.html">vloz novy clanek</a>
+              </div>
+            </li>
+
+          </ul>
+          <!--       <form class="form-inline my-2 my-lg-0">
+                  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+           -->
+        </div>
+      </nav>
+    </div>
+  </div>
+
+  <div id="full-menu" class="full-menu">
+    <a href="./index.html" style="text-decoration: none">
+      <div class="header-images" style="text-decoration: none">
+        <img src="./public/images/mskao.png" style="height: 58px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./public/images/logo.png" style="height: 50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./public/images/logo_mskao_small.png" style="height: 50px">
       </div>
-    </nav>
+    </a>
+
+    <div class="menu-container">
+      <nav class="main-menu navbar navbar-right navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html"><img src="./public/images/home.png" height="30" alt="logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <!--        <li class="nav-item active">-->
+            <!--          <a class="nav-link" href="index.html">Home</a>-->
+            <!--        </li>-->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Anglický setr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="as_about.html">o plemeni</a>
+                <a class="dropdown-item" href="as_standard.html">standard</a>
+                <!-- <a class="dropdown-item" href="article.html">clanek</a> -->
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <!--          <a class="dropdown-item" href="as_chovni_jedinci.html">chovní jedinci</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=as">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <div class="dropdown-divider"></div>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Gordonsetr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="gs_about.html">o plemeni</a>
+                <a class="dropdown-item" href="gs_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=gs">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Irský červenobílý setr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="irws_about.html">o plemeni</a>
+                <a class="dropdown-item" href="irws_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=irws">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Irský setr</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="is_about.html">o plemeni</a>
+                <a class="dropdown-item" href="is_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=is">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Pointer</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="poi_about.html">o plemeni</a>
+                <a class="dropdown-item" href="poi_standard.html">standard</a>
+                <!--          <a class="dropdown-item disabled" href="#">poradce chovu</a>-->
+                <a class="dropdown-item" href="chovni_jedinci.html?rasa=poi">chovní jedinci</a>
+                <!--          <a class="dropdown-item disabled" href="#">vyřazení jedinci</a>-->
+                <!--          <a class="dropdown-item disabled" href="#">fotogalerie</a>-->
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Inzerce</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Klub</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="news.html">Novinky</a>
+                <a class="dropdown-item" href="kalendar_akci.html">Kalendář klubových akcí</a>
+                <a class="dropdown-item" href="normativy.html">Klubové normativy</a>
+                <a class="dropdown-item disabled" href="#">Členství</a>
+                <a class="dropdown-item" href="klubove_poplatky.html">Poplatky</a>
+                <a class="dropdown-item disabled" href="#">Podmínky uchovnění</a>
+                <!--            <a class="dropdown-item disabled" href="#">Klubový zpravodaj</a>-->
+                <!--            <a class="dropdown-item disabled" href="#">Pes roku</a>-->
+                <a class="dropdown-item disabled" href="#">Výroční členská schůze</a>
+                <!--            <a class="dropdown-item disabled" href="#">Historie a součastnost</a>-->
+                <a class="dropdown-item" href="contacts.html">Kontakty</a>
+              </div>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown6" role="button" data-toggle="dropdown"
+                 aria-haspopup="true" aria-expanded="false">Uzivatelská sekce</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="add_breeding_dog.html">pridat psa</a>
+                <a class="dropdown-item" href="add_article.html">vloz novy clanek</a>
+              </div>
+            </li>
+
+          </ul>
+          <!--       <form class="form-inline my-2 my-lg-0">
+                  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+           -->
+        </div>
+      </nav>
+    </div>
   </div>
 </div>
 
