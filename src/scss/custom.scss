@@ -186,6 +186,10 @@ $newsFontSize: $font-size-base * 0.9;
   border-bottom: 1px solid darkslategray;
 }
 
+.centralize-content {
+  display: flex;
+  justify-content: center;
+}
 
 @include media-breakpoint-up(lg) {
   .mobile-menu {
