@@ -33,11 +33,11 @@ $(document).ready(function() {
   }
   getNews();
   // renderArticle();
-  renderData(
-    'articlePreviewTemplate',
-    'articlePreviewContainer',
-    'articles.json'
-  );
+  // renderData(
+  //   'articlePreviewTemplate',
+  //   'articlePreviewContainer',
+  //   'articles.json'
+  // );
 
   // $('#summernote').summernote();
   $('#summernote').summernote({
