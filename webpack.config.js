@@ -98,6 +98,7 @@ const config = {
   ],
   devServer: {
     contentBase: path.join(__dirname, 'src'),
+    port: 8558,
   },
   optimization: {
     runtimeChunk: 'single',
