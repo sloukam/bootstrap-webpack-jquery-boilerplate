@@ -37,8 +37,9 @@ a:hover {
   font-weight: bolder;
 }
 
-.header-images {
-  text-align: center;
+.header-container {
+  @extend .container;
+  z-index: 100 !important;
 }
 
 .sex-symbol {
@@ -188,14 +189,14 @@ $newsFontSize: $font-size-base * 0.9;
     display: none;
     border: 3px solid red;
   }
-  .menu-container {
-    width: 100%;
-    //border: 3px solid red;
-    display: flex;
-    justify-content: center;
-  }
+  //.menu-container {
+  //  width: 100%;
+  //  //border: 3px solid red;
+  //  display: flex;
+  //  justify-content: center;
+  //}
   .header {
-    height: 118px;
+    height: 190px;
     flex: 0 0 120px;
   }
 }
@@ -205,12 +206,12 @@ $newsFontSize: $font-size-base * 0.9;
     display: none;
     border: 3px solid green;
   }
-  .menu-container {
-    width: 100%;
-    //border: 3px solid blue;
-    display: block;
-    justify-content: center;
-  }
+  //.menu-container {
+  //  width: 100%;
+  //  //border: 3px solid blue;
+  //  display: block;
+  //  justify-content: center;
+  //}
   .header {
     height: 60px;
     flex: 0 0 60px;
