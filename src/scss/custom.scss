@@ -40,11 +40,27 @@ a:hover {
 .header-container {
   @extend .container;
   z-index: 100 !important;
+  border-bottom: 1px solid darkslategray;
+}
+
+.footer-container {
+  @extend .container;
+  z-index: 100 !important;
+  border-top: 1px solid darkslategray;
 }
 
 .sex-symbol {
   min-height: 65px;
   max-height: 65px;
+}
+
+.footer-container p {
+  color: #4f4f4f;
+  font-size: $font-size-base * 1.3;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+  margin-top: 10px;
+  margin-bottom: 3px;
 }
 
 // use next css style just for small devices
@@ -175,9 +191,9 @@ $newsFontSize: $font-size-base * 0.9;
 //}
 
 
-.header {
-  border-bottom: 1px solid darkslategray;
-}
+//.header {
+//  border-bottom: 1px solid darkslategray;
+//}
 
 .centralize-content {
   display: flex;
