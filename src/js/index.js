@@ -383,6 +383,28 @@ const handleFormSubmit = event => {
   // ...this is where we’d actually do something with the form data...
 };
 
+const handleArticleFormSubmit = event => {
+  // Stop the form from submitting since we’re handling that with AJAX.
+  event.preventDefault();
+
+  // Call our function to get the form data.
+  const data = formToJSON(article_form.elements);
+
+  console.log('article_form.elements:');
+  console.log(article_form.elements);
+
+  console.log('form data: ');
+  console.log(data);
+
+  // Demo only: print the form data onscreen as a formatted JSON object.
+  const dataContainer = document.getElementsByClassName('results__display')[0];
+
+  // Use `JSON.stringify()` to make the output valid, human-readable JSON.
+  dataContainer.textContent = JSON.stringify(data, null, '  ');
+
+  // ...this is where we’d actually do something with the form data...
+};
+
 /*
  * This is where things actually get started. We find the form element using
  * its class name, then attach the `handleFormSubmit()` function to the
@@ -391,6 +413,11 @@ const handleFormSubmit = event => {
 const form = document.getElementsByClassName('add-breeding-dog-form')[0];
 if (form !== undefined) {
   form.addEventListener('submit', handleFormSubmit);
+}
+
+const article_form = document.getElementsByClassName('add-article-form')[0];
+if (article_form !== undefined) {
+  article_form.addEventListener('submit', handleArticleFormSubmit);
 }
 
 //
