@@ -27,6 +27,8 @@ $(document).ready(function() {
   $('#as-about-container').load('html_parts.html #as-about-content');
   $('#as-standard-container').load('html_parts.html #as-standard-content');
 
+  $('#mskao-about-container').load('html_parts.html #mskao-about-content');
+
   var breed = GetURLParameter('rasa');
   if (breed !== undefined) {
     console.log('breed = ' + breed);
