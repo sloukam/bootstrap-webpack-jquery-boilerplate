@@ -61,7 +61,7 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ARAMIS Z VINNÝCH TRATÍ",
       "date_of_birth": "2009-09-09",
       "clp": "10615",
@@ -122,6 +122,35 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
+      "name": "ASLAN Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2012-08-11",
+      "clp": "10918",
+      "father": " Endy z Hovoran",
+      "mother": "Mona z Knollovy školy",
+      "body": {
+        "height": "65",
+        "color": "žemlová s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "V, CAC, BOS",
+      "exams": "ZV II. c, PZ I. c",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Otáhalová",
+        "address": {
+          "street": "Sadová",
+          "number": "652/9",
+          "city": "Troubky",
+          "post_code": "75102"
+        },
+        "phone": "721546741",
+        "email": "otahalova.v@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": false,
       "name": "BRIT OD ZELENÉHO STOLU",
       "date_of_birth": "2013-06-23",
       "clp": "10961",
@@ -151,30 +180,92 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
-      "name": "BEST Z BÍTÝŠSKÝCH BAŽIN",
-      "date_of_birth": "2015-08-30",
-      "clp": "11227",
-      "father": "AJZON Z HALIKARNASU",
-      "mother": "AMY Z BÍTÝŠSKÝCH BAŽIN",
+      "name": "DON Z BOROVINKY",
+      "date_of_birth": "2013-07-28",
+      "clp": "10987",
+      "father": "Marko z Knollovy školy",
+      "mother": "Iša z Oklikova",
       "body": {
-        "height": "64",
-        "color": "bíložemlová",
+        "height": "66",
+        "color": "hnědá, bílé znaky",
         "HD": "A"
       },
-      "shows": "V1, VT, OV, KV, res. CACIB,\nres. CAC., CAC",
-      "exams": "ZV II. c",
+      "shows": "Výborný 3",
+      "exams": "ZV – CACT, PZ – CACT, SZVP,\nVZ – vše I. c., Derby – AO, NFT, MFT",
       "owner": {
-        "first_name": "Veronika",
-        "last_name": "Otáhalová",
+        "first_name": "Zdeněk",
+        "last_name": "Andrýsek",
         "address": {
-          "street": "Sadová",
-          "number": "652/9",
-          "city": "Troubky",
-          "post_code": "75102"
+          "street": "Sazovice",
+          "number": "90",
+          "city": "Sazovice",
+          "post_code": "76301"
         },
-        "phone": "721546741",
-        "email": "otahalova.v@seznam.cz"
+        "phone": "739644759",
+        "email": "andrysek.zdenek@seznam.cz"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "AVON",
+      "date_of_birth": "2014-04-01",
+      "clp": "11537",
+      "father": "DAG",
+      "mother": "ALMA-N",
+      "body": {
+        "height": "64",
+        "color": "černobílá",
+        "HD": "B"
+      },
+      "shows": " V1, CAC, res. CACIB, BOB",
+      "exams": " I.U.O. Srbsko, ZV I. c,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz",
+        "web": "http://www.ze-zajecich-poli.webnode.cZ"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "WHIPSPAN GOLDEN LEGACY",
+      "date_of_birth": "2014-05-15",
+      "clp": "11132",
+      "father": "ASPYRE FOLLOW YOUR DREAMS TO KISWAHILI",
+      "mother": "WHIPSPAN BONDI PEACH",
+      "body": {
+        "height": "65",
+        "color": "žlutobílý",
+        "HD": "A"
+      },
+      "championships": "CH ČR, CH SK",
+      "shows": " CAJC, BOJ",
+      "exams": " ZV-I. c",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Janečková Horáková",
+        "address": {
+          "street": "Nádražní",
+          "number": "1738",
+          "city": "Dubňany",
+          "post_code": "69603"
+        },
+        "phone": "728942000",
+        "web": "http://www.natyavegrove.com"
+      },
+      "other": "Import Anglie"
     },
     {
       "breed": "POI",
@@ -268,78 +359,18 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
-      "name": "WHIPSPAN GOLDEN LEGACY",
-      "date_of_birth": "2014-05-15",
-      "clp": "11132",
-      "father": "ASPYRE FOLLOW YOUR DREAMS TO KISWAHILI",
-      "mother": "WHIPSPAN BONDI PEACH",
+      "name": "BEST Z BÍTÝŠSKÝCH BAŽIN",
+      "date_of_birth": "2015-08-30",
+      "clp": "11227",
+      "father": "AJZON Z HALIKARNASU",
+      "mother": "AMY Z BÍTÝŠSKÝCH BAŽIN",
       "body": {
-        "height": "65",
-        "color": "žlutobílý",
+        "height": "64",
+        "color": "bíložemlová",
         "HD": "A"
       },
-      "championships": "CH ČR, CH SK",
-      "shows": " CAJC, BOJ",
-      "exams": " ZV-I. c",
-      "owner": {
-        "first_name": "Lenka",
-        "last_name": "Janečková Horáková",
-        "address": {
-          "street": "Nádražní",
-          "number": "1738",
-          "city": "Dubňany",
-          "post_code": "69603"
-        },
-        "phone": "728942000",
-        "web": "http://www.natyavegrove.com"
-      },
-      "other": "Import Anglie"
-    },
-    {
-      "breed": "POI",
-      "sex": "male",
-      "visible": true,
-      "name": "DON Z BOROVINKY",
-      "date_of_birth": "2013-07-28",
-      "clp": "10987",
-      "father": "Marko z Knollovy školy",
-      "mother": "Iša z Oklikova",
-      "body": {
-        "height": "66",
-        "color": "hnědá, bílé znaky",
-        "HD": "A"
-      },
-      "shows": "Výborný 3",
-      "exams": "ZV – CACT, PZ – CACT, SZVP,\nVZ – vše I. c., Derby – AO, NFT, MFT",
-      "owner": {
-        "first_name": "Zdeněk",
-        "last_name": "Andrýsek",
-        "address": {
-          "street": "Sazovice",
-          "number": "90",
-          "city": "Sazovice",
-          "post_code": "76301"
-        },
-        "phone": "739644759",
-        "email": "andrysek.zdenek@seznam.cz"
-      }
-    },
-    {
-      "breed": "POI",
-      "sex": "male",
-      "visible": true,
-      "name": "ALSAN Z BÍTÝŠSKÝCH BAŽIN",
-      "date_of_birth": "2012-08-11",
-      "clp": "10918",
-      "father": " Endy z Hovoran",
-      "mother": "Mona z Knollovy školy",
-      "body": {
-        "height": "65",
-        "color": "žemlová s náprsenkou",
-        "HD": "A"
-      },
-      "shows": "V, CAC, BOS",
-      "exams": "ZV II. c, PZ I. c",
+      "shows": "V1, VT, OV, KV, res. CACIB,\nres. CAC., CAC",
+      "exams": "ZV II. c",
       "owner": {
         "first_name": "Veronika",
         "last_name": "Otáhalová",
@@ -351,62 +382,6 @@
         },
         "phone": "721546741",
         "email": "otahalova.v@seznam.cz"
-      }
-    },
-    {
-      "breed": "POI",
-      "sex": "male",
-      "visible": true,
-      "name": "ALL ALL ALL ARTEGERD",
-      "date_of_birth": "2017-06-27",
-      "clp": "11414",
-      "father": " SOLIVIA‘S WELL WELL WELL",
-      "mother": "WHIPSPAN LEGACY",
-      "body": {
-        "height": "67",
-        "color": "oranžovobílá",
-        "HD": "A"
-      },
-      "shows": "V1, CAJC, BOJ, BOS, BOB, JBIG, JBIS,",
-      "exams": "ZV I. c",
-      "owner": {
-        "first_name": "Pavel",
-        "last_name": "Thiel",
-        "address": {
-          "street": "Nová Ves",
-          "number": "141",
-          "post_code": "46331"
-        },
-        "phone": "721546741",
-        "email": "pavlos2211@gmail.com"
-      }
-    },
-    {
-      "breed": "POI",
-      "sex": "male",
-      "visible": true,
-      "name": "AMPIO DEL WINEPOINT",
-      "date_of_birth": "2017-04-21",
-      "clp": "11436",
-      "father": "Dio Vom Kleebachtal",
-      "mother": "Pawprint Flaming Soul",
-      "body": {
-        "height": "64",
-        "color": "bílooranžová",
-        "HD": "A"
-      },
-      "championships": "CH CZ",
-      "shows": "CAJC, BOS, CACIB, BOB",
-      "exams": "ZV I. c",
-      "owner": {
-        "first_name": "Gabriela",
-        "last_name": "Lyčková",
-        "address": {
-          "street": "Luční",
-          "number": "183",
-          "city": "Lučina",
-          "post_code": "73939"
-        }
       }
     },
     {
@@ -443,37 +418,62 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
-      "name": "AVON",
-      "date_of_birth": "2014-04-01",
-      "clp": "11537",
-      "father": "DAG",
-      "mother": "ALMA-N",
+      "name": "AMPIO DEL WINEPOINT",
+      "date_of_birth": "2017-04-21",
+      "clp": "11436",
+      "father": "Dio Vom Kleebachtal",
+      "mother": "Pawprint Flaming Soul",
       "body": {
         "height": "64",
-        "color": "černobílá",
-        "HD": "B"
+        "color": "bílooranžová",
+        "HD": "A"
       },
-      "shows": " V1, CAC, res. CACIB, BOB",
-      "exams": " I.U.O. Srbsko, ZV I. c,",
+      "championships": "CH CZ",
+      "shows": "CAJC, BOS, CACIB, BOB",
+      "exams": "ZV I. c",
       "owner": {
-        "title": "Ing.",
-        "first_name": "Zlata",
-        "last_name": "Zajícová",
+        "first_name": "Gabriela",
+        "last_name": "Lyčková",
         "address": {
-          "street": "Dobromilice",
-          "number": "258",
-          "city": "Dobromilice",
-          "post_code": "79825"
+          "street": "Luční",
+          "number": "183",
+          "city": "Lučina",
+          "post_code": "73939"
+        }
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ALL ALL ALL ARTEGERD",
+      "date_of_birth": "2017-06-27",
+      "clp": "11414",
+      "father": " SOLIVIA‘S WELL WELL WELL",
+      "mother": "WHIPSPAN LEGACY",
+      "body": {
+        "height": "67",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, BOJ, BOS, BOB, JBIG, JBIS,",
+      "exams": "ZV I. c",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Thiel",
+        "address": {
+          "street": "Nová Ves",
+          "number": "141",
+          "post_code": "46331"
         },
-        "phone": "608964289",
-        "email": "zlatka.z@seznam.cz",
-        "web": "http://www.ze-zajecich-poli.webnode.cZ"
+        "phone": "721546741",
+        "email": "pavlos2211@gmail.com"
       }
     },
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "PORTA WK – SB",
       "date_of_birth": "2011-04-27",
       "clp": "10885",
@@ -499,10 +499,11 @@
         "phone": "731178425",
         "email": "OlivaP6@seznam.cz"
       }
-    },{
+    },
+    {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ONIIE Z LUKOVSKÝCH LÁNŮ",
       "date_of_birth": "2011-06-14",
       "clp": "10815",
@@ -532,7 +533,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ODETA ZE ŠTÍPEK",
       "date_of_birth": "2012-01-31",
       "clp": "10871",
@@ -562,7 +563,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "OSKA ZE ŠTÍPEK",
       "date_of_birth": "2012-01-31",
       "clp": "10869",
@@ -591,7 +592,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CORA Z BOROVINKY",
       "date_of_birth": "2012-06-22",
       "clp": "10906",
@@ -620,7 +621,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CILKA Z BOROVINKY",
       "date_of_birth": "2012-06-22",
       "clp": "10909",
@@ -649,7 +650,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "DHELI Z KARCZEWSKIEJ ZAGRODY",
       "date_of_birth": "2012-07-28",
       "clp": "10940",
@@ -680,7 +681,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AMY Z BÍTÝŠSKÝCH BAŽIN",
       "date_of_birth": "2012-08-11",
       "clp": "10920",
@@ -709,7 +710,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CEDRA Z VINNÝCH TRATÍ",
       "date_of_birth": "2012-12-30",
       "clp": "10936",
@@ -915,7 +916,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AIŠA OD HLUBOKÉHO ÚVOZU",
       "date_of_birth": "2013-11-25",
       "clp": "11004",
@@ -1031,7 +1032,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "DAFNÉ LUČNÍ KVĚT",
       "date_of_birth": "2015-05-22",
       "clp": "11204",
@@ -1176,7 +1177,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "HOLLY Z KARCZEWSKIEJ ZAGRODY",
       "date_of_birth": "2016-01-25",
       "clp": "11314",
@@ -1406,16 +1407,6 @@
         "email": "mracek.jarek@seznam.cz"
       }
     }
-
-
-
-
-
-
-
-
-
-
   ]
 }
 

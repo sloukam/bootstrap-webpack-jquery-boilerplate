@@ -3,7 +3,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "BARDOLF KING NONSTOP",
       "date_of_birth": "2007-01-18",
       "clp": "14866",
@@ -29,7 +29,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ATYLA WARRIOR MAHAGONY PAW",
       "date_of_birth": "2007-12-26",
       "clp": "15037",
@@ -281,7 +281,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "WALTER REDWEED",
       "date_of_birth": "2012-09-20",
       "clp": "15774",
@@ -986,27 +986,26 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
-      "name": "DOREEN MAHAGONY BEAUTY",
-      "date_of_birth": "2014-09-17",
-      "clp": "16067",
-      "father": "M ́Eudail The Temptation",
-      "mother": "Bethany Lady Everdene",
+      "name": "BELINDA BOHEMIA TÁTRUM",
+      "date_of_birth": "2013-07-04",
+      "clp": "15923",
+      "father": "Eddy z Košumberka",
+      "mother": "Dolly z Jirouškova dvora",
       "body": {
         "HD": "A"
       },
-      "shows": "V, VT, KV",
-      "exams": "ZV I.cena",
+      "shows": "VD",
+      "exams": "ZV I.cena, PZ I.cena",
       "owner": {
-        "title": "Bc.",
-        "first_name": "Kateřina",
-        "last_name": "Sosnová",
+        "first_name": "Jiří",
+        "last_name": "Baláš",
         "address": {
-          "street": "Studničkova",
-          "number": "7",
-          "city": "Ostrava",
-          "post_code": "71500"
+          "street": "Dolní Roveň",
+          "number": "329",
+          "post_code": "53371"
         },
-        "phone": "603195315"
+        "phone": "721364459",
+        "email": "jurabalas@seznam.cz"
       },
       "img_ext": "jpg"
     },
@@ -1070,29 +1069,27 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
-      "name": "EBONY MAHAGONY BEAUTY",
-      "date_of_birth": "2015-06-04",
-      "clp": "16186",
-      "father": "Neiven Amor ́s Arrow",
-      "mother": "Rita z Dubské",
+      "name": "DOREEN MAHAGONY BEAUTY",
+      "date_of_birth": "2014-09-17",
+      "clp": "16067",
+      "father": "M ́Eudail The Temptation",
+      "mother": "Bethany Lady Everdene",
       "body": {
-        "HD": "A",
-        "other": "CLAD N/N"
+        "HD": "A"
       },
-      "championships": "CH PL",
-      "shows": " res. CAC, CAC, CACIB, BOS",
-      "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b.",
+      "shows": "V, VT, KV",
+      "exams": "ZV I.cena",
       "owner": {
-        "first_name": "Miroslava",
-        "last_name": "Němcová",
+        "title": "Bc.",
+        "first_name": "Kateřina",
+        "last_name": "Sosnová",
         "address": {
-          "street": "Heroltovice",
-          "number": "1512",
-          "city": "Město Libavá",
-          "post_code": "78307"
+          "street": "Studničkova",
+          "number": "7",
+          "city": "Ostrava",
+          "post_code": "71500"
         },
-        "phone": "739406622",
-        "email": "nemcova_m@centrum.cz"
+        "phone": "603195315"
       },
       "img_ext": "jpg"
     },
@@ -1129,33 +1126,36 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
-      "name": "BELINDA BOHEMIA TÁTRUM",
-      "date_of_birth": "2013-07-04",
-      "clp": "15923",
-      "father": "Eddy z Košumberka",
-      "mother": "Dolly z Jirouškova dvora",
+      "name": "EBONY MAHAGONY BEAUTY",
+      "date_of_birth": "2015-06-04",
+      "clp": "16186",
+      "father": "Neiven Amor ́s Arrow",
+      "mother": "Rita z Dubské",
       "body": {
-        "HD": "A"
+        "HD": "A",
+        "other": "CLAD N/N"
       },
-      "shows": "VD",
-      "exams": "ZV I.cena, PZ I.cena",
+      "championships": "CH PL",
+      "shows": " res. CAC, CAC, CACIB, BOS",
+      "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b.",
       "owner": {
-        "first_name": "Jiří",
-        "last_name": "Baláš",
+        "first_name": "Miroslava",
+        "last_name": "Němcová",
         "address": {
-          "street": "Dolní Roveň",
-          "number": "329",
-          "post_code": "53371"
+          "street": "Heroltovice",
+          "number": "1512",
+          "city": "Město Libavá",
+          "post_code": "78307"
         },
-        "phone": "721364459",
-        "email": "jurabalas@seznam.cz"
+        "phone": "739406622",
+        "email": "nemcova_m@centrum.cz"
       },
       "img_ext": "jpg"
     },
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ZEPHYRE MAYA REDWEED",
       "date_of_birth": "2015-05-03",
       "clp": "16174",
@@ -1180,6 +1180,35 @@
         },
         "phone": "731135649",
         "web": "http://www.redweedirishsetters.webnode"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BINJARA MAHAGON KENYA",
+      "date_of_birth": "2015-06-28",
+      "clp": "16196",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Flea Červený vítr",
+      "body": {
+        "HD": "B",
+        "ED": "0/0"
+      },
+      "championships": "CH SK",
+      "shows": "CAC, NV, BOB",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Smutný",
+        "address": {
+          "street": "Římov",
+          "number": "93",
+          "city": "Stařeč",
+          "post_code": "67522"
+        },
+        "phone": "608646666"
       },
       "img_ext": "jpg"
     },
@@ -1275,6 +1304,35 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "ETERNAL FLAME GOLDSET",
+      "date_of_birth": "2016-08-05",
+      "clp": "16325",
+      "father": "Garden Star ́s Irish Tequila",
+      "mother": "Autumn Legend Goldset",
+      "body": {
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, CACIB, NV, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "K Rovinám",
+          "number": "558/4",
+          "city": "Praha 5",
+          "post_code": "15800"
+        },
+        "email": "verustechovska@gmail.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "AMY AZARIEL CEDARWOOD ROAD",
       "date_of_birth": "2016-09-01",
       "clp": "16322",
@@ -1321,64 +1379,6 @@
           "post_code": "33701"
         },
         "phone": "777137370"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "female",
-      "visible": true,
-      "name": "ETERNAL FLAME GOLDSET",
-      "date_of_birth": "2016-08-05",
-      "clp": "16325",
-      "father": "Garden Star ́s Irish Tequila",
-      "mother": "Autumn Legend Goldset",
-      "body": {
-        "HD": "A",
-        "ED": "0/0"
-      },
-      "championships": "CH ČR",
-      "shows": "CAC, CACIB, NV, BOS",
-      "exams": "ZV I.cena",
-      "owner": {
-        "first_name": "Veronika",
-        "last_name": "Štěchovská",
-        "address": {
-          "street": "K Rovinám",
-          "number": "558/4",
-          "city": "Praha 5",
-          "post_code": "15800"
-        },
-        "email": "verustechovska@gmail.com"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "female",
-      "visible": true,
-      "name": "BINJARA MAHAGON KENYA",
-      "date_of_birth": "2015-06-28",
-      "clp": "16196",
-      "father": "Abandinus Elimar Doubrava",
-      "mother": "Flea Červený vítr",
-      "body": {
-        "HD": "B",
-        "ED": "0/0"
-      },
-      "championships": "CH SK",
-      "shows": "CAC, NV, BOB",
-      "exams": "ZV I.cena, PZ I.cena",
-      "owner": {
-        "first_name": "Petr",
-        "last_name": "Smutný",
-        "address": {
-          "street": "Římov",
-          "number": "93",
-          "city": "Stařeč",
-          "post_code": "67522"
-        },
-        "phone": "608646666"
       },
       "img_ext": "jpg"
     },

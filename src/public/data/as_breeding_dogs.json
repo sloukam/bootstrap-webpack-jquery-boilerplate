@@ -52,7 +52,7 @@
         "BAER": true,
         "other": ""
       },
-      "shows": " CAJC, res.CAC, CAC, res.CACIB",
+      "shows": "CAJC, res.CAC, CAC, res.CACIB",
       "exams": "ZV - I.c., KZV - III.c.",
       "father": " Yavanna’s Kariya Cenhamn",
       "mother": "Camellia Brilanti Davaroni",
@@ -462,7 +462,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "SAPPHIRE DAMA KRKONOŠE",
       "date_of_birth": "2012-06-25",
@@ -496,7 +496,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "EDITIONS SECRET FOR DAVARONI",
       "date_of_birth": "2012-08-06",
@@ -653,6 +653,37 @@
     {
       "visible": true,
       "breed": "AS",
+      "name": "LOUISA MORRISON",
+      "date_of_birth": "2014-10-14",
+      "clp": "6128",
+      "father": "Raven White Magenta",
+      "mother": "Beretta Morrison",
+      "sex": "female",
+      "body": {
+        "height": "61",
+        "color": "orange belton",
+        "HD": "A"
+      },
+      "championships": "JCH ČR",
+      "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
+      "exams": "KZV – I.c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Renata",
+        "last_name": "Krakovková",
+        "address": {
+          "street": "Okružní",
+          "number": "237",
+          "city": "Píšť"
+        },
+        "phone": "775193190",
+        "email": "r.krakovkova@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "visible": true,
+      "breed": "AS",
       "name": "BASTA FIDLI BAMBOLA LYMARKOS",
       "date_of_birth": "2015-02-24",
       "clp": "6153",
@@ -746,37 +777,6 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
-      "breed": "AS",
-      "name": "LOUISA MORRISON",
-      "date_of_birth": "2014-10-14",
-      "clp": "6128",
-      "father": "Raven White Magenta",
-      "mother": "Beretta Morrison",
-      "sex": "female",
-      "body": {
-        "height": "61",
-        "color": "orange belton",
-        "HD": "A"
-      },
-      "championships": "JCH ČR",
-      "shows": "BOS, BOJ, CAC, CAC ČMKU, CAJC, Národní vítěz, Oblastní vítěz",
-      "exams": "KZV – I.c.",
-      "owner": {
-        "title": "Ing.",
-        "first_name": "Renata",
-        "last_name": "Krakovková",
-        "address": {
-          "street": "Okružní",
-          "number": "237",
-          "city": "Píšť"
-        },
-        "phone": "775193190",
-        "email": "r.krakovkova@seznam.cz"
-      },
-      "img_ext": "jpg"
-    },
-    {
       "breed": "AS",
       "sex": "female",
       "visible": true,
@@ -808,6 +808,6 @@
         "email": "sloukam@gmail.com"
       },
       "img_ext": "jpg"
-    }    
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "dogs": [
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "IDOR Z ŽELEČKY",
       "date_of_birth": "2008-05-24",
@@ -59,7 +59,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "DARK DEVIL ÁRES ŠAMARKAN",
       "date_of_birth": "2010-05-07",
@@ -168,8 +168,8 @@
       "shows": "CAJC, CAC, CAC ČMKU, NV, CACIB, BOJ, BOS",
       "exams": "ZV – I.c.",
       "owner": {
-        "first_name": "Zuzana",
-        "last_name": "Nedavašková",
+        "first_name": "Vlastislav",
+        "last_name": "Nedavaška",
         "address": {
           "street": "V Důlkách",
           "number": "480/2",
@@ -182,7 +182,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "ABARO OD ZÁMECKÉHO KOPCE",
       "date_of_birth": "2012-01-11",
@@ -305,7 +305,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "BRIX Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2013-11-09",
@@ -335,7 +335,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "SCOT Z SCOTCH DAMA KRKONOŠE",
       "date_of_birth": "2014-05-09",
@@ -545,7 +545,7 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AMÉLIE OD ZÁMECKÉHO KOPCE",
       "date_of_birth": "2012-01-11",
       "clp": "6342",
@@ -693,7 +693,7 @@
         }
       },
       "img_ext": "jpg"
-    },    
+    },
     {
       "breed": "GS",
       "sex": "female",
@@ -827,8 +827,8 @@
       "shows": "Evropský vítěz mladých, Klub. vítěz 2017, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, III.BIG",
       "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c.",
       "owner": {
-        "first_name": "Zuzana",
-        "last_name": "Nedavašková",
+        "first_name": "Vlastislav",
+        "last_name": "Nedavaška",
         "address": {
           "street": "V Důlkách",
           "number": "480/2",
@@ -1025,7 +1025,7 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "FIL-KAZ FROM THE GREEN SCOTLAND KAMA",
       "date_of_birth": "2017-03-28",
       "clp": "6728",

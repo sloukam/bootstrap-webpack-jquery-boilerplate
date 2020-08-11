@@ -4,26 +4,33 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
-      "name": "DYNAMIC DANCER ARTERGERD",
-      "date_of_birth": "2016-04-25",
-      "clp": "325",
-      "father": "Boreas Artegerd ",
-      "mother": "Debbie Redmore ",
+      "name": "PINKY PEPPER SHADOW DOG",
+      "date_of_birth": "2012-04-29",
+      "clp": "261",
+      "father": "Exlusive’s Gypsyboy",
+      "mother": "Dreams Come True Shadow Dog",
       "body": {
-        "height": "66",
-        "HD": "A"
+        "height": "62",
+        "color": "červenobílý",
+        "HD": "C",
+        "ED": "0/0",
+        "other": "CLAD free"
       },
-      "shows": "CAC, CACIB, BOS, BOB",
-      "exams": "ZV 1c. ",
+      "championships": "JCH ČR",
+      "shows": "VTM,CAJC,BOJ,CAC,CACIB,KV,BOB",
+      "exams": "ZV - I.c.",
       "owner": {
-        "first_name": "Kateřina",
-        "last_name": "Michálková",
+        "title": "Ing.",
+        "first_name": "Antonín",
+        "last_name": "Halla",
         "address": {
-          "street": "Pionýrská",
-          "number": "544",
-          "city": "Rájec Jestřebí ",
-          "post_code": "67902"
-        }
+          "street": "Absolonova",
+          "number": "79",
+          "city": "Brno",
+          "post_code": "62400"
+        },
+        "phone": "728202955",
+        "email": "tonda.hala@gmail.com"
       }
     },
     {
@@ -59,7 +66,33 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
-      "name": "ARON Z DRVÁLOVSKÉHO REVÍRU",
+      "name": "DYNAMIC DANCER ARTERGERD",
+      "date_of_birth": "2016-04-25",
+      "clp": "325",
+      "father": "Boreas Artegerd ",
+      "mother": "Debbie Redmore ",
+      "body": {
+        "height": "66",
+        "HD": "A"
+      },
+      "shows": "CAC, CACIB, BOS, BOB",
+      "exams": "ZV 1c. ",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Michálková",
+        "address": {
+          "street": "Pionýrská",
+          "number": "544",
+          "city": "Rájec Jestřebí ",
+          "post_code": "67902"
+        }
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "ARON Z  DRVÁLOVSKÉHO REVÍRU",
       "date_of_birth": "2018-03-19",
       "clp": "353",
       "father": "Rolf z Lukovských lánů",
@@ -86,36 +119,31 @@
     },
     {
       "breed": "IRWS",
-      "sex": "male",
+      "sex": "female",
       "visible": true,
-      "name": "PINKY PEPPER SHADOW DOG",
-      "date_of_birth": "2012-04-29",
-      "clp": "261",
-      "father": "Exlusive’s Gypsyboy",
-      "mother": "Dreams Come True Shadow Dog",
+      "name": "ŠELLY Z LUKOVSKÝCH LÁNU",
+      "date_of_birth": "2014-10-23",
+      "clp": "302",
+      "father": "Lohmanns Bernstein",
+      "mother": "Ori z Lukovských Lánů",
       "body": {
-        "height": "62",
-        "color": "červenobílý",
-        "HD": "C",
-        "ED": "0/0",
-        "other": "CLAD free"
+        "height": "56",
+        "color": "červenobílá",
+        "HD": "A"
       },
-      "championships": "JCH ČR",
-      "shows": "VTM,CAJC,BOJ,CAC,CACIB,KV,BOB",
-      "exams": "ZV - I.c.",
+      "shows": "CAJC, CAC,NV,BOJ,BOS",
+      "exams": "ZV – I.c.",
       "owner": {
-        "title": "Ing.",
-        "first_name": "Antonín",
-        "last_name": "Halla",
+        "first_name": "Miroslava",
+        "last_name": "Holubová",
         "address": {
-          "street": "Absolonova",
-          "number": "79",
-          "city": "Brno",
-          "post_code": "62400"
-        },
-        "phone": "728202955",
-        "email": "tonda.hala@gmail.com"
-      }
+          "street": "Opavice",
+          "number": "č. 30",
+          "city": "město Albrechtice",
+          "post_code": "79395"
+        }
+      },
+      "other": "uchovněna na vyjímku chybí P2DL+P2DP 1vrh"
     },
     {
       "breed": "IRWS",
@@ -144,6 +172,33 @@
         },
         "phone": "737815574",
         "email": "sedlakova.jani@tiscali.cz"
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "female",
+      "visible": true,
+      "name": "ELLEN VALIANT HUNTER",
+      "date_of_birth": "2015-07-09",
+      "clp": "308",
+      "father": "Leo Bojandolí",
+      "mother": "Reddeer Everlasting love",
+      "body": {
+        "height": "60",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "shows": "Výborná",
+      "exams": "ZV -Ic. PZ IIc.",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Jansa",
+        "address": {
+          "street": "Jana Wericha",
+          "number": "6",
+          "city": "Svitavy",
+          "post_code": "56802"
+        }
       }
     },
     {
@@ -205,61 +260,6 @@
         "email": "petra.illova@email.cz"
       },
       "img_ext": "jpg"
-    },
-    {
-      "breed": "IRWS",
-      "sex": "female",
-      "visible": true,
-      "name": "ELLEN VALIANT HUNTER",
-      "date_of_birth": "2015-07-09",
-      "clp": "308",
-      "father": "Leo Bojandolí",
-      "mother": "Reddeer Everlasting love",
-      "body": {
-        "height": "60",
-        "color": "červenobílá",
-        "HD": "A"
-      },
-      "shows": "Výborná",
-      "exams": "ZV -Ic. PZ IIc.",
-      "owner": {
-        "first_name": "Martin",
-        "last_name": "Jansa",
-        "address": {
-          "street": "Jana Wericha",
-          "number": "6",
-          "city": "Svitavy",
-          "post_code": "56802"
-        }
-      }
-    },
-    {
-      "breed": "IRWS",
-      "sex": "female",
-      "visible": true,
-      "name": "ŠELLY Z LUKOVSKÝCH LÁNU",
-      "date_of_birth": "2014-10-23",
-      "clp": "302",
-      "father": "Lohmanns Bernstein",
-      "mother": "Ori z Lukovských Lánů",
-      "body": {
-        "height": "56",
-        "color": "červenobílá",
-        "HD": "A"
-      },
-      "shows": "CAJC, CAC,NV,BOJ,BOS",
-      "exams": "ZV – I.c.",
-      "owner": {
-        "first_name": "Miroslava",
-        "last_name": "Holubová",
-        "address": {
-          "street": "Opavice",
-          "number": "č. 30",
-          "city": "město Albrechtice",
-          "post_code": "79395"
-        }
-      },
-      "other": "uchovněna na vyjímku chybí P2DL+P2DP 1vrh"
     },
     {
       "breed": "IRWS",
