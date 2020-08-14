@@ -3,60 +3,6 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": false,
-      "name": "BARDOLF KING NONSTOP",
-      "date_of_birth": "2007-01-18",
-      "clp": "14866",
-      "father": "Dorian Grey Jenny ́s Irsal",
-      "mother": "Irish Destiny Nonstop",
-      "body": {
-        "HD": "A"
-      },
-      "shows": "výborný",
-      "exams": "ZV I.cena",
-      "owner": {
-        "first_name": "Martin",
-        "last_name": "Střelec",
-        "address": {
-          "street": "Opatovice ",
-          "number": "65",
-          "post_code": "68201"
-        },
-        "phone": "607747027"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
-      "visible": false,
-      "name": "ATYLA WARRIOR MAHAGONY PAW",
-      "date_of_birth": "2007-12-26",
-      "clp": "15037",
-      "father": "Vicary ́s Cobacabana",
-      "mother": "Country Melody Jenny ́s Irsal",
-      "body": {
-        "HD": "A",
-        "other": "CLAD N/N"
-      },
-      "championships": "CH ČR, JCH ČR, Veterán CH ČR",
-      "shows": "vítěz Prahy, BOB",
-      "exams": "ZV I.cena, PZ I.cena, SZVP I.cena",
-      "owner": {
-        "first_name": "Romana",
-        "last_name": "Kšírová",
-        "address": {
-          "street": "Za Hřbitovem",
-          "number": "14",
-          "city": "Praha 10"
-        },
-        "phone": "603410711"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
       "visible": true,
       "name": "SYNDY ZE SRBECKÝCH LUHŮ",
       "date_of_birth": "2009-02-15",
@@ -281,28 +227,56 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": false,
-      "name": "WALTER REDWEED",
-      "date_of_birth": "2012-09-20",
-      "clp": "15774",
-      "father": "Garden Star ́s Royal Legend",
-      "mother": " Isabel Montefigueiras",
+      "visible": true,
+      "name": "EARNEST ENTHUSIAST EVERDENE",
+      "date_of_birth": "2013-01-02",
+      "clp": "15806",
+      "father": "Salford Wizard z Arislandu",
+      "mother": "Neiven Arouse Admiration",
       "body": {
         "HD": "C"
       },
-      "championships": "CH ČR",
-      "shows": "CAC, NV, res.CACIB, BOB",
+      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, JCH ČR, JCH SK",
+      "shows": "CAJC, CAC, CACIB, NV, BOB, JBIG, BIG",
       "exams": "ZV I.cena",
       "owner": {
-        "first_name": "Robert",
-        "last_name": "Brauner",
+        "first_name": "Jarmila",
+        "last_name": "Viktoříková",
         "address": {
-          "street": "Uhřičice",
-          "number": "140",
-          "city": "Kojetín",
-          "post_code": "75201"
+          "street": "Zálešná",
+          "number": "4/1161",
+          "city": "Zlín",
+          "post_code": "76001"
         },
-        "phone": "731135649"
+        "phone": "724344162"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "EXCELLENT ENTERTAINER EVERDENE",
+      "date_of_birth": "2013-01-02",
+      "clp": "15808",
+      "father": "Salford Wizard z Arislandu",
+      "mother": "Neiven Arouse Admiration",
+      "body": {
+        "HD": "A",
+        "ED": "0/0",
+        "other": "CLAD N/N, PRA rcd 1 clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, CAC, CACIB, BOB, BIG 4",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Klára",
+        "last_name": "Chlupatá",
+        "address": {
+          "street": "Na Bitevní pláni",
+          "number": "21",
+          "city": "Praha 4 - Nusle"
+        }
       },
       "img_ext": "jpg"
     },
@@ -398,62 +372,6 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
-      "name": "EARNEST ENTHUSIAST EVERDENE",
-      "date_of_birth": "2013-01-02",
-      "clp": "15806",
-      "father": "Salford Wizard z Arislandu",
-      "mother": "Neiven Arouse Admiration",
-      "body": {
-        "HD": "C"
-      },
-      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, JCH ČR, JCH SK",
-      "shows": "CAJC, CAC, CACIB, NV, BOB, JBIG, BIG",
-      "exams": "ZV I.cena",
-      "owner": {
-        "first_name": "Jarmila",
-        "last_name": "Viktoříková",
-        "address": {
-          "street": "Zálešná",
-          "number": "4/1161",
-          "city": "Zlín",
-          "post_code": "76001"
-        },
-        "phone": "724344162"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
-      "visible": true,
-      "name": "EXCELLENT ENTERTAINER EVERDENE",
-      "date_of_birth": "2013-04-08",
-      "clp": "15808",
-      "father": "Salford Wizard z Arislandu",
-      "mother": "Neiven Arouse Admiration",
-      "body": {
-        "HD": "A",
-        "ED": "0/0",
-        "other": "CLAD N/N, PRA rcd 1 clear"
-      },
-      "championships": "JCH ČR",
-      "shows": "CAJC, CAC, CACIB, BOB, BIG 4",
-      "exams": "ZV I.cena",
-      "owner": {
-        "first_name": "Klára",
-        "last_name": "Chlupatá",
-        "address": {
-          "street": "Na Bitevní pláni",
-          "number": "21",
-          "city": "Praha 4 - Nusle"
-        }
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
-      "visible": true,
       "name": "ATHOS OD NÁPLAVKY",
       "date_of_birth": "2014-03-08",
       "clp": "16007",
@@ -474,6 +392,33 @@
           "post_code": "53304"
         },
         "phone": "736671346"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "DENY OD KLAPAVCE",
+      "date_of_birth": "2014-02-23",
+      "clp": "15958",
+      "father": "Dag z Křenovic",
+      "mother": "Zuzi od Klapavce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný, VT",
+      "exams": "PZ I.cena, LZ I.cena, SZVP II.cena, VZ II.cena",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Dušková",
+        "address": {
+          "street": "Masarykovo náměstí",
+          "number": "12",
+          "city": "Nové dvory",
+          "post_code": "28531"
+        },
+        "phone": "721637209"
       },
       "img_ext": "jpg"
     },
@@ -512,26 +457,28 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
-      "name": "DENY OD KLAPAVCE",
-      "date_of_birth": "2014-02-23",
-      "clp": "15958",
-      "father": "Dag z Křenovic",
-      "mother": "Zuzi od Klapavce",
+      "name": "ANDY WARHOL DAISY RAIN",
+      "date_of_birth": "2014-03-13",
+      "clp": "15994",
+      "father": "Cordarragh Picasso",
+      "mother": "Artemis Elimar Doubrava",
       "body": {
         "HD": "A"
       },
-      "shows": "výborný, VT",
-      "exams": "PZ I.cena, LZ I.cena, SZVP II.cena, VZ II.cena",
+      "championships": "JCH ČR, CH ČR",
+      "shows": " CAJC, BOJ,CAC, JBIG",
+      "exams": "ZV I.cena",
       "owner": {
-        "first_name": "Zuzana",
-        "last_name": "Dušková",
+        "first_name": "Lucie",
+        "last_name": "Vitíková",
         "address": {
-          "street": "Masarykovo náměstí",
-          "number": "12",
-          "city": "Nové dvory",
-          "post_code": "28531"
+          "street": "Okružní",
+          "number": "908",
+          "city": "Týniště nad Orlicí",
+          "post_code": "51721"
         },
-        "phone": "721637209"
+        "phone": "731774062",
+        "web": "http://www.irsky-setr.cz"
       },
       "img_ext": "jpg"
     },
@@ -586,35 +533,6 @@
           "city": "Praha 1",
           "post_code": "11000"
         }
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
-      "visible": true,
-      "name": "ANDY WARHOL DAISY RAIN",
-      "date_of_birth": "2014-03-13",
-      "clp": "15994",
-      "father": "Cordarragh Picasso",
-      "mother": "Artemis Elimar Doubrava",
-      "body": {
-        "HD": "A"
-      },
-      "championships": "JCH ČR, CH ČR",
-      "shows": " CAJC, BOJ,CAC, JBIG",
-      "exams": "ZV I.cena",
-      "owner": {
-        "first_name": "Lucie",
-        "last_name": "Vitíková",
-        "address": {
-          "street": "Okružní",
-          "number": "908",
-          "city": "Týniště nad Orlicí",
-          "post_code": "51721"
-        },
-        "phone": "731774062",
-        "web": "http://www.irsky-setr.cz"
       },
       "img_ext": "jpg"
     },
@@ -764,33 +682,6 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
-      "name": "ALAN Z LUKOVEČSKÉHO REMÍZU",
-      "date_of_birth": "2017-05-28",
-      "clp": "16428",
-      "father": "Aramis Apolly Moravia",
-      "mother": "Clotilde z Břevnovského vrchu",
-      "body": {
-        "HD": "A"
-      },
-      "shows": "CAJC, BOJ, CAC, CACIB",
-      "exams": "ZV I.cena CACT",
-      "owner": {
-        "first_name": "Jan",
-        "last_name": "Kaspřík",
-        "address": {
-          "street": "Jaklovecká",
-          "number": "1411/28",
-          "city": "Slezská Ostrava",
-          "post_code": "71000"
-        },
-        "phone": "602500986"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "male",
-      "visible": true,
       "name": "CHARON Z JIROUŠKOVA DVORA",
       "date_of_birth": "2017-05-23",
       "clp": "16399",
@@ -812,6 +703,33 @@
           "post_code": "67522"
         },
         "phone": "608646666"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ALAN Z LUKOVEČSKÉHO REMÍZU",
+      "date_of_birth": "2017-05-28",
+      "clp": "16428",
+      "father": "Aramis Apolly Moravia",
+      "mother": "Clotilde z Břevnovského vrchu",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAJC, BOJ, CAC, CACIB",
+      "exams": "ZV I.cena CACT",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Kaspřík",
+        "address": {
+          "street": "Jaklovecká",
+          "number": "1411/28",
+          "city": "Slezská Ostrava",
+          "post_code": "71000"
+        },
+        "phone": "602500986"
       },
       "img_ext": "jpg"
     },
@@ -841,6 +759,88 @@
         "phone": "603195315"
       },
       "other": "import Lotyšsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": false,
+      "name": "BARDOLF KING NONSTOP",
+      "date_of_birth": "2007-01-18",
+      "clp": "14866",
+      "father": "Dorian Grey Jenny ́s Irsal",
+      "mother": "Irish Destiny Nonstop",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Střelec",
+        "address": {
+          "street": "Opatovice ",
+          "number": "65",
+          "post_code": "68201"
+        },
+        "phone": "607747027"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": false,
+      "name": "ATYLA WARRIOR MAHAGONY PAW",
+      "date_of_birth": "2007-12-26",
+      "clp": "15037",
+      "father": "Vicary ́s Cobacabana",
+      "mother": "Country Melody Jenny ́s Irsal",
+      "body": {
+        "HD": "A",
+        "other": "CLAD N/N"
+      },
+      "championships": "CH ČR, JCH ČR, Veterán CH ČR",
+      "shows": "vítěz Prahy, BOB",
+      "exams": "ZV I.cena, PZ I.cena, SZVP I.cena",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10"
+        },
+        "phone": "603410711"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": false,
+      "name": "WALTER REDWEED",
+      "date_of_birth": "2012-09-20",
+      "clp": "15774",
+      "father": "Garden Star ́s Royal Legend",
+      "mother": " Isabel Montefigueiras",
+      "body": {
+        "HD": "C"
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, NV, res.CACIB, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Robert",
+        "last_name": "Brauner",
+        "address": {
+          "street": "Uhřičice",
+          "number": "140",
+          "city": "Kojetín",
+          "post_code": "75201"
+        },
+        "phone": "731135649"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
