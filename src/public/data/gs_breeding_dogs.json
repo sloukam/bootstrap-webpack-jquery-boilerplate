@@ -1048,6 +1048,38 @@
         }
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
+      "name": "BARRACUDA NEVERENDING GRACE",
+      "date_of_birth": "2018-05-28",
+      "clp": "6828",
+      "father": "Cameron From Stirling Bridge",
+      "mother": "Alotria Neverending Grace",
+      "body": {
+        "height": "63",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "RAB 24 zdravý homozygot"
+      },
+      "shows": "CAJC, BOJ, Vítěz třídy",
+      "exams": "ZV I.c ., Polabské derby ohařů (ZV-CACT) I.c.",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Darja",
+        "last_name": "Musilová Ph.D.",
+        "address": {
+          "street": "Přítoky",
+          "number": "107",
+          "city": "Miskovice",
+          "post_code": "28401"
+        },
+        "phone": "605 450 508",
+        "email": "darja.musilova@seznam.cz",
+        "web": "http://www.neverending.websnadno.cz"
+      }
     }
   ]
 }

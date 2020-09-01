@@ -567,6 +567,34 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
+      "name": "ELPHIN PRINC MAHAGONY PAW",
+      "date_of_birth": "2015-04-25",
+      "clp": "16161",
+      "father": "Garden Star´s Red Bull",
+      "mother": "Assonance Mahagony Paw",
+      "body": {
+        "height": "64",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, res.CACIB ",
+      "exams": "ZV I.cena, PZ I.cena, LZ II.cena, SZVP I.cena",
+      "owner": {
+        "first_name": "Markéta",
+        "last_name": "Medřická",
+        "address": {
+          "street": "Nad Meandry",
+          "number": "3290/7",
+          "city": "Praha 10",
+          "post_code": "10600"
+        },
+        "phone": "777 697 135",
+        "email": "marketa.medricka@landmark.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
       "name": "BOSIA MAHAGON KENYA",
       "date_of_birth": "2015-06-28",
       "clp": "16192",
@@ -682,6 +710,34 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
+      "name": "CID Z LESA KRÁLOVSTVÍ",
+      "date_of_birth": "2017-05-16",
+      "clp": "16391",
+      "father": "Luky z Bolešinské hůrky",
+      "mother": "Berta z Lesa království",
+      "body": {
+        "height": "64",
+        "HD": "A"
+      },
+      "shows": "výborný, CAJC, BOJ",
+      "exams": "PZ I.cena",
+      "owner": {
+        "first_name": "Zuzana",
+        "last_name": "Dušková",
+        "address": {
+          "street": "Masarykovo náměstí",
+          "number": "12",
+          "city": "Nové Dvory",
+          "post_code": "28531"
+        },
+        "phone": "721 637 209",
+        "email": "vranova.zuzka@centrum.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
       "name": "CHARON Z JIROUŠKOVA DVORA",
       "date_of_birth": "2017-05-23",
       "clp": "16399",
@@ -759,6 +815,98 @@
         "phone": "603195315"
       },
       "other": "import Lotyšsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "CAEMGEN´S INSIDE INFORMATION",
+      "date_of_birth": "2018-05-02",
+      "clp": "16585",
+      "father": "Dubliner Wellington",
+      "mother": "Caemgen´s Fashion Is My Passion",
+      "body": {
+        "height": "68",
+        "HD": "A"
+      },
+      "championships": "CH ČR, CH SK, JCH ČR",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, JBIG",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jarmila",
+        "last_name": "Viktoříková",
+        "address": {
+          "street": "Zálešná",
+          "number": "IV/1161",
+          "city": "Zlín",
+          "post_code": "76001"
+        },
+        "phone": "724 344 162"
+      },
+      "other": "import Švédsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "FALCO EASY JET MAHAGONY PAW",
+      "date_of_birth": "2018-05-11",
+      "clp": "16574",
+      "father": "Paris Match Thendara",
+      "mother": "Electra Ruby Mahagony Paw",
+      "body": {
+        "height": "67",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "CLAD gen. free"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ",
+      "exams": "PZ I.cena",
+      "owner": {
+        "first_name": "Markéta",
+        "last_name": "Medřická",
+        "address": {
+          "street": "Švestková",
+          "number": "424",
+          "city": "Křenice"
+        },
+        "phone": "777697135",
+        "email": "marketa.medricka@landmark.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "FLANNERY RICK MAHAGONY PAW",
+      "date_of_birth": "2018-05-11",
+      "clp": "16576",
+      "father": "Paris Match Thendara",
+      "mother": "Electra Ruby Mahagony Paw",
+      "body": {
+        "height": "67",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "CLAD gen. free"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, CAC, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Romana",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10",
+          "post_code": "10700"
+        },
+        "phone": "603 410 711",
+        "email": "romana@daneswucetnictvi.cz"
+      }
     },
     {
       "breed": "IS",
@@ -1041,6 +1189,32 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "ALL IN ONE DAISY RAIN",
+      "date_of_birth": "2014-03-13",
+      "clp": "15996",
+      "father": "Cordarragh Picasso",
+      "mother": "Artemis Elimar Doubrava",
+      "body": {
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "r.CAC, CAC, KrV, KV, BOS",
+      "exams": "ZV I.cena, PZ I.cena, SZVP I.cena, VZ II.cena, Mem. J. Lammera II.cena",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Lucie",
+        "last_name": "Vaculná",
+        "address": {
+          "city": "Brno - Bystrc"
+        },
+        "email": "mareckova.lucie@gmail.com",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "EKKI Z LUHOVÉ SEČE",
       "date_of_birth": "2014-06-15",
       "clp": "16028",
@@ -1064,6 +1238,33 @@
         "phone": "777148716"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "Y-KENTINGERNA Z HRADISKA RÁJCE",
+      "date_of_birth": "2014-07-14",
+      "clp": "16047",
+      "father": "Neiven Amor´s Arrow",
+      "mother": "X-Apache z Hradiska Rájce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "výborná",
+      "exams": "ZV I.cena r.CACT, SZVP II.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Aleš ",
+        "last_name": "Pernica",
+        "address": {
+          "street": "Plotky ",
+          "number": "52",
+          "city": "Doubravice nad Svitavou",
+          "post_code": "67911"
+        },
+        "phone": "731 185 906"
+      }
     },
     {
       "breed": "IS",
@@ -1406,6 +1607,96 @@
           "post_code": "71500"
         },
         "phone": "603195315"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "AMAZING RED GIRL MIRELIONNE",
+      "date_of_birth": "2018-01-19",
+      "clp": "16525",
+      "father": "Whisky Mr. Perfect Redweed",
+      "mother": "Ebony Mahagony Beauty",
+      "body": {
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "CH ČR",
+      "shows": "CAJC, CAC, BOJ, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Miroslava",
+        "last_name": "Němcová",
+        "address": {
+          "street": "Heroltovice",
+          "number": "1512",
+          "city": "Libavá",
+          "post_code": "78307"
+        },
+        "phone": "739 406 622",
+        "email": "nemcova_m@centrum.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "FIONA EIMEAR MAHAGONY PAW",
+      "date_of_birth": "2018-05-11",
+      "clp": "16580",
+      "father": "Paris Match Thendara",
+      "mother": "Electra Ruby Mahagony Paw",
+      "body": {
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, CAC, res.CACIB, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Eva",
+        "last_name": "Michalová",
+        "address": {
+          "street": "Loretánské náměstí",
+          "number": "102",
+          "city": "Praha 1",
+          "post_code": "11800"
+        },
+        "phone": "608 010 512",
+        "email": "e.michalov@gmail.com"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "GLIMMER NOBLESSE CONCENTRATE THE MIND",
+      "date_of_birth": "2018-05-27",
+      "clp": "16615",
+      "father": "Copper´s Riddarsporre",
+      "mother": "Copper´s Magic Glimmer",
+      "body": {
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, CAC",
+      "exams": "ZV II.cena",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Miroslava",
+        "last_name": "Němcová",
+        "address": {
+          "street": "Heroltovice",
+          "number": "1512",
+          "city": "Libavá",
+          "post_code": "78307"
+        },
+        "phone": "739406622",
+        "email": "nemcova_m@centrum.cz"
       }
     }
   ]

@@ -92,6 +92,92 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
+      "name": "MONTY SOMOLA",
+      "date_of_birth": "2010-11-10",
+      "clp": "10758",
+      "father": "Darek z Tismenic",
+      "mother": "Zora z Fančaly",
+      "body": {
+        "height": "65",
+        "color": "hnědá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "res. CAC, CAC, CACIB, BOB",
+      "exams": "ZV-I.cena, ZVP I.cena",
+      "owner": {
+        "first_name": "Aleš",
+        "last_name": "Ševčík",
+        "address": {
+          "street": "Vlkoš",
+          "number": "337",
+          "post_code": "69641"
+        },
+        "phone": "608 533 303",
+        "email": "zvinnychtrati@seznam.cz",
+        "web": "http://www.zvinnychtrati.estranky.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "OLLIE Z LUKOVSKÝCH LÁNŮ",
+      "date_of_birth": "2011-06-14",
+      "clp": "10812",
+      "father": "Keepsake z Lukovských lánů",
+      "mother": "Nika z Lukovských lánů",
+      "body": {
+        "height": "64",
+        "color": "žlutobílý",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, res. CACIB,BOB",
+      "exams": "ZV-I.cena",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Horáková",
+        "address": {
+          "street": "Nádražní",
+          "number": "1738",
+          "city": "Dubňany",
+          "post_code": "69590"
+        },
+        "phone": "728 942 000",
+        "email": "lennka77@centrum.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ARKO Z DUKÁTU",
+      "date_of_birth": "2011-06-20",
+      "clp": "10830",
+      "father": "Cass z Mešinsék hájovny",
+      "mother": "Ata z Hanáckých polí",
+      "body": {
+        "height": "63",
+        "color": "žlutobílý",
+        "HD": "B"
+      },
+      "shows": "CAJC CAC, CACIB, BOB",
+      "exams": "ZV – I.cena",
+      "owner": {
+        "first_name": "Oldřich",
+        "last_name": "Slavotínek",
+        "address": {
+          "street": "J.Sládka",
+          "city": "Prostějov",
+          "post_code": "79604"
+        },
+        "phone": "737 157 348",
+        "email": "slavotinek.pv@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
       "name": "OLIVER ZE ŠTÍPEK",
       "date_of_birth": "2012-01-31",
       "clp": "10865",
@@ -446,10 +532,39 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
+      "name": "ARDY DEL WINEPOINT",
+      "date_of_birth": "2017-04-21",
+      "clp": "11423",
+      "father": "Dio Vom Kleebachtal",
+      "mother": "Pawprint Flaming Soul  (HU)",
+      "body": {
+        "height": "65",
+        "color": "bílohnědá",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV I.c,  CACT",
+      "owner": {
+        "first_name": "Marek",
+        "last_name": "Hylebrant",
+        "address": {
+          "street": "Vřesová",
+          "number": "608",
+          "city": "Chýně",
+          "post_code": "25301"
+        },
+        "phone": "606837999",
+        "email": "marhyl@centrum.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
       "name": "ALL ALL ALL ARTEGERD",
       "date_of_birth": "2017-06-27",
       "clp": "11414",
-      "father": " SOLIVIA‘S WELL WELL WELL",
+      "father": "SOLIVIA‘S WELL WELL WELL",
       "mother": "WHIPSPAN LEGACY",
       "body": {
         "height": "67",
@@ -468,6 +583,34 @@
         },
         "phone": "721546741",
         "email": "pavlos2211@gmail.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ETTORE Z VINNÝCH TRATÍ ",
+      "date_of_birth": "2018-02-01",
+      "clp": "11449",
+      "father": "Oran WK-SB",
+      "mother": "Arga Syrovické lány",
+      "body": {
+        "height": "64",
+        "color": "žemlová",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, BOJ",
+      "exams": "ZV I.c CACT, PZ I.c, VP I.c, LZ I. c, NFT",
+      "owner": {
+        "first_name": "Miloš",
+        "last_name": "Knotek",
+        "address": {
+          "street": "Mohelno",
+          "number": "466",
+          "city": "Mohelno",
+          "post_code": "67575"
+        },
+        "phone": "724 844 614"
       }
     },
     {
@@ -1405,6 +1548,96 @@
         },
         "phone": "725822232",
         "email": "mracek.jarek@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "FYDAL CRYSTAL DEL WINEPOINT",
+      "date_of_birth": "2017-04-30",
+      "clp": "11466",
+      "father": "Athos Pointerland Sáregresi",
+      "mother": "Fydal Ava",
+      "body": {
+        "height": "62",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, CAC, BOJ, BOS",
+      "exams": "IFT solo VD 15 b",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Horáková",
+        "address": {
+          "street": "Nádražní",
+          "number": "1738",
+          "city": "Dubňany",
+          "post_code": "69590"
+        },
+        "phone": "728942000",
+        "email": "info@natyavegrove.com",
+        "web": "http://www.natyavegrove.com "
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AYLEEN Z RAKLESU",
+      "date_of_birth": "2017-06-14",
+      "clp": "11411",
+      "father": "Car od Zeleného stolu",
+      "mother": "Ara z Kunčiny Vsi",
+      "body": {
+        "height": "61",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, BOJ, BOS",
+      "exams": "ZV.I.c, PZ.I.c,",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Čestmír",
+        "last_name": "Šrámek, CSc",
+        "address": {
+          "street": "Údolní",
+          "number": "1",
+          "city": "Klobouky u Brna",
+          "post_code": "69172"
+        },
+        "phone": "777944933",
+        "email": "cestmir.sramek@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AFFI ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2018-06-05",
+      "clp": "11500",
+      "father": "Oliver ze Štípek",
+      "mother": "Audrey z Mešinské hájovny",
+      "body": {
+        "height": "63",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "VN1, V1, CAJC",
+      "exams": "ZV I.c, VP I.c",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz"
       }
     }
   ]
