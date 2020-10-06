@@ -5,14 +5,14 @@ $a-hover-color: #8b6349;
 
 
 .dropdown-menu a:hover {
-  //background-color: #a1d9ae;
-  background-color: lightgray;
+  background-color: #a1d9ae;
+  //background-color: lightgray;
   color: black;
 }
 
 .dropdown a:hover {
-  //background-color: #a1d9ae;
-  background-color: lightgray;
+  background-color: #a1d9ae;
+  //background-color: lightgray;
   color: black;
 }
 
@@ -245,8 +245,8 @@ $newsFontSize: $font-size-base * 0.9;
 
 .main-menu, .navbar-collapse {
   // border: 1px solid #c1c1c1;
-  //background-color: #B4C5B0;
-  background-color: white;
+  background-color: #B4C5B0;
+  //background-color: white;
   z-index: 100;
   //border: 3px solid red;
 }
