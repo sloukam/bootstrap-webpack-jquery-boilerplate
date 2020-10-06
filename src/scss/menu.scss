@@ -20,11 +20,11 @@
 
 .dropdown-menu > li a:hover,
 .dropdown-menu > li.show {
-  background: #007bff;
-  color: white;
+  background: rgb(167, 232, 162);
+  color: black;
 }
 .dropdown-menu > li.show > a{
-  color: white;
+  color: black;
 }
 
 @media (min-width: 768px) {
