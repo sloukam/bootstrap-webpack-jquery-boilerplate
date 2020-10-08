@@ -89,6 +89,8 @@ $(document).ready(function() {
     parentDiv.children('.shortenContent').addClass('hidden');
     parentDiv.children('.expandContent').removeClass('hidden');
   });
+
+  popupImages();
 });
 
 function getShortenedText(text, length) {
@@ -130,6 +132,19 @@ $(window).resize(function() {
   // showAndHideDependingOnResolution();
 });
 
+function popupImages() {
+  $('.pop').on('click', function() {
+    console.log('click...');
+    $('.imagepreview').attr(
+      'src',
+      $(this)
+        .find('img')
+        .attr('src')
+    );
+    $('#imagemodal').modal('show');
+  });
+}
+
 function renderData(templateName, elementWhereToInsert, dataFileName) {
   $.getJSON('../public/data/' + dataFileName, function(data) {
     let template = $('#' + templateName).html();
@@ -139,16 +154,7 @@ function renderData(templateName, elementWhereToInsert, dataFileName) {
     } else {
       console.log('there is something totally wrong 1');
     }
-    $('.pop').on('click', function() {
-      console.log('click...');
-      $('.imagepreview').attr(
-        'src',
-        $(this)
-          .find('img')
-          .attr('src')
-      );
-      $('#imagemodal').modal('show');
-    });
+    popupImages();
     addOnClickEvents();
   });
 }
