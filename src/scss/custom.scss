@@ -369,6 +369,11 @@ $img-tumbnail-max-height: 200px;
   height: $img-tumbnail-max-height * 0.95;
 }
 
+.border-black {
+  @extend .border-white;
+  border-color:#000!important
+}
+
 .modal-dialog {
   max-width: 50%;
   //max-height: 90%;
