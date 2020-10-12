@@ -34,9 +34,11 @@ $(document).ready(function() {
   $('#mskao-about-container').load('html_parts.html #mskao-about-content');
 
   var breed = GetURLParameter('rasa');
+  var sex = GetURLParameter('sex');
   if (breed !== undefined) {
     console.log('breed = ' + breed);
-    getDogs(breed);
+    console.log('sex = ' + sex);
+    getDogs(breed, sex);
   }
   getNews();
   // renderArticle();
@@ -170,29 +172,63 @@ function renderArticle() {
   });
 }
 
-function getDogs(breed) {
-  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function(data) {
-    console.log('screen.width = ' + screen.width);
-    let template = $('#dogDetailDesktop').html();
-    if (template !== undefined) {
-      // var html = 'from js';
-      var html = Mustache.to_html(template, data);
-      $('#dogList').html(html);
-    } else {
-      console.log('there is something totally wrong 1');
-    }
-    // showAndHideDependingOnResolution();
-    $('.pop').on('click', function() {
-      console.log('click...');
-      $('.imagepreview').attr(
-        'src',
-        $(this)
-          .find('img')
-          .attr('src')
-      );
-      $('#imagemodal').modal('show');
+function getDogs(breed, sex) {
+  $.getJSON('../public/data/' + breed + '_breeding_dog.json', function (dog) {
+    // console.log('male in');
+    // console.log(male);
+    $.getJSON('../public/data/' + breed + '_breeding_bitch.json', function (bitch) {
+      // console.log('female in');
+      // console.log(female);
+      // console.log('male in female ');
+      // console.log(male);
+
+      console.log('screen.width = ' + screen.width);
+      console.log('sex = ' + sex);
+
+      let data;
+      if (sex === 'dog') {
+        data = dog;
+      } else if (sex === 'bitch') {
+        data = bitch;
+      } else {
+        data = { dogs: dog.dogs.concat(bitch.dogs)};
+      }
+      console.log('data');
+      console.log(data);
+      console.log(data.dogs[0]);
+
+      let a = data.dogs.filter(function(item) {
+        return item.sex === sex;
+      });
+
+      console.log(a);
+
+
+      let template = $('#dogDetailDesktop').html();
+      if (template !== undefined) {
+        // var html = 'from js';
+        var html = Mustache.to_html(template, data);
+        $('#dogList').html(html);
+      } else {
+        console.log('there is something totally wrong 1');
+      }
+      // showAndHideDependingOnResolution();
+      $('.pop').on('click', function () {
+        console.log('click...');
+        $('.imagepreview').attr(
+          'src',
+          $(this)
+            .find('img')
+            .attr('src')
+        );
+        $('#imagemodal').modal('show');
+      });
+      addOnClickEvents();
+
     });
-    addOnClickEvents();
+  });
+
+  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function (data) {
   });
 }
 
