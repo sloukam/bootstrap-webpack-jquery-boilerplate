@@ -282,8 +282,8 @@
         "rcd4": "clear"
       },
       "championships": "JCH ČR, CH ČR, CH SK, CH PL, CH HR, CH ROM, CH UY, GrandCH CZ, GrandCH UY, Ch ČMKU, C.I.B., C.I.E.",
-      "shows": "Evropský vítěz mladých, KV MSKAO 2017, VSV 2019, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, IV BIG, III.BIG, res. BIS ",
-      "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c., ",
+      "shows": "Evropský vítěz mladých, KV MSKAO 2017, VSV 2019, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, IV BIG, III.BIG, res. BIS",
+      "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c.,",
       "owner": {
         "first_name": "Vlastislav",
         "last_name": "Nedavaška",
@@ -408,7 +408,7 @@
         "address": {
           "street": "V uličce",
           "number": "305",
-          "city": "Uherské Hradiště ",
+          "city": "Uherské Hradiště",
           "post_code": "68601"
         },
         "phone": "733761328",
@@ -523,7 +523,7 @@
         "other": "RAB 24 zdravý homozygot"
       },
       "championships": "JCH ČR",
-      "shows": "CAJC, BOJ, CAC, res. CACIB, Vítěz třídy, Krajský vítěz ",
+      "shows": "CAJC, BOJ, CAC, res. CACIB, Vítěz třídy, Krajský vítěz",
       "exams": "ZV I.c ., Polabské derby ohařů (ZV-CACT) I.c.",
       "owner": {
         "title": "MVDr.",

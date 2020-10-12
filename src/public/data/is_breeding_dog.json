@@ -576,7 +576,7 @@
         "height": "64",
         "HD": "A"
       },
-      "shows": "CAJC, CAC, res.CACIB ",
+      "shows": "CAJC, CAC, res.CACIB",
       "exams": "ZV I.cena, PZ I.cena, LZ II.cena, SZVP I.cena",
       "owner": {
         "first_name": "Markéta",
@@ -926,7 +926,7 @@
         "first_name": "Martin",
         "last_name": "Střelec",
         "address": {
-          "street": "Opatovice ",
+          "street": "Opatovice",
           "number": "65",
           "post_code": "68201"
         },
