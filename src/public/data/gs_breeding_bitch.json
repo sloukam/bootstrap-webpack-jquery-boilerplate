@@ -101,7 +101,7 @@
       "name": "ALBERTA SCOTCH DO POLE",
       "date_of_birth": "2013-03-18",
       "clp": "6471",
-      "father": "Místy Lakeś Never Say Never",
+      "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "body": {
         "height": "63",
@@ -130,7 +130,7 @@
       "name": "ABIGAIL SCOTCH DO POLE",
       "date_of_birth": "2013-03-18",
       "clp": "6466",
-      "father": "Místy Lake ́s Never Say Never",
+      "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "body": {
         "height": "63",
@@ -282,8 +282,8 @@
         "rcd4": "clear"
       },
       "championships": "JCH ČR, CH ČR, CH SK, CH PL, CH HR, CH ROM, CH UY, GrandCH CZ, GrandCH UY, Ch ČMKU, C.I.B., C.I.E.",
-      "shows": "Evropský vítěz mladých, Klub. vítěz 2017, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, III.BIG",
-      "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c.",
+      "shows": "Evropský vítěz mladých, KV MSKAO 2017, VSV 2019, CAJC, CAC, CAC ČMKU, NV, CACIB, BOS, BOB, IV BIG, III.BIG, res. BIS ",
+      "exams": "ZV I.c, PZ I.c CACT/ r.CACT, VP I.c, LZ II.c, VZ II.c., MFT 6 bodů, Memoriál Josefa Lammera I.c., Havlíčkobrodský pohár II.c., ",
       "owner": {
         "first_name": "Vlastislav",
         "last_name": "Nedavaška",
@@ -314,7 +314,7 @@
       },
       "championships": "JCH ČR, CH ČR",
       "shows": "CAC, CAJC",
-      "exams": "ZV I.c ., PZ II.c, MFT- v.d. 13b",
+      "exams": "ZV I.c., PZ II.c, MFT- v.d. 13b",
       "owner": {
         "first_name": "Jiřina",
         "last_name": "Moravcová",
@@ -342,8 +342,8 @@
         "rcd4": "clear"
       },
       "championships": "JCH ČR, JCH SK, CH SK",
-      "shows": "CAC,CAJC, NV, CACIB, BOJ, BOB, BOS",
-      "exams": "ZV I.c ., PZ I.c,",
+      "shows": "CAC, CAJC, NV, CACIB, BOJ, BOB, BOS",
+      "exams": "ZV I.c., PZ I.c,",
       "owner": {
         "title": "Ing.",
         "first_name": "Karolina",
@@ -401,7 +401,7 @@
       },
       "championships": "JCH ČR, CH ČR",
       "shows": "CAC, CAJC, BOJ, BOS",
-      "exams": "ZV I.c ., MJL-PZ I.c CACT, MJL-VP I.c",
+      "exams": "ZV I.c., MJL-PZ I.c CACT, MJL-VP I.c",
       "owner": {
         "first_name": " Jana a Bronislav",
         "last_name": "Vajdíkovi",
@@ -432,8 +432,8 @@
         "rcd4": "clear"
       },
       "championships": "CH ČR",
-      "shows": "CAC, CAJC, BOJ, BOC",
-      "exams": "ZV I.c ., MJL-PZ I.c CACT, MJL-VP I.c",
+      "shows": "CAC, CAJC, BOJ, BOB",
+      "exams": "ZV I.c., PZ I.c, MJL-VP II.c",
       "owner": {
         "first_name": "Petr",
         "last_name": "Vávra",
@@ -464,7 +464,7 @@
         "rcd4": "clear"
       },
       "shows": "velmi dobrá",
-      "exams": "ZV I.c CACT, PZ II.c",
+      "exams": "ZV I.c CACT, 2x PZ I.c CACT, LZ I.c",
       "owner": {
         "first_name": "Olga",
         "last_name": "Vránová",
@@ -477,7 +477,7 @@
         "email": "fiorchara@seznam.cz",
         "web": "http://www.fiorchara.cz"
       },
-      "other": "uchovněna na vyjimku – nepravidelný skus",
+      "other": "uchovněna na výjimku – nepravidelný skus",
       "img_ext": "jpg"
     },
     {
@@ -509,7 +509,7 @@
     },
     {
       "breed": "GS",
-      "sex": "male",
+      "sex": "female",
       "visible": true,
       "name": "BARRACUDA NEVERENDING GRACE",
       "date_of_birth": "2018-05-28",
@@ -522,7 +522,8 @@
         "rcd4": "clear",
         "other": "RAB 24 zdravý homozygot"
       },
-      "shows": "CAJC, BOJ, Vítěz třídy",
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, CAC, res. CACIB, Vítěz třídy, Krajský vítěz ",
       "exams": "ZV I.c ., Polabské derby ohařů (ZV-CACT) I.c.",
       "owner": {
         "title": "MVDr.",

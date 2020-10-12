@@ -46,7 +46,7 @@
       "sex": "male",
       "body": {
         "height": "64",
-        "color": "černobílý",
+        "color": "blue belton",
         "HD": "A",
         "ED": "0/0",
         "BAER": true,
@@ -119,7 +119,7 @@
       "sex": "male",
       "body": {
         "height": "63",
-        "color": "černobílý",
+        "color": "blue belton",
         "HD": "C",
         "other": "HD vyšetřeno ve stáří 6 let"
       },
@@ -154,7 +154,7 @@
       "sex": "male",
       "body": {
         "height": "64",
-        "color": "bíločerný",
+        "color": "blue belton",
         "HD": "A"
       },
       "shows": "CAJC, BOJ",
@@ -225,7 +225,7 @@
       "sex": "male",
       "body": {
         "height": "64",
-        "color": "oranžový bělouš",
+        "color": "orange belton",
         "HD": "A",
         "ED": "0/0",
         "other": ""
@@ -373,8 +373,8 @@
         "BAER": true,
         "other": ""
       },
-      "shows": "CAJC, BOJ",
-      "exams": "ZV - I. cena, TAN",
+      "shows": "CAJC, BOJ", CAC, res. CAC,
+      "exams": "ZV - I. cena, Jarní pohár ČPSK-I.c., Agrotec Novomlýnské derby 2018-I.c, CACT. Novomlýnské derby 2019-I.c. Vítěz derby, TAN, NFT-Exc, NFT derby couple-B, MAS-12b.",
       "father": "Uno Antonio Zell Brancco",
       "mother": "Matka: Danka",
       "owner": {

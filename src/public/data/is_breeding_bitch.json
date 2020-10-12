@@ -60,7 +60,7 @@
       "name": "COUNTRY MELODY MAHAGONY PAW",
       "date_of_birth": "2013-01-31",
       "clp": "15042",
-      "father": "Garden Star ́s Royal Legend",
+      "father": "Garden Star's Royal Legend",
       "mother": "Ashley Punk Mahagony Paw",
       "sex": "female",
       "body": {
@@ -68,7 +68,7 @@
         "rcd4": "clear",
         "other": "CLADN/N"
       },
-      "shows": "CAC, res. CACIB",
+      "shows": "CAC, res. CACIB, CACIB, BOS",
       "exams": "ZV I.cena CACT, PZ I.cena",
       "owner": {
         "first_name": "Romana",
@@ -233,7 +233,7 @@
       "body": {
         "HD": "A"
       },
-      "shows": "V, CAC, BOS",
+      "shows": "V, CAC, BOS, BOB",
       "exams": " ZV I.cena, MFT 8 b.",
       "owner": {
         "title": "Ing.",
@@ -311,7 +311,7 @@
       "name": "ELECTRA RUBY MAHAGONY PAW",
       "date_of_birth": "2015-04-25",
       "clp": "16166",
-      "father": "Garden Star ́s Red Bull",
+      "father": "Garden Star's Red Bull",
       "mother": "Assonance Mahagony Paw",
       "body": {
         "HD": "A",
@@ -340,15 +340,15 @@
       "name": "EBONY MAHAGONY BEAUTY",
       "date_of_birth": "2015-06-04",
       "clp": "16186",
-      "father": "Neiven Amor ́s Arrow",
+      "father": "Neiven Amor's Arrow",
       "mother": "Rita z Dubské",
       "body": {
         "HD": "A",
         "other": "CLAD N/N"
       },
       "championships": "CH PL",
-      "shows": " res. CAC, CAC, CACIB, BOS",
-      "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b.",
+      "shows": " res. CAC, CAC, CACIB, BOS. BOB",
+      "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b., MFT 12b., Memoriál A. Sklenáře NFT 18b. CACT",
       "owner": {
         "first_name": "Miroslava",
         "last_name": "Němcová",
@@ -407,8 +407,8 @@
         "HD": "B",
         "ED": "0/0"
       },
-      "championships": "CH SK",
-      "shows": "CAC, NV, BOB",
+      "championships": "CH SK, CH CRO, CH HU",
+      "shows": "CAC, NV, CACIB, BOS, BOB",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
         "first_name": "Petr",
@@ -435,7 +435,7 @@
       "body": {
         "HD": "A"
       },
-      "championships": "C.I.B., CH ČR, CH SK",
+      "championships": "CH ČR, CH SK, C.I.B.",
       "shows": "CAC, CACA, CACIB, NV, BOS",
       "exams": "ZV I.cena CACT",
       "owner": {
@@ -457,7 +457,7 @@
       "name": "BETTY BARCLEY DAISY RAIN",
       "date_of_birth": "2016-01-13",
       "clp": "16221",
-      "father": "Garden Star ́s Red Bull",
+      "father": "Garden Star's Red Bull",
       "mother": "Artemis Elimar Doubrava",
       "body": {
         "HD": "A",
@@ -465,7 +465,7 @@
         "rcd4": "clear",
         "other": "CLAD N/N, PRA rcd 1 "
       },
-      "championships": "GRAND CH ČR, CH ČR, CH AT, JCH ČR, JCH AT",
+      "championships": "GRAND CH ČR, CH ČR, CH AT, CH CRO, CH ČMKU JCH ČR, JCH AT",
       "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, KV, BOS, BOB, JBIG3",
       "exams": "ZV I.cena, PZ I.cena, SZVP II.cena",
       "owner": {
@@ -600,7 +600,7 @@
       "name": "CHASING LOVE Z ARISLANDU",
       "date_of_birth": "2017-05-08",
       "clp": "16490",
-      "father": "Chase Cinnamon ́s",
+      "father": "Chase Cinnamon's",
       "mother": "Lasterfield Lucky Card Game z Arislandu",
       "body": {
         "HD": "A"
@@ -630,7 +630,8 @@
       "mother": "Ebony Mahagony Beauty",
       "body": {
         "HD": "A",
-        "rcd4": "clear"
+        "rcd4": "clear",
+	"other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "CH ČR",
       "shows": "CAJC, CAC, BOJ, BOS",
@@ -661,7 +662,8 @@
       "body": {
         "HD": "A",
         "ED": "0/0",
-        "rcd4": "clear"
+        "rcd4": "clear",
+	"other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "JCH ČR",
       "shows": "CAJC, CAC, res.CACIB, BOS",
@@ -691,6 +693,7 @@
       "body": {
         "HD": "A",
         "rcd4": "clear"
+	"other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "JCH ČR",
       "shows": "CAJC, CAC",
