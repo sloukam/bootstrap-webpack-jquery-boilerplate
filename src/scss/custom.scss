@@ -185,6 +185,11 @@ $newsFontSize: $font-size-base * 0.9;
   box-shadow: 50px 0 50px #D2E5CD, -50px 0 50px #D2E5CD, 0 -50px 50px #D2E5CD
 }
 
+.container-body {
+  @extend .container;
+  padding-bottom: 50px;
+}
+
 //.main-menu {
 //  @include media-breakpoint-down(sm) {
 //    background-color: white;
