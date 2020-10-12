@@ -78,7 +78,7 @@
           "number": "14",
           "city": "Praha 10"
         },
-        "phone": " 603410711",
+        "phone": "603410711",
         "email": "uctarna@rontgen.cz"
       },
       "img_ext": "jpg"
@@ -107,7 +107,7 @@
           "city": "Lukoveček",
           "post_code": "76316"
         },
-        "phone": " 603482856",
+        "phone": "603482856",
         "email": "j.vaclavik@aeroservis.aero"
       },
       "img_ext": "jpg"
@@ -234,7 +234,7 @@
         "HD": "A"
       },
       "shows": "V, CAC, BOS, BOB",
-      "exams": " ZV I.cena, MFT 8 b.",
+      "exams": "ZV I.cena, MFT 8 b.",
       "owner": {
         "title": "Ing.",
         "first_name": "Ondřej",
@@ -347,7 +347,7 @@
         "other": "CLAD N/N"
       },
       "championships": "CH PL",
-      "shows": " res. CAC, CAC, CACIB, BOS. BOB",
+      "shows": "res. CAC, CAC, CACIB, BOS. BOB",
       "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b., MFT 12b., Memoriál A. Sklenáře NFT 18b. CACT",
       "owner": {
         "first_name": "Miroslava",
@@ -491,7 +491,7 @@
       "date_of_birth": "2016-05-20",
       "clp": "16334",
       "father": "Nucky of McBirdy",
-      "mother": " Julia Roberts z Arislandu",
+      "mother": "Julia Roberts z Arislandu",
       "body": {
         "HD": "A"
       },
@@ -553,7 +553,7 @@
         "HD": "A"
       },
       "shows": "CAC, NV, BOS",
-      "exams": " ZV I.cena",
+      "exams": "ZV I.cena",
       "owner": {
         "first_name": "Monika",
         "last_name": "Hutyrová",
@@ -605,7 +605,7 @@
       "body": {
         "HD": "A"
       },
-      "shows": " CAJC, BOJ, CAC, CACIB, BOB",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOB",
       "exams": "ZV I.cena",
       "owner": {
         "first_name": "Kateřina",

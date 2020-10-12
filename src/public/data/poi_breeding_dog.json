@@ -211,7 +211,7 @@
       "name": "ASLAN Z BÍTÝŠSKÝCH BAŽIN",
       "date_of_birth": "2012-08-11",
       "clp": "10918",
-      "father": " Endy z Hovoran",
+      "father": "Endy z Hovoran",
       "mother": "Mona z Knollovy školy",
       "body": {
         "height": "65",
@@ -305,8 +305,8 @@
         "color": "černobílá",
         "HD": "B"
       },
-      "shows": " V1, CAC, res. CACIB, BOB",
-      "exams": " I.U.O. Srbsko, ZV I. c,",
+      "shows": "V1, CAC, res. CACIB, BOB",
+      "exams": "I.U.O. Srbsko, ZV I. c,",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -337,8 +337,8 @@
         "HD": "A"
       },
       "championships": "CH ČR, CH SK",
-      "shows": " CAJC, BOJ",
-      "exams": " ZV-I. c",
+      "shows": "CAJC, BOJ",
+      "exams": "ZV-I. c",
       "owner": {
         "first_name": "Lenka",
         "last_name": "Janečková Horáková",

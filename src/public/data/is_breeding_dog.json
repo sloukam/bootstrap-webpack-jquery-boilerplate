@@ -92,7 +92,7 @@
       "date_of_birth": "2010-12-16",
       "clp": "15531",
       "father": "Corranroo Redweed",
-      "mother": " Isabel Montefigueiras",
+      "mother": "Isabel Montefigueiras",
       "body": {
         "HD": "B"
       },
@@ -153,7 +153,7 @@
       "body": {
         "HD": "C"
       },
-      "shows": " res.CAC, CAC",
+      "shows": "res.CAC, CAC",
       "exams": "ZV I.cena, PZ I.cena, SZVP I.cena, LZ II.cena, VZ I.cena",
       "owner": {
         "first_name": "František",
@@ -288,14 +288,14 @@
       "date_of_birth": "2013-01-04",
       "clp": "15855",
       "father": "Applegrove Bechamel",
-      "mother": " Karmino Made Improvisation",
+      "mother": "Karmino Made Improvisation",
       "body": {
         "HD": "C",
         "rcd4": "clear",
         "other": "CLAD N/N"
       },
       "championships": "CH ČR, CH AT, JCH ČR, JCH AT",
-      "shows": " CAJC, BOJ, CAC, CACA, res.CACIB, NV, BOB, BIG II, BIS",
+      "shows": "CAJC, BOJ, CAC, CACA, res.CACIB, NV, BOB, BIG II, BIS",
       "exams": "ZV I.cena, PZ I.cena, SZVP II.cena",
       "owner": {
         "title": "Mgr.",
@@ -375,7 +375,7 @@
       "name": "ATHOS OD NÁPLAVKY",
       "date_of_birth": "2014-03-08",
       "clp": "16007",
-      "father": " Lary ze Srbeckých luhů",
+      "father": "Lary ze Srbeckých luhů",
       "mother": "Brela Apoli Gwen",
       "body": {
         "HD": "C"
@@ -466,7 +466,7 @@
         "HD": "A"
       },
       "championships": "JCH ČR, CH ČR",
-      "shows": " CAJC, BOJ,CAC, JBIG",
+      "shows": "CAJC, BOJ,CAC, JBIG",
       "exams": "ZV I.cena",
       "owner": {
         "first_name": "Lucie",
@@ -544,7 +544,7 @@
       "date_of_birth": "2015-04-25",
       "clp": "16159",
       "father": "Garden Star ́s Red Bull",
-      "mother": " Assonance Mahagony Paw",
+      "mother": "Assonance Mahagony Paw",
       "body": {
         "HD": "A"
       },
@@ -797,7 +797,7 @@
       "date_of_birth": "2017-11-17",
       "clp": "16584",
       "father": "Lanascol Smoke and Mirrors",
-      "mother": " Jendally Lady in Red",
+      "mother": "Jendally Lady in Red",
       "body": {
         "HD": "B"
       },
@@ -970,7 +970,7 @@
       "date_of_birth": "2012-09-20",
       "clp": "15774",
       "father": "Garden Star ́s Royal Legend",
-      "mother": " Isabel Montefigueiras",
+      "mother": "Isabel Montefigueiras",
       "body": {
         "HD": "C"
       },
