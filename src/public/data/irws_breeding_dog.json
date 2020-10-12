@@ -37,11 +37,11 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
-      "name": "RONY Z LUKOVSKÝCH LÁNU",
+      "name": "RONY Z LUKOVSKÝCH LÁNU",
       "date_of_birth": "2013-04-18",
       "clp": "274",
       "father": "Berstein Lohmann‘s;",
-      "mother": "Proud Mary Dalriach ",
+      "mother": "Proud Mary Dalriach",
       "body": {
         "height": "62",
         "color": "červenobílý",
@@ -70,14 +70,15 @@
       "name": "DYNAMIC DANCER ARTERGERD",
       "date_of_birth": "2016-04-25",
       "clp": "325",
-      "father": "Boreas Artegerd ",
-      "mother": "Debbie Redmore ",
+      "father": "Boreas Artegerd",
+      "mother": "Debbie Redmore",
       "body": {
         "height": "66",
         "HD": "A"
       },
-      "shows": "CAC, CACIB, BOS, BOB",
-      "exams": "ZV 1c. ",
+      "championships": "CH CZ, CH SK, Grand CH CZ",
+      "shows": "CAC, CACIB, BOS, BOB, Vítěz Prahy, KV ČPSK, KV MSKAO",
+      "exams": "ZV I.c.",
       "owner": {
         "first_name": "Kateřina",
         "last_name": "Michálková",
@@ -93,47 +94,48 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
-      "name": "ARON Z  DRVÁLOVSKÉHO REVÍRU",
+      "name": "ARON Z DRVÁLOVSKÉHO REVÍRU",
       "date_of_birth": "2018-03-19",
       "clp": "353",
-      "father": "Rolf z Lukovských lánů",
-      "mother": "Lucy Mc Gillicuddy‘s ",
+      "father": "Rolf z Lukovských lánů",
+      "mother": "Lucy Mc Gillicuddy‘s",
       "body": {
         "height": "64",
         "color": "červenobílý",
-        "HD": "B"
+        "HD": "B",
+        "rcd4": "clear",
+        "other": "CLAD free, PRA-rcd1 clear"
       },
-      "championships": "JCH ČR",
-      "shows": "CAJC, BOJ,CAC, BOB",
+      "championships": "JCH CZ",
+      "shows": "CAJC, BOJ, CAC, BOB, KV ČPSK 2020, KV MSKAO 2020",
       "exams": "ZV - I.c, ",
       "owner": {
         "first_name": "Jana",
         "last_name": "Sedláková",
         "address": {
-          "street": "Drváloviceč",
+          "street": "Drválovice",
           "number": "19",
-          "city": "Vanovice"
+          "city": "Vanovice",
+          "post_code": "67936"
         },
         "phone": "737815574",
         "email": "sedlakova.jani@tiscali.cz"
       }
-    }
-  ]
-}
-  {
-    "breed": "IRWS",
-    "sex": "male",
-    "visible": true,
-    "name": "ARTAGAN VON BLAHUD",
-    "date_of_birth": "29.09.2018",
-    "clp": "356",
-    "father": "Caesar Valiant Hunter",
-    "mother": "Roxana z Lukovských Lánů",
-    "body": {
-       "height": "64",
-       "color": "červenobílý",
-       "HD": "A"
-     },
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "ARTAGAN VON BLAHUD",
+      "date_of_birth": "29.09.2018",
+      "clp": "356",
+      "father": "Caesar Valiant Hunter",
+      "mother": "Roxana z Lukovských Lánů",
+      "body": {
+        "height": "64",
+        "color": "červenobílý",
+        "HD": "A"
+      },
       "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, Krajský vítěz, národní vítěz",
       "exams": "ZV - I.c, ",
       "owner": {
@@ -143,21 +145,20 @@
           "street": "Dvakačovice",
           "number": "90",
           "city": "Hrochův Týnec",
-	  "post_code": "53862"
+          "post_code": "53862"
         },
         "phone": "736504310",
         "email": "ivana.popilkova@seznam.cz"
       }
-    }
-  },
-  {
+    },
+    {
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
       "name": "AMAR Z DRVÁLOVSKÉHO REVÍRU",
       "date_of_birth": "19.03.2018",
       "clp": "349",
-      "father": "Rolf z Lukovských lánů",
+      "father": "Rolf z Lukovských lánů",
       "mother": "Lucy Mc Gillicuddy‘s",
       "body": {
         "height": "64",
@@ -173,9 +174,10 @@
           "street": "Opletalova",
           "number": "605/10",
           "city": "Havířov - Šumbark",
-	  "post_code": "73601"
+          "post_code": "73601"
         },
         "email": "P.Mitasik@seznam.cz"
       }
     }
-  },
+  ]
+}

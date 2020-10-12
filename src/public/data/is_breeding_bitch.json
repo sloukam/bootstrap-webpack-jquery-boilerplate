@@ -631,7 +631,7 @@
       "body": {
         "HD": "A",
         "rcd4": "clear",
-	"other": "CLAD N/N, PRA rcd 1 clear"
+        "other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "CH ČR",
       "shows": "CAJC, CAC, BOJ, BOS",
@@ -663,7 +663,7 @@
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear",
-	"other": "CLAD N/N, PRA rcd 1 clear"
+        "other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "JCH ČR",
       "shows": "CAJC, CAC, res.CACIB, BOS",
@@ -692,8 +692,8 @@
       "mother": "Copper´s Magic Glimmer",
       "body": {
         "HD": "A",
-        "rcd4": "clear"
-	"other": "CLAD N/N, PRA rcd 1 clear"
+        "rcd4": "clear",
+        "other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "JCH ČR",
       "shows": "CAJC, CAC",
