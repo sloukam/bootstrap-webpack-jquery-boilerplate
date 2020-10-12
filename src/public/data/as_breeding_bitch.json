@@ -87,7 +87,7 @@
       "owner": {
         "first_name": "Růžena",
         "last_name": "Lepařová",
-        "address":{
+        "address": {
           "street": "Pod Skalkou",
           "number": "69/10",
           "city": "Přerov"
@@ -95,7 +95,6 @@
         "phone": "776658147"
       },
       "img_ext": "jpg"
-
     },
     {
       "visible": true,
