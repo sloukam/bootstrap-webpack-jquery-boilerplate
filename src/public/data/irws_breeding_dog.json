@@ -1,0 +1,121 @@
+{
+  "dogs": [
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "PINKY PEPPER SHADOW DOG",
+      "date_of_birth": "2012-04-29",
+      "clp": "261",
+      "father": "Exlusive’s Gypsyboy",
+      "mother": "Dreams Come True Shadow Dog",
+      "body": {
+        "height": "62",
+        "color": "červenobílý",
+        "HD": "C",
+        "ED": "0/0",
+        "other": "CLAD free"
+      },
+      "championships": "JCH ČR",
+      "shows": "VTM,CAJC,BOJ,CAC,CACIB,KV,BOB",
+      "exams": "ZV - I.c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Antonín",
+        "last_name": "Halla",
+        "address": {
+          "street": "Absolonova",
+          "number": "79",
+          "city": "Brno",
+          "post_code": "62400"
+        },
+        "phone": "728202955",
+        "email": "tonda.hala@gmail.com"
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "RONY Z LUKOVSKÝCH LÁNU",
+      "date_of_birth": "2013-04-18",
+      "clp": "274",
+      "father": "Berstein Lohmann‘s;",
+      "mother": "Proud Mary Dalriach ",
+      "body": {
+        "height": "62",
+        "color": "červenobílý",
+        "HD": "C"
+      },
+      "shows": "CAJC, BOJ,CAC, CACIB,BOB",
+      "exams": "ZV - I.c., PZ I.c",
+      "owner": {
+        "first_name": "Petra",
+        "last_name": "Illová",
+        "address": {
+          "street": "Mohelno",
+          "number": "514",
+          "city": "Mohelno",
+          "post_code": "67575"
+        },
+        "email": "petra.illova@email.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "DYNAMIC DANCER ARTERGERD",
+      "date_of_birth": "2016-04-25",
+      "clp": "325",
+      "father": "Boreas Artegerd ",
+      "mother": "Debbie Redmore ",
+      "body": {
+        "height": "66",
+        "HD": "A"
+      },
+      "shows": "CAC, CACIB, BOS, BOB",
+      "exams": "ZV 1c. ",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Michálková",
+        "address": {
+          "street": "Pionýrská",
+          "number": "544",
+          "city": "Rájec Jestřebí ",
+          "post_code": "67902"
+        }
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "ARON Z  DRVÁLOVSKÉHO REVÍRU",
+      "date_of_birth": "2018-03-19",
+      "clp": "353",
+      "father": "Rolf z Lukovských lánů",
+      "mother": "Lucy Mc Gillicuddy‘s ",
+      "body": {
+        "height": "64",
+        "color": "červenobílý",
+        "HD": "B"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ,CAC, BOB",
+      "exams": "ZV - I.c, ",
+      "owner": {
+        "first_name": "Jana",
+        "last_name": "Sedláková",
+        "address": {
+          "street": "Drváloviceč",
+          "number": "19",
+          "city": "Vanovice"
+        },
+        "phone": "737815574",
+        "email": "sedlakova.jani@tiscali.cz"
+      }
+    }
+  ]
+}
