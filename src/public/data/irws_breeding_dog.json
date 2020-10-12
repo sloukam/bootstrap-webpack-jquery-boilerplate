@@ -16,8 +16,8 @@
         "ED": "0/0",
         "other": "CLAD free"
       },
-      "championships": "JCH ČR",
-      "shows": "VTM,CAJC,BOJ,CAC,CACIB,KV,BOB",
+      "championships": "JCH CZ",
+      "shows": "VTM, CAJC, BOJ, CAC, CACIB, KV MSKAO, BOB",
       "exams": "ZV - I.c.",
       "owner": {
         "title": "Ing.",
@@ -47,7 +47,8 @@
         "color": "červenobílý",
         "HD": "C"
       },
-      "shows": "CAJC, BOJ,CAC, CACIB,BOB",
+      "championships": "JCH CZ, CH CZ",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOB",
       "exams": "ZV - I.c., PZ I.c",
       "owner": {
         "first_name": "Petra",
@@ -119,3 +120,62 @@
     }
   ]
 }
+  {
+    "breed": "IRWS",
+    "sex": "male",
+    "visible": true,
+    "name": "ARTAGAN VON BLAHUD",
+    "date_of_birth": "29.09.2018",
+    "clp": "356",
+    "father": "Caesar Valiant Hunter",
+    "mother": "Roxana z Lukovských Lánů",
+    "body": {
+       "height": "64",
+       "color": "červenobílý",
+       "HD": "A"
+     },
+      "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, Krajský vítěz, národní vítěz",
+      "exams": "ZV - I.c, ",
+      "owner": {
+        "first_name": "Ivana",
+        "last_name": "Popilková",
+        "address": {
+          "street": "Dvakačovice",
+          "number": "90",
+          "city": "Hrochův Týnec",
+	  "post_code": "53862"
+        },
+        "phone": "736504310",
+        "email": "ivana.popilkova@seznam.cz"
+      }
+    }
+  },
+  {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "AMAR Z DRVÁLOVSKÉHO REVÍRU",
+      "date_of_birth": "19.03.2018",
+      "clp": "349",
+      "father": "Rolf z Lukovských lánů",
+      "mother": "Lucy Mc Gillicuddy‘s",
+      "body": {
+        "height": "64",
+        "color": "červenobílý",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV - I.c, ",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Mitašík",
+        "address": {
+          "street": "Opletalova",
+          "number": "605/10",
+          "city": "Havířov - Šumbark",
+	  "post_code": "73601"
+        },
+        "email": "P.Mitasik@seznam.cz"
+      }
+    }
+  },
