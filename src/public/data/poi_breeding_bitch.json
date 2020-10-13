@@ -281,7 +281,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV-I. c, PZ-I. c",
+      "exams": "ZV I.c, PZ I.c",
       "owner": {
         "first_name": "Karel",
         "last_name": "Pokorný",
@@ -310,7 +310,7 @@
         "HD": "A"
       },
       "shows": "res. CAC",
-      "exams": "LZ-I. c, ZVP-I. c, PZ-I. c, VZ-I. c",
+      "exams": "LZ I.c, ZVP I.c, PZ I.c, VZ I.c",
       "owner": {
         "first_name": "Pavel",
         "last_name": "Konečný",
@@ -339,7 +339,7 @@
         "HD": "A"
       },
       "shows": "res. CAC",
-      "exams": "PZ II. c",
+      "exams": "PZ II.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Kozárek",
@@ -367,7 +367,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV-I. c, PZ-I. c",
+      "exams": "ZV I.c, PZ I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Petr",
@@ -396,7 +396,8 @@
         "color": "bíločerná",
         "HD": "B"
       },
-      "shows": "res. CAC",
+      "championships": "CH SK, CH CZ",
+      "shows": "CAC, CACIB, BOS, BOB",
       "exams": "ZV I. c",
       "owner": {
         "title": "Ing.",
@@ -428,7 +429,7 @@
         "HD": "A"
       },
       "shows": "VD",
-      "exams": "ZV – I. C, CACT, ZV – II. c., PZ –\nIII. c., 2x ZVP - I. c., LZ - I. c., VZ – II. c, NFT- VD 12 b., NFT-VD 15 b., ZVP Memoriál J. Hrabala II. c., Memoriál Josefa Lammera PZ+VP – I. c. CACT, MFT MSKAO – Exc. 16 b.",
+      "exams": "ZV I.C CACT, ZV II.c., PZ III.c., 2x VP I.c., LZ I.c., VZ II.c, NFT VD 12 b., NFT VD 15 b., ZVP Memoriál J. Hrabala II.c., Memoriál Josefa Lammera PZ+VP I.c. CACT, MFT MSKAO Exc. 16 b.",
       "owner": {
         "first_name": "Aleš",
         "last_name": "Ševčík",
@@ -484,7 +485,7 @@
         "HD": "A"
       },
       "shows": "CAC",
-      "exams": "ZV-I. c",
+      "exams": "ZV I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Miloslava",
@@ -545,7 +546,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I. c, PZ I. c",
+      "exams": "ZV I.c, PZ I.c, VP I.c, LZ II.c, VZ I.c. CACT",
       "owner": {
         "first_name": "Ladislav",
         "last_name": "Kuchta",
@@ -603,7 +604,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I. c, PZ I. c, SZVP I. c, LZ I. c, VZ I. c",
+      "exams": "ZV I.c, PZ I.c, SZVP I.c, LZ I.c, VZ I.c",
       "owner": {
         "first_name": "Martina",
         "last_name": "Müllerová",
@@ -632,7 +633,7 @@
         "HD": "A"
       },
       "shows": "CAJC, BOJ",
-      "exams": "ZV- I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Sára",
         "last_name": "Pešatová",
@@ -661,7 +662,7 @@
         "HD": "A"
       },
       "shows": "V, res. CAC",
-      "exams": "ZV I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Kristýna",
         "last_name": "Hejlová",
@@ -690,7 +691,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I. c, PZ I. c",
+      "exams": "ZV I.c, PZ I.c",
       "owner": {
         "first_name": "Jan",
         "last_name": "Grygar",
@@ -747,8 +748,9 @@
         "color": "žlutobílá",
         "HD": "A"
       },
+      "championships": "CH ČR, CH SK, JCH CZ",
       "shows": "BOJ, BOB, BOS",
-      "exams": "ZV-I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Nikol",
         "last_name": "Hajmonová",
@@ -777,7 +779,7 @@
         "HD": "A"
       },
       "shows": "VN1, V2, res. CAC",
-      "exams": "ZV I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Karel",
         "last_name": "Pokorný",
@@ -807,7 +809,7 @@
         "HD": "A"
       },
       "shows": "V1, CAJC, BOJ, CAC, BOS, BOB",
-      "exams": "ZV I. c, VP II. c, PZ CACT I. c",
+      "exams": "ZV I.c, VP II.c, PZ I.c. CACT",
       "owner": {
         "first_name": "Martin",
         "last_name": "Hájek",
@@ -836,7 +838,7 @@
         "HD": "C"
       },
       "shows": "V1, CAC",
-      "exams": "ZV I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Bronislav",
         "last_name": "Procinger",
@@ -866,7 +868,7 @@
       },
       "championships": "CH ČR",
       "shows": "V1, CAC, res. CACIB",
-      "exams": "ZV I. c, SVP I. c, PZ I. c",
+      "exams": "ZV I.c, SVP I.c, PZ I.c, BZ I.c",
       "owner": {
         "first_name": "Zuzana",
         "last_name": "Nýčová",
@@ -895,7 +897,7 @@
         "HD": "B"
       },
       "shows": "V1, VT, KV",
-      "exams": "ZV I. c",
+      "exams": "ZV I.c",
       "owner": {
         "first_name": "Zdeněk",
         "last_name": "Valenta",
@@ -923,7 +925,7 @@
         "HD": "A"
       },
       "shows": "V3",
-      "exams": "ZV I. c, PZ II. c",
+      "exams": "ZV I.c, PZ II.c",
       "owner": {
         "first_name": "Jaroslav",
         "last_name": "Mráček",

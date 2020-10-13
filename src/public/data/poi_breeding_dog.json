@@ -15,7 +15,7 @@
         "HD": "A"
       },
       "shows": "CAJC, CAC, NV",
-      "exams": "ZV-I. c, PZ-I. c, SZVP-I. c, LZ-I. c",
+      "exams": "ZV I.c, PZI.c, SZVP-I.c, LZ I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "David",
@@ -44,7 +44,7 @@
         "HD": "A"
       },
       "shows": "CAC",
-      "exams": "ZV-I. c, PZ-I. c, SZVP-I. c, LZ-I. c, VZ - I. c",
+      "exams": "ZV I.c, PZ I.c, SZVP I.c, LZ I.c, VZ I.c",
       "owner": {
         "first_name": "František",
         "last_name": "Zahradníček",
@@ -73,7 +73,7 @@
         "HD": "C"
       },
       "shows": "CAC, CAC ČMKU, res.CACIB, NV, KV",
-      "exams": "ZV-I. c CACT, PZ-I. c, SZVP-I. c, SZVP-II. c, LZ-I. c,",
+      "exams": "ZV-I. c CACT, PZ I.c, SZVP I.c, SZVP-II. c, LZ-I. c,",
       "owner": {
         "first_name": "Aleš",
         "last_name": "Ševčík",
@@ -103,7 +103,7 @@
         "HD": "A"
       },
       "shows": "res. CAC, CAC, CACIB, BOB",
-      "exams": "ZV-I.cena, ZVP I.cena",
+      "exams": "ZV I.c., ZVP I.c.",
       "owner": {
         "first_name": "Aleš",
         "last_name": "Ševčík",
@@ -131,8 +131,8 @@
         "color": "žlutobílý",
         "HD": "A"
       },
-      "shows": "CAJC, CAC, res. CACIB,BOB",
-      "exams": "ZV-I.cena",
+      "shows": "CAJC, CAC, res. CACIB, BOB",
+      "exams": "ZV I.c.",
       "owner": {
         "first_name": "Lenka",
         "last_name": "Horáková",
@@ -153,15 +153,15 @@
       "name": "ARKO Z DUKÁTU",
       "date_of_birth": "2011-06-20",
       "clp": "10830",
-      "father": "Cass z Mešinsék hájovny",
+      "father": "Cass z Mešinské hájovny",
       "mother": "Ata z Hanáckých polí",
       "body": {
         "height": "63",
         "color": "žlutobílý",
         "HD": "B"
       },
-      "shows": "CAJC CAC, CACIB, BOB",
-      "exams": "ZV – I.cena",
+      "shows": "CAJC, CAC, CACIB, BOB",
+      "exams": "ZV I.c.",
       "owner": {
         "first_name": "Oldřich",
         "last_name": "Slavotínek",
@@ -188,9 +188,9 @@
         "color": "černobílá",
         "HD": "A"
       },
-      "championships": "CH ČR",
-      "shows": "KV MSKAO 2015, CAJC, BOJ,\nCWC, OV, NV, res.CAC, CAC,\nres.CACIB, CACIB, BOB, BOS, JBIG, IBIG;",
-      "exams": "2x ZV – I. c, 2x PZ – I. c, SZVP – I. c, Memoriál Josefa Lamera 2015 (LZ+SZVP) -\nI. c, vítěz putovního poháru, Memoriál Miroslava Sullera 2015 (PZ+SZVP) -I. c, Memoriál Stanislava Hloucha 2015 (VZ)-II. c, Klubové VZ MSKAO 2015 I. c, Klubový\nvítěz, nejlepší pole, CACT.",
+      "championships": "CH CZ",
+      "shows": "KV MSKAO 2015, CAJC, BOJ, CWC, OV, NV, res.CAC, CAC, res.CACIB, CACIB, BOB, BOS, JBIG, I.BIG, KV MSKAO 2015",
+      "exams": "2x ZV I.c, 2x PZ I.c, SZVP I.c, Memoriál Josefa Lamera 2015 (LZ+SZVP) I.c, Vítěz putovního poháru, Memoriál Miroslava Sullera 2015 (PZ+SZVP) I.c, Memoriál Stanislava Hloucha 2015 (VZ)-II. c, Klubové VZ MSKAO 2015 I. c, Klubový vítěz, nejlepší pole, CACT.",
       "owner": {
         "first_name": "František",
         "last_name": "Tihelka",
@@ -219,7 +219,7 @@
         "HD": "A"
       },
       "shows": "V, CAC, BOS",
-      "exams": "ZV II. c, PZ I. c",
+      "exams": "ZV II.c, PZ I.c",
       "owner": {
         "first_name": "Veronika",
         "last_name": "Otáhalová",
@@ -248,7 +248,7 @@
         "HD": "A"
       },
       "shows": "Výborný 2",
-      "exams": "ZV I. c, PZ – II. c, SZVP – I. c",
+      "exams": "ZV I.c, PZ II.c, VP I.c, LZ III.c",
       "owner": {
         "first_name": "Zdeněk",
         "last_name": "Andrýsek",
@@ -277,7 +277,7 @@
         "HD": "A"
       },
       "shows": "Výborný 3",
-      "exams": "ZV – CACT, PZ – CACT, SZVP,\nVZ – vše I. c., Derby – AO, NFT, MFT",
+      "exams": "ZV I.c. CACT, PZ I.c. CACT, VP I.c., VZ I.c., Derby AO, NFT, MFT, NS MRK III.c 241b., MRK II.c. 427b.",
       "owner": {
         "first_name": "Zdeněk",
         "last_name": "Andrýsek",
@@ -305,8 +305,8 @@
         "color": "černobílá",
         "HD": "B"
       },
-      "shows": "V1, CAC, res. CACIB, BOB",
-      "exams": "I.U.O. Srbsko, ZV I. c,",
+      "shows": " V1, CAC, res. CACIB, BOB",
+      "exams": " I.U.O. Srbsko, ZV I.c,",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -336,9 +336,9 @@
         "color": "žlutobílý",
         "HD": "A"
       },
-      "championships": "CH ČR, CH SK",
-      "shows": "CAJC, BOJ",
-      "exams": "ZV-I. c",
+      "championships": "CH CZ, CH SK",
+      "shows": " CAJC, BOJ",
+      "exams": " ZV I.c",
       "owner": {
         "first_name": "Lenka",
         "last_name": "Janečková Horáková",
@@ -368,7 +368,7 @@
         "HD": "B"
       },
       "shows": "V1, VT",
-      "exams": "ZV – I. c, PZ – I. c, 3x VZ - I. c., nominační soutěž MRK - I. c., MRK – III. c. 431 b. – nejlepší voda, MKP – III. c. 474 b.,",
+      "exams": "ZV I.c, PZ I.c, 3x VZ I.c., nominační soutěž MRK I.c., MRK III.c. 431 b. nejlepší voda, MKP III.c. 474 b.,",
       "owner": {
         "first_name": "Václav",
         "last_name": "Hejna",
@@ -395,8 +395,8 @@
         "color": "žemlová se znaky",
         "HD": "A"
       },
-      "shows": "V, res. CA",
-      "exams": "ZV I. c, CACT, PZ - I. c, LZ - I. c, ZVP - I. c, VZ – II. c, MFT – Exc., res. CACIT, CACT",
+      "shows": "V, res. CAC",
+      "exams": "ZV I.c. CACT, PZ I.c, LZ I.c, ZVP I.c, VZ II.c, MFT Exc., res. CACIT, CACT",
       "owner": {
         "title": "Mgr.",
         "first_name": "Eva",
@@ -425,9 +425,9 @@
         "color": "černobílý",
         "HD": "A"
       },
-      "championships": "JCH ČR, CH ČR",
+      "championships": "JCH CZ, CH CZ",
       "shows": "CAJC, BOJ, CAC, CAC ČMKU, NV, CACIB, BOS, BOB",
-      "exams": "ZV – I. c, PZ – I. c., VZ – II. c., ZV – CACT, MFT – Exc., CACT, CACIT,\nZVP – I. c., - res.CACT",
+      "exams": "ZV I.c CACT, PZ I.c., VZ II.c., MFT Exc., CACT, CACIT, ZVP I.c., res.CACT",
       "owner": {
         "first_name": "Martina",
         "last_name": "Mullerová",
@@ -455,7 +455,8 @@
         "color": "bíložemlová",
         "HD": "A"
       },
-      "shows": "V1, VT, OV, KV, res. CACIB,\nres. CAC., CAC",
+      "championships": "CH CZ",
+      "shows": "V1, VT, OV, KV, res. CACIB, res. CAC., CAC",
       "exams": "ZV II. c",
       "owner": {
         "first_name": "Veronika",
@@ -485,7 +486,7 @@
         "HD": "C"
       },
       "shows": "V2, res. CAC",
-      "exams": "ZV I. c CACT, PZ I. c",
+      "exams": "ZV I.c CACT, PZ I.c, LZ I.c.",
       "owner": {
         "title": "Ing.",
         "first_name": "Pavel",
@@ -514,9 +515,9 @@
         "color": "bílooranžová",
         "HD": "A"
       },
-      "championships": "CH CZ",
+      "championships": "CH CZ, CH SK, JCH CZ",
       "shows": "CAJC, BOS, CACIB, BOB",
-      "exams": "ZV I. c",
+      "exams": "ZV I.c.",
       "owner": {
         "first_name": "Gabriela",
         "last_name": "Lyčková",
@@ -536,14 +537,14 @@
       "date_of_birth": "2017-04-21",
       "clp": "11423",
       "father": "Dio Vom Kleebachtal",
-      "mother": "Pawprint Flaming Soul  (HU)",
+      "mother": "Pawprint Flaming Soul (HU)",
       "body": {
         "height": "65",
         "color": "bílohnědá",
         "HD": "A"
       },
       "shows": "VD",
-      "exams": "ZV I.c,  CACT",
+      "exams": "ZV I.c CACT",
       "owner": {
         "first_name": "Marek",
         "last_name": "Hylebrant",
@@ -571,8 +572,8 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "shows": "V1, CAJC, BOJ, BOS, BOB, JBIG, JBIS,",
-      "exams": "ZV I. c",
+      "shows": "V1, CAJC, BOJ, BOS, BOB, JBIG, JBIS, KV MSKAO 2019",
+      "exams": "ZV I.c, MVV I.c, VP I.c, PZ I.c., FT Derby winner",
       "owner": {
         "first_name": "Pavel",
         "last_name": "Thiel",

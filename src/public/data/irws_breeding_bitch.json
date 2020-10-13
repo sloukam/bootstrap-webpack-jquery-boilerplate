@@ -14,15 +14,15 @@
         "color": "červenobílá",
         "HD": "A"
       },
-      "shows": "CAJC, CAC,NV,BOJ,BOS",
-      "exams": "ZV – I.c.",
+      "shows": "CAJC, CAC, NV, BOJ, BOS, BOB",
+      "exams": "ZV – I.c., Memoriál A. Sklenáře NF 18b. CACT, NZŘ 55b., MZŘ BV-VT 54b.",
       "owner": {
         "first_name": "Miroslava",
         "last_name": "Holubová",
         "address": {
           "street": "Opavice",
           "number": "č. 30",
-          "city": "město Albrechtice",
+          "city": "Město Albrechtice",
           "post_code": "79395"
         }
       },
@@ -42,7 +42,8 @@
         "color": "červenobílá",
         "HD": "A"
       },
-      "shows": "VTM,CAJC, BOJ, CAC,KV , CACIB,BOB",
+      "championships": "CH CZ, JCH CZ, JCH SK",
+      "shows": "VTM, CAJC, BOJ, CAC, KV, CACIB, BOB",
       "exams": "ZV - I. c.PZ- I.cBZ Ic. VP- II c.",
       "owner": {
         "first_name": "Jana",
@@ -72,7 +73,7 @@
         "HD": "A"
       },
       "shows": "Výborná",
-      "exams": "ZV -Ic. PZ IIc.",
+      "exams": "ZV -Ic., PZ IIc.",
       "owner": {
         "first_name": "Martin",
         "last_name": "Jansa",
@@ -130,7 +131,7 @@
         "HD": "B"
       },
       "shows": "CAC",
-      "exams": "KZV – I.c CACT., Memoriál J.Lammera PZ – I.c.CACT, VP-I c.MFT MSKAO -Dobře",
+      "exams": "KZV – I.c CACT., Memoriál J.Lammera PZ – I.c.CACT, VP-I c., LZ I.c., MFT MSKAO -Dobře",
       "owner": {
         "first_name": "Petra",
         "last_name": "Illová",
@@ -158,6 +159,7 @@
         "color": "červenobílá",
         "HD": "B"
       },
+      "championships": "JCH CZ",
       "shows": "CAJC, CAC,KV,BOJ,BOS,BOB",
       "exams": "ZV – I.c.",
       "owner": {
