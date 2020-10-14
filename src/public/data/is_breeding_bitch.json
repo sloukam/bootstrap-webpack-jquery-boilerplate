@@ -25,8 +25,7 @@
         },
         "phone": "733 105 952",
         "web": "http://www.zluhovesece.estranky.cz"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -109,8 +108,7 @@
         },
         "phone": "603482856",
         "email": "j.vaclavik@aeroservis.aero"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -137,8 +135,7 @@
           "post_code": "71600"
         },
         "email": "jana-kupkova@seznam.cz"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -164,8 +161,7 @@
         },
         "phone": "721364459",
         "email": "jurabalas@seznam.cz"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -192,8 +188,7 @@
         },
         "phone": "725379607",
         "email": "jh.hysek@gmail.com"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -301,8 +296,7 @@
           "post_code": "71500"
         },
         "phone": "603195315"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -420,8 +414,7 @@
           "post_code": "67522"
         },
         "phone": "608646666"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -590,8 +583,7 @@
           "post_code": "33701"
         },
         "phone": "777137370"
-      },
-      "img_ext": "jpg"
+      }
     },
     {
       "breed": "IS",
@@ -617,7 +609,8 @@
           "post_code": "71500"
         },
         "phone": "603195315"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
