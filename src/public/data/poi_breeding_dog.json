@@ -28,7 +28,8 @@
         },
         "phone": "728972005",
         "email": "DBrezina@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -56,7 +57,8 @@
         },
         "phone": "737217117",
         "email": "f.zahradnicek@petergfk.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -86,7 +88,8 @@
         "phone": "608533303",
         "email": "zvinnychtrati@seznam.cz",
         "web": "http://www.zvinnychtrati.estranky.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -202,7 +205,8 @@
         },
         "phone": "721077819",
         "web": "http://www.chszestipek.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -231,7 +235,8 @@
         },
         "phone": "721546741",
         "email": "otahalova.v@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -260,7 +265,8 @@
         },
         "phone": "739644759",
         "email": "andrysek.zdenek@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -289,7 +295,8 @@
         },
         "phone": "739644759",
         "email": "andrysek.zdenek@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -320,7 +327,8 @@
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz",
         "web": "http://www.ze-zajecich-poli.webnode.cZ"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -351,7 +359,8 @@
         "phone": "728942000",
         "web": "http://www.natyavegrove.com"
       },
-      "other": "Import Anglie"
+      "other": "Import Anglie",
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -379,7 +388,8 @@
           "post_code": "67963"
         },
         "email": "vaclav.hejna@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -409,7 +419,8 @@
         },
         "phone": "602788769,",
         "email": "evaillova@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -439,7 +450,8 @@
         },
         "phone": "776281286",
         "web": "http://www.chszestipek.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -469,7 +481,8 @@
         },
         "phone": "721546741",
         "email": "otahalova.v@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -499,7 +512,8 @@
         },
         "phone": "724523332",
         "email": "konecny.lz4@lesycr.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -527,7 +541,8 @@
           "city": "Lučina",
           "post_code": "73939"
         }
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -556,7 +571,8 @@
         },
         "phone": "606837999",
         "email": "marhyl@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -584,7 +600,8 @@
         },
         "phone": "721546741",
         "email": "pavlos2211@gmail.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -612,7 +629,8 @@
           "post_code": "67575"
         },
         "phone": "724 844 614"
-      }
+      },
+      "img_ext": "jpg"
     }
   ]
 }

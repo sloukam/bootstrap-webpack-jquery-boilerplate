@@ -28,7 +28,8 @@
         },
         "phone": "731178425",
         "email": "OlivaP6@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -58,7 +59,8 @@
         },
         "phone": "777944933",
         "email": "cestmir.sramek@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -88,7 +90,8 @@
         },
         "phone": "776281286",
         "web": "http://www.chszestipek.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -117,7 +120,8 @@
         },
         "phone": "731616753",
         "email": "stusakova@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -146,7 +150,8 @@
         },
         "phone": "736641209",
         "email": "zdenabrzy@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -175,7 +180,8 @@
         },
         "phone": "777014724",
         "email": "Srnec.Franta@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -206,7 +212,8 @@
         "phone": "728942000",
         "web": "http://www.natyavegrove.com"
       },
-      "other": "Import Polsko"
+      "other": "Import Polsko",
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -235,7 +242,8 @@
         },
         "phone": "724974630",
         "email": "beach.kristyna@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -264,7 +272,8 @@
         },
         "phone": "777015493",
         "email": "alibaba1@mujmail.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -293,7 +302,8 @@
         },
         "phone": "723276897",
         "email": "han.pokorna@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -322,7 +332,8 @@
         },
         "phone": "724523332",
         "email": "konecny.lz4@lesycr.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -350,7 +361,8 @@
           "city": "Plumlov",
           "post_code": "79803"
         }
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -380,7 +392,8 @@
         },
         "phone": "731178425",
         "email": "OlivaP6@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -412,7 +425,8 @@
         "phone": "608574271",
         "email": "info@beskydypointer.cz",
         "web": "http://www.beskydypointer.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -442,7 +456,8 @@
         "phone": "608533303",
         "email": "zvinnychtrati@seznam.cz",
         "web": "http://www.zvinnychtrati.estranky.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -468,7 +483,8 @@
           "city": "Rousínov",
           "post_code": "68301"
         }
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -499,7 +515,8 @@
         "phone": "776761901",
         "email": "beaglekennel@seznam.cz",
         "web": "http://www.zlonskeholeta.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -529,7 +546,8 @@
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz",
         "web": "http://www.ze-zajecich–poli.webnode.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -558,7 +576,8 @@
         },
         "phone": "723741696",
         "email": "SlavekKuchta@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -587,7 +606,8 @@
         },
         "phone": "777015493",
         "email": "alibaba1@mujmail.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -616,7 +636,8 @@
         },
         "phone": "776281286",
         "web": "http://www.chszestipek.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -645,7 +666,8 @@
         },
         "phone": "605978346",
         "email": "sara.pesatova@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -674,7 +696,8 @@
         },
         "phone": "724974630",
         "email": "beach.kristyna@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -732,7 +755,8 @@
         },
         "phone": "775785087",
         "email": "mara.viktor@gmail.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -762,7 +786,8 @@
         },
         "phone": "775638947",
         "web": "http://www.natyavegroce.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -792,7 +817,8 @@
         "phone": "723276897",
         "email": "karel8pokorny@seznam.cz",
         "web": "http://www.sulikovska-stran.webnode.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -821,7 +847,8 @@
         },
         "phone": "604664205",
         "email": "haja46@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -880,7 +907,8 @@
         },
         "phone": "776616149",
         "email": "zuzana.nycova@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -908,7 +936,8 @@
           "post_code": "69641"
         },
         "phone": "725464857"
-      }
+      },
+      "img_ext": "jfif"
     },
     {
       "breed": "POI",
@@ -937,7 +966,8 @@
         },
         "phone": "725822232",
         "email": "mracek.jarek@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -967,7 +997,8 @@
         "phone": "728942000",
         "email": "info@natyavegrove.com",
         "web": "http://www.natyavegrove.com "
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -997,7 +1028,8 @@
         },
         "phone": "777944933",
         "email": "cestmir.sramek@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -1027,7 +1059,8 @@
         },
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     }
   ]
 }
