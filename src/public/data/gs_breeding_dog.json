@@ -541,6 +541,37 @@
         }
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
+      "name": "BLACK MYSTIC NEVEREDNDING GRACE",
+      "date_of_birth": "2018-05-28",
+      "clp": "6823",
+      "father": "Cameron from Stirling Bridge",
+      "mother": "Alotria Neverending Grace",
+      "body": {
+        "height": "66",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "shows": "Oblastní vítěz, Vítěz třídy, CAJC, CAC, CACIB, BOJ, BOB",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Kateřina",
+        "last_name": "Kadlecová",
+        "address": {
+          "street": "Chrtínská",
+          "number": "2466",
+          "city": "Hostivice",
+          "post_code": "25301"
+        },
+        "email": "katerina.vackova@email.cz"
+      },
+      "other": "uchovněn na vyjímku chybí 1x M3"
+      "img_ext": "jpg"
     }
   ]
 }
