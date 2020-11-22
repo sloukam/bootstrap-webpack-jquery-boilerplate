@@ -986,6 +986,34 @@
         "phone": "731135649"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "UNIVERSE OF NEVER-ENDING ADVENTURE ALL IRISH GOLD",
+      "date_of_birth": "2019-01-05",
+      "clp": "16711",
+      "father": "Oakdene Que Du Bonheur",
+      "mother": "Oakdene Puzzles's Crisps",
+      "body": {
+        "HD": "A",
+        "other": "CLAD N/N, PRA rcd1 clear, gen. profil"
+      },
+      "shows": "CAJC, BOJ, NV, BOB, BIG 3",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "Vidoulská",
+          "number": "3",
+          "city": "Praha 5",
+          "post_code": "158 00"
+        },
+        "phone": ""
+      },
+      "img_ext": "jpg"
     }
   ]
 }
