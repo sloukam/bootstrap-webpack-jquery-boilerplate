@@ -589,6 +589,35 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "CHASING FANTASY Z ARISLANDU",
+      "date_of_birth": "2017-05-08",
+      "clp": "16514",
+      "father": "Chase Cinnamon's",
+      "mother": "Lasterfield Lucky Card Game z Arislandu",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "CAJC, BOJ, CAC, r.CAC, BOS",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Jana",
+        "last_name": "Zouharová",
+        "address": {
+          "street": "Lesní",
+          "number": "173",
+          "city": "Bučovice - Kloboučky",
+          "post_code": "68501"
+        },
+        "phone": "604797859",
+        "email": "molly88@seznam.cz",
+        "web": "http://www.deaarduinna.wbs.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "CHASING LOVE Z ARISLANDU",
       "date_of_birth": "2017-05-08",
       "clp": "16490",
@@ -609,6 +638,34 @@
           "post_code": "71500"
         },
         "phone": "603195315"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "DIANA ZE SVRATECKÝCH PLÁŇAV",
+      "date_of_birth": "2017-07-23",
+      "clp": "16453",
+      "father": "Almost Picasso Daisy Rain",
+      "mother": "Arka ze Srbického kopce",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "VÝBORNÁ, OBLASTNÍ VÍTĚZ",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Sylva",
+        "last_name": "Černá",
+        "address": {
+          "street": "Hniličkova",
+          "number": "372",
+          "city": "Chrudim",
+          "post_code": "53701 "
+        },
+        "phone": "603195315",
+        "email": "syviolka@gmail.com"
       },
       "img_ext": "jpg"
     },
@@ -641,6 +698,31 @@
         },
         "phone": "739 406 622",
         "email": "nemcova_m@centrum.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "JARA Z JIROUŠKOVA DVORA",
+      "date_of_birth": "2018-04-22",
+      "clp": "16572",
+      "father": "Navarro Jay Slovak Base",
+      "mother": "Bereta Apoli Gwen",
+      "body": {
+        "HD": "A"
+      },
+      "shows": "VÝBORNÁ",
+      "exams": "PZ I.cena",
+      "owner": {
+        "first_name": "Stanislav",
+        "last_name": "Mokrý",
+        "address": {
+          "street": "Zádvoří",
+          "number": "337",
+          "city": "Dambořice",
+          "post_code": "69635"
+        }
       }
     },
     {

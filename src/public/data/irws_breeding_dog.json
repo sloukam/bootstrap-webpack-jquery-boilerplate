@@ -94,6 +94,38 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
+      "name": "LANAMOR ALPHA EDITION ANGELO",
+      "date_of_birth": "2016-11-18",
+      "clp": "376",
+      "father": "Vistador Bohemian",
+      "mother": ":Bellanice Artegerd",
+      "body": {
+        "height": "63",
+        "color": "červenobílý",
+        "HD": "A",
+        "ED": "0",
+        "rcd4": "clear",
+        "other": "CLAD free, PRA-rcd1 clear"
+      },
+      "championships": "JCH SK, CH SK, GrandCH SK, C.I.B., C.I.E.",
+      "exams": "ZV - I.c,",
+      "owner": {
+        "first_name": "Jana Sedláková",
+        "last_name": "Iveta Kručayová",
+        "address": {
+          "street": "Drválovice",
+          "number": "19",
+          "city": "Vanovice",
+          "post_code": "67936"
+        },
+        "phone": "737815574",
+        "email": "sedlakova.jani@tiscali.cz"
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
       "name": "ARON Z DRVÁLOVSKÉHO REVÍRU",
       "date_of_birth": "2018-03-19",
       "clp": "353",
