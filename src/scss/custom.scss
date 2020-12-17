@@ -43,12 +43,15 @@ a:hover {
 
 .header-container {
   @extend .container;
+
+  padding-bottom: 0 !important;
+
   z-index: 100 !important;
   border-bottom: 1px solid darkslategray;
 }
 
 .footer-container {
-  @extend .container;
+  @extend .container-general;
   z-index: 100 !important;
   border-top: 1px solid darkslategray;
 }
@@ -154,9 +157,9 @@ $newsFontSize: $font-size-base * 0.9;
 
       position: absolute;
       left: 0;
-      top: 0;
-      height: 100vh;
-      width: 100vw;
+      top: 195px;
+      height: 70vh;
+      width: 99vw;
       filter: blur(8px);
       -webkit-filter: blur(8px);
       z-index: 1;
@@ -164,7 +167,7 @@ $newsFontSize: $font-size-base * 0.9;
   }
 }
 
-.container {
+.container-general {
   @media (max-width: 1200px) {
     max-width: 97vw;
   }
@@ -180,9 +183,16 @@ $newsFontSize: $font-size-base * 0.9;
      //border: 1px solid #c1c1c1;
     background-color: #D2E5CD;
   }
+
   position: relative;
   z-index: 2;
-  box-shadow: 50px 0 50px #D2E5CD, -50px 0 50px #D2E5CD, 0 -50px 50px #D2E5CD
+  box-shadow: 50px 0 50px #D2E5CD, -50px 0 50px #D2E5CD, 0 -50px 50px #D2E5CD;
+}
+
+.container {
+  @extend .container-general;
+
+  padding-bottom: 50px;
 }
 
 .container-body {
@@ -383,7 +393,7 @@ $img-tumbnail-max-height: 200px;
   background-color: #B4C5B0;
 }
 .modal-dialog {
-  max-width: 50%;
+  max-width: 80vw;
   //max-height: 90%;
 }
 
