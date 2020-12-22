@@ -1,6 +1,7 @@
-$body-bg: #D2E5CD;
-//$body-bg: white;
+$body-bg: #B4C5B0;
 $body-color: black;
+
+//$primary-color: #B4C5B0;
 
 //$enable-grid-classes: true;
 //$primary: #1c7430;
@@ -19,6 +20,7 @@ $body-color: black;
 
 @import '../../node_modules/bootstrap/scss/bootstrap';
 
-@import './custom.scss';
+//@import './custom.scss';
+@import './custom-new.scss';
 @import './menu.scss';
 
