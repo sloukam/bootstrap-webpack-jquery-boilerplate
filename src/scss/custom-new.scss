@@ -110,6 +110,11 @@ $menu-dropdown-bg: #c4e5c4;
   z-index: 100;
 }
 
+// avoid white dropdown item to be white when selecting by click
+.dropdown-item:focus {
+  background-color: $menu-dropdown-bg;
+}
+
 .nav-item {
   //margin-left: 5px;
 }
