@@ -41,12 +41,6 @@ $(document).ready(function() {
     getDogs(breed, sex);
   }
   getNews();
-  // renderArticle();
-  // renderData(
-  //   'articlePreviewTemplate',
-  //   'articlePreviewContainer',
-  //   'articles.json'
-  // );
 
   // $('#summernote').summernote();
   $('#summernote').summernote({
@@ -58,7 +52,8 @@ $(document).ready(function() {
 
   $('#trumbowygDemo').trumbowyg();
 
-  $('.articleContainer').each(function(index, value) {
+  $('.articleContainer').each(function() {
+    // $('.articleContainer').each(function(index, value) {
     let fullText = $(this)
       .children('.fullText')
       .html();
@@ -118,22 +113,6 @@ function addOnClickEvents() {
   });
 }
 
-function showAndHideDependingOnResolution() {
-  if (screen.width > 600) {
-    console.log('show DESKTOP type of dog cards....');
-    $('.dogCardDesktop').show();
-    $('.dogCardMobile').hide();
-  } else {
-    console.log('show MOBILE type of dog cards....');
-    $('.dogCardMobile').show();
-    $('.dogCardDesktop').hide();
-  }
-}
-
-$(window).resize(function() {
-  // showAndHideDependingOnResolution();
-});
-
 function popupImages() {
   $('.pop').on('click', function() {
     console.log('click...');
@@ -147,36 +126,13 @@ function popupImages() {
   });
 }
 
-function renderData(templateName, elementWhereToInsert, dataFileName) {
-  $.getJSON('../public/data/' + dataFileName, function(data) {
-    let template = $('#' + templateName).html();
-    if (template !== undefined) {
-      let html = Mustache.to_html(template, data);
-      $('#' + elementWhereToInsert).html(html);
-    } else {
-      console.log('there is something totally wrong 1');
-    }
-    popupImages();
-    addOnClickEvents();
-  });
-}
-function renderArticle() {
-  $.getJSON('../public/data/articles.json', function(data) {
-    let template = $('#articleTemplate').html();
-    if (template !== undefined) {
-      let html = Mustache.to_html(template, data);
-      $('#articleContainer').html(html);
-    } else {
-      console.log('there is something totally wrong 1');
-    }
-  });
-}
-
 function getDogs(breed, sex) {
-  $.getJSON('../public/data/' + breed + '_breeding_dog.json', function (dog) {
+  $.getJSON('../public/data/' + breed + '_breeding_dog.json', function(dog) {
     // console.log('male in');
     // console.log(male);
-    $.getJSON('../public/data/' + breed + '_breeding_bitch.json', function (bitch) {
+    $.getJSON('../public/data/' + breed + '_breeding_bitch.json', function(
+      bitch
+    ) {
       // console.log('female in');
       // console.log(female);
       // console.log('male in female ');
@@ -191,29 +147,20 @@ function getDogs(breed, sex) {
       } else if (sex === 'bitch') {
         data = bitch;
       } else {
-        data = { dogs: dog.dogs.concat(bitch.dogs)};
+        data = { dogs: dog.dogs.concat(bitch.dogs) };
       }
       console.log('data');
       console.log(data);
-      console.log(data.dogs[0]);
-
-      let a = data.dogs.filter(function(item) {
-        return item.sex === sex;
-      });
-
-      console.log(a);
-
 
       let template = $('#dogDetailDesktop').html();
       if (template !== undefined) {
-        // var html = 'from js';
+        console.log('template is specified...');
         var html = Mustache.to_html(template, data);
         $('#dogList').html(html);
       } else {
         console.log('there is something totally wrong 1');
       }
-      // showAndHideDependingOnResolution();
-      $('.pop').on('click', function () {
+      $('.pop').on('click', function() {
         console.log('click...');
         $('.imagepreview').attr(
           'src',
@@ -224,12 +171,10 @@ function getDogs(breed, sex) {
         $('#imagemodal').modal('show');
       });
       addOnClickEvents();
-
     });
   });
 
-  $.getJSON('../public/data/' + breed + '_breeding_dogs.json', function (data) {
-  });
+  // $.getJSON('../public/data/' + breed + '_breeding_dog.json', function(data) {});
 }
 
 function getNews() {
@@ -348,34 +293,34 @@ const getSelectValues = options =>
  * @param  {HTMLFormControlsCollection} elements  the form elements
  * @return {Object}                               form data as an object literal
  */
-const formToJSON_deconstructed = elements => {
-  // This is the function that is called on each element of the array.
-  const reducerFunction = (data, element) => {
-    // Add the current field to the object.
-    data[element.name] = element.value;
-
-    // For the demo only: show each step in the reducer’s progress.
-    console.log(JSON.stringify(data));
-
-    return data;
-  };
-
-  // This is used as the initial value of `data` in `reducerFunction()`.
-  const reducerInitialValue = {};
-
-  // To help visualize what happens, log the inital value, which we know is `{}`.
-  console.log('Initial `data` value:', JSON.stringify(reducerInitialValue));
-
-  // Now we reduce by `call`-ing `Array.prototype.reduce()` on `elements`.
-  const formData = [].reduce.call(
-    elements,
-    reducerFunction,
-    reducerInitialValue
-  );
-
-  // The result is then returned for use elsewhere.
-  return formData;
-};
+// const formToJSON_deconstructed = elements => {
+//   // This is the function that is called on each element of the array.
+//   const reducerFunction = (data, element) => {
+//     // Add the current field to the object.
+//     data[element.name] = element.value;
+//
+//     // For the demo only: show each step in the reducer’s progress.
+//     console.log(JSON.stringify(data));
+//
+//     return data;
+//   };
+//
+//   // This is used as the initial value of `data` in `reducerFunction()`.
+//   const reducerInitialValue = {};
+//
+//   // To help visualize what happens, log the inital value, which we know is `{}`.
+//   console.log('Initial `data` value:', JSON.stringify(reducerInitialValue));
+//
+//   // Now we reduce by `call`-ing `Array.prototype.reduce()` on `elements`.
+//   const formData = [].reduce.call(
+//     elements,
+//     reducerFunction,
+//     reducerInitialValue
+//   );
+//
+//   // The result is then returned for use elsewhere.
+//   return formData;
+// };
 
 /**
  * Retrieves input data from a form and returns it as a JSON object.

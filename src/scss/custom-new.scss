@@ -1,5 +1,8 @@
-$debug: true;
-//$debug: false;
+//$debug: true;
+$debug: false;
+
+$a-color: #8B4513;
+$a-hover-color: #8b6349;
 
 $menu-bg: #889883;
 $menu-dropdown-bg: $menu-bg;
@@ -34,6 +37,10 @@ $header-container-height: 162px;
 
 .red {
   color: #7b140c;
+}
+
+.hidden {
+  display: none;
 }
 
 
@@ -183,3 +190,47 @@ $header-container-height: 162px;
   }
 
 }
+
+
+
+// ---------- KARTA CHOVNEHO PSA A FENY ----------
+.dogCard {
+  padding: 30px;
+  margin-bottom: 25px;
+  border: 1px solid #000000;
+}
+
+$male-border-color: darkblue;
+$female-border-color: deeppink;
+
+.dogCard.male {
+  border: 2px solid $male-border-color;
+  // background-color: lighten( $maleColor, 20% );
+}
+
+.dogCard.female {
+  border: 2px solid $female-border-color;
+  // background-color: lighten( $femaleColor, 20% );
+}
+
+.dogCardDetailClick {
+  cursor: pointer;
+  color: $a-color;
+}
+
+.dogCardStamp {
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+.dogCardAddressItem {
+  border-bottom: 1px solid #000000;
+}
+
+.dogCardMobile {
+  padding-bottom: 50px;
+  //border-bottom: 1px solid #c1c1c1;
+}
+
+
+
