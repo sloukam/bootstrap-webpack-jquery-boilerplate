@@ -2,7 +2,8 @@ $debug: true;
 //$debug: false;
 
 $menu-bg: #889883;
-$menu-dropdown-bg: #c4e5c4;
+$menu-dropdown-bg: $menu-bg;
+$menu-dropdown-hover-bg: #a6bfa6;
 
 $footer-container-height: 45px;
 $header-container-height: 162px;
@@ -105,7 +106,7 @@ $header-container-height: 162px;
 
 // ---------- MENU ----------
 .main-menu, .navbar-collapse {
-  background-color: #889883;
+  background-color: $menu-bg;
   z-index: 100;
 }
 
