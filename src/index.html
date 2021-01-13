@@ -19,6 +19,9 @@
     <div class="row">
       <div class="col-md order-md-1">
         <h2 class="red">{{title}}</h2>
+        {{#dateOfPublish}}
+        <div class="date-of-publish">{{dateOfPublish}}</div>
+        {{/dateOfPublish}}
         <div class="message">
           {{#images.0}}
           <div class="float-right news-image">
@@ -31,7 +34,7 @@
           </div>
           {{/images.0}}
           {{#paragraphs}}
-          <p>{{.}}</p>
+          <p>{{{.}}}</p>
           {{/paragraphs}}
 
           <!--          {{#images}}-->

@@ -1,7 +1,51 @@
 {
   "articles": [
     {
+      "articleId": 9999999999999,
+      "dateOfPublish": "13. 12. 2020",
+      "title": "Ročenka",
+      "paragraphs": [
+        "Vážení členové,",
+        "zahájili jsme práce na ročence za rok 2020. Pokud máte zájem přispět k obsahu ročenky svým článkem, učiňte tak do 15.1.2021. Svůj příspěvek zašlete na emailovou adresu <b><a href=\"mailto:rocenka@mskao.cz?subject=Materialy%20do%20rocenky%202020\">rocenka@mskao.cz</a></b>.",
+        "Děkujeme"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "22.12.2020",
+      "title": "PF 2021",
+      "paragraphs": [
+      ],
+      "images": [
+        "./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "13. 12. 2020",
+      "title": "Inzerce v ročence MSKAO",
+      "paragraphs": [
+        "Upozorňujeme na možnost uveřejnění inzerce v připravované Ročence MSKAO 2019. Inzeráty prosím posílejte ve formátu tiskového PDF na adresu <a href=\"mailto:rocenka@mskao.cz?subject=Inzerce%20v%20rocence%202020\">rocenka@mskao.cz</a> do 15.1.2020.",
+        "Podmínky jsou následující: <ul> <li>celá strana A4 (chovatelský inzerát člen MSKAO 800 Kč/nečlen 1.600 Kč/komerční inzerát 4.000 Kč) </li> <li>½ strany A4 (člen MSKAO 500 Kč/nečlen 1.000 Kč/komerční inzerát 2.000 Kč)</li> <li>¼ strany A4 (člen MSKAO 300 Kč/nečlen 600 Kč/komerční inzerát 1.000 Kč)</li> </ul>",
+        "<b><big>Číslo bankovního účtu: 2600505087 / 2010 (FIO banka)</big></b>"
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
       "articleId": 1,
+      "dateOfPublish": "1.1.2021",
       "title": "tohle je nadpis oprava",
       "paragraphs": [
         "He went such <a href='index.html' target='_blank'>test odkazu</a> dare good mr fact. The small own seven saved man age ﻿no offer. Suspicion did mrs nor furniture smallness. Scale whole downs often leave not eat. An expression reasonably cultivated indulgence mr he surrounded instrument. Gentleman eat and consisted are pronounce distrusts.",
