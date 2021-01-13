@@ -41,6 +41,7 @@ $(document).ready(function() {
     getDogs(breed, sex);
   }
   getNews();
+  getArticles();
 
   // $('#summernote').summernote();
   $('#summernote').summernote({
@@ -175,6 +176,17 @@ function getDogs(breed, sex) {
   });
 
   // $.getJSON('../public/data/' + breed + '_breeding_dog.json', function(data) {});
+}
+
+function getArticles() {
+  $.getJSON('../public/data/articles.json', function(data) {
+    var template = $('#articleTemplate').html();
+    // var html = 'from js';
+    if (template !== undefined) {
+      var html = Mustache.to_html(template, data);
+      $('#articleContainer').html(html);
+    }
+  });
 }
 
 function getNews() {
