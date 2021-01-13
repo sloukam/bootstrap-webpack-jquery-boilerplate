@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "articleId": 9999999999999,
+      "title": "TITULEK",
+      "paragraphs": [
+        "ODSTAVEC_1",
+        "ODSTAVEC_2"
+      ],
+      "images": [
+        "IMAGE_PATH_1",
+        "IMAGE_PATH_2"
+      ]
+    }
+  ]
+}
