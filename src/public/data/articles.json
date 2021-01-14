@@ -15,6 +15,7 @@
       "dateOfPublish": "22.12.2020",
       "title": "PF 2021",
       "paragraphs": [
+        "<a href=\"./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg\" target=\"_blank\"><img src=\"./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg\" height=\"280\" width=\"370\"></a>"
       ],
       "images": [
         "./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg"
@@ -86,6 +87,16 @@
       ],
       "images": [
         "./public/pdf/2020/200927-names_na_hane/01.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "23. 9. 2020",
+      "title": "Aktuality ke klubovvé výstavě v Naměšti na Hané",
+      "paragraphs": [
+        "INFO pro ty z vás, kteří se chystají na klubovku do Náměště !!!!!!",
+        "Přikládáme citaci z emailu, který klub obdržel od ředitele výstavy.",
+        "<blockquote cite=\"\" style=\"border: 1px solid black; padding: 20px\"><p>Vážené dámy a pánové,</p><p>v souvislosti s Mimořádnými opatřeními vydanými dne 23.9.2020 Ministerstvem zdravotnictví ČR Vám oznamujeme, že se <b>Náměšťská výstava dne 27.9.2020  USKUTEČNÍ  !!</b></p><p>Na akce typu výstav, trhů a veletrhů se vztahuje výjimka a mohou se ve venkovních prostorech konat za účasti 1000 osob ve stejný čas v jednom sektoru. Náš areál je rozdělen na 2 sektory (zámek a louka).</p><p>V celém areálu v průběhu výstavy doporučujeme:</p><ul><li>dodržovat základní hygienická pravidla</li><li>používat rozmístěnou či vlastní desinfekci</li><li>dodržovat rozestupy 2 m</li><li>nosit roušku</li></ul><p>Těším se na viděnou, s pozdravem,</p><p>Jirka Zbořil<br>- ředitel výstavy</p></blockquote>"
       ]
     }
   ]
