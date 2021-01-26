@@ -37,7 +37,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "DELLIOR TAPIO DAVARONI",
       "championships": "CH ČR",
@@ -74,7 +74,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "JUSTIN Z MEŠINSKÉ HÁJOVNY",
       "championships": "",

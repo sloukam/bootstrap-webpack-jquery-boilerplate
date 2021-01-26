@@ -63,7 +63,7 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ALOTRIA NEVERENDING GRACE",
       "date_of_birth": "2013-01-01",
       "clp": "6447",
@@ -463,8 +463,8 @@
         "ED": "0/0",
         "rcd4": "clear"
       },
-      "shows": "velmi dobrá",
-      "exams": "ZV I.c CACT, 2x PZ I.c CACT, LZ I.c",
+      "shows": "VN1, BIS štěně, VD",
+      "exams": "KZV MSKAO I.cena CACT, KPZ KBO I.cena CACT, KPZ MSKAO I.cena CACT, LZ I.cena, Šampion práce ČR",
       "owner": {
         "first_name": "Olga",
         "last_name": "Vránová",
@@ -506,6 +506,37 @@
         }
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "DOUBLE DREAM LOVESET TOLLERS COSA NOSTRA",
+      "date_of_birth": "2018-04-20",
+      "clp": "6909",
+      "father": "Carnoustie Hercules",
+      "mother": "Double Dream Loveset Stylish Cindy",
+      "body": {
+        "height": "60",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "shows": "CAJC, BOJ, Vítěz třídy",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Olga",
+        "last_name": "Vránová",
+        "address": {
+          "street": "Nížkovice",
+          "number": "261",
+          "city": "Nížkovice",
+          "post_code": "68401"
+        },
+        "email": "firochara@seznam.cz",
+        "web": "http://www.fiorchara.cz"
+      }
     },
     {
       "breed": "GS",

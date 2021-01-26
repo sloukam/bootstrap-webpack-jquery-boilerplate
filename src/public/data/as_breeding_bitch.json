@@ -252,6 +252,40 @@
       "img_ext": "jpg"
     },
     {
+      "breed": "AS",
+      "sex": "female",
+      "visible": true,
+      "name": "BRIGITTE BARDOT LYMARKOS",
+      "date_of_birth": "2015-02-24",
+      "clp": "6151",
+      "father": "Fanchon Paints It Black Jack",
+      "mother": "Latin Lover Snow On the Sahara",
+      "body": {
+        "height": "62",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true
+      },
+      "championships": "CH AT",
+      "shows": "V, CAC, CACIB, BOS",
+      "exams": "-",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Kostelník",
+        "address": {
+          "street": "Sadová ",
+          "number": "351",
+          "city": "Mnichovice",
+          "post_code": "25164"
+        },
+        "phone": "602 212 634",
+        "email": "martinnip@me.com"
+      },
+      "other": "uchovněna na výjimku bez zkoušek"
+    },
+    {
       "visible": true,
       "breed": "AS",
       "name": "ESCA BRILLARE DAVARONI",
@@ -282,7 +316,38 @@
       "img_ext": "jpg"
     },
     {
+      "breed": "AS",
+      "sex": "female",
       "visible": true,
+      "name": "AURELIA THE WARRIOR ROYAL SETTER",
+      "date_of_birth": "2016-01-19",
+      "clp": "6242",
+      "father": "Artush Mandygold",
+      "mother": "Latin Lover Madeleine",
+      "body": {
+        "height": "63",
+        "color": "blue belton",
+        "HD": "A"
+      },
+      "championships": "CH CZ, SK, JCH CZ",
+      "shows": "BOS, CACIB, CAC, CAJC",
+      "exams": "ZV I.cena, PZ I. cena",
+      "owner": {
+        "first_name": "Adéla ",
+        "last_name": "Silber",
+        "address": {
+          "street": "Mlýnská",
+          "number": "22/4B",
+          "city": "Praha 6",
+          "post_code": "16000"
+        },
+        "phone": "725 499 098,",
+        "email": "adela.silber87@gmail.com",
+        "web": "http://www.royal-setter.cz"
+      }
+    },
+    {
+      "visible": false,
       "breed": "AS",
       "name": "CECILIA MISS OF SETTERCITY",
       "date_of_birth": "2017-02-07",

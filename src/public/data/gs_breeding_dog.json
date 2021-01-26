@@ -87,7 +87,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "ZIR Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2011-01-14",
@@ -364,7 +364,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "GORDON ROBIN HOOD ÁRES ŠAMARKAN",
       "date_of_birth": "2015-12-31",
@@ -475,9 +475,10 @@
         "first_name": "Klára",
         "last_name": "Radič",
         "address": {
-          "street": "Přemyslovice",
-          "number": "480",
-          "post_code": "79851"
+          "street": "Kaplna",
+          "number": "127",
+          "city": "Okr. Báhoň, SK",
+          "post_code": "90084"
         },
         "phone": "733620797",
         "email": "k.dadakova@email.cz"

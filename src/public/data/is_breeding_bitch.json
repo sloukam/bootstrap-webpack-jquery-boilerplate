@@ -2,7 +2,7 @@
   "dogs": [
     {
       "breed": "IS",
-      "visible": true,
+      "visible": false,
       "name": "HERA ČERVENÝ VÍTR",
       "date_of_birth": "2012-04-25",
       "clp": "15723",
@@ -29,7 +29,7 @@
     },
     {
       "breed": "IS",
-      "visible": true,
+      "visible": false,
       "name": "EMOTIONAL EUPHORIA EVERDENE",
       "date_of_birth": "2013-01-02",
       "clp": "15812",
