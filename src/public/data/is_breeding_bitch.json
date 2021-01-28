@@ -166,7 +166,7 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ARINA OD NÁPLAVKY",
       "date_of_birth": "2014-03-08",
       "clp": "16009",
@@ -214,7 +214,8 @@
         },
         "email": "mareckova.lucie@gmail.com",
         "web": "http://www.irsky-setr.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -269,7 +270,8 @@
           "post_code": "67911"
         },
         "phone": "731 185 906"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -698,7 +700,8 @@
         },
         "phone": "739 406 622",
         "email": "nemcova_m@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -754,7 +757,8 @@
         },
         "phone": "608 010 512",
         "email": "e.michalov@gmail.com"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -785,7 +789,8 @@
         },
         "phone": "739406622",
         "email": "nemcova_m@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     }
   ]
 }

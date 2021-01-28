@@ -587,7 +587,8 @@
         },
         "phone": "777 697 135",
         "email": "marketa.medricka@landmark.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -729,7 +730,8 @@
         },
         "phone": "721 637 209",
         "email": "vranova.zuzka@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -840,6 +842,7 @@
         },
         "phone": "724 344 162"
       },
+      "img_ext": "jpg",
       "other": "import Švédsko"
     },
     {
@@ -871,7 +874,8 @@
         },
         "phone": "777697135",
         "email": "marketa.medricka@landmark.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -903,7 +907,8 @@
         },
         "phone": "603 410 711",
         "email": "romana@daneswucetnictvi.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
