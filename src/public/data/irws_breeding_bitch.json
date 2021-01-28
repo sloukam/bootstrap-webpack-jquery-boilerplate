@@ -56,7 +56,8 @@
         },
         "phone": "737815574",
         "email": "sedlakova.jani@tiscali.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IRWS",
@@ -83,7 +84,8 @@
           "city": "Svitavy",
           "post_code": "56802"
         }
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IRWS",
@@ -173,7 +175,8 @@
         },
         "phone": "737815574",
         "email": "sedlakova.jani@tiscali.cz"
-      }
+      },
+      "img_ext": "jpg"
     }
   ]
 }
