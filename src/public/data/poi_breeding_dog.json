@@ -118,7 +118,8 @@
         "phone": "608 533 303",
         "email": "zvinnychtrati@seznam.cz",
         "web": "http://www.zvinnychtrati.estranky.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -147,7 +148,8 @@
         },
         "phone": "728 942 000",
         "email": "lennka77@centrum.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -175,7 +177,8 @@
         },
         "phone": "737 157 348",
         "email": "slavotinek.pv@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
