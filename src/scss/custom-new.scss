@@ -101,13 +101,13 @@ $header-container-height: 162px;
 }
 
 .main {
-  @include media-breakpoint-down(sm) {
-    // background-color: red;
-  }
-  @include media-breakpoint-up(lg) {
+  //@include media-breakpoint-down(sm) {
+  //   //background-color: red;
+  //}
+  //@include media-breakpoint-up(lg) {
     background-image: url('../public/images/green_bg.jpg');
     background-attachment: fixed;
-  }
+  //}
 }
 
 
