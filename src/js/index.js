@@ -1,5 +1,5 @@
 import 'bootstrap';
-import Mustache from 'mustache';
+import Handlebars from 'handlebars';
 import 'summernote';
 import 'trumbowyg';
 import 'lodash';
@@ -156,8 +156,8 @@ function getDogs(breed, sex) {
       let template = $('#dogDetailDesktop').html();
       if (template !== undefined) {
         console.log('template is specified...');
-        var html = Mustache.to_html(template, data);
-        $('#dogList').html(html);
+        var compiledTemplate = Handlebars.compile(template);
+        $('#dogList').html(compiledTemplate(data));
       } else {
         console.log('there is something totally wrong 1');
       }
@@ -181,10 +181,9 @@ function getDogs(breed, sex) {
 function getArticles() {
   $.getJSON('../public/data/articles.json', function(data) {
     var template = $('#articleTemplate').html();
-    // var html = 'from js';
     if (template !== undefined) {
-      var html = Mustache.to_html(template, data);
-      $('#articleContainer').html(html);
+      var compiledTemplate = Handlebars.compile(template);
+      $('#articleContainer').html(compiledTemplate(data));
     }
   });
 }
@@ -194,8 +193,8 @@ function getNews() {
     var template = $('#newsListTemplate').html();
     // var html = 'from js';
     if (template !== undefined) {
-      var html = Mustache.to_html(template, data);
-      $('#newsList').html(html);
+      var compiledTemplate = Handlebars.compile(template);
+      $('#newsList').html(compiledTemplate(data));
     }
   });
 }
@@ -214,17 +213,6 @@ $('.more').on('click', function() {
 });
 
 $('#as-about-container').carousel();
-// $('#as-standard-container').load('html_parts.html #as-standard-content');
-
-// $('#btn2').on('click', function() {
-//   alert('btn click...');
-// var data = {name: 'Jonathan'};
-// var template = 'Hello {{ name }}';
-
-// var text = Mustache.render(template, data);
-
-// $('#mypanel').html(text);
-// });
 
 function scrollToClass(clazz) {
   // alert(clazz);
@@ -245,9 +233,8 @@ $('#btnAAA').on('click', function() {
   var data = { name: 'Jonathan (data 2)' };
   var template = 'Hello {{ name }}';
 
-  var text = Mustache.render(template, data);
-
-  $('#mypanel').html(text);
+  var compiledTemplate = Handlebars.compile(template);
+  $('#mypanel').html(compiledTemplate(data));
 });
 
 /**
@@ -424,32 +411,6 @@ const article_form = document.getElementsByClassName('add-article-form')[0];
 if (article_form !== undefined) {
   article_form.addEventListener('submit', handleArticleFormSubmit);
 }
-
-//
-// $.fn.serializeObject = function() {
-//   var o = {};
-//   var a = this.serializeArray();
-//   $.each(a, function() {
-//     if (o[this.name] !== undefined) {
-//       if (!o[this.name].push) {
-//         o[this.name] = [o[this.name]];
-//       }
-//       o[this.name].push(this.value || '');
-//     } else {
-//       o[this.name] = this.value || '';
-//     }
-//   });
-//   return o;
-// };
-//
-// const form2 = document.getElementsByClassName('add-breeding-dog-form')[0];
-// // const form = document.getElementsByClassName('contact-form')[0];
-// form2.addEventListener('submit', (function(e) {
-//   e.preventDefault();
-//   $('.results2').text(JSON.stringify($('.add-breeding-dog-form').serializeObject()));
-//   return false;
-// }));
-//
 
 function copyToClipboard(elementId) {
   /* Get the text field */

@@ -10,16 +10,16 @@
 
   <script id="newsListTemplate" type="text/template">
     <h1>Novinky</h1>
-    {{#news}}
-    {{#visible}}
+    {{#each news}}
+      {{#if visible}}
     <div class="newsContainer">
       <h2>{{title}}</h2>
-      {{#paragraphs}}
+      {{#each paragraphs}}
       <p class='{{css_class}}'>{{{text}}}</p>
-      {{/paragraphs}}
+      {{/each}}
     </div>
-    {{/visible}}
-    {{/news}}
+      {{/if}}
+    {{/each}}
   </script>
 </head>
 
