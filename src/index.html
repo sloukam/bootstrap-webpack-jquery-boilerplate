@@ -20,7 +20,7 @@
       <div class="col-md order-md-1">
         <h2 class="red">{{title}}</h2>
         {{#if dateOfPublish}}
-        <div class="date-of-publish">{{dateOfPublish}}</div>
+        <div class="date-of-publish">{{dateFormat dateOfPublish}}</div>
         {{/if}}
         <div class="message">
           {{#if images.[0]}}

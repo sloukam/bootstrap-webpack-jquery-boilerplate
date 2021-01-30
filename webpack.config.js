@@ -13,7 +13,11 @@ const IS_DEV = process.env.NODE_ENV === 'dev';
 const config = {
   mode: IS_DEV ? 'development' : 'production',
   devtool: IS_DEV ? 'eval' : 'source-map',
-  entry: ['./src/js/index.js', './src/js/form.js'],
+  entry: [
+    './src/js/index.js',
+    './src/js/form.js',
+    './src/js/handlebars_utils.js',
+  ],
   output: {
     filename: 'js/[name].[hash].js',
     path: path.resolve(__dirname, 'dist'),
