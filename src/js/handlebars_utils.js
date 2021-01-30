@@ -7,3 +7,7 @@ Handlebars.registerHelper('dateFormat', function(date, options) {
     'D.M.YYYY';
   return moment(date).format(formatToUse);
 });
+
+Handlebars.registerHelper('isDefined', function(value) {
+  return value !== undefined;
+});

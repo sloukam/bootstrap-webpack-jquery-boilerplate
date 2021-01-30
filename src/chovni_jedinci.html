@@ -93,10 +93,16 @@
                   <div class="col">{{ED}}</div>
                 </div>
                 {{/if}}
-                {{#if BAER}}
+                {{#if (isDefined BAER)}}
                 <div class="row">
                   <div class="col-4 item-label">BAER:</div>
-                  <div class="col">{{BAER}}</div>
+                  <div class="col">
+                    {{#if BAER}}
+                    normal
+                    {{else}}
+                    abnormal
+                    {{/if}}
+                  </div>
                 </div>
                 {{/if}}
                 {{#if rcd4}}
