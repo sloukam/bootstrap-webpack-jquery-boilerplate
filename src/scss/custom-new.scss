@@ -8,10 +8,16 @@ $menu-bg: #889883;
 $menu-dropdown-bg: $menu-bg;
 $menu-dropdown-hover-bg: #a6bfa6;
 
+$header-container-height: 155px;
 $footer-container-height: 45px;
-$header-container-height: 162px;
 
 //$main-container-height: calc(100vh - 45px - 162px);
+
+//.test {
+//  background-image: url('../public/images/green_bg.jpg');
+//  background-attachment: fixed;
+//  background-size: cover;
+//}
 
 
 .container-general {
@@ -27,8 +33,12 @@ $header-container-height: 162px;
 
 .main-container {
   @extend .container;
-
-  //height: $main-container-height;
+  position: absolute;
+  top: $header-container-height;
+  bottom: $footer-container-height;
+  left: 0px;
+  right: 0px;
+  overflow: auto;
 
   @if $debug {
     border: 3px solid white;
@@ -49,9 +59,13 @@ $header-container-height: 162px;
 .header-container {
   @extend .container-general;
   padding: 0 !important; // zahodit padding
-
-
+  position: absolute;
+  top: 0px;
+  left: 0px;
   height: $header-container-height;
+  right: 0px;
+  overflow: hidden;
+
   @include media-breakpoint-down(md) {
     $header-container-height: 62px;
     height: $header-container-height;
@@ -105,11 +119,11 @@ $header-container-height: 162px;
   //   //background-color: red;
   //}
   //@include media-breakpoint-up(lg) {
-    background-image: url('../public/images/green_bg.jpg');
-    background-attachment: fixed;
+  background-image: url('../public/images/green_bg.jpg');
+  //background-attachment: fixed;
+  //background-size: cover;
   //}
 }
-
 
 // ---------- MENU ----------
 .main-menu, .navbar-collapse {
@@ -149,8 +163,14 @@ $header-container-height: 162px;
 // ---------- FOOTER ----------
 .footer-container {
   @extend .container-general;
-  padding: 0 !important; // zahodit padding
+  position: absolute;
+  bottom: 0px;
   height: $footer-container-height;
+  left: 0px;
+  right: 0px;
+  overflow: hidden;
+  padding: 0 !important; // zahodit padding
+  background-color: $body-bg;
 
   @if $debug {
     border: 2px solid #fbe45c !important;
@@ -160,6 +180,7 @@ $header-container-height: 162px;
 .footer-container-content {
   @extend .container-general;
   padding: 0 !important; // zahodit padding
+  border: 2px solid black !important;
 
   @if $debug {
     border: 2px solid #ff0026 !important;
@@ -168,11 +189,9 @@ $header-container-height: 162px;
 
 .footer-container p {
   @extend .container-general;
-  position: fixed;
+  //position: fixed;
+  top: 0px;
   bottom: 0px;
-
-  background-color: $body-bg;
-  border: 1px solid black;
 
   color: #4f4f4f;
   font-size: $font-size-base * 1.3;
