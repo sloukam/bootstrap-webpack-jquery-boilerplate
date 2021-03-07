@@ -33,7 +33,6 @@ a:hover {
 
 .container-general {
   @extend .container;
-
   position: relative;
   z-index: 2;
 
@@ -53,6 +52,8 @@ a:hover {
   left: 0px;
   right: 0px;
   overflow: auto;
+
+  padding-bottom: 30px;
 
   @if $debug {
     border: 3px solid white;
@@ -303,6 +304,48 @@ $img-thumbnail-max-height-value: 200px;
 
 .date-of-publish {
   font-size: 75%;
+}
+
+
+// -----------------------------------------------
+// ---------- TABULKY, RADKY, BARVY, HOVER  ------
+// -----------------------------------------------
+
+// use next css style just for small devices
+@include media-breakpoint-down(sm) {
+  .row:not(.row-no-bottom-border){
+    border-bottom: 1px solid darkgreen;
+  }
+}
+
+.main-container .row {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(even) {
+  background: #B4C5B4;
+  //background: #d6d6d6;
+}
+
+.rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(odd) {
+  background: #a4c2a4;
+}
+
+.rows-hover .row:not(.rowHeader):not(.noStrip):hover {
+  background: rgb(167, 232, 162);
+  //background: #a1d9ae;
+}
+
+.rowHeader {
+  background: #474747;
+  color: #e0e0e0;
+}
+
+.shorten-col {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 
