@@ -389,6 +389,38 @@
       "breed": "GS",
       "sex": "female",
       "visible": true,
+      "name": "DE LA CHAPELLE MANON LESCAUT",
+      "date_of_birth": "2016-01-05",
+      "clp": "6633",
+      "father": "Flynnrock's I'm Zac",
+      "mother": "Xsara z Holubické stráně",
+      "body": {
+        "height": "64",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "CH CZ",
+      "shows": "CAC, r.CACIB, BOB, BIS, KV ČPSK",
+      "exams": "ZV - I.c.",
+      "owner": {
+        "first_name": "Iva",
+        "last_name": "Mlejová",
+        "address": {
+          "street": "Zaječí",
+          "number": "5",
+          "city": "Maršovice",
+          "post_code": "25756"
+        },
+        "email": "ivka.mlejova@gmail.com"
+      },
+      "other": "uchovněna na vyjímku – chybí 1xP3",
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
       "name": "BEITRIS PEARL MORAVIA",
       "date_of_birth": "2016-02-09",
       "clp": "6648",
@@ -536,6 +568,36 @@
         },
         "email": "firochara@seznam.cz",
         "web": "http://www.fiorchara.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "ENJOY VICTORY Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2018-05-25",
+      "clp": "6820",
+      "father": "Dream Believer Kochanej Emilki",
+      "mother": "Beretta z Holubické stráně",
+      "body": {
+        "height": "63",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "shows": "výborná, CAC",
+      "exams": "ZV - I.c.",
+      "owner": {
+        "first_name": "Adéla",
+        "last_name": "Mendroková",
+        "address": {
+          "street": "Hvozd",
+          "number": "154",
+          "city": "Hvozd",
+          "post_code": "79855"
+        },
+        "email": "AduskaM@seznam.cz"
       },
       "img_ext": "jpg"
     },

@@ -111,12 +111,6 @@
                   <div class="col">{{rcd4}}</div>
                 </div>
                 {{/if}}
-                {{#if championships}}
-                <div class="row">
-                  <div class="col-4 item-label">šampionáty</div>
-                  <div class="col">{{championships}}</div>
-                </div>
-                {{/if}}
                 {{#if other}}
                 <div class="row">
                   <div class="col-4 item-label">ostatní:</div>
@@ -124,6 +118,12 @@
                 </div>
                 {{/if}}
               {{/with}}
+              {{#if championships}}
+              <div class="row">
+                <div class="col-4 item-label">šampionáty</div>
+                <div class="col">{{championships}}</div>
+              </div>
+              {{/if}}
               <div class="row">
                 <div class="col-4 item-label">výstavy:</div>
                 <div class="col">{{shows}}</div>
