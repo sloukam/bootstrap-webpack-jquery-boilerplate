@@ -2,6 +2,76 @@
   "articles": [
     {
       "articleId": 9999999999999,
+      "dateOfPublish": "3/16/2020",
+      "title": "WDS BRNO",
+      "paragraphs": [
+        "Vážení vystavovatelé,",
+        "s ohledem na momentální situaci a na základě jednání, která probíhají s vedením BVV, jsme nuceni dočasně pozastavit přihlašování na Světovou Výstavu Psů v Brně. Přihlašování bude znovu otevřeno po vyjasnění všech podmínek konání výstavy. Je nám to velice líto, ale bohužel je toto opatření nezbytné. Počet psů, kteří se budou moci výstavy zúčastnit, bude limitován. Limitní počet psů ale bohužel zatím neznáme.",
+        "V souvislosti s omezením počtu psů bude pravděpodobně docházet i k dalším změnám (změna rozhodčích, úprava poplatků).",
+        "Za komplikace se omlouváme; o nových skutečnostech Vás budeme průběžně informovat.",
+        "Lubomír Široký",
+        "Předseda ČMKU"
+      ],
+      "images": [
+        "./public/images/2021/2021-wds_logo.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "3/16/2020",
+      "title": "MVP PRAHA",
+      "paragraphs": [
+        "Vážení vystavovatelé,",
+        "z důvodu přetrvávající nepříznivé pandemické situace a vládních opatření jsme byli nuceni zrušit plánovanou třídenní výstavu Prague Expo Dog 30.7. - 1.8. 2021, a to bez náhradního termínu.,",
+        "Pevně doufáme, že se s Vámi a Vašimi čtyřnohými přáteli uvidíme v roce 2022.,",
+        "Tým Prague Expo Dog"
+      ],
+      "images": [
+        "./public/images/2021/2021-dog_prague_expo_logo.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "3/16/2020",
+      "title": "NVP OSTRAVA",
+      "paragraphs": [
+        "Vážení vystavovatelé,",
+        "Přestože jsme udělali maximum pro pořádání výstavy v Ostravě, nastala situace, že v prostorách areálu Výstaviště Černá louka v Ostravě je zřízeno očkovací centrum a nelze zde v plánovaném dubnovém termínu uspořádat Národní výstavu psů.",
+        "Bohužel se nám nepodařilo najít pro tuto výstavu vhodný náhradní termín a jsme tudíž nucení pro rok 2021 Národní výstavu psů v Ostravě zrušit.",
+        "Lubomír Široký",
+        "Předseda ČMKU"
+      ],
+      "images": [
+        "./public/images/2021/2021-cmku_logo.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "3/16/2020",
+      "title": "NVP BRNO + MVP ŠPILBERKA + MVP DUOCACIB",
+      "paragraphs": [
+        "Vážení vystavovatelé,",
+        "po usilovném jednání o novém termínu Brněnské národní výstavy a mezinárodní výstavy Špilberka máme snad poslední termín.",
+        "Nový termín výše uvedených výstav byl stanoven na 14. – 16.5.2021.",
+        "14.5.2021 – Brněnská národní výstava psů",
+        "15. – 16.5.2021 mezinárodní výstava psů Špilberka",
+        "Doufáme, že tento termín už bude termínem definitivním.",
+        "Zrušení přihlášek na výše uvedených výstav přijímáme do 31.3.2021.",
+        "Kontakt: NVP Brněnská <a href=\"mailto:vystava@vystavabrno.info\">vystava@vystavabrno.info</a>",
+        "MVP Špilberka <a href=\"mailto:vystava@cmku.cz\">vystava@cmku.cz</a>",
+        "Přeřazení ve třídách, podle věku přihlášených psů, bude provedeno automaticky bez požadavku na doplatek výstavního poplatku.",
+        "Uspořádání těchto výstav bude vyžadovat určitá omezení. Omezen bude i počet psů, kteří se budou moci výstav zúčastnit. S ohledem na možnost rušení přihlášek, vyhodnotíme po 31.3.2021 počet registrovaných psů a, pokud to situace dovolí, bude dohlašování psů na tyto výstavy znovu otevřeno. Eventuální znovuotevření přihlašování bude krátkodobé a budeme vás o něm informovat. Sledujte, prosím FB profil a webové stránky výstav.",
+        "Zároveň bychom vás chtěli informovat, že i nadále hledáme vhodný náhradní termín pro výstavu DuoCACIB Brno.",
+        "Doufáme, že přicházející jaro přinese i pozitivní vývoj situace a umožní nám setkat se co nejdříve v přátelské atmosféře na našich výstavách.",
+        "Lubomír Široký",
+        "Předseda ČMKU"
+      ],
+      "images": [
+        "./public/images/2021/2021-cmku_logo.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
       "dateOfPublish": "12/13/2020",
       "title": "Ročenka",
       "paragraphs": [
