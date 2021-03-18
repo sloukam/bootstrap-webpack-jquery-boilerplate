@@ -1,0 +1,50 @@
+{
+  "years": [
+    {
+      "year": "2021",
+      "items": [
+        {
+          "id": "I/21",
+          "publicationDate": "2021-02-02",
+          "breeder": "Love My Chocolate Soul",
+          "bitch": "Enjoy Victory z Holubické stráně",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "II/21",
+          "publicationDate": "2021-02-10",
+          "breeder": "Red Fern Hunters",
+          "bitch": "De La Chapelle Manon Lescaut",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "items": [
+        {
+          "id": "I/20",
+          "publicationDate": "2020-01-13",
+          "breeder": "Scotch do pole",
+          "bitch": "Abigail Scotch do pole",
+          "dog": "Fieldtalk's Juri's Joker",
+          "releaseDate": "2020-03-30",
+          "puppies": "5/3"
+        },
+        {
+          "id": "II/20",
+          "publicationDate": "2020-04-06",
+          "breeder": "z Liškova gruntu",
+          "bitch": "Ari Kralupská zahrádka",
+          "dog": "Fram z Wenytry",
+          "releaseDate": "2020-08-01",
+          "puppies": "2/7"
+        }
+      ]
+    }
+  ]
+}

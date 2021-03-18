@@ -1,0 +1,36 @@
+{
+  "years": [
+    {
+      "year": "2020",
+      "items": [
+        {
+          "id": "I/20",
+          "publicationDate": "2020-03-01",
+          "breeder": "Marilo Chestnut",
+          "bitch": "Ellen Valiant Hunter",
+          "dog": "Aron z Drválovského revíru",
+          "releaseDate": "2020-05-01",
+          "puppies": "4/3"
+        },
+        {
+          "id": "II/20",
+          "publicationDate": "2020-04-15",
+          "breeder": "Z Lukovských Lánů",
+          "bitch": "Tera z Lukovských Lánů",
+          "dog": "xxxxxxx",
+          "releaseDate": "nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "III/20",
+          "publicationDate": "2020-05-20",
+          "breeder": "Lovely Borony",
+          "bitch": "Jura Brutar",
+          "dog": "Rony z Lukovských Lánů",
+          "releaseDate": "2020-07-27",
+          "puppies": "3/2"
+        }
+      ]
+    }
+  ]
+}

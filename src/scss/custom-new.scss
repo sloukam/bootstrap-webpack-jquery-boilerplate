@@ -120,7 +120,6 @@ a:hover {
 @include media-breakpoint-down(md) {
   .full-menu {
     display: none;
-    //border: 3px solid green;
   }
   .header-container-content {
     height: 60px;

@@ -11,6 +11,7 @@
       "mother": "Sundownerś Cuba-Libre",
       "body": {
         "height": "58",
+        "color": "černá s pálením",
         "HD": "C",
         "rcd4": "clear"
       },
@@ -43,6 +44,7 @@
       "mother": "Dyksi z Krátošických strání",
       "body": {
         "height": "65",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "VD",
@@ -71,6 +73,7 @@
       "mother": "Arry z Dvorku Čamourku",
       "body": {
         "height": "65",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -105,6 +108,7 @@
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0"
       },
@@ -134,6 +138,7 @@
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0"
       },
@@ -163,6 +168,7 @@
       "mother": "Quina z Holubické stráně",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -192,6 +198,7 @@
       "mother": "Zira z Holubické stráně",
       "body": {
         "height": "65",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -250,6 +257,7 @@
       "mother": "Bora z Dvorku Čamourku",
       "body": {
         "height": "62",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "res.CAC, CAJC",
@@ -277,6 +285,7 @@
       "mother": "Xsara z Holubické stráně",
       "body": {
         "height": "60",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -310,6 +319,7 @@
       "mother": "Bora z Dvorku Čamourku",
       "body": {
         "height": "60",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "championships": "JCH ČR, CH ČR",
@@ -338,6 +348,7 @@
       "mother": "Zira z Holubické stráně",
       "body": {
         "height": "64",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -370,6 +381,7 @@
       "mother": "Kaira z Želečky",
       "body": {
         "height": "61",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "výborná, VT, Kr.V",
@@ -429,6 +441,7 @@
       "mother": "Ashley Princes Pearl Moravia",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -461,6 +474,7 @@
       "mother": "Ashley Princes Pearl Moravia",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -492,6 +506,7 @@
       "mother": "Triseter Celtic Swansy",
       "body": {
         "height": "61",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -524,6 +539,7 @@
       "mother": "Helena from Gordon ́s Castle Tesab-Aksed",
       "body": {
         "height": "58",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "výborná",
@@ -613,6 +629,7 @@
       "mother": "Alotria Neverending Grace",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear",
         "other": "RAB 24 zdravý homozygot"

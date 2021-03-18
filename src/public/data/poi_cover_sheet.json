@@ -1,0 +1,86 @@
+{
+  "years": [
+    {
+      "year": "2021",
+      "items": [
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "items": [
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        },
+        {
+          "id": "xxxxxxx",
+          "publicationDate": "XXXXX",
+          "breeder": "XXXXXXX",
+          "bitch": "XXXXXX",
+          "dog": "xxxxxxx",
+          "releaseDate": "XXXXX",
+          "puppies": "xxxxxxx"
+        }
+      ]
+    }
+  ]
+}

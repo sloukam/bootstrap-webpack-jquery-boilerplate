@@ -1,0 +1,68 @@
+{
+  "years": [
+    {
+      "year": "2021",
+      "items": [
+        {
+          "id": "I/21",
+          "publicationDate": "2021-01-18",
+          "breeder": "z Krásné doliny",
+          "bitch": "Riky z Krzáku",
+          "dog": "",
+          "releaseDate": "nakryto",
+          "puppies": ""
+        },
+        {
+          "id": "II/21",
+          "publicationDate": "2021-01-18",
+          "breeder": "Lymarkos",
+          "bitch": "Latin Lover Vertigo",
+          "dog": "",
+          "releaseDate": "prozatím nevyužito",
+          "puppies": ""
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "items": [
+        {
+          "id": "I/20",
+          "publicationDate": "2020-04-17",
+          "breeder": "Davaroni",
+          "bitch": "Esca Brillare Davaroni",
+          "dog": "Merlin od Alpské protěže",
+          "releaseDate": "2020-07-17",
+          "puppies": "5/2"
+        },
+        {
+          "id": "II/20",
+          "publicationDate": "2020-05-05",
+          "breeder": "Lymarkos",
+          "bitch": "Brigitte Bardot Lymarkos",
+          "dog": "Aiden Mister of Settercity",
+          "releaseDate": "2020-07-12",
+          "puppies": "3/3"
+        },
+        {
+          "id": "III/20",
+          "publicationDate": "2020-08-04",
+          "breeder": "Royal Setter",
+          "bitch": "Aurelia the Warrior Royal Setter",
+          "dog": "",
+          "releaseDate": "nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "IV/20",
+          "publicationDate": "2020-10-05",
+          "breeder": "Mandygold",
+          "bitch": "Bianca Dama Mandygold",
+          "dog": "",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        }
+      ]
+    }
+  ]
+}

@@ -39,6 +39,7 @@ $(document).ready(function() {
     console.log('breed = ' + breed);
     console.log('sex = ' + sex);
     getDogs(breed, sex);
+    getCoverSheets(breed);
   }
   getNews();
   getArticles();
@@ -176,6 +177,22 @@ function getDogs(breed, sex) {
   });
 
   // $.getJSON('../public/data/' + breed + '_breeding_dog.json', function(data) {});
+}
+
+function getCoverSheets(breed) {
+  $.getJSON('../public/data/' + breed + '_cover_sheet.json', function(data) {
+    console.log('data pro kryci listy');
+    console.log(data);
+
+    let template = $('#coverSheetsId').html();
+    if (template !== undefined) {
+      console.log('template is specified...');
+      var compiledTemplate = Handlebars.compile(template);
+      $('#coverSheetList').html(compiledTemplate(data));
+    } else {
+      console.log('there is something totally wrong 1');
+    }
+  });
 }
 
 function getArticles() {

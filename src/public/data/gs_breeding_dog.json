@@ -11,6 +11,7 @@
       "sex": "male",
       "body": {
         "height": "64",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "CAC, res.CACIB, Klubový vítěz",
@@ -39,6 +40,7 @@
       "sex": "male",
       "body": {
         "height": "68",
+        "color": "černá s pálením",
         "HD": "B",
         "rcd4": "clear"
       },
@@ -69,6 +71,7 @@
       "sex": "male",
       "body": {
         "height": "67",
+        "color": "černá s pálením",
         "HD": "B"
       },
       "championships": "CH ČR",
@@ -97,6 +100,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -129,6 +133,7 @@
       "sex": "male",
       "body": {
         "height": "67",
+        "color": "černá s pálením",
         "HD": "B",
         "rcd4": "clear"
       },
@@ -160,6 +165,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -192,6 +198,7 @@
       "sex": "male",
       "body": {
         "height": "64",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "res.CACIB, CAC, CAJC",
@@ -221,6 +228,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0"
       },
@@ -252,6 +260,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -283,6 +292,7 @@
       "sex": "male",
       "body": {
         "height": "68",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear"
@@ -315,6 +325,7 @@
       "sex": "male",
       "body": {
         "height": "71",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -345,6 +356,7 @@
       "sex": "male",
       "body": {
         "height": "67",
+        "color": "černá s pálením",
         "HD": "C"
       },
       "shows": "CAJC, BOJ",
@@ -374,6 +386,7 @@
       "sex": "male",
       "body": {
         "height": "65",
+        "color": "černá s pálením",
         "HD": "A"
       },
       "shows": "výborný",
@@ -403,6 +416,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -435,6 +449,7 @@
       "sex": "male",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -466,6 +481,7 @@
       "sex": "male",
       "body": {
         "height": "65",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -497,6 +513,7 @@
       "sex": "male",
       "body": {
         "height": "63",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
@@ -525,6 +542,7 @@
       "mother": "Abigail Scotch do pole",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
         "rcd4": "carrier"
@@ -555,6 +573,7 @@
       "mother": "Alotria Neverending Grace",
       "body": {
         "height": "66",
+        "color": "černá s pálením",
         "HD": "A",
         "rcd4": "clear"
       },
