@@ -401,7 +401,7 @@
         "rcd4": "clear"
       },
       "championships": "CH CZ",
-      "shows": "CAC, r.CACIB, BOB, BIS, KV ČPSK",
+      "shows": "CAC, r.CACIB, BOB, BIS, KV ČPSK, BIS MSKAO",
       "exams": "ZV - I.c.",
       "owner": {
         "first_name": "Iva",
@@ -412,7 +412,8 @@
           "city": "Maršovice",
           "post_code": "25756"
         },
-        "email": "ivka.mlejova@gmail.com"
+        "email": "ivka.mlejova@gmail.com",
+        "web": "http://www.redfernhunters.com"
       },
       "other": "uchovněna na vyjímku – chybí 1xP3",
       "img_ext": "jpg"
