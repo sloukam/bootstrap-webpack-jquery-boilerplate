@@ -1,2 +1,257 @@
 {
+  "years": [
+    {
+      "year": "2021",
+      "items": [
+        {
+          "id": "I/21",
+          "publicationDate": "2021-01-01",
+          "breeder": "Jaroslav Mráček",
+          "bitch": "Betty z Kunčiny vsi",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "II/21",
+          "publicationDate": "2021-01-05",
+          "breeder": "z Helmu",
+          "bitch": "Daisy Luční květ",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "III/21",
+          "publicationDate": "2021-01-18",
+          "breeder": "z Žešovského vršku",
+          "bitch": "Fera z Helmu",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/21",
+          "publicationDate": "2021-01-19",
+          "breeder": "Vladimír Zoufalý",
+          "bitch": "Cilka z Měnínského lesa",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "V/21",
+          "publicationDate": "2021-01-22",
+          "breeder": "z Nemochovských žlebů",
+          "bitch": "Ameli ze Zaječích polí",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VI/21",
+          "publicationDate": "2021-03-12",
+          "breeder": "od Zeleného stolu",
+          "bitch": "Cilka z Borovinky",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "items": [
+        {
+          "id": "I/20",
+          "publicationDate": "2020-02-03",
+          "breeder": "ze Zaječích polí",
+          "bitch": "Audrey z Mešínské hájovny",
+          "dog": "Sáregresi Mystic Chase",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "II/20",
+          "publicationDate": "2020-02-03",
+          "breeder": "ze Zaječích polí",
+          "bitch": "Affi ze Zaječích polí ",
+          "dog": "Avon",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "III/20",
+          "publicationDate": "2020-02-05",
+          "breeder": "z Bítýšských bažin",
+          "bitch": "Bezzubka z Bítyšských bažin",
+          "dog": "All All All Arteget",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "IV/20",
+          "publicationDate": "2020-03-01",
+          "breeder": "z Lukovských lánů",
+          "bitch": "Aylen z Raklesu",
+          "dog": "Ollie z Lukovských lánů",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "V/20",
+          "publicationDate": "2020-03-15",
+          "breeder": "z Večeřova dvora",
+          "bitch": "Citra od Hlubockého úvozu",
+          "dog": "Aslan z Bítýšských bažin",
+          "releaseDate": "2020-05-31",
+          "puppies": "2/2"
+        },
+        {
+          "id": "VI/20",
+          "publicationDate": "2020-03-25",
+          "breeder": "z Tovačovských blat",
+          "bitch": "Bigi od Hlubokého úvozu",
+          "dog": "Best z Bítýšských bažin",
+          "releaseDate": "2021-03-06",
+          "puppies": "2/4 "
+        },
+        {
+          "id": "VII/20",
+          "publicationDate": "2020-04-22",
+          "breeder": "Fedan Bohemia",
+          "bitch": "Cedra z Miroslavského dvora",
+          "dog": "Don z Borovinky",
+          "releaseDate": "2020-06-25",
+          "puppies": "1/2"
+        },
+        {
+          "id": "VIII/20",
+          "publicationDate": "2020-06-01",
+          "breeder": "Sulíkovská strán",
+          "bitch": "Diana z Helmu ",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IX/20",
+          "publicationDate": "2020-06-01",
+          "breeder": "Sulíkovská strán",
+          "bitch": "Fany z Helmu",
+          "dog": "",
+          "releaseDate": "nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "X/20",
+          "publicationDate": "2020-06-10",
+          "breeder": "ze Zaječích polí",
+          "bitch": "Audrey z Mešínské hájovny",
+          "dog": "Sáregresi Mystic Chase",
+          "releaseDate": "2020-08-19",
+          "puppies": "0/2"
+        },
+        {
+          "id": "XI/20",
+          "publicationDate": "2020-07-20",
+          "breeder": "Natyave Grove",
+          "bitch": "Crystal Fydal Del Winepoint",
+          "dog": "Adon del Winepoint",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "XII/20",
+          "publicationDate": "2020-07-23",
+          "breeder": "Beskydy Pointer Village",
+          "bitch": "Poli od Nezdického potoka",
+          "dog": "Amplio Del Winepoint",
+          "releaseDate": "2020-09-29",
+          "puppies": "3/4"
+        },
+        {
+          "id": "XIII/20",
+          "publicationDate": "2020-07-31",
+          "breeder": "ze Zaječích polí",
+          "bitch": "Wela z Mešínské hájovny",
+          "dog": "Avon",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "XIV/20",
+          "publicationDate": "2020-08-23",
+          "breeder": "Zdenek Valenta",
+          "bitch": "Jorika Blahut",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "XV/20",
+          "publicationDate": "2020-11-07",
+          "breeder": "z Vinných tratí",
+          "bitch": "Arga Syrovické lány",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "XVI/20",
+          "publicationDate": "2020-11-08",
+          "breeder": "Hastrmánek",
+          "bitch": "Aylen z Raklesu",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "XVII/20",
+          "publicationDate": "2020-11-10",
+          "breeder": "Farista Almas",
+          "bitch": "Bengie z Bítyšských bažin",
+          "dog": "Dio vom Kleebachtall",
+          "releaseDate": "2021-01-21",
+          "puppies": "6/2"
+        },
+        {
+          "id": "XVIII/20",
+          "publicationDate": "2020-11-13",
+          "breeder": "z Měnínského lesa",
+          "bitch": "Debý z Borovinky",
+          "dog": "Egon z Žehuňské kovárny",
+          "releaseDate": "2021-01-20",
+          "puppies": "2/1"
+        },
+        {
+          "id": "XIX/20",
+          "publicationDate": "2020-11-15",
+          "breeder": "Sulíkovská strán",
+          "bitch": "Fany z Helmu",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "XX/20",
+          "publicationDate": "2020-11-27",
+          "breeder": "z Večeřova dvora",
+          "bitch": "Citra od Hlubokého úvozu",
+          "dog": "Oliver ze Štípek",
+          "releaseDate": "2021-02-01",
+          "puppies": "6/4"
+        },
+        {
+          "id": "XXI/20",
+          "publicationDate": "2020-12-01",
+          "breeder": "ze Zaječích polí ",
+          "bitch": "Affi ze Zaječích polí ",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    }
+  ]
 }

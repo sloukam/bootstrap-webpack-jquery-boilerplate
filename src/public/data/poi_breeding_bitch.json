@@ -867,13 +867,13 @@
       "shows": "V1, CAC",
       "exams": "ZV I.c",
       "owner": {
-        "first_name": "Bronislav",
-        "last_name": "Procinger",
+        "first_name": "Vladimír",
+        "last_name": "Zoufalý",
         "address": {
-          "street": "Střední",
-          "number": "13",
-          "city": "Velké Pavlovice",
-          "post_code": "69106"
+          "street": "Čejkovice",
+          "number": "4",
+          "city": "Okr. Znojmo",
+          "post_code": "37341"
         },
         "phone": "702514644",
         "email": "b.procinger@seznam.cz"
@@ -1017,17 +1017,18 @@
       "shows": "V1, CAJC, BOJ, BOS",
       "exams": "ZV.I.c, PZ.I.c,",
       "owner": {
-        "title": "MVDr.",
-        "first_name": "Čestmír",
-        "last_name": "Šrámek, CSc",
+        "title": "",
+        "first_name": "Jaromír",
+        "last_name": "Gratcl",
         "address": {
-          "street": "Údolní",
-          "number": "1",
-          "city": "Klobouky u Brna",
-          "post_code": "69172"
+          "street": "Těšany",
+          "number": "423",
+          "city": "Brno - venkov",
+          "post_code": "66454"
         },
-        "phone": "777944933",
-        "email": "cestmir.sramek@seznam.cz"
+        "phone": "776326265",
+        "email": "gratcljaromir@seznam.cz",
+        "web": "https://vycvik-ohare.webnode.cz/chs-hastrmanek/"
       },
       "img_ext": "jpg"
     },
