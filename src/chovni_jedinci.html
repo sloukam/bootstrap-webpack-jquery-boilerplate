@@ -68,6 +68,14 @@
                 <div class="col-4 item-label">matka:</div>
                 <div class="col">{{mother}}</div>
               </div>
+              {{#if pedigree}}
+              <div class="row">
+                <div class="col-4 item-label">rodokmen:</div>
+                <div class="col"><a href="./public/images/{{breed}}/{{clp}}_pedigree.{{img_ext}}" target="_blank">
+                  <img src="./public/images/image.png" height="32" width="32">
+                </a></div>
+              </div>
+              {{/if}}
               {{#with body}}
                 {{#if height}}
                 <div class="row">
