@@ -255,7 +255,6 @@
       "visible": true,
       "breed": "AS",
       "name": "ARGO Z VLČÍCH HOR",
-      "championships": "",
       "clp": "6194",
       "date_of_birth": "2015-07-28",
       "sex": "male",
@@ -266,6 +265,7 @@
         "BAER": true,
         "other": ""
       },
+      "championships": "CH, SK",
       "shows": "res. CAC, CAC, VT, Krajský vítěz",
       "exams": "ZV - I. cena, 188 b., FT - bon, Memoriál Josefa Luxe I.c., Agrotec Novomlýnské derby - I.c., vítěz Derby, 220 bodů, nos - 4, T.A.N., NFT MSKAO - TB, MFT MSKAO - TB",
       "father": "Fino Vis Tranquilla",
@@ -362,7 +362,6 @@
       "visible": true,
       "breed": "AS",
       "name": "TRIN",
-      "championships": "",
       "clp": "6299",
       "date_of_birth": "2017-07-07",
       "sex": "male",
@@ -373,6 +372,7 @@
         "BAER": true,
         "other": ""
       },
+      "championships": "JCH ČR",
       "shows": "CAJC, BOJ, CAC, res. CAC",
       "exams": "ZV - I. cena, Jarní pohár ČPSK-I.c., Agrotec Novomlýnské derby 2018-I.c, CACT. Novomlýnské derby 2019-I.c. Vítěz derby, TAN, NFT-Exc, NFT derby couple-B, MAS-12b.",
       "father": "Uno Antonio Zell Brancco",
