@@ -2,11 +2,29 @@
   "articles": [
     {
       "articleId": 9999999999999,
+      "dateOfPublish": "3/23/2020",
+      "title": "Přihlašování na Světovou Výstavu Psů v Brně",
+      "paragraphs": [
+        "Vážení vystavovatelé,",
+        "Po dlouhých a náročných jednáních přicházíme s dobrou zprávou. Sporné momenty spojené s pořádáním Světové Výstavy Psů v Brně jsou projednány a přihlašování na světovou výstavu je znovu otevřeno.",
+        "2. uzávěrka je posunuta o 15 dní, po které bylo přihlašování pozastaveno, tj. do 15.4.2021.",
+        "Doufejme, že žádné další překážky nebude nutno překonávat a my se všichni v plném zdraví a síle sejdeme na této prestižní kynologické akci.",
+        "Lubomír Široký",
+        "Předseda ČMKU"
+      ],
+      "images": [
+        "./public/images/2021/2021-cmku_logo.jpg"
+      ]
+    },
+    {
+      "articleId": 9999999999999,
       "dateOfPublish": "3/16/2020",
       "title": "Členské příspěvky",
       "paragraphs": [
-        "Pro všechny, kteří se chystají platit členské příspěvky a zapomněli účet: <big class=\"red\">2600505087/2010</big>",
-        "<h3 class=\"red\">Termín je do konce března - tzn. do 31.3.2021.</h3>"
+        "Vážení členové klubu, dovoluji si tímto upozornit na splatnost členských příspěvků na rok 2021.",
+        "Vzhledem k nestandardní epidemiologické situaci, která nám neumožňuje konat Výroční členskou schůzi, která byla vždy posledním termínem zaplacení členských příspěvků, žádám vás o zaplacení členských příspěvků převodem na účet do 31.3.2021.",
+        "K zaplacení použijte účet <b class=\"red\">2600505087/2010</b>. Variabilním symbolem je <b class=\"red\">vaše členské číslo</b>, specifický symbol <b class=\"red\">100</b>. Případně použijte zprávu připojenou k platbě, která bude obsahovat slovní popis .",
+        "Děkujeme za vaši vstřícnost a těšíme se na setkání v příznivější době."
       ]
     },
     {
