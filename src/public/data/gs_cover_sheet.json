@@ -20,6 +20,15 @@
           "dog": "",
           "releaseDate": "",
           "puppies": ""
+        },
+        {
+          "id": "III/21",
+          "publicationDate": "2021-03-23",
+          "breeder": "Manon Lescaut",
+          "bitch": "Caffé Racer Manon Lescaut",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
         }
       ]
     },

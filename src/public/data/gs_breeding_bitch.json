@@ -65,7 +65,7 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": false,
+      "visible": true,
       "name": "ALOTRIA NEVERENDING GRACE",
       "date_of_birth": "2013-01-01",
       "clp": "6447",
