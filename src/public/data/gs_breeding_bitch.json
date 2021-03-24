@@ -531,6 +531,41 @@
     {
       "breed": "GS",
       "sex": "female",
+      "visible": true,
+      "name": "REVOLUTION BREEZE SMASHING PUMPKIN",
+      "date_of_birth": "2017-02-04",
+      "clp": "6760",
+      "father": "Silent North Eye Con",
+      "mother": "Yukki Hill To Kiss And To Hug",
+      "body": {
+        "height": "61",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "OCD clear"
+      },
+      "championships": "JCH ČR, CHČR, CH SK, CH PL",
+      "shows": " výborná, CAJC, CAC,res.CAC, CACIB, res.CACIB, NV, BOJ, BOS, BOB",
+      "exams": "ZV I.c , PZ I.c, LZ I.c, VP I.c, VZ III.c, Pohár sv.Huberta 3.místo, T.A.N., Novomlýnské derby I.c",
+      "owner": {
+        "first_name": "Klára",
+        "last_name": "Horáková",
+        "address": {
+          "street": "Havlíčkova",
+          "number": "255",
+          "city": "Rájec-Jestřebí"
+        },
+        "email": "KlaraHora@seznam.cz"
+      },
+      "co-owner": {
+        "first_name": "Jan",
+        "last_name": "Štrof"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
       "visible": false,
       "name": "FIL-KAZ FROM THE GREEN SCOTLAND KAMA",
       "date_of_birth": "2017-03-28",

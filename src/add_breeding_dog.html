@@ -132,12 +132,12 @@
                 </div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.rcd4">PRA rcd4</div>
-                    <select class="col" id="body.rcd4" name="body.rcd4">
-                      <option></option>
-                      <option>clear</option>
-                      <option>carrier</option>
-                      <option>affected</option>
-                    </select>
+                  <select class="col" id="body.rcd4" name="body.rcd4">
+                    <option></option>
+                    <option>clear</option>
+                    <option>carrier</option>
+                    <option>affected</option>
+                  </select>
                 </div>
                 <div class="row">
                   <div class="col-4 item-label" for="body.other">dodatečné zdr. inf.</div>
@@ -178,28 +178,31 @@
                 <div class="col-4 item-label" for="owner.last_name">příjmení</div>
                 <input class="col" id="owner.last_name" name="owner.last_name" type="text">
               </div>
+            </fieldset>
 
-              <fieldset>
-                <legend>Adresa</legend>
+            <fieldset>
+              <legend>Adresa (majitele)</legend>
 
-                <div class="row">
-                  <div class="col-4 item-label" for="owner.address.street">ulice</div>
-                  <input class="col" id="owner.address.street" name="owner.address.street" type="text">
-                </div>
-                <div class="row">
-                  <div class="col-4 item-label" for="owner.address.number">číslo popisné</div>
-                  <input class="col" id="owner.address.number" name="owner.address.number" type="text">
-                </div>
-                <div class="row">
-                  <div class="col-4 item-label" for="owner.address.city">město</div>
-                  <input class="col" id="owner.address.city" name="owner.address.city" type="text">
-                </div>
-                <div class="row">
-                  <div class="col-4 item-label" for="owner.address.post_code">psč</div>
-                  <input class="col" id="owner.address.post_code" name="owner.address.post_code" type="number">
-                </div>
-              </fieldset>
+              <div class="row">
+                <div class="col-4 item-label" for="owner.address.street">ulice</div>
+                <input class="col" id="owner.address.street" name="owner.address.street" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="owner.address.number">číslo popisné</div>
+                <input class="col" id="owner.address.number" name="owner.address.number" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="owner.address.city">město</div>
+                <input class="col" id="owner.address.city" name="owner.address.city" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="owner.address.post_code">psč</div>
+                <input class="col" id="owner.address.post_code" name="owner.address.post_code" type="number">
+              </div>
+            </fieldset>
 
+            <fieldset>
+              <legend>Spolumajitel</legend>
               <div class="row">
                 <div class="col-4 item-label" for="owner.phone">telefon</div>
                 <input class="col" id="owner.phone" name="owner.phone" type="tel">
@@ -213,6 +216,24 @@
                 <input class="col" id="owner.web" name="owner.web" type="url">
               </div>
             </fieldset>
+
+            <fieldset>
+              <legend>Spolumajitel</legend>
+
+              <div class="row">
+                <div class="col-4 item-label" for="co-owner.title">titul</div>
+                <input class="col" id="co-owner.title" name="co-owner.title" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="co-owner.first_name">jméno</div>
+                <input class="col" id="co-owner.first_name" name="co-owner.first_name" type="text">
+              </div>
+              <div class="row">
+                <div class="col-4 item-label" for="co-owner.last_name">příjmení</div>
+                <input class="col" id="co-owner.last_name" name="co-owner.last_name" type="text">
+              </div>
+            </fieldset>
+
             <fieldset>
               <legend>Další informace</legend>
 
@@ -223,7 +244,8 @@
             </fieldset>
             <div class="row row-no-bottom-border">
               <div class="col">
-                <button class="btn btn-sm btn-outline-primary contact-form__button" type="submit">vygeneruj data</button>
+                <button class="btn btn-sm btn-outline-primary contact-form__button" type="submit">vygeneruj data
+                </button>
               </div>
             </div>
             <div class="row row-no-bottom-border">
@@ -231,12 +253,12 @@
                 <button id="copyToClippboardBtn" class="btn btn-sm btn-outline-primary">copy to clipboard</button>
               </div>
             </div>
-              <h2 class="results__heading">Vyplnena data</h2>
-              <div class="results__display-wrapper">
+            <h2 class="results__heading">Vyplnena data</h2>
+            <div class="results__display-wrapper">
                 <textarea id="results__display" class="results__display" rows="20" cols="50">
                 </textarea>
-              </div>
-              <div class="results2">
+            </div>
+            <div class="results2">
             </div>
           </form>
         </div>

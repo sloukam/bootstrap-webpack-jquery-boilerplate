@@ -94,8 +94,6 @@
         "title": "",
         "first_name": "Pavel",
         "last_name": "Thiel",
-        "first_name_co_owner": "Lenka",
-        "last_name_co_owner": "Kellerová",
         "address": {
           "street": "Nová ves",
           "number": "141",
@@ -105,6 +103,11 @@
         "phone": "725032292",
         "email": "thiel@vycvikpsuliberecko.cz",
         "web": ""
+      },
+      "co-owner": {
+        "title": "",
+        "first_name": "Lenka",
+        "last_name": "Kellerová"
       },
       "other": "",
       "img_ext": "jpg"
