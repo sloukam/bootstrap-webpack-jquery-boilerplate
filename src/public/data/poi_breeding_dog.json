@@ -94,7 +94,7 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "MONTY SOMOLA",
       "date_of_birth": "2010-11-10",
       "clp": "10758",
