@@ -522,6 +522,34 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
+      "name": "BIGI OD HLUBOKÉHO ÚVOZU",
+      "date_of_birth": "2015-02-25",
+      "clp": "11130",
+      "father": "Pluto z Knollovy školy",
+      "mother": "Karen od Nezdického potoka",
+      "body": {
+        "height": "66",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "V 1",
+      "exams": "ZV I.c, PZ I.c",
+      "owner": {
+        "first_name": "Miroslav",
+        "last_name": "Chyla",
+        "address": {
+          "street": "Jiráskova",
+          "number": "116",
+          "city": "Tovačov",
+          "post_code": "75101"
+        },
+        "email": "Lycu11@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
       "name": "AUDREY Z MEŠINSKÉ HÁJOVNY",
       "date_of_birth": "2015-04-29",
       "clp": "11182",
@@ -787,6 +815,36 @@
         "phone": "775638947",
         "web": "http://www.natyavegroce.com"
       },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CITRA OD HLUBOKÉHO ÚVOZU",
+      "date_of_birth": "2016-04-24",
+      "clp": "11277",
+      "father": "Pluto z Knollovy školy",
+      "mother": "Karen od Nezdického potoka",
+      "body": {
+        "height": "61",
+        "color": "žlutá, bílé znaky"
+      },
+      "shows": "VD1",
+      "exams": "ZV-I.c,PZ-I.c",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Josef",
+        "last_name": "Večeřa",
+        "address": {
+          "street": "Sadová ",
+          "number": "474",
+          "city": "Dřevohostice ",
+          "post_code": "75114"
+        },
+        "email": "vecvet@seznam.cz"
+      },
+      "other": "CHS Z Večeřova dvora",
       "img_ext": "jpg"
     },
     {
@@ -1060,6 +1118,66 @@
         },
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AMELI ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2018-06-05",
+      "clp": "11501",
+      "father": "Oliver ze Štípek",
+      "mother": "Audrey z Mešinské hájovny ",
+      "body": {
+        "height": "58",
+        "color": "žemlová",
+        "HD": "A"
+      },
+      "shows": "VN 1, V 2",
+      "exams": "ZV I.c, PZ I.c, VP I.c,",
+      "owner": {
+        "first_name": "Lubonír",
+        "last_name": "Hofírek",
+        "address": {
+          "street": "Nemochovice",
+          "number": "5",
+          "city": "Nesovice",
+          "post_code": "69333"
+        },
+        "email": "hofec.street@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "CLARYSA ZE ŠTÍPEK",
+      "date_of_birth": "2019-02-18",
+      "clp": "11593",
+      "father": "Sáregresi Pointerland Athos",
+      "mother": "Apache ze Štípek",
+      "body": {
+        "height": "61",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "CAC, NV, BOB, BIG II., VŠV SKPS, KV MSKAO",
+      "exams": "ZV I.c, NFT TB, 14b.",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Martina",
+        "last_name": "Müllerová",
+        "address": {
+          "street": "Na Hříbovci",
+          "number": "271",
+          "city": "Markvartovice",
+          "post_code": "74714"
+        },
+        "email": "zestipek@centrum.cz",
+        "web": "http://www.chszestipek.cz/"
       },
       "img_ext": "jpg"
     }

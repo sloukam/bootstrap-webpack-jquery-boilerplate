@@ -491,6 +491,36 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
+      "name": "CIRO OD HLUBOKÉHO ÚVOZU",
+      "date_of_birth": "2016-04-24",
+      "clp": "11273",
+      "father": "Puto z Knollovy školy",
+      "mother": "Karen od Nezdického potoka",
+      "body": {
+        "height": "64",
+        "color": "žlutá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, CAC",
+      "exams": "ZV I.c., VP I.c., PZ I.c.,",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Koutný",
+        "address": {
+          "street": "Podomí",
+          "number": "161",
+          "city": "Podomí",
+          "post_code": "68304"
+        },
+        "phone": "731 936 693",
+        "email": "jakowitch@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
       "name": "COLUMBO Z MĚNÍNSKÉHO LESA",
       "date_of_birth": "2016-12-06",
       "clp": "11337",
@@ -516,6 +546,37 @@
         "phone": "724523332",
         "email": "konecny.lz4@lesycr.cz"
       },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "CIR Z MĚNÍNSKÉHO LESA",
+      "date_of_birth": "2016-12-16",
+      "clp": "11339",
+      "father": "Bert Bohemia Frony",
+      "mother": "Deby z Borovinky",
+      "body": {
+        "height": "66",
+        "color": "bíložemlová",
+        "HD": "A"
+      },
+      "shows": "V2, V1",
+      "exams": "ZV. I.c., PZ I.c., LZ+VP soutěž ohařů jižní Moravy KCHNKO I.c., VP I.c. o putovní pohár Stanislava Vojnara, LZ I.c. ",
+      "owner": {
+        "first_name": "František",
+        "last_name": "Zahradníček",
+        "address": {
+          "street": "17 listopadu",
+          "number": "2235",
+          "city": "Dvùr Králové n/L.",
+          "post_code": "54401"
+        },
+        "phone": "737 217 117",
+        "email": "f.zahradnicek@petergfk.com"
+      },
+      "other": "CHS Z KUNŠTÁTSKÝCH LESŮ",
       "img_ext": "jpg"
     },
     {
@@ -632,6 +693,67 @@
           "post_code": "67575"
         },
         "phone": "724 844 614"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "EGON Z ŽEHUŇSKÉ KOVÁRNY",
+      "date_of_birth": "2018-04-17",
+      "clp": "11461",
+      "father": "Ir z Oklikova",
+      "mother": "Cila z Žehuňské kovárny",
+      "body": {
+        "height": "62",
+        "color": "bílohnědá",
+        "HD": "C"
+      },
+      "shows": "VD 1",
+      "exams": "KZV-CACT I.c., KZV-CACT I.c., PZ I.c.,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Pavel",
+        "last_name": "Konečný",
+        "address": {
+          "street": "Doubravka",
+          "number": "216",
+          "city": "Lanžhot",
+          "post_code": "69151"
+        },
+        "phone": "724 523 332",
+        "email": "konecny.lz4@lesycr.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "ARČÍ OD TÁBORSKÝCH DVOŘÁKŮ",
+      "date_of_birth": "2019-07-09",
+      "clp": "11649",
+      "father": "Bix Bohemia Frony",
+      "mother": "Lyra z Dolnic",
+      "body": {
+        "height": "65",
+        "color": "bílohnědá",
+        "HD": "A"
+      },
+      "shows": "V1, Vítěz třídy",
+      "exams": "ZV I.c.,VP I.c.,PZ I.c.,",
+      "owner": {
+        "first_name": "Ivanka",
+        "last_name": "Soukupová",
+        "address": {
+          "street": "Smríná",
+          "number": "14",
+          "city": "Smríná",
+          "post_code": "58801"
+        },
+        "phone": "723 151 755",
+        "email": "Soukupova.Ivanka@seznam.cz"
       },
       "img_ext": "jpg"
     }
