@@ -560,7 +560,8 @@
         "color": "žemlová",
         "HD": "A"
       },
-      "shows": "CAJC, CAC, CAC ČMKU, res. CACIB, CACIB, NV, BOS, BOB, KV",
+      "championships": "JCH CZ, CH CZ, GrandCH CZ, CH CMK",
+      "shows": "CAJC, CAC, r.CAC, CACIB, r.CACIB, BOS, BOB, Anw. Dt. Ch. VDH, Krajský vítěz, NV, Vítěz Slovenska",
       "exams": "PZ I.c",
       "owner": {
         "first_name": "Zlata",
@@ -573,7 +574,7 @@
         },
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz",
-        "web": "http://www.ze-zajecich–poli.webnode.cz"
+        "web": "https://ze-zajecich-poli.webnode.cz/"
       },
       "img_ext": "jpg"
     },
@@ -1017,10 +1018,10 @@
         "first_name": "Jaroslav",
         "last_name": "Mráček",
         "address": {
-          "street": "Studentská",
-          "number": "1",
-          "city": "Prostějov",
-          "post_code": "79601"
+          "street": "Skalka",
+          "number": "82",
+          "city": "Pivín",
+          "post_code": "79824"
         },
         "phone": "725822232",
         "email": "mracek.jarek@seznam.cz"
@@ -1105,7 +1106,7 @@
         "HD": "A"
       },
       "shows": "VN1, V1, CAJC",
-      "exams": "ZV I.c, VP I.c",
+      "exams": "ZV I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -1119,6 +1120,7 @@
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz"
       },
+      "web": "https://ze-zajecich-poli.webnode.cz/",
       "img_ext": "jpg"
     },
     {
