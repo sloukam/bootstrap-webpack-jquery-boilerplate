@@ -1,0 +1,125 @@
+[
+  {
+    "clp": 5865,
+    "father": {
+      "clp": 111,
+      "name": "X",
+      "father": {
+        "clp": 333,
+        "name": "XX",
+        "father": {
+          "clp": 777,
+          "name": "XXX",
+          "father": {
+            "clp": 777,
+            "name": "XXXX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "XXXY"
+          }
+        },
+        "mother": {
+          "clp": 888,
+          "name": "XXY",
+          "father": {
+            "clp": 777,
+            "name": "XXYX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "XXYY"
+          }
+        }
+      },
+      "mother": {
+        "clp": 333,
+        "name": "XY",
+        "father": {
+          "clp": 777,
+          "name": "XYX",
+          "father": {
+            "clp": 777,
+            "name": "XYXX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "XYXY"
+          }
+        },
+        "mother": {
+          "clp": 888,
+          "name": "XYY",
+          "father": {
+            "clp": 777,
+            "name": "XYYX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "XYYY"
+          }
+        }
+      }
+    },
+    "mother": {
+      "clp": 111,
+      "name": "Y",
+      "father": {
+        "clp": 333,
+        "name": "YX",
+        "father": {
+          "clp": 777,
+          "name": "YXX",
+          "father": {
+            "clp": 777,
+            "name": "YXXX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "YXXY"
+          }
+        },
+        "mother": {
+          "clp": 888,
+          "name": "YXY",
+          "father": {
+            "clp": 777,
+            "name": "YXYX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "YXYY"
+          }
+        }
+      },
+      "mother": {
+        "clp": 333,
+        "name": "YY",
+        "father": {
+          "clp": 777,
+          "name": "YYX",
+          "father": {
+            "clp": 777,
+            "name": "YYXX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "YYXY"
+          }
+        },
+        "mother": {
+          "clp": 888,
+          "name": "YYY",
+          "father": {
+            "clp": 777,
+            "name": "YYYX"
+          },
+          "mother": {
+            "clp": 888,
+            "name": "YYYY"
+          }
+        }
+      }
+    }
+  }
+]

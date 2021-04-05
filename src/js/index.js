@@ -101,6 +101,7 @@ $('#copyToClippboardBtn').on('click', function() {
   copyToClipboard('results__display');
 });
 
+// tohle je onClick pro rozbaleni detailu psa
 function addOnClickEvents() {
   var clickLinkElement = $('.dogCardDetailClick');
   clickLinkElement.on('click', function(event) {
@@ -143,36 +144,43 @@ function getDogs(breed, sex) {
       console.log('screen.width = ' + screen.width);
       console.log('sex = ' + sex);
 
-      let data;
+      let dogsData;
       if (sex === 'dog') {
-        data = dog;
+        dogsData = dog;
       } else if (sex === 'bitch') {
-        data = bitch;
+        dogsData = bitch;
       } else {
-        data = { dogs: dog.dogs.concat(bitch.dogs) };
+        dogsData = { dogs: dog.dogs.concat(bitch.dogs) };
       }
-      console.log('data');
-      console.log(data);
 
-      let template = $('#dogDetailDesktop').html();
-      if (template !== undefined) {
-        console.log('template is specified...');
-        var compiledTemplate = Handlebars.compile(template);
-        $('#dogList').html(compiledTemplate(data));
-      } else {
-        console.log('there is something totally wrong 1');
-      }
-      $('.pop').on('click', function() {
-        console.log('click...');
-        $('.imagepreview').attr(
-          'src',
-          $(this)
-            .find('img')
-            .attr('src')
-        );
-        $('#imagemodal').modal('show');
+      $.getJSON('../public/data/' + breed + '_pedigrees.json', function(
+        pedigrees
+      ) {
+        let data = { dogs: dogsData.dogs, pedigrees };
+
+        console.log('data');
+        console.log(data);
+
+        let template = $('#dogDetailDesktop').html();
+        if (template !== undefined) {
+          console.log('template is specified...');
+          var compiledTemplate = Handlebars.compile(template);
+          $('#dogList').html(compiledTemplate(data));
+        } else {
+          console.log('there is something totally wrong 1');
+        }
+        $('.pop').on('click', function() {
+          console.log('click...');
+          $('.imagepreview').attr(
+            'src',
+            $(this)
+              .find('img')
+              .attr('src')
+          );
+          $('#imagemodal').modal('show');
+        });
+        addOnClickEvents();
       });
-      addOnClickEvents();
     });
   });
 

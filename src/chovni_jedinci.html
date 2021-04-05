@@ -76,6 +76,12 @@
                 </a></div>
               </div>
               {{/if}}
+              <div class="row">
+                <div class="col-4 item-label">rodokmen pop-up:</div>
+                <div class="col pedigree">
+                  <img src="./public/images/image.png" height="32" width="32" alt="" clp="{{clp}}">
+                </div>
+              </div>
               {{#with body}}
                 {{#if height}}
                 <div class="row">
@@ -198,6 +204,192 @@
         {{/if}}
       {{/each}}
     </div>
+
+    <div>
+      {{#each pedigrees}}
+
+      <div id="pedigree_{{clp}}">
+        <div class="row">
+          <div class="col-3">
+            {{father.name}}
+          </div>
+          <div class="col">
+            <div class="row">
+              <div class="col-4">
+                {{father.father.name}}
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-6">
+                    {{father.father.father.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{father.father.father.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{father.father.father.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-6">
+                    {{father.father.mother.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{father.father.mother.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{father.father.mother.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-4">
+               {{father.mother.name}}
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-6">
+                    {{father.mother.father.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{father.mother.father.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{father.mother.father.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-6">
+                    {{father.mother.mother.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{father.mother.mother.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{father.mother.mother.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-3">
+            {{mother.name}}
+          </div>
+          <div class="col">
+            <div class="row">
+              <div class="col-4">
+                {{mother.father.name}}
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-6">
+                    {{mother.father.father.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{mother.father.father.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{mother.father.father.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-6">
+                    {{mother.father.mother.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{mother.father.mother.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{mother.father.mother.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-4">
+                {{mother.mother.name}}
+              </div>
+              <div class="col">
+                <div class="row">
+                  <div class="col-6">
+                    {{mother.mother.father.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{mother.mother.father.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{mother.mother.father.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-6">
+                    {{mother.mother.mother.name}}
+                  </div>
+                  <div class="col">
+                    <div class="row">
+                      <div class="col">
+                        {{mother.mother.mother.father.name}}
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        {{mother.mother.mother.mother.name}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{/each}}
+    </div>
   </script>
 
 </head>
@@ -230,6 +422,20 @@
     </div>
   </div>
 </div>
+
+
+<div class="modal fade" id="pedigree-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
+          class="sr-only">Close</span></button>
+        <img src="" class="imagepreview border-black" style="width: 100%;">
+      </div>
+    </div>
+  </div>
+</div>
+
 
 </body>
 </html>
