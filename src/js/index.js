@@ -219,7 +219,7 @@ function getCoverSheets(breed) {
       var compiledTemplate = Handlebars.compile(template);
       $('#coverSheetList').html(compiledTemplate(data));
     } else {
-      console.log('there is something totally wrong 1');
+      console.log('there is something totally wrong 2');
     }
   });
 }
