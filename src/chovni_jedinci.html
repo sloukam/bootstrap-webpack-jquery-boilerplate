@@ -76,12 +76,14 @@
                 </a></div>
               </div>
               {{/if}}
+              {{#ifEquals clp 6372}}
               <div class="row">
                 <div class="col-4 item-label">rodokmen pop-up:</div>
                 <div class="col pedigree">
                   <img src="./public/images/image.png" height="32" width="32" alt="" clp="{{clp}}">
                 </div>
               </div>
+              {{/ifEquals}}
               {{#with body}}
                 {{#if height}}
                 <div class="row">
@@ -205,10 +207,10 @@
       {{/each}}
     </div>
 
-    <div>
+<!--    <div>-->
+    <div class="hidden">
       {{#each pedigrees}}
-
-      <div id="pedigree_{{clp}}">
+      <div id="pedigree_{{clp}}" class="rows-stripped">
         <div class="row">
           <div class="col-3">
             {{father.name}}
@@ -412,7 +414,7 @@
   </div>
 </div>
 
-<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="image-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
@@ -428,9 +430,13 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span
-          class="sr-only">Close</span></button>
-        <img src="" class="imagepreview border-black" style="width: 100%;">
+        <button type="button" class="close" data-dismiss="modal">
+          <span aria-hidden="true">&times;</span>
+          <span class="sr-only">Close</span>
+        </button>
+        <br>
+        <div id="pedigree-modal-content">
+        </div>
       </div>
     </div>
   </div>

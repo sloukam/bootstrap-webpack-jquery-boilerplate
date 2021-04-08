@@ -15,3 +15,7 @@ Handlebars.registerHelper('dateFormat', function(date, options) {
 Handlebars.registerHelper('isDefined', function(value) {
   return value !== undefined;
 });
+
+Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+  return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+});

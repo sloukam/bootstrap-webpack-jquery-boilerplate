@@ -88,8 +88,6 @@ $(document).ready(function() {
     parentDiv.children('.shortenContent').addClass('hidden');
     parentDiv.children('.expandContent').removeClass('hidden');
   });
-
-  popupImages();
 });
 
 function getShortenedText(text, length) {
@@ -113,19 +111,6 @@ function addOnClickEvents() {
     // closest.css('background-color', 'red');
     // console.log('closest');
     // console.log(closest);
-  });
-}
-
-function popupImages() {
-  $('.pop').on('click', function() {
-    console.log('click...');
-    $('.imagepreview').attr(
-      'src',
-      $(this)
-        .find('img')
-        .attr('src')
-    );
-    $('#imagemodal').modal('show');
   });
 }
 
@@ -177,8 +162,22 @@ function getDogs(breed, sex) {
               .find('img')
               .attr('src')
           );
-          $('#imagemodal').modal('show');
+          $('#image-modal').modal('show');
         });
+
+        $('.pedigree').on('click', function() {
+          console.log('pedigree click...');
+
+          let pedigree_data_html = $('#pedigree_6372').html();
+          console.log('nalezeny kus html podle id');
+          console.log(pedigree_data_html);
+
+          $('#pedigree-modal-content').html(pedigree_data_html);
+
+          $('#pedigree-modal').modal('show');
+          // $('#image-modal').modal('show');
+        });
+
         addOnClickEvents();
       });
     });
