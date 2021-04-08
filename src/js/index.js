@@ -42,6 +42,14 @@ $(document).ready(function() {
     getCoverSheets(breed);
   }
   getNews();
+
+
+  var articleId = GetURLParameter('articleId');
+  if (articleId) {
+    getSingleArticle(articleId);
+  }
+
+  // fetch all articles
   getArticles();
 
   // $('#summernote').summernote();
@@ -88,7 +96,21 @@ $(document).ready(function() {
     parentDiv.children('.shortenContent').addClass('hidden');
     parentDiv.children('.expandContent').removeClass('hidden');
   });
+  popupImages();
 });
+
+function popupImages() {
+  $('.pop').on('click', function() {
+    console.log('click...');
+    $('.imagepreview').attr(
+      'src',
+      $(this)
+        .find('img')
+        .attr('src')
+    );
+    $('#image-modal').modal('show');
+  });
+}
 
 function getShortenedText(text, length) {
   if (length === undefined) length = 230;
@@ -208,6 +230,35 @@ function getArticles() {
     if (template !== undefined) {
       var compiledTemplate = Handlebars.compile(template);
       $('#articleContainer').html(compiledTemplate(data));
+    }
+  });
+}
+
+function getSingleArticle(articleId) {
+  // console.log("getSingleArticle( articleId = " + articleId);
+  $.getJSON('../public/data/articles.json', function(data) {
+    // console.log("all articles - articleId: " + articleId);
+    // console.log(data);
+    // console.log("data.length: " + data.length);
+    // console.log("data.length: " + data.size);
+    let article;
+    for (let i = 0; i < data.articles.length; i++) {
+      let item = data.articles[i];
+      // console.log("item");
+      // console.log(item);
+      if (item.articleId == articleId) {
+        article = item;
+        i = data.articles.length;
+      }
+    }
+    // console.log("found articleid: " + articleId);
+    // console.log("found article: ");
+    // console.log(article);
+
+    var template = $('#singleArticleTemplate').html();
+    if (template !== undefined) {
+      var compiledTemplate = Handlebars.compile(template);
+      $('#singleArticleContainer').html(compiledTemplate(article));
     }
   });
 }

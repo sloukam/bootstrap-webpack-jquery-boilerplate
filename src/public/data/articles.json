@@ -1,8 +1,41 @@
 {
   "articles": [
     {
+      "articleId": 20210008,
+      "dateOfPublish": "4/8/2021",
+      "title": "Klubová výstava ve Savkově",
+      "paragraphs": [
+        "Letos opět v netradičním termínu. Věřme ale, že se ve Slavkově potkáme ve zdraví a v dobré náladě."
+      ],
+      "images": [
+        "./public/images/2021/210710-klubovka_slavkov_u_brna.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/210710-klubovka_slavkov/propozice-cz.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "proposition (EN)",
+          "filePath": "./public/pdf/2021/210710-klubovka_slavkov/propozice-en.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/23/2020",
+      "dateOfPublish": "4/8/2021",
+      "title": "Kalendář klubových akcí",
+      "paragraphs": [
+        "Vážení návštěvníci,",
+        "na našich stránkách najdete aktualizovaný <a href=\"kalendar_akci.html#2021\">kalendář klubových akcí na rok 2021</a>.",
+        "Pevně věříme, že se s mnohými z vás na některých z nich potkáme."
+      ]
+    },
+    {
+      "articleId": 9999999999999,
+      "dateOfPublish": "3/23/2021",
       "title": "Přihlašování na Světovou Výstavu Psů v Brně",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -18,7 +51,7 @@
     },
     {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/16/2020",
+      "dateOfPublish": "3/16/2021",
       "title": "Členské příspěvky",
       "paragraphs": [
         "Vážení členové klubu, dovoluji si tímto upozornit na splatnost členských příspěvků na rok 2021.",
@@ -29,7 +62,7 @@
     },
     {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/16/2020",
+      "dateOfPublish": "3/16/2021",
       "title": "WDS BRNO",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -45,7 +78,7 @@
     },
     {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/16/2020",
+      "dateOfPublish": "3/16/2021",
       "title": "MVP PRAHA",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -59,7 +92,7 @@
     },
     {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/16/2020",
+      "dateOfPublish": "3/16/2021",
       "title": "NVP OSTRAVA",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -74,7 +107,7 @@
     },
     {
       "articleId": 9999999999999,
-      "dateOfPublish": "3/16/2020",
+      "dateOfPublish": "3/16/2021",
       "title": "NVP BRNO + MVP ŠPILBERKA + MVP DUOCACIB",
       "paragraphs": [
         "Vážení vystavovatelé,",

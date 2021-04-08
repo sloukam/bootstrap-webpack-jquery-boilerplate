@@ -14,9 +14,8 @@
 
   <title id="pageTitle">www.mskao.cz</title>
 
-  <script id="articleTemplate" type="text/template">
-    {{#each articles}}
-    <div class="row">
+  <script id="singleArticleTemplate" type="text/template">
+    <div class="row" id="{{articleId}}">
       <div class="col-md order-md-1">
         <h2 class="red">{{title}}</h2>
         {{#if dateOfPublish}}
@@ -54,8 +53,6 @@
         {{/if}}
       </div>
     </div>
-    <hr class="featurette-divider"/>
-    {{/each}}
   </script>
 
 </head>
@@ -68,19 +65,7 @@
     </div>
   </div>
   <div class="main-container">
-    <div class="row">
-      <div class="col-md order-md-1">
-        <div class="h1">Moravskoslezský klub anglických ohařů
-          <div class="float-right news-image">
-            <figure class="figure">
-              <img class="mskao-transparent-logo img-fluid rounded"
-                   src="./public/images/logo_mskao_small_transparent.png" height="80" width="80"/>
-            </figure>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="articleContainer">
+    <div id="singleArticleContainer">
     </div>
   </div>
   <div id="footer-container">
