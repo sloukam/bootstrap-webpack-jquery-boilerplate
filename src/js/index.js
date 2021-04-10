@@ -43,7 +43,6 @@ $(document).ready(function() {
   }
   getNews();
 
-
   var articleId = GetURLParameter('articleId');
   if (articleId) {
     getSingleArticle(articleId);
@@ -160,48 +159,38 @@ function getDogs(breed, sex) {
         dogsData = { dogs: dog.dogs.concat(bitch.dogs) };
       }
 
-      $.getJSON('../public/data/' + breed + '_pedigrees.json', function(
-        pedigrees
-      ) {
-        let data = { dogs: dogsData.dogs, pedigrees };
+      let data = { dogs: dogsData.dogs };
 
-        console.log('data');
-        console.log(data);
+      console.log('data');
+      console.log(data);
 
-        let template = $('#dogDetailDesktop').html();
-        if (template !== undefined) {
-          console.log('template is specified...');
-          var compiledTemplate = Handlebars.compile(template);
-          $('#dogList').html(compiledTemplate(data));
-        } else {
-          console.log('there is something totally wrong 1');
-        }
-        $('.pop').on('click', function() {
-          console.log('click...');
-          $('.imagepreview').attr(
-            'src',
-            $(this)
-              .find('img')
-              .attr('src')
-          );
-          $('#image-modal').modal('show');
-        });
-
-        $('.pedigree').on('click', function() {
-          console.log('pedigree click...');
-
-          let pedigree_data_html = $('#pedigree_6372').html();
-          console.log('nalezeny kus html podle id');
-          console.log(pedigree_data_html);
-
-          $('#pedigree-modal-content').html(pedigree_data_html);
-
-          $('#pedigree-modal').modal('show');
-          // $('#image-modal').modal('show');
-        });
-
-        addOnClickEvents();
+      let template = $('#dogDetailDesktop').html();
+      if (template !== undefined) {
+        console.log('template is specified...');
+        var compiledTemplate = Handlebars.compile(template);
+        $('#dogList').html(compiledTemplate(data));
+      } else {
+        console.log('there is something totally wrong 1');
+      }
+      $('.pop').on('click', function() {
+        console.log('click...');
+        $('.imagepreview').attr(
+          'src',
+          $(this)
+            .find('img')
+            .attr('src')
+        );
+        $('#image-modal').modal('show');
       });
+
+      $('.pedigree').on('click', function() {
+        let clp = $(this).attr('clp');
+        console.log('pedigree click clp - ' + clp);
+
+        $('#pedigree-modal-' + clp).modal('show');
+      });
+
+      addOnClickEvents();
     });
   });
 

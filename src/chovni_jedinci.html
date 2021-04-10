@@ -13,374 +13,379 @@
     <div class="row">
       {{#each dogs}}
         {{#if visible}}
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="dogCard {{sex}} rounded-lg" id="dogCard_{{clp}}">
-            <div class="row border-0">
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="dogCard {{sex}} rounded-lg" id="dogCard_{{clp}}">
+          <div class="row border-0">
+            <div class="col">
+              <div class="dogName">{{name}}</div>
+            </div>
+            <div class="col-3">
+              <div class="sex-symbol">
+                <img src="./public/images/{{sex}}_symbol.png" class="sex_symbol_img">
+              </div>
+            </div>
+          </div>
+          <div class="row border-0">
+            <div class="col">
+              <div class="row border-0">
+                <div class="col-auto item-label">datum narození:</div>
+                <div class="col-auto">{{dateFormat date_of_birth}}</div>
+              </div>
+            </div>
+          </div>
+          <div class="row border-0">
+            <div class="col">
+              <div class="row justify-content-center border-0 img-tumbnail-max-height">
+                {{#if img_ext}}
+                <div class="col centralize-content pop">
+                  <img src="./public/images/{{breed}}/{{clp}}.{{img_ext}}" alt="{{name}}"
+                       class="img-thumbnail img-rounded img-responsive img-max-height">
+                </div>
+                {{else}}
+                <div class="col centralize-content">
+                  <img src="./public/images/{{breed}}-bw.png" alt=""
+                       class="img-thumbnail img-rounded img-responsive img-max-height">
+                </div>
+                {{/if}}
+              </div>
+            </div>
+          </div>
+          <div class="row border-0">
+            <div class="col text-right">
+              <div class="dogCardDetailClick" id="{{clp}}">více informací...</div>
+            </div>
+          </div>
+          <div class="dogDetail hidden" id="dogDetail_{{clp}}">
+            <div class="row">
+              <div class="col-4 item-label">číslo zápisu</div>
+              <div class="col">ČLP/{{breed}}/{{clp}}</div>
+            </div>
+            <div class="row">
+              <div class="col-4 item-label">otec:</div>
+              <div class="col">{{father}}</div>
+            </div>
+            <div class="row">
+              <div class="col-4 item-label">matka:</div>
+              <div class="col">{{mother}}</div>
+            </div>
+            {{#if pedigree}}
+            <div class="row">
+              <div class="col-4 item-label">rodokmen pop-up:</div>
+              <div class="col pedigree" clp="{{clp}}">
+                <img src="./public/images/image.png" height="32" width="32" alt="" clp="{{clp}}">
+              </div>
+            </div>
+            {{/if}}
+            {{#with body}}
+            {{#if height}}
+            <div class="row">
+              <div class="col-4 item-label">výška</div>
+              <div class="col">{{height}}</div>
+            </div>
+            {{/if}}
+            {{#if color}}
+            <div class="row">
+              <div class="col-4 item-label">barva:</div>
+              <div class="col">{{color}}</div>
+            </div>
+            {{/if}}
+            {{#if HD}}
+            <div class="row">
+              <div class="col-4 item-label">HD:</div>
+              <div class="col">{{HD}}</div>
+            </div>
+            {{/if}}
+            {{#if ED}}
+            <div class="row">
+              <div class="col-4 item-label">ED:</div>
+              <div class="col">{{ED}}</div>
+            </div>
+            {{/if}}
+            {{#if (isDefined BAER)}}
+            <div class="row">
+              <div class="col-4 item-label">BAER:</div>
               <div class="col">
-                <div class="dogName">{{name}}</div>
-              </div>
-              <div class="col-3">
-                <div class="sex-symbol">
-                  <img src="./public/images/{{sex}}_symbol.png" class="sex_symbol_img">
-                </div>
+                {{#if BAER}}
+                normal
+                {{else}}
+                abnormal
+                {{/if}}
               </div>
             </div>
-            <div class="row border-0">
-              <div class="col">
-                <div class="row border-0">
-                  <div class="col-auto item-label">datum narození:</div>
-                  <div class="col-auto">{{dateFormat date_of_birth}}</div>
-                </div>
-              </div>
+            {{/if}}
+            {{#if rcd4}}
+            <div class="row">
+              <div class="col-4 item-label">PRA rcd4:</div>
+              <div class="col">{{rcd4}}</div>
             </div>
-            <div class="row border-0">
-              <div class="col">
-                <div class="row justify-content-center border-0 img-tumbnail-max-height">
-                  {{#if img_ext}}
-                  <div class="col centralize-content pop">
-                    <img src="./public/images/{{breed}}/{{clp}}.{{img_ext}}" alt="{{name}}"
-                         class="img-thumbnail img-rounded img-responsive img-max-height">
-                  </div>
-                  {{else}}
-                  <div class="col centralize-content">
-                    <img src="./public/images/{{breed}}-bw.png" alt=""
-                         class="img-thumbnail img-rounded img-responsive img-max-height">
-                  </div>
-                  {{/if}}
-                </div>
-              </div>
+            {{/if}}
+            {{#if other}}
+            <div class="row">
+              <div class="col-4 item-label">ostatní:</div>
+              <div class="col">{{other}}</div>
             </div>
-            <div class="row border-0">
-              <div class="col text-right">
-                <div class="dogCardDetailClick" id="{{clp}}">více informací...</div>
-              </div>
+            {{/if}}
+            {{/with}}
+            {{#if championships}}
+            <div class="row">
+              <div class="col-4 item-label">šampionáty</div>
+              <div class="col">{{championships}}</div>
             </div>
-            <div class="dogDetail hidden" id="dogDetail_{{clp}}">
-              <div class="row">
-                <div class="col-4 item-label">číslo zápisu</div>
-                <div class="col">ČLP/{{breed}}/{{clp}}</div>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label">otec:</div>
-                <div class="col">{{father}}</div>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label">matka:</div>
-                <div class="col">{{mother}}</div>
-              </div>
-              {{#if pedigree}}
-              <div class="row">
-                <div class="col-4 item-label">rodokmen:</div>
-                <div class="col"><a href="./public/images/{{breed}}/{{clp}}_pedigree.{{img_ext}}" target="_blank">
-                  <img src="./public/images/image.png" height="32" width="32">
-                </a></div>
-              </div>
-              {{/if}}
-              {{#ifEquals clp 6372}}
-              <div class="row">
-                <div class="col-4 item-label">rodokmen pop-up:</div>
-                <div class="col pedigree">
-                  <img src="./public/images/image.png" height="32" width="32" alt="" clp="{{clp}}">
-                </div>
-              </div>
-              {{/ifEquals}}
-              {{#with body}}
-                {{#if height}}
-                <div class="row">
-                  <div class="col-4 item-label">výška</div>
-                  <div class="col">{{height}}</div>
-                </div>
-                {{/if}}
-                {{#if color}}
-                <div class="row">
-                  <div class="col-4 item-label">barva:</div>
-                  <div class="col">{{color}}</div>
-                </div>
-                {{/if}}
-                {{#if HD}}
-                <div class="row">
-                  <div class="col-4 item-label">HD:</div>
-                  <div class="col">{{HD}}</div>
-                </div>
-                {{/if}}
-                {{#if ED}}
-                <div class="row">
-                  <div class="col-4 item-label">ED:</div>
-                  <div class="col">{{ED}}</div>
-                </div>
-                {{/if}}
-                {{#if (isDefined BAER)}}
-                <div class="row">
-                  <div class="col-4 item-label">BAER:</div>
-                  <div class="col">
-                    {{#if BAER}}
-                    normal
-                    {{else}}
-                    abnormal
-                    {{/if}}
-                  </div>
-                </div>
-                {{/if}}
-                {{#if rcd4}}
-                <div class="row">
-                  <div class="col-4 item-label">PRA rcd4:</div>
-                  <div class="col">{{rcd4}}</div>
-                </div>
-                {{/if}}
-                {{#if other}}
-                <div class="row">
-                  <div class="col-4 item-label">ostatní:</div>
-                  <div class="col">{{other}}</div>
-                </div>
-                {{/if}}
-              {{/with}}
-              {{#if championships}}
-              <div class="row">
-                <div class="col-4 item-label">šampionáty</div>
-                <div class="col">{{championships}}</div>
-              </div>
-              {{/if}}
-              <div class="row">
-                <div class="col-4 item-label">výstavy:</div>
-                <div class="col">{{shows}}</div>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label">zkoušky:</div>
-                <div class="col">{{exams}}</div>
-              </div>
-              {{#if other}}
-              <div class="row">
-                <div class="col-4 item-label">ostatní:</div>
-                <div class="col">{{other}}</div>
-              </div>
-              {{/if}}
+            {{/if}}
+            <div class="row">
+              <div class="col-4 item-label">výstavy:</div>
+              <div class="col">{{shows}}</div>
+            </div>
+            <div class="row">
+              <div class="col-4 item-label">zkoušky:</div>
+              <div class="col">{{exams}}</div>
+            </div>
+            {{#if other}}
+            <div class="row">
+              <div class="col-4 item-label">ostatní:</div>
+              <div class="col">{{other}}</div>
+            </div>
+            {{/if}}
 
-              <div class="row">
-                <div class="col-4 item-label">majitel:</div>
-                <div class="col">
-                  {{owner.title}} {{owner.first_name}} {{owner.last_name}}
-                  {{#if co-owner.last_name}}
-                    a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}
-                  {{/if}}
-                </div>
+            <div class="row">
+              <div class="col-4 item-label">majitel:</div>
+              <div class="col">
+                {{owner.title}} {{owner.first_name}} {{owner.last_name}}
+                {{#if co-owner.last_name}}
+                a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}
+                {{/if}}
               </div>
-              <div class="row">
-                <div class="col-4 item-label"></div>
-                <div class="col">
-                  {{owner.address.street}} {{owner.address.number}}
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-4 item-label"></div>
-                <div class="col">
-                  {{owner.address.post_code}} {{owner.address.city}}
-                </div>
-              </div>
-              {{#if owner.phone}}
-              <div class="row">
-                <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
-                <div class="col">
-                  <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
-                </div>
-              </div>
-              {{/if}}
-              {{#if owner.email}}
-              <div class="row">
-                <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
-                <div class="col shorten-col">
-                  <a href="mailto:{{owner.email}}">{{owner.email}}</a>
-                </div>
-              </div>
-              {{/if}}
-              {{#if owner.web}}
-              <div class="row">
-                <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
-                <div class="col shorten-col">
-                  <a href="{{{owner.web}}}" target="_blank">{{owner.web}}</a>
-                </div>
-              </div>
-              {{/if}}
             </div>
+            <div class="row">
+              <div class="col-4 item-label"></div>
+              <div class="col">
+                {{owner.address.street}} {{owner.address.number}}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-4 item-label"></div>
+              <div class="col">
+                {{owner.address.post_code}} {{owner.address.city}}
+              </div>
+            </div>
+            {{#if owner.phone}}
+            <div class="row">
+              <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
+              <div class="col">
+                <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
+              </div>
+            </div>
+            {{/if}}
+            {{#if owner.email}}
+            <div class="row">
+              <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
+              <div class="col shorten-col">
+                <a href="mailto:{{owner.email}}">{{owner.email}}</a>
+              </div>
+            </div>
+            {{/if}}
+            {{#if owner.web}}
+            <div class="row">
+              <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
+              <div class="col shorten-col">
+                <a href="{{{owner.web}}}" target="_blank">{{owner.web}}</a>
+              </div>
+            </div>
+            {{/if}}
           </div>
         </div>
-        {{/if}}
-      {{/each}}
-    </div>
-
-<!--    <div>-->
-    <div class="hidden">
-      {{#each pedigrees}}
-      <div id="pedigree_{{clp}}" class="rows-stripped">
-        <div class="row">
-          <div class="col-3">
-            {{father.name}}
-          </div>
-          <div class="col">
-            <div class="row">
-              <div class="col-4">
-                {{father.father.name}}
-              </div>
-              <div class="col">
-                <div class="row">
-                  <div class="col-6">
-                    {{father.father.father.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
+      </div>
+          {{#if pedigree}}
+          {{#with pedigree}}
+      <div class="modal fade" id="pedigree-modal-{{clp}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="close" data-dismiss="modal">
+                <span aria-hidden="true">&times;</span>
+                <span class="sr-only">Close</span>
+              </button>
+              <br>
+              <div id="pedigree-modal-content-{{clp}}">
+                <div>
+                  <!--    <div class="hidden">-->
+                  <div id="pedigree_{{clp}}" class="rows-stripped">
+                    <div class="row align-items-center">
+                      <div class="col-3">
+                        {{father.name}}
+                      </div>
                       <div class="col">
-                        {{father.father.father.father.name}}
+                        <div class="row align-items-center">
+                          <div class="col-4">
+                            {{father.father.name}}
+                          </div>
+                          <div class="col">
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{father.father.father.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.father.father.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.father.father.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{father.father.mother.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.father.mother.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.father.mother.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row align-items-center">
+                          <div class="col-4">
+                            {{father.mother.name}}
+                          </div>
+                          <div class="col">
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{father.mother.father.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.mother.father.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.mother.father.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{father.mother.mother.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.mother.mother.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{father.mother.mother.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                    <div class="row">
-                      <div class="col">
-                        {{father.father.father.mother.name}}
+                    <div class="row align-items-center">
+                      <div class="col-3">
+                        {{mother.name}}
                       </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-6">
-                    {{father.father.mother.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
                       <div class="col">
-                        {{father.father.mother.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{father.father.mother.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-4">
-               {{father.mother.name}}
-              </div>
-              <div class="col">
-                <div class="row">
-                  <div class="col-6">
-                    {{father.mother.father.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{father.mother.father.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{father.mother.father.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-6">
-                    {{father.mother.mother.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{father.mother.mother.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{father.mother.mother.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-3">
-            {{mother.name}}
-          </div>
-          <div class="col">
-            <div class="row">
-              <div class="col-4">
-                {{mother.father.name}}
-              </div>
-              <div class="col">
-                <div class="row">
-                  <div class="col-6">
-                    {{mother.father.father.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{mother.father.father.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{mother.father.father.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-6">
-                    {{mother.father.mother.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{mother.father.mother.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{mother.father.mother.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-4">
-                {{mother.mother.name}}
-              </div>
-              <div class="col">
-                <div class="row">
-                  <div class="col-6">
-                    {{mother.mother.father.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{mother.mother.father.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{mother.mother.father.mother.name}}
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-6">
-                    {{mother.mother.mother.name}}
-                  </div>
-                  <div class="col">
-                    <div class="row">
-                      <div class="col">
-                        {{mother.mother.mother.father.name}}
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col">
-                        {{mother.mother.mother.mother.name}}
+                        <div class="row align-items-center">
+                          <div class="col-4">
+                            {{mother.father.name}}
+                          </div>
+                          <div class="col">
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{mother.father.father.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.father.father.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.father.father.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{mother.father.mother.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.father.mother.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.father.mother.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row align-items-center">
+                          <div class="col-4">
+                            {{mother.mother.name}}
+                          </div>
+                          <div class="col">
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{mother.mother.father.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.mother.father.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.mother.father.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                {{mother.mother.mother.name}}
+                              </div>
+                              <div class="col">
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.mother.mother.father.name}}
+                                  </div>
+                                </div>
+                                <div class="row align-items-center">
+                                  <div class="col">
+                                    {{mother.mother.mother.mother.name}}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -390,6 +395,9 @@
           </div>
         </div>
       </div>
+      {{/with}}
+          {{/if}}
+        {{/if}}
       {{/each}}
     </div>
   </script>
@@ -426,21 +434,21 @@
 </div>
 
 
-<div class="modal fade" id="pedigree-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-body">
-        <button type="button" class="close" data-dismiss="modal">
-          <span aria-hidden="true">&times;</span>
-          <span class="sr-only">Close</span>
-        </button>
-        <br>
-        <div id="pedigree-modal-content">
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+<!--<div class="modal fade" id="pedigree-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">-->
+<!--  <div class="modal-dialog">-->
+<!--    <div class="modal-content">-->
+<!--      <div class="modal-body">-->
+<!--        <button type="button" class="close" data-dismiss="modal">-->
+<!--          <span aria-hidden="true">&times;</span>-->
+<!--          <span class="sr-only">Close</span>-->
+<!--        </button>-->
+<!--        <br>-->
+<!--        <div id="pedigree-modal-content">-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</div>-->
 
 
 </body>
