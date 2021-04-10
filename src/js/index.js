@@ -43,7 +43,6 @@ $(document).ready(function() {
   }
   getNews();
 
-
   var articleId = GetURLParameter('articleId');
   if (articleId) {
     getSingleArticle(articleId);
@@ -157,10 +156,10 @@ function getDogs(breed, sex) {
       } else if (sex === 'bitch') {
         dogsData = bitch;
       } else {
-        dogsData = {dogs: dog.dogs.concat(bitch.dogs)};
+        dogsData = { dogs: dog.dogs.concat(bitch.dogs) };
       }
 
-      let data = {dogs: dogsData.dogs};
+      let data = { dogs: dogsData.dogs };
 
       console.log('data');
       console.log(data);
@@ -173,13 +172,18 @@ function getDogs(breed, sex) {
       } else {
         console.log('there is something totally wrong 1');
       }
-      $('.pop').on('click', function () {
+      $('.pop').on('click', function() {
         console.log('click...');
-        $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+        $('.imagepreview').attr(
+          'src',
+          $(this)
+            .find('img')
+            .attr('src')
+        );
         $('#image-modal').modal('show');
       });
 
-      $('.pedigree').on('click', function () {
+      $('.pedigree').on('click', function() {
         let clp = $(this).attr('clp');
         console.log('pedigree click clp - ' + clp);
 
