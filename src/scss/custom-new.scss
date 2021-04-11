@@ -381,6 +381,14 @@ $img-thumbnail-max-height-value: 200px;
   //}
 }
 
+.pedigree-modal-content {
+  border: 2px solid $a-hover-color;
+  padding-left: 20px;
+  padding-right: 20px;
+  //margin-left: 20px;
+  //margin-right: 20px;
+}
+
 // center one grid item
 //.vcenter-item {
 //  display: flex;
