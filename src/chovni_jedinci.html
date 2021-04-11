@@ -196,7 +196,6 @@
         </div>
       </div>
           {{#if pedigree}}
-          {{#with pedigree}}
       <div class="modal fade" id="pedigree-modal-{{clp}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
@@ -210,6 +209,7 @@
                 <div>
                   <!--    <div class="hidden">-->
                   <div id="pedigree_{{clp}}" class="rows-stripped">
+                    {{#with pedigree}}
                     <div class="row align-items-center">
                       <div class="col-3">
                         {{father.name}}
@@ -388,6 +388,7 @@
                         </div>
                       </div>
                     </div>
+                    {{/with}}
                   </div>
                 </div>
               </div>
@@ -395,7 +396,6 @@
           </div>
         </div>
       </div>
-      {{/with}}
           {{/if}}
         {{/if}}
       {{/each}}
