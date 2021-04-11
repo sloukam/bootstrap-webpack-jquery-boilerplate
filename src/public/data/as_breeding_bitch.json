@@ -366,69 +366,6 @@
       "championships": "JCH ČR",
       "shows": "CAJC, BOJ, BOS",
       "exams": "ZV – I.cena",
-      "pedigree":
-      {
-        "mother": {
-          "clp": "31",
-          "name": "32",
-          "father": {
-            "clp": "33",
-            "name": "34",
-            "father": {
-              "clp": "35",
-              "name": "36",
-              "father": {
-                "clp": "37",
-                "name": "38"
-              },
-              "mother": {
-                "clp": "39",
-                "name": "39,5"
-              }
-            },
-            "mother": {
-              "clp": "40",
-              "name": "41",
-              "father": {
-                "clp": "42",
-                "name": "43"
-              },
-              "mother": {
-                "clp": "44",
-                "name": "45"
-              }
-            }
-          },
-          "mother": {
-            "clp": "46",
-            "name": "47",
-            "father": {
-              "clp": "48",
-              "name": "49",
-              "father": {
-                "clp": "50",
-                "name": "51"
-              },
-              "mother": {
-                "clp": "52",
-                "name": "53"
-              }
-            },
-            "mother": {
-              "clp": "54",
-              "name": "55",
-              "father": {
-                "clp": "56",
-                "name": "57"
-              },
-              "mother": {
-                "clp": "58",
-                "name": "59"
-              }
-            }
-          }
-        }
-      },
       "owner": {
         "first_name": "Daniela",
         "last_name": "Vincová",
@@ -453,7 +390,6 @@
       "father": "Latin Lover The Boss",
       "mother": "Latin Lover The Black Dhalia",
       "pedigree": {
-        "clp": 6372,
         "father": {
           "clp": 111,
           "name": "LATIN LOVER THE BOSS",

@@ -19,40 +19,84 @@
   <div class="main-container">
     <form class="add-breeding-dog-form">
 
+      <div class="row">
+        <div class="col-4 item-label">rasa:</div>
+        <div class="col">
+          <div class="row row-no-bottom-border">
+            <div class="col">
+              <input id="as" name="breed" type="radio" value="AS" required="required">
+              <label for="as">AS</label>
+            </div>
+            <div class="col">
+              <input id="gs" name="breed" type="radio" value="GS">
+              <label for="as">GS</label>
+            </div>
+            <div class="col">
+              <input id="irws" name="breed" type="radio" value="IRWS">
+              <label for="irws">ČBS</label>
+            </div>
+            <div class="col">
+              <input id="is" name="breed" type="radio" value="IS">
+              <label for="is">IS</label>
+            </div>
+            <div class="col">
+              <input id="poi" name="breed" type="radio" value="POI">
+              <label for="poi">POI</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-4 item-label" for="sex">pes / fena</div>
+        <div class="col">
+          <div class="row row-no-bottom-border">
+            <div class="col">
+              <input id="sex_male" name="sex" type="radio" value="male" required="required" checked="checked">
+              <label for="sex_male">pes</label>
+            </div>
+            <div class="col">
+              <input id="sex_female" name="sex" type="radio" value="female">
+              <label for="sex_female">fena</label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-4 item-label" for="clp">člp psa/feny pro kterou je tento rodokmen</div>
+        <input class="col-3" id="clp" name="clp" type="number" required="required">
+      </div>
+
       <div id="pedigree_{{clp}}" class="rows-stripped">
         <div class="row align-items-center">
+        </div>
+        <div class="row align-items-center">
           <div class="col-3">
-            <label>
-              <input class="col" name="father.clp" type="number" placeholder="clp">
+            <label>pes
+              <input class="col" name="father.clp" type="number" aria-label="clp" placeholder="clp">
             </label>
-            <label>
-              <textarea class="col" name="father.name" type="text" rows="3" required="required"></textarea>
-            </label>
+            <textarea class="col" name="father.name" type="text" rows="3" required="required"></textarea>
           </div>
           <div class="col">
             <div class="row align-items-center">
               <div class="col-4">
-                <label>
+                <label>pes
                   <input class="col" name="father.father.clp" type="number" placeholder="clp">
                 </label>
-                <label>
-                  <textarea class="col" name="father.father.name" type="text" rows="3" required="required"></textarea>
-                </label>
+                <textarea class="col" name="father.father.name" type="text" rows="3" required="required"></textarea>
               </div>
               <div class="col">
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>pes
                       <input class="col" name="father.father.father.clp" type="number" placeholder="clp">
                     </label>
-                    <label>
-                      <textarea class="col" name="father.father.father.name" type="text" rows="3" required="required"></textarea>
-                    </label>
+                    <textarea class="col" name="father.father.father.name" type="text" rows="3" required="required"></textarea>
                   </div>
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="father.father.father.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.father.father.father.name" type="text" rows="3" required="required"></textarea>
@@ -60,7 +104,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="father.father.father.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.father.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -70,7 +114,7 @@
                 </div>
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>fena
                       <input class="col" name="father.father.mother.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="father.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -78,7 +122,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="father.father.mother.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.father.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -86,7 +130,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="father.father.mother.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.father.mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -98,7 +142,7 @@
             </div>
             <div class="row align-items-center">
               <div class="col-4">
-                <label>
+                <label>fena
                   <input class="col" name="father.mother.clp" type="number" placeholder="clp">
                 </label>
                 <textarea class="col" name="father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -106,7 +150,7 @@
               <div class="col">
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>pes
                       <input class="col" name="father.mother.father.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="father.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -114,7 +158,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="father.mother.father.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.mother.father.father.name" type="text" rows="3" required="required"></textarea>
@@ -122,7 +166,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="father.mother.father.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.mother.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -132,7 +176,7 @@
                 </div>
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>fena
                       <input class="col" name="father.mother.mother.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="father.mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -140,7 +184,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="father.mother.mother.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.mother.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -148,7 +192,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="father.mother.mother.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="father.mother.mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -163,37 +207,31 @@
 
         <div class="row align-items-center">
           <div class="col-3">
-            <label>
+            <label>fena
               <input class="col" name="mother.clp" type="number" placeholder="clp">
             </label>
-            <label>
-              <textarea class="col" name="mother.name" type="text" rows="3" required="required"></textarea>
-            </label>
+            <textarea class="col" name="mother.name" type="text" rows="3" required="required"></textarea>
           </div>
           <div class="col">
             <div class="row align-items-center">
               <div class="col-4">
-                <label>
+                <label>pes
                   <input class="col" name="mother.father.clp" type="number" placeholder="clp">
                 </label>
-                <label>
-                  <textarea class="col" name="mother.father.name" type="text" rows="3" required="required"></textarea>
-                </label>
+                <textarea class="col" name="mother.father.name" type="text" rows="3" required="required"></textarea>
               </div>
               <div class="col">
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>pes
                       <input class="col" name="mother.father.father.clp" type="number" placeholder="clp">
                     </label>
-                    <label>
-                      <textarea class="col" name="mother.father.father.name" type="text" rows="3" required="required"></textarea>
-                    </label>
+                    <textarea class="col" name="mother.father.father.name" type="text" rows="3" required="required"></textarea>
                   </div>
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="mother.father.father.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.father.father.father.name" type="text" rows="3" required="required"></textarea>
@@ -201,7 +239,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="mother.father.father.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.father.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -211,7 +249,7 @@
                 </div>
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>fena
                       <input class="col" name="mother.father.mother.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="mother.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -219,7 +257,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="mother.father.mother.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.father.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -227,7 +265,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="mother.father.mother.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.father.mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -239,7 +277,7 @@
             </div>
             <div class="row align-items-center">
               <div class="col-4">
-                <label>
+                <label>fena
                   <input class="col" name="mother.mother.clp" type="number" placeholder="clp">
                 </label>
                 <textarea class="col" name="mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -247,7 +285,7 @@
               <div class="col">
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>pes
                       <input class="col" name="mother.mother.father.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="mother.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -255,7 +293,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="mother.mother.father.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.mother.father.father.name" type="text" rows="3" required="required"></textarea>
@@ -263,7 +301,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="mother.mother.father.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.mother.father.mother.name" type="text" rows="3" required="required"></textarea>
@@ -273,7 +311,7 @@
                 </div>
                 <div class="row align-items-center">
                   <div class="col-6">
-                    <label>
+                    <label>fena
                       <input class="col" name="mother.mother.mother.clp" type="number" placeholder="clp">
                     </label>
                     <textarea class="col" name="mother.mother.mother.name" type="text" rows="3" required="required"></textarea>
@@ -281,7 +319,7 @@
                   <div class="col-6">
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>pes
                           <input class="col" name="mother.mother.mother.father.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.mother.mother.father.name" type="text" rows="3" required="required"></textarea>
@@ -289,7 +327,7 @@
                     </div>
                     <div class="row align-items-center">
                       <div class="col">
-                        <label>
+                        <label>fena
                           <input class="col" name="mother.mother.mother.mother.clp" type="number" placeholder="clp">
                         </label>
                         <textarea class="col" name="mother.mother.mother.mother.name" type="text" rows="3" required="required"></textarea>
