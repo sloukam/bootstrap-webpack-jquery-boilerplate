@@ -387,10 +387,30 @@ $img-thumbnail-max-height-value: 200px;
   padding-right: 20px;
   //margin-left: 20px;
   //margin-right: 20px;
+
+  @include media-breakpoint-up(sm) {
+    font-size: 0.7rem;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: 0.7rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    font-size: 0.7rem;
+  }
+  @include media-breakpoint-up(xl) {
+    font-size: 0.85rem;
+  }
 }
+
 
 // center one grid item
 //.vcenter-item {
 //  display: flex;
 //  align-items: center;
 //}
+
+
+
+

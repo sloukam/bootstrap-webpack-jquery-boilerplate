@@ -283,6 +283,105 @@
       "clp": "6536",
       "father": "Dolce Link Everywhere z Ojcowskiej doliny",
       "mother": "Xsara z Holubické stráně",
+      "pedigree":{
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6536",
+        "father": {
+          "name": "Dolce Link Everywhere z Ojcowskiej doliny",
+          "father": {
+            "name": "Triseter Celtic Link With Laurelhach",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodrugan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Triseter Celtic Dusk",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Urania"
+              }
+            }
+          },
+          "mother": {
+            "name": "Africa z Ojcowskiej doliny",
+            "father": {
+              "name": "Kingpoint Everywhere",
+              "father": {
+                "name": "Windcrest Once In a Blue Moon"
+              },
+              "mother": {
+                "name": "Kingpoint After Hought"
+              }
+            },
+            "mother": {
+              "name": "Shanta Kaladan",
+              "father": {
+                "name": "Archibald Sandberg"
+              },
+              "mother": {
+                "name": "Akceptacia Misialinka"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6198",
+          "name": "Xsara z Holubické stráně",
+          "father": {
+            "name": "Yennadon Dynamic Dan",
+            "father": {
+              "name": "Dunfion Inverkip",
+              "father": {
+                "name": "Liric The Jolly Swagman"
+              },
+              "mother": {
+                "name": "Dunfion Gigha"
+              }
+            },
+            "mother": {
+              "name": "Yennadon Time for Tavy",
+              "father": {
+                "name": "Yennadon Prime Time"
+              },
+              "mother": {
+                "name": "Gaidheal Sorrel at Yennadon"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "name": "KingCross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "černá s pálením",
