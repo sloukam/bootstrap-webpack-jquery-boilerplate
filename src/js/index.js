@@ -123,7 +123,7 @@ $('#copyToClippboardBtn').on('click', function() {
 // tohle je onClick pro rozbaleni detailu psa
 function addOnClickEvents() {
   const clickLinkElement = $('.dogCardDetailClick');
-  clickLinkElement.on('click', function (event) {
+  clickLinkElement.on('click', function(event) {
     const id = $(event.target).attr('id');
 
     let dogDetailDiv = $('#dogDetail_' + id);
@@ -139,12 +139,13 @@ function addOnClickEvents() {
     }
   });
   clickLinkElement.hover(
-    function () {
+    function() {
       $(this).css('color', '#3d2b1f');
-    }, function () {
+    },
+    function() {
       $(this).css('color', '#8B4513');
     }
-  )
+  );
 }
 
 function getDogs(breed, sex) {

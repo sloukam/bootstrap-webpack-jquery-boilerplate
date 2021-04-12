@@ -414,6 +414,108 @@
       "father": "Lamborghini Black Ivy",
       "mother": "Zira z Holubické stráně",
       "sex": "male",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "6603",
+        "father": {
+          "name": "Lamborghini Black Ivy",
+          "father": {
+            "name": "Triseter Celtic Link with Laurelhach",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Triseter Celtic Dusk",
+              "father": {
+                "name": "Trisetr Ebony Yarra"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Urania"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill Shadow of the Moon",
+            "father": {
+              "name": "Triseter Ebonie Yarra",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Showpoint be Pop a Lula",
+              "father": {
+                "name": "Trisetr Ebony Nirvana"
+              },
+              "mother": {
+                "name": "Kingpoint  Celebrity"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Zira z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Trisetr Ebony Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's place"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "color": "černá s pálením",
