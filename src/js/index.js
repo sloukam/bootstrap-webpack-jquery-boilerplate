@@ -122,17 +122,29 @@ $('#copyToClippboardBtn').on('click', function() {
 
 // tohle je onClick pro rozbaleni detailu psa
 function addOnClickEvents() {
-  var clickLinkElement = $('.dogCardDetailClick');
-  clickLinkElement.on('click', function(event) {
-    var id = $(event.target).attr('id');
+  const clickLinkElement = $('.dogCardDetailClick');
+  clickLinkElement.on('click', function (event) {
+    const id = $(event.target).attr('id');
 
-    $('#dogDetail_' + id).toggle(250);
-    //
-    // var closest = click.closest('.dogCard').first();
-    // closest.css('background-color', 'red');
-    // console.log('closest');
-    // console.log(closest);
+    let dogDetailDiv = $('#dogDetail_' + id);
+
+    const visible = dogDetailDiv.is(':visible');
+
+    dogDetailDiv.toggle(250);
+
+    if (visible) {
+      $(this).html('více informací...');
+    } else {
+      $(this).html('méně informací...');
+    }
   });
+  clickLinkElement.hover(
+    function () {
+      $(this).css('color', '#3d2b1f');
+    }, function () {
+      $(this).css('color', '#8B4513');
+    }
+  )
 }
 
 function getDogs(breed, sex) {
