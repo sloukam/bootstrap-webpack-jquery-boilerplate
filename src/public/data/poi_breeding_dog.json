@@ -244,7 +244,7 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": false,
+      "visible": true,
       "name": "BRIT OD ZELENÉHO STOLU",
       "date_of_birth": "2013-06-23",
       "clp": "10961",
@@ -472,7 +472,7 @@
       },
       "championships": "CH CZ",
       "shows": "V1, VT, OV, KV, res. CACIB, res. CAC., CAC",
-      "exams": "ZV II. c",
+      "exams": "ZV I. c",
       "owner": {
         "first_name": "Veronika",
         "last_name": "Otáhalová",

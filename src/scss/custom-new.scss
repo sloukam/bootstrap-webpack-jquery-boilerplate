@@ -2,7 +2,7 @@
 $debug: false;
 
 $a-color: #8B4513;
-$a-hover-color: #8b6349;
+$a-hover-color: #3d2b1f;
 
 $menu-bg: #889883;
 $menu-dropdown-bg: $menu-bg;
@@ -381,8 +381,36 @@ $img-thumbnail-max-height-value: 200px;
   //}
 }
 
+.pedigree-modal-content {
+  border: 2px solid $a-hover-color;
+  padding-left: 20px;
+  padding-right: 20px;
+  //margin-left: 20px;
+  //margin-right: 20px;
+
+  @include media-breakpoint-up(sm) {
+    font-size: 0.7rem;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: 0.7rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    font-size: 0.7rem;
+  }
+  @include media-breakpoint-up(xl) {
+    font-size: 0.85rem;
+  }
+}
+
+
 // center one grid item
 //.vcenter-item {
 //  display: flex;
 //  align-items: center;
 //}
+
+
+
+

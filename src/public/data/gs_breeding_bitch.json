@@ -166,6 +166,109 @@
       "clp": "6480",
       "father": "Hemingway Beauty of Gordon",
       "mother": "Quina z Holubické stráně",
+      "pedigree": {
+        "father": {
+          "name": "Hemingway Beauty of Gordon",
+          "father": {
+            "name": "Forester´s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star Is Born"
+              }
+            },
+            "mother": {
+              "name": "Foroster´s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester´s Introduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "name": "Bea Beauty of Gordon",
+            "father": {
+              "name": "Yaccomo von Eixelberg",
+              "father": {
+                "name": "Flambo du Deldo"
+              },
+              "mother": {
+                "name": "Peddy von Eixelberg"
+              }
+            },
+            "mother": {
+              "name": "Aliana von Wolthaus",
+              "father": {
+                "name": "Hutch vom Meerer Busch"
+              },
+              "mother": {
+                "name": "Gamba von Catenhorn"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6292",
+          "name": "Quina z Holubické stráně",
+          "father": {
+            "clp": "5053",
+            "name": "Faro z Prostějovska",
+            "father": {
+              "clp": "4870",
+              "name": "Tramp from Lady´s Place",
+              "father": {
+                "name": "Forester´s Blackfire"
+              },
+              "mother": {
+                "name": "Lady Admiration from Kings Castle"
+              }
+            },
+            "mother": {
+              "clp": "6820",
+              "name": "Kingcross Viki",
+              "father": {
+                "name": "Heuréka Zorba"
+              },
+              "mother": {
+                "name": "Tövisrozsakerdi Eliza"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5380",
+            "name": "Kora z Holubické stráně",
+            "father": {
+              "clp": "4624",
+              "name": "Bor z Náměště na Hané",
+              "father": {
+                "clp": "0000",
+                "name": "Danger Sonave"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Ajda od Dostálů"
+              }
+            },
+            "mother": {
+              "clp": "4767",
+              "name": "Bessy z Podléskovičí",
+              "father": {
+                "clp": "0000",
+                "name": "Eros z Devinské glavice"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Urza z Velkého košíře"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
@@ -196,6 +299,114 @@
       "clp": "6485",
       "father": "Glen z Želečky",
       "mother": "Zira z Holubické stráně",
+      "pedigree": {
+        "father": {
+          "clp": "5649",
+          "name": "Glen z Želečky",
+          "father": {
+            "clp": "0000",
+            "name": "Grant z Bojandolí",
+            "father": {
+              "name": "Black Devil´s Joshua",
+              "father": {
+                "name": "Black Devil´s Iron"
+              },
+              "mother": {
+                "name": "Black Devil´s Qaiya"
+              }
+            },
+            "mother": {
+              "clp": "0000",
+              "name": "Anita Sandberg",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Heuréka Brenda"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5350",
+            "name": "Elza z Želečky",
+            "father": {
+              "clp": "4870",
+              "name": "Tramp from Lady´s Place",
+              "father": {
+                "name": "Forester´s Blackfire"
+              },
+              "mother": {
+                "name": "Lady Administration from Kings Castle"
+              }
+            },
+            "mother": {
+              "clp": "5097",
+              "name": "Dixie z Želečky",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6292",
+          "name": "Zira z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "65",
         "color": "černá s pálením",
@@ -283,6 +494,102 @@
       "clp": "6536",
       "father": "Dolce Link Everywhere z Ojcowskiej doliny",
       "mother": "Xsara z Holubické stráně",
+      "pedigree": {
+        "father": {
+          "name": "Dolce Link Everywhere z Ojcowskiej doliny",
+          "father": {
+            "name": "Triseter Celtic Link With Laurelhach",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodrugan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Triseter Celtic Dusk",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Urania"
+              }
+            }
+          },
+          "mother": {
+            "name": "Africa z Ojcowskiej doliny",
+            "father": {
+              "name": "Kingpoint Everywhere",
+              "father": {
+                "name": "Windcrest Once In a Blue Moon"
+              },
+              "mother": {
+                "name": "Kingpoint After Hought"
+              }
+            },
+            "mother": {
+              "name": "Shanta Kaladan",
+              "father": {
+                "name": "Archibald Sandberg"
+              },
+              "mother": {
+                "name": "Akceptacia Misialinka"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6198",
+          "name": "Xsara z Holubické stráně",
+          "father": {
+            "name": "Yennadon Dynamic Dan",
+            "father": {
+              "name": "Dunfion Inverkip",
+              "father": {
+                "name": "Liric The Jolly Swagman"
+              },
+              "mother": {
+                "name": "Dunfion Gigha"
+              }
+            },
+            "mother": {
+              "name": "Yennadon Time for Tavy",
+              "father": {
+                "name": "Yennadon Prime Time"
+              },
+              "mother": {
+                "name": "Gaidheal Sorrel at Yennadon"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "name": "KingCross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "černá s pálením",
@@ -346,6 +653,108 @@
       "clp": "6608",
       "father": "Lamborghini Black Ivy",
       "mother": "Zira z Holubické stráně",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6608",
+        "father": {
+          "name": "Lamborghini Black Ivy",
+          "father": {
+            "name": "Triseter Celtic Link with Laurelhach",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Triseter Celtic Dusk",
+              "father": {
+                "name": "Trisetr Ebony Yarra"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Urania"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill Shadow of the Moon",
+            "father": {
+              "name": "Triseter Ebonie Yarra",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Showpoint be Pop a Lula",
+              "father": {
+                "name": "Trisetr Ebony Nirvana"
+              },
+              "mother": {
+                "name": "Kingpoint  Celebrity"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Zira z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Trisetr Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Trisetr Ebony Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's place"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "černá s pálením",
@@ -504,6 +913,98 @@
       "clp": "6759",
       "father": "Sangerfild Geronimo",
       "mother": "Triseter Celtic Swansy",
+      "pedigree": {
+        "father": {
+          "name": "Sangerfild Geronimo",
+          "father": {
+            "name": "Fleckwood Ebonie Xavie",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Triseter Ebonie Innika",
+              "father": {
+                "name": "Triseter Ebonie Dude"
+              },
+              "mother": {
+                "name": "Kqrac Kirrie Krista"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sangerfild Toast & Milk & Honey",
+            "father": {
+              "name": "Caballus Ebonie Argos",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Nerissa"
+              }
+            },
+            "mother": {
+              "name": "Free Minds Cleopatra",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Ludstar Marbella"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Triseter Celtic Swansy",
+          "father": {
+            "name": "Azzaro Knight-Rider",
+            "father": {
+              "name": "Brodruggan Black Knight",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Tahtan Black Magic"
+              }
+            },
+            "mother": {
+              "name": "Azzaro Singing-Up-A-Storm",
+              "father": {
+                "name": "Lochtay Darkn Stormy"
+              },
+              "mother": {
+                "name": "Azzaro Titan Wana B A Singer"
+              }
+            }
+          },
+          "mother": {
+            "name": "Azzaro Sweet Nostalgia",
+            "father": {
+              "name": "Weblyn Nostalgia at Azzaro",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Weblyn Ma Belle Intrigue"
+              }
+            },
+            "mother": {
+              "name": "Trikeena Sweet Success",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Trikeena Clair Martin"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "color": "černá s pálením",
@@ -600,6 +1101,98 @@
       "clp": "6909",
       "father": "Carnoustie Hercules",
       "mother": "Double Dream Loveset Stylish Cindy",
+      "pedigree": {
+        "father": {
+          "name": "Carnousestie Hercules",
+          "father": {
+            "name": "Brodruggan Black Knight",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Tahtan Black Magic",
+              "father": {
+                "name": "Rokeena Black Titan"
+              },
+              "mother": {
+                "name": "Tahtan Black Agnes"
+              }
+            }
+          },
+          "mother": {
+            "name": "Jamanelph Pallas Athena",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Carnoustie What a Vision",
+              "father": {
+                "name": "Shannas Daimler"
+              },
+              "mother": {
+                "name": "Carnoustie Gypsy Moth"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Double Dream Loveset Stylish Cindy",
+          "father": {
+            "name": "Goango Black Hakuna Matata",
+            "father": {
+              "name": "Triseter Celtic Ace",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Goango Black Ebony",
+              "father": {
+                "name": "Showpoint Born To Be Wild"
+              },
+              "mother": {
+                "name": "Goango Black Belle"
+              }
+            }
+          },
+          "mother": {
+            "name": "Double Dream Loveset Bliss Fate",
+            "father": {
+              "name": "Yukki Hill Santana Blues",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            },
+            "mother": {
+              "name": "Double Dream Loveset Magic Night",
+              "father": {
+                "name": "Sangerfield Clan Curator"
+              },
+              "mother": {
+                "name": "Ludstar Victoria"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "černá s pálením",
@@ -632,6 +1225,109 @@
       "clp": "6820",
       "father": "Dream Believer Kochanej Emilki",
       "mother": "Beretta z Holubické stráně",
+      "pedigree": {
+        "father": {
+          "name": "DREAM BELIEVER Kochanej Emilki",
+          "father": {
+            "name": "Brodruggan Black Knight",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Tahtan Blac Magic",
+              "father": {
+                "name": "Rokeena Black Titan"
+              },
+              "mother": {
+                "name": "Tahtan Black Agnes"
+              }
+            }
+          },
+          "mother": {
+            "name": "Rosalie von der Wilden Horde",
+            "father": {
+              "name": "Laurelhach Legend",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena with Laurelhach"
+              }
+            },
+            "mother": {
+              "name": "Päivi von der Wilden Horde",
+              "father": {
+                "name": "Lochtay the Legislator"
+              },
+              "mother": {
+                "name": "Beautiful-Sky Magic of Elegance"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6485",
+          "name": "Beretta z Holubické stráně",
+          "father": {
+            "clp": "5649",
+            "name": "Glen z Želečky",
+            "father": {
+              "clp": "0000",
+              "name": "Grand z Bojandolí",
+              "father": {
+                "name": "Black Devil´s Joshua"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Anita Sandberg"
+              }
+            },
+            "mother": {
+              "clp": "5350",
+              "name": "Elza z Želečky",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Dixie z Želečky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Zira z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
