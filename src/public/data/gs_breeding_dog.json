@@ -38,6 +38,110 @@
       "father": "Forester's Zampano of Darkmoor",
       "mother": "Dyksi z Krátošických strání",
       "sex": "male",
+      "pedigree": {
+        "father": {
+          "name": "Forester´s Zampano of Darkmoor",
+          "father": {
+            "name": "Ludstar Defender",
+            "father": {
+              "name": "Shannas Journalist",
+              "father": {
+                "name": "Wickenberry Philosopher at Liric"
+              },
+              "mother": {
+                "name": "Shannas Midnight Breeze"
+              }
+            },
+            "mother": {
+              "name": "Liric A Star Is Born",
+              "father": {
+                "name": "Wickenberry Maverick at Liric"
+              },
+              "mother": {
+                "name": "Dalhanna Nemasis at Liric"
+              }
+            }
+          },
+          "mother": {
+            "name": "Forester´s Nora-Jane of Darkmoor",
+            "father": {
+              "name": "Forester´s Ironduke of Darkmoor",
+              "father": {
+                "name": "Divine Eye from Fire´Sons Garden"
+              },
+              "mother": {
+                "name": "Lessly von Frohnhof"
+              }
+            },
+            "mother": {
+              "name": "Timberley van Monte di Angeli",
+              "father": {
+                "name": "Nimrod-OK van Monte do Angeli"
+              },
+              "mother": {
+                "name": "Nimrod-OK van Monte do Angeli"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5690",
+          "name": "Dyksi z Krátošických strání",
+          "father": {
+            "clp": "5248",
+            "name": "Dastin DAMA Krkonoše",
+            "father": {
+              "clp": "4870",
+              "name": "Tramp from Lady´s Place",
+              "father": {
+                "name": "Forester´s Blackfire"
+              },
+              "mother": {
+                "name": "Lady Admiration from Kings Castle"
+              }
+            },
+            "mother": {
+              "clp": "4532",
+              "name": "Asta od Hodùnky",
+              "father": {
+                "clp": "0000",
+                "name": "Jago ze Seèe"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Ceva z Pohnanských vrchù"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5073",
+            "name": "Elza z Pohnanských vrchù",
+            "father": {
+              "clp": "4624",
+              "name": "Bor z Námìštì na Hané",
+              "father": {
+                "clp": "0000",
+                "name": "Danger Sonave"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Ajda od Dostálù"
+              }
+            },
+            "mother": {
+              "clp": "4645",
+              "name": "Loty z Aklic",
+              "father": {
+                "name": "O´Reilly´s Irex"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Ginny Záøící den"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "68",
         "color": "černá s pálením",
@@ -131,6 +235,116 @@
       "father": "Britt z Dvorku Čamourku",
       "mother": "Happy z Želečky",
       "sex": "male",
+      "pedigree": {
+        "father": {
+          "clp": "6122",
+          "name": "Britt z Dvorku Èamourku",
+          "father": {
+            "name": "Forester´s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star Is Born"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester´s Ironduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5690",
+            "name": "Dyksi z Krátošických strání",
+            "father": {
+              "clp": "5248",
+              "name": "Dastin DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodùnky"
+              }
+            },
+            "mother": {
+              "clp": "5073",
+              "name": "Elza z Pohnanských vrchù",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Námìštì na Hané"
+              },
+              "mother": {
+                "clp": "4645",
+                "name": "Loty z Aklic"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5733",
+          "name": "Happy z Zeleèky",
+          "father": {
+            "clp": "5515",
+            "name": "Bogey Jinonický dvùr",
+            "father": {
+              "name": "Nemo vom Eixelberg",
+              "father": {
+                "name": "Wayne vom Eixelberg"
+              },
+              "mother": {
+                "name": "Inka vom Eixelberg"
+              }
+            },
+            "mother": {
+              "clp": "4889",
+              "name": "Usure Sonave",
+              "father": {
+                "clp": "4585",
+                "name": "Stop z Bojanovského údolí"
+              },
+              "mother": {
+                "clp": "4402",
+                "name": "Ingi Sonave"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5350",
+            "name": "Elza z Zeleèky",
+            "father": {
+              "clp": "4870",
+              "name": "Tramp from Lady´s Place",
+              "father": {
+                "name": "Forester´s Blackfire"
+              },
+              "mother": {
+                "name": "Lady Admiration from Kings Castle"
+              }
+            },
+            "mother": {
+              "clp": "5097",
+              "name": "Dixie z Zeleèky",
+              "father": {
+                "clp": "6424",
+                "name": "Bor z Námìštì na Hané"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "67",
         "color": "černá s pálením",
@@ -163,6 +377,106 @@
       "father": "Sundower's Amaretto-Kiss",
       "mother": "Xsara z Holubické stráně",
       "sex": "male",
+      "pedigree": {
+        "father": {
+          "name": "\nSundowner's Amaretto-Kiss",
+          "father": {
+            "name": "Laurelhach Moviestar",
+            "father": {
+              "name": "Liric Come Dance with me of Shillay",
+              "father": {
+                "name": "Cromasaig Drams Demeanour of Girvans"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Continue A Story",
+              "father": {
+                "name": "Caballus Ebonie Adonis Ludstar"
+              },
+              "mother": {
+                "name": "Laurelhach Forget-Me-Not"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sundowner's Wild-Whopie",
+            "father": {
+              "name": "Laurelhach Illustrious",
+              "father": {
+                "name": "Liric The Jolly Swangman"
+              },
+              "mother": {
+                "name": "Laurelhach Forget-Me-Not"
+              }
+            },
+            "mother": {
+              "name": "Sundowner's Only",
+              "father": {
+                "name": "Blackberry Smoke"
+              },
+              "mother": {
+                "name": "Sundowner's Flair"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6198",
+          "name": "Xsara z Holubické stránì",
+          "father": {
+            "name": "Yennadon Dynamic Dan",
+            "father": {
+              "name": "Dunfion Inverkip",
+              "father": {
+                "name": "Liric The Jolly Swagman"
+              },
+              "mother": {
+                "name": "Dunfion Gigha"
+              }
+            },
+            "mother": {
+              "name": "Yennadon Time for Tavy",
+              "father": {
+                "name": "Yennadon Prime Time"
+              },
+              "mother": {
+                "name": "Gaidheal Sorrel at Yennadon"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stránì",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostìjovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "6820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stránì",
+              "father": {
+                "clp": "6424",
+                "name": "Bor z Námìštì na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovièí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "color": "černá s pálením",
@@ -258,6 +572,109 @@
       "father": "Hemingway Beauty of Gordon",
       "mother": "Quina z Holubické stráně",
       "sex": "male",
+      "pedigree": {
+        "father": {
+          "name": "Hemingway Beauty of Gordon",
+          "father": {
+            "name": "Forester´s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star Is Born"
+              }
+            },
+            "mother": {
+              "name": "Foroster´s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester´s Introduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "name": "Bea Beauty of Gordon",
+            "father": {
+              "name": "Yaccomo von Eixelberg",
+              "father": {
+                "name": "Flambo du Deldo"
+              },
+              "mother": {
+                "name": "Peddy von Eixelberg"
+              }
+            },
+            "mother": {
+              "name": "Aliana von Wolthaus",
+              "father": {
+                "name": "Hutch vom Meerer Busch"
+              },
+              "mother": {
+                "name": "Gamba von Catenhorn"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6292",
+          "name": "Quina z Holubické stránì",
+          "father": {
+            "clp": "5053",
+            "name": "Faro z Prostìjovska",
+            "father": {
+              "clp": "4870",
+              "name": "Tramp from Lady´s Place",
+              "father": {
+                "name": "Forester´s Blackfire"
+              },
+              "mother": {
+                "name": "Lady Admiration from Kings Castle"
+              }
+            },
+            "mother": {
+              "clp": "6820",
+              "name": "Kingcross Viki",
+              "father": {
+                "name": "Heuréka Zorba"
+              },
+              "mother": {
+                "name": "Tövisrozsakerdi Eliza"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5380",
+            "name": "Kora z Holubické stránì",
+            "father": {
+              "clp": "4624",
+              "name": "Bor z Námìštì na Hané",
+              "father": {
+                "clp": "0000",
+                "name": "Danger Sonave"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Ajda od Dostálù"
+              }
+            },
+            "mother": {
+              "clp": "4767",
+              "name": "Bessy z Podléskovièí",
+              "father": {
+                "clp": "0000",
+                "name": "Eros z Devinské glavice"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Urza z Velkého košíøe"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "color": "černá s pálením",
