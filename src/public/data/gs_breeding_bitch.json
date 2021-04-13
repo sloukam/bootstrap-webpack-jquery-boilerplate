@@ -167,9 +167,6 @@
       "father": "Hemingway Beauty of Gordon",
       "mother": "Quina z Holubické stráně",
       "pedigree": {
-        "breed": "GS",
-        "sex": "female",
-        "clp": "6480",
         "father": {
           "name": "Hemingway Beauty of Gordon",
           "father": {
@@ -217,10 +214,10 @@
         },
         "mother": {
           "clp": "6292",
-          "name": "Quina z Holubické stránì",
+          "name": "Quina z Holubické stráně",
           "father": {
             "clp": "5053",
-            "name": "Faro z Prostìjovska",
+            "name": "Faro z Prostějovska",
             "father": {
               "clp": "4870",
               "name": "Tramp from Lady´s Place",
@@ -244,29 +241,29 @@
           },
           "mother": {
             "clp": "5380",
-            "name": "Kora z Holubické stránì",
+            "name": "Kora z Holubické stráně",
             "father": {
               "clp": "4624",
-              "name": "Bor z Námìštì na Hané",
+              "name": "Bor z Náměště na Hané",
               "father": {
                 "clp": "0000",
                 "name": "Danger Sonave"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Ajda od Dostálù"
+                "name": "Ajda od Dostálů"
               }
             },
             "mother": {
               "clp": "4767",
-              "name": "Bessy z Podléskovièí",
+              "name": "Bessy z Podléskovičí",
               "father": {
                 "clp": "0000",
                 "name": "Eros z Devinské glavice"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Urza z Velkého košíøe"
+                "name": "Urza z Velkého košíře"
               }
             }
           }
@@ -305,7 +302,7 @@
       "pedigree": {
         "father": {
           "clp": "5649",
-          "name": "Glen z Želeèky",
+          "name": "Glen z Želečky",
           "father": {
             "clp": "0000",
             "name": "Grant z Bojandolí",
@@ -331,7 +328,7 @@
           },
           "mother": {
             "clp": "5350",
-            "name": "Elza z Želeèky",
+            "name": "Elza z Želečky",
             "father": {
               "clp": "4870",
               "name": "Tramp from Lady´s Place",
@@ -344,10 +341,10 @@
             },
             "mother": {
               "clp": "5097",
-              "name": "Dixie z Želeèky",
+              "name": "Dixie z Želečky",
               "father": {
                 "clp": "4624",
-                "name": "Bor z Námìštì na Hané"
+                "name": "Bor z Náměště na Hané"
               },
               "mother": {
                 "clp": "6820",
@@ -358,7 +355,7 @@
         },
         "mother": {
           "clp": "6292",
-          "name": "Zira z Holubické stránì",
+          "name": "Zira z Holubické stráně",
           "father": {
             "name": "Sangerfild Earldom",
             "father": {
@@ -382,10 +379,10 @@
           },
           "mother": {
             "clp": "6292",
-            "name": "Quina z Holubické stránì",
+            "name": "Quina z Holubické stráně",
             "father": {
               "clp": "5053",
-              "name": "Faro z Prostìjovska",
+              "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
                 "name": "Tramp from Lady´s Place"
@@ -397,14 +394,14 @@
             },
             "mother": {
               "clp": "5380",
-              "name": "Kora z Holubické stránì",
+              "name": "Kora z Holubické stráně",
               "father": {
                 "clp": "4624",
-                "name": "Bor z Námìštì na Hané"
+                "name": "Bor z Náměště na Hané"
               },
               "mother": {
                 "clp": "4767",
-                "name": "Bessy z Podléskovièí"
+                "name": "Bessy z Podléskovičí"
               }
             }
           }
@@ -497,7 +494,7 @@
       "clp": "6536",
       "father": "Dolce Link Everywhere z Ojcowskiej doliny",
       "mother": "Xsara z Holubické stráně",
-      "pedigree":{
+      "pedigree": {
         "father": {
           "name": "Dolce Link Everywhere z Ojcowskiej doliny",
           "father": {
@@ -1276,10 +1273,10 @@
         },
         "mother": {
           "clp": "6485",
-          "name": "Beretta z Holubické stránì",
+          "name": "Beretta z Holubické stráně",
           "father": {
             "clp": "5649",
-            "name": "Glen z Želeèky",
+            "name": "Glen z Želečky",
             "father": {
               "clp": "0000",
               "name": "Grand z Bojandolí",
@@ -1293,20 +1290,20 @@
             },
             "mother": {
               "clp": "5350",
-              "name": "Elza z Želeèky",
+              "name": "Elza z Želečky",
               "father": {
                 "clp": "4870",
                 "name": "Tramp from Lady´s Place"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Dixie z Želeèky"
+                "name": "Dixie z Želečky"
               }
             }
           },
           "mother": {
             "clp": "6292",
-            "name": "Zira z Holubické stránì",
+            "name": "Zira z Holubické stráně",
             "father": {
               "name": "Sangerfild Earldom",
               "father": {
@@ -1318,14 +1315,14 @@
             },
             "mother": {
               "clp": "5778",
-              "name": "Quina z Holubické stránì",
+              "name": "Quina z Holubické stráně",
               "father": {
                 "clp": "5053",
-                "name": "Faro z Prostìjovska"
+                "name": "Faro z Prostějovska"
               },
               "mother": {
                 "clp": "5380",
-                "name": "Kora z Holubické stránì"
+                "name": "Kora z Holubické stráně"
               }
             }
           }

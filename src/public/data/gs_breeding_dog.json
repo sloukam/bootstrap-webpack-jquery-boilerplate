@@ -102,30 +102,30 @@
             },
             "mother": {
               "clp": "4532",
-              "name": "Asta od Hodùnky",
+              "name": "Asta od Hodůnky",
               "father": {
                 "clp": "0000",
-                "name": "Jago ze Seèe"
+                "name": "Jago ze Seče"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Ceva z Pohnanských vrchù"
+                "name": "Ceva z Pohnanských vrchů"
               }
             }
           },
           "mother": {
             "clp": "5073",
-            "name": "Elza z Pohnanských vrchù",
+            "name": "Elza z Pohnanských vrchů",
             "father": {
               "clp": "4624",
-              "name": "Bor z Námìštì na Hané",
+              "name": "Bor z Náměště na Hané",
               "father": {
                 "clp": "0000",
                 "name": "Danger Sonave"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Ajda od Dostálù"
+                "name": "Ajda od Dostálů"
               }
             },
             "mother": {
@@ -136,7 +136,7 @@
               },
               "mother": {
                 "clp": "0000",
-                "name": "Ginny Záøící den"
+                "name": "Ginny Zářící den"
               }
             }
           }
@@ -238,7 +238,7 @@
       "pedigree": {
         "father": {
           "clp": "6122",
-          "name": "Britt z Dvorku Èamourku",
+          "name": "Britt z Dvorku Čamourku",
           "father": {
             "name": "Forester´s Zampano of Darkmoor",
             "father": {
@@ -272,15 +272,15 @@
               },
               "mother": {
                 "clp": "4532",
-                "name": "Asta od Hodùnky"
+                "name": "Asta od Hodůnky"
               }
             },
             "mother": {
               "clp": "5073",
-              "name": "Elza z Pohnanských vrchù",
+              "name": "Elza z Pohnanských vrchů",
               "father": {
                 "clp": "4624",
-                "name": "Bor z Námìštì na Hané"
+                "name": "Bor z Náměště na Hané"
               },
               "mother": {
                 "clp": "4645",
@@ -291,10 +291,10 @@
         },
         "mother": {
           "clp": "5733",
-          "name": "Happy z Zeleèky",
+          "name": "Happy z Zelečky",
           "father": {
             "clp": "5515",
-            "name": "Bogey Jinonický dvùr",
+            "name": "Bogey Jinonický dvůr",
             "father": {
               "name": "Nemo vom Eixelberg",
               "father": {
@@ -319,7 +319,7 @@
           },
           "mother": {
             "clp": "5350",
-            "name": "Elza z Zeleèky",
+            "name": "Elza z Zelečky",
             "father": {
               "clp": "4870",
               "name": "Tramp from Lady´s Place",
@@ -332,10 +332,10 @@
             },
             "mother": {
               "clp": "5097",
-              "name": "Dixie z Zeleèky",
+              "name": "Dixie z Zelečky",
               "father": {
                 "clp": "6424",
-                "name": "Bor z Námìštì na Hané"
+                "name": "Bor z Náměště na Hané"
               },
               "mother": {
                 "clp": "6820",
@@ -379,7 +379,7 @@
       "sex": "male",
       "pedigree": {
         "father": {
-          "name": "\nSundowner's Amaretto-Kiss",
+          "name": "Sundowner's Amaretto-Kiss",
           "father": {
             "name": "Laurelhach Moviestar",
             "father": {
@@ -425,7 +425,7 @@
         },
         "mother": {
           "clp": "6198",
-          "name": "Xsara z Holubické stránì",
+          "name": "Xsara z Holubické stráně",
           "father": {
             "name": "Yennadon Dynamic Dan",
             "father": {
@@ -449,10 +449,10 @@
           },
           "mother": {
             "clp": "5778",
-            "name": "Quina z Holubické stránì",
+            "name": "Quina z Holubické stráně",
             "father": {
               "clp": "5053",
-              "name": "Faro z Prostìjovska",
+              "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
                 "name": "Tramp from Lady´s Place"
@@ -464,14 +464,14 @@
             },
             "mother": {
               "clp": "5380",
-              "name": "Kora z Holubické stránì",
+              "name": "Kora z Holubické stráně",
               "father": {
                 "clp": "6424",
-                "name": "Bor z Námìštì na Hané"
+                "name": "Bor z Náměště na Hané"
               },
               "mother": {
                 "clp": "4767",
-                "name": "Bessy z Podléskovièí"
+                "name": "Bessy z Podléskovičí"
               }
             }
           }
@@ -620,10 +620,10 @@
         },
         "mother": {
           "clp": "6292",
-          "name": "Quina z Holubické stránì",
+          "name": "Quina z Holubické stráně",
           "father": {
             "clp": "5053",
-            "name": "Faro z Prostìjovska",
+            "name": "Faro z Prostějovska",
             "father": {
               "clp": "4870",
               "name": "Tramp from Lady´s Place",
@@ -647,29 +647,29 @@
           },
           "mother": {
             "clp": "5380",
-            "name": "Kora z Holubické stránì",
+            "name": "Kora z Holubické stráně",
             "father": {
               "clp": "4624",
-              "name": "Bor z Námìštì na Hané",
+              "name": "Bor z Náměště na Hané",
               "father": {
                 "clp": "0000",
                 "name": "Danger Sonave"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Ajda od Dostálù"
+                "name": "Ajda od Dostálů"
               }
             },
             "mother": {
               "clp": "4767",
-              "name": "Bessy z Podléskovièí",
+              "name": "Bessy z Podléskovičí",
               "father": {
                 "clp": "0000",
                 "name": "Eros z Devinské glavice"
               },
               "mother": {
                 "clp": "0000",
-                "name": "Urza z Velkého košíøe"
+                "name": "Urza z Velkého košíře"
               }
             }
           }
