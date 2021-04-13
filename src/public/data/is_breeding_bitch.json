@@ -276,7 +276,7 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "DOREEN MAHAGONY BEAUTY",
       "date_of_birth": "2014-09-17",
       "clp": "16067",
@@ -481,7 +481,7 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "TEATIME AT ROMANTIC GARDEN Z ARISLANDU",
       "date_of_birth": "2016-05-20",
       "clp": "16334",
@@ -619,7 +619,7 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CHASING LOVE Z ARISLANDU",
       "date_of_birth": "2017-05-08",
       "clp": "16490",
@@ -774,7 +774,7 @@
         "rcd4": "clear",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
-      "championships": "JCH ČR",
+      "championships": "JCH ČR, CH ČR",
       "shows": "CAJC, CAC",
       "exams": "ZV II.cena",
       "owner": {
