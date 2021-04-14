@@ -540,6 +540,101 @@
       "father": "Misty Lake ́s Never ay Never",
       "mother": "Maria Matilda Scotch DAMA Krkonoše",
       "sex": "male",
+      "pedigree":   {
+        "father": {
+          "name": "Misty Lake´s Never Say Never",
+          "father": {
+            "name": "Laurelhach Moviestar",
+            "father": {
+              "name": "Liric Come Dance with me of Shillay",
+              "father": {
+                "name": "Cromasaig Drams Demeanour of Girvans"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Continue A Story",
+              "father": {
+                "name": "Caballus Ebonie Adonis Ludstar"
+              },
+              "mother": {
+                "name": "Laurelhach Forget-Me-Not"
+              }
+            }
+          },
+          "mother": {
+            "name": "Showpoint Black Magic Woman",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Celebrity",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6072",
+          "name": "Maria Matilde Scotch DAMA Krkonoše",
+          "father": {
+            "name": "Ludstar Kingdom",
+            "father": {
+              "name": "Triseter Ebonie Scot",
+              "father": {
+                "name": "Taram Talara Thomas"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Jayde"
+              }
+            },
+            "mother": {
+              "name": "Ludstar Mrspott",
+              "father": {
+                "name": "Glynderys High'n Mighty with Liric"
+              },
+              "mother": {
+                "name": "Liric a Star as Born"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5865",
+            "name": "Sarmando Dream Erica",
+            "father": {
+              "name": "Kingpoint Even So",
+              "father": {
+                "name": "Windcrest Once in a Blue Moon"
+              },
+              "mother": {
+                "name": "Kingpoint After Hought"
+              }
+            },
+            "mother": {
+              "name": "Reila Scottish Leader",
+              "father": {
+                "name": "Free Minds Cezar"
+              },
+              "mother": {
+                "clp": "5149",
+                "name": "Oxa z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "color": "černá s pálením",
@@ -707,6 +802,98 @@
       "father": "Fairray Black To The Future",
       "mother": "Rosalie Von Der Wilden Horde",
       "sex": "male",
+      "pedigree":   {
+        "father": {
+          "name": "Fairray Black To The Future",
+          "father": {
+            "name": "Triseter Celtic Ice",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Triseter Celtic Dusk",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Urania"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sunny Prides Mac Bess",
+            "father": {
+              "name": "Goango Black Booms",
+              "father": {
+                "name": "Kingpoint Contradiction"
+              },
+              "mother": {
+                "name": "Ludstar Kriter"
+              }
+            },
+            "mother": {
+              "name": "Sunny Prides Black Lotus",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Tahtan Sign O'The Time"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Rosalie von der Wilden Hörde",
+          "father": {
+            "name": "Laurelhach Legend",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance With me Of Shillay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue a Story"
+              }
+            },
+            "mother": {
+              "name": "Triseter Ebonie Zena With Laurelhach",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            }
+          },
+          "mother": {
+            "name": "Päivi von der Wilden Horde",
+            "father": {
+              "name": "Lochtay The Legislator",
+              "father": {
+                "name": "Lochtay Dark'n Stormy"
+              },
+              "mother": {
+                "name": "Bydahl Black Bount"
+              }
+            },
+            "mother": {
+              "name": "Beautiful Sky Magic of Eleganc",
+              "father": {
+                "name": "Earth Fire From Fire'Sons Garden"
+              },
+              "mother": {
+                "name": "Forester's Ashley of Darkmoor"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "68",
         "color": "černá s pálením",
@@ -998,6 +1185,99 @@
       "father": "Sunsetter ́s Sing O The Times",
       "mother": "Celtic Carpediem Samarkan Kochanej Emilki",
       "sex": "male",
+      "pedigree":   {
+        "father": {
+          "name": "Sunsetter's Sign o The Times",
+          "father": {
+            "name": "Sun-Yan Spellbound Heaven Scent",
+            "father": {
+              "name": "Spellbound's Notorious ",
+              "father": {
+                "name": "Gordon Hill Hangfire"
+              },
+              "mother": {
+                "name": "Elysian's L'Aryeyal"
+              }
+            },
+            "mother": {
+              "name": "Sun-Yak's Desert Echo",
+              "father": {
+                "name": "Macalder Formal Attire "
+              },
+              "mother": {
+                "name": "Sun-Yak's Miracle"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sunsetter's Bohemian Rhapsody",
+            "father": {
+              "name": "Ludstar Maranello",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Ludstar Sterlina"
+              }
+            },
+            "mother": {
+              "name": "Sunsetter's Take a Chance O",
+              "father": {
+                "name": "Stilmeadow Black'n tan Fantasy"
+              },
+              "mother": {
+                "name": "Ludstar Disneyworld"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6523",
+          "name": "Celtic Carpediem Samarkan Kochanej Emilki",
+          "father": {
+            "name": "Fairray Black To The Future",
+            "father": {
+              "name": "Triseter Celtic Ice",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Sunny Prides Mac Bess",
+              "father": {
+                "name": "Goango Black Booms"
+              },
+              "mother": {
+                "name": "Sunny Prides Black Lotus"
+              }
+            }
+          },
+          "mother": {
+            "name": "Rosalie von der Wilden Hörde",
+            "father": {
+              "name": "Laurelhach Legend",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena With Laurelhach"
+              }
+            },
+            "mother": {
+              "name": "Päivi von der Wilden Horde",
+              "father": {
+                "name": "Lochtay The Legislator"
+              },
+              "mother": {
+                "name": "Beautiful Sky Magic of Eleganc"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "65",
         "color": "černá s pálením",

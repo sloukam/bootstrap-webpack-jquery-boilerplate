@@ -106,6 +106,101 @@
       "clp": "6471",
       "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
+      "pedigree":   {
+        "father": {
+          "name": "Misty Lake´s Never Say Never",
+          "father": {
+            "name": "Laurelhach Moviestar",
+            "father": {
+              "name": "Liric Come Dance with me of Shillay",
+              "father": {
+                "name": "Cromasaig Drams Demeanour of Girvans"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Continue A Story",
+              "father": {
+                "name": "Caballus Ebonie Adonis Ludstar"
+              },
+              "mother": {
+                "name": "Laurelhach Forget-Me-Not"
+              }
+            }
+          },
+          "mother": {
+            "name": "Showpoint Black Magic Woman",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Celebrity",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6072",
+          "name": "Maria Matilde Scotch DAMA Krkonoše",
+          "father": {
+            "name": "Ludstar Kingdom",
+            "father": {
+              "name": "Triseter Ebonie Scot",
+              "father": {
+                "name": "Taram Talara Thomas"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Jayde"
+              }
+            },
+            "mother": {
+              "name": "Ludstar Mrspott",
+              "father": {
+                "name": "Glynderys High'n Mighty with Liric"
+              },
+              "mother": {
+                "name": "Liric a Star as Born"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5865",
+            "name": "Sarmando Dream Erica",
+            "father": {
+              "name": "Kingpoint Even So",
+              "father": {
+                "name": "Windcrest Once in a Blue Moon"
+              },
+              "mother": {
+                "name": "Kingpoint After Hought"
+              }
+            },
+            "mother": {
+              "name": "Reila Scottish Leader",
+              "father": {
+                "name": "Free Minds Cezar"
+              },
+              "mother": {
+                "clp": "5149",
+                "name": "Oxa z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
@@ -136,6 +231,101 @@
       "clp": "6466",
       "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
+      "pedigree":   {
+        "father": {
+          "name": "Misty Lake´s Never Say Never",
+          "father": {
+            "name": "Laurelhach Moviestar",
+            "father": {
+              "name": "Liric Come Dance with me of Shillay",
+              "father": {
+                "name": "Cromasaig Drams Demeanour of Girvans"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Continue A Story",
+              "father": {
+                "name": "Caballus Ebonie Adonis Ludstar"
+              },
+              "mother": {
+                "name": "Laurelhach Forget-Me-Not"
+              }
+            }
+          },
+          "mother": {
+            "name": "Showpoint Black Magic Woman",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Celebrity",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6072",
+          "name": "Maria Matilde Scotch DAMA Krkonoše",
+          "father": {
+            "name": "Ludstar Kingdom",
+            "father": {
+              "name": "Triseter Ebonie Scot",
+              "father": {
+                "name": "Taram Talara Thomas"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Jayde"
+              }
+            },
+            "mother": {
+              "name": "Ludstar Mrspott",
+              "father": {
+                "name": "Glynderys High'n Mighty with Liric"
+              },
+              "mother": {
+                "name": "Liric a Star as Born"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5865",
+            "name": "Sarmando Dream Erica",
+            "father": {
+              "name": "Kingpoint Even So",
+              "father": {
+                "name": "Windcrest Once in a Blue Moon"
+              },
+              "mother": {
+                "name": "Kingpoint After Hought"
+              }
+            },
+            "mother": {
+              "name": "Reila Scottish Leader",
+              "father": {
+                "name": "Free Minds Cezar"
+              },
+              "mother": {
+                "clp": "5149",
+                "name": "Oxa z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
@@ -439,6 +629,114 @@
       "clp": "6493",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
+      "pedigree":   {
+        "father": {
+          "clp": "6287",
+          "name": "Zoom z Holubické stráně",
+          "father": {
+            "name": "Sangerfield Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfield Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "4655",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6131",
+          "name": "Bora z Dvorku Čamourku",
+          "father": {
+            "name": "Forester´s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star Is Born"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester´s Ironduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5690",
+            "name": "Dyksi z Krátošických strání",
+            "father": {
+              "clp": "5248",
+              "name": "Dastin DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodůnky"
+              }
+            },
+            "mother": {
+              "clp": "5073",
+              "name": "Elza z Pohnanských vrchů",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4645",
+                "name": "Loty z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66"
       },
@@ -466,6 +764,114 @@
       "clp": "6489",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
+      "pedigree":   {
+        "father": {
+          "clp": "6287",
+          "name": "Zoom z Holubické stráně",
+          "father": {
+            "name": "Sangerfield Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfield Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "4655",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6131",
+          "name": "Bora z Dvorku Čamourku",
+          "father": {
+            "name": "Forester´s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star Is Born"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester´s Ironduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5690",
+            "name": "Dyksi z Krátošických strání",
+            "father": {
+              "clp": "5248",
+              "name": "Dastin DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady´s Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodůnky"
+              }
+            },
+            "mother": {
+              "clp": "5073",
+              "name": "Elza z Pohnanských vrchů",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4645",
+                "name": "Loty z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "62",
         "color": "černá s pálením",
@@ -624,6 +1030,106 @@
       "clp": "6600",
       "father": "Lochfain An Aus Approach To Glenmaurangl",
       "mother": "Bora z Dvorku Čamourku",
+      "pedigree":   {
+        "father": {
+          "name": "Lochfain An Aus Approach To Glenmaurangi",
+          "father": {
+            "name": "The Xpat to Liric Drumdaroch",
+            "father": {
+              "name": "Lochtay Dark n Stormy",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Lochtay Brodie"
+              }
+            },
+            "mother": {
+              "name": "BMWS My Girl Drumdaroch",
+              "father": {
+                "name": "Brentwood’s BMW of Berridale"
+              },
+              "mother": {
+                "name": "Tahtan Vanity Fair"
+              }
+            }
+          },
+          "mother": {
+            "name": "Eggstravagence Lochfain’s",
+            "father": {
+              "name": "Lochfain Not To Be Denied For Bareve",
+              "father": {
+                "name": "Glynderys High’n Mighty with Liric"
+              },
+              "mother": {
+                "name": "Lochfain Never a Dull Moment"
+              }
+            },
+            "mother": {
+              "name": "Lochfain Never a Dull Moment",
+              "father": {
+                "name": "Willsteve Tuxedo Junction"
+              },
+              "mother": {
+                "name": "Laurelhach The Next Dance is at Lochfain"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6131",
+          "name": "Bora z Dvorku Čamourku",
+          "father": {
+            "name": "Forester’s Zampano of Darkmoor",
+            "father": {
+              "name": "Ludstar Defender",
+              "father": {
+                "name": "Shannas Journalist"
+              },
+              "mother": {
+                "name": "Liric A Star is Born"
+              }
+            },
+            "mother": {
+              "name": "Forester’s Nora-Jane of Darkmoor",
+              "father": {
+                "name": "Forester’s Ironduke of Darkmoor"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5690",
+            "name": "Dyksi z Krátošických strání",
+            "father": {
+              "clp": "5248",
+              "name": "Dastin DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady’s Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodůnky"
+              }
+            },
+            "mother": {
+              "clp": "5073",
+              "name": "Elza z Pohnanských vrchů",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4645",
+                "name": "Loty z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "černá s pálením",
@@ -848,6 +1354,116 @@
       "clp": "6648",
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princes Pearl Moravia",
+      "pedigree":   {
+        "father": {
+          "clp": "6286",
+          "name": "Zir z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minde Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6429",
+          "name": "Ashley Princess Pearl Moravia",
+          "father": {
+            "name": "Atrei z Tomanikových vrškov",
+            "father": {
+              "clp": "5479",
+              "name": "Grant Bojandolí",
+              "father": {
+                "name": "Black Devil's Joshua"
+              },
+              "mother": {
+                "clp": "4946",
+                "name": "Anita Sandberg"
+              }
+            },
+            "mother": {
+              "clp": "5393",
+              "name": "Cita z Nedvězí",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4665",
+                "name": "Flora Jovana"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6079",
+            "name": "Cinderella Carolain Áres Šamarkan",
+            "father": {
+              "name": "Dreamer Misialinka",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Allison of MacLeod"
+              }
+            },
+            "mother": {
+              "clp": "5570",
+              "name": "Frea z Želečky",
+              "father": {
+                "clp": "5151",
+                "name": "Cento Bojandolí"
+              },
+              "mother": {
+                "clp": "5350",
+                "name": "Elza z Želečky"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
@@ -881,6 +1497,116 @@
       "clp": "6649",
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princes Pearl Moravia",
+      "pedigree":   {
+        "father": {
+          "clp": "6286",
+          "name": "Zir z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minde Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6429",
+          "name": "Ashley Princess Pearl Moravia",
+          "father": {
+            "name": "Atrei z Tomanikových vrškov",
+            "father": {
+              "clp": "5479",
+              "name": "Grant Bojandolí",
+              "father": {
+                "name": "Black Devil's Joshua"
+              },
+              "mother": {
+                "clp": "4946",
+                "name": "Anita Sandberg"
+              }
+            },
+            "mother": {
+              "clp": "5393",
+              "name": "Cita z Nedvězí",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4665",
+                "name": "Flora Jovana"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6079",
+            "name": "Cinderella Carolain Áres Šamarkan",
+            "father": {
+              "name": "Dreamer Misialinka",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Allison of MacLeod"
+              }
+            },
+            "mother": {
+              "clp": "5570",
+              "name": "Frea z Želečky",
+              "father": {
+                "clp": "5151",
+                "name": "Cento Bojandolí"
+              },
+              "mother": {
+                "clp": "5350",
+                "name": "Elza z Želečky"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
