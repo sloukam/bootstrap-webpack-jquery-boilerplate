@@ -1294,6 +1294,122 @@
       "clp": "6617",
       "father": "Diamond Dudu Áres Šamarkan",
       "mother": "Kaira z Želečky",
+      "pedigree":   {
+        "father": {
+          "clp": "6255",
+          "name": "Diamond Dude Áres Šamarkan",
+          "father": {
+            "clp": "5649",
+            "name": "Glen z Želečky",
+            "father": {
+              "clp": "5479",
+              "name": "Grant Bojandolí",
+              "father": {
+                "name": "Joshua Black Devil's"
+              },
+              "mother": {
+                "clp": "4946",
+                "name": "Anita Sandberg"
+              }
+            },
+            "mother": {
+              "clp": "5350",
+              "name": "Elza z Želečky",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady`s Place"
+              },
+              "mother": {
+                "clp": "5097",
+                "name": "Dixie z Želečky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5570",
+            "name": "Frea z Želečky",
+            "father": {
+              "clp": "5658",
+              "name": "Koran Bojandolí",
+              "father": {
+                "clp": "5479",
+                "name": "Grant Bojandolí"
+              },
+              "mother": {
+                "clp": "5019",
+                "name": "Bessi Bojandolí"
+              }
+            },
+            "mother": {
+              "clp": "5350",
+              "name": "Elza z Zelečky",
+              "father": {
+                "name": "Cento Bojandolí"
+              },
+              "mother": {
+                "clp": "5097",
+                "name": "Dixi z Želečky"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6328",
+          "name": "Kaira z Želečky",
+          "father": {
+            "clp": "6122",
+            "name": "Britt z Dvorku Čamourku",
+            "father": {
+              "name": "Forester's Zampano of Darkmoor",
+              "father": {
+                "name": "Ludstar Defender"
+              },
+              "mother": {
+                "name": "Forester's Nora-Jane of Darkmoor"
+              }
+            },
+            "mother": {
+              "clp": "5690",
+              "name": "Dyksi z Krátošických strání",
+              "father": {
+                "clp": "5248",
+                "name": "Dastin DAMA Krkonoše"
+              },
+              "mother": {
+                "clp": "5073",
+                "name": "Elza z Pohnanských vrchů"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5733",
+            "name": "Happy z Želečky",
+            "father": {
+              "clp": "5515",
+              "name": "Bogey Jinonický dvůr",
+              "father": {
+                "name": "Nemo vom Eixelberg"
+              },
+              "mother": {
+                "clp": "4889",
+                "name": "Usure Sonave"
+              }
+            },
+            "mother": {
+              "clp": "5350",
+              "name": "Elza z Želečky",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady`s Place"
+              },
+              "mother": {
+                "clp": "5097",
+                "name": "Dixie z Želečky"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "color": "černá s pálením",
@@ -1321,6 +1437,106 @@
       "clp": "6633",
       "father": "Flynnrock's I'm Zac",
       "mother": "Xsara z Holubické stráně",
+      "pedigree":   {
+        "father": {
+          "name": "Flynnrock's I'm Zac",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "name": "Flynnrock's Eve'Heda",
+            "father": {
+              "name": "Fieldtalk's Eternal Fantasy",
+              "father": {
+                "name": "Black'N Tan Fantasy"
+              },
+              "mother": {
+                "name": "Sunsetter's Rhapsody in Blue"
+              }
+            },
+            "mother": {
+              "name": "Flynnrock's Ace",
+              "father": {
+                "name": "Jagger des Pierres du Jour"
+              },
+              "mother": {
+                "name": "Sunsetter's Chiquitita"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6198",
+          "name": "Xsara z Holubické stráně",
+          "father": {
+            "name": "Yennadon Dynamic Dan",
+            "father": {
+              "name": "Dunfionn Inverkip",
+              "father": {
+                "name": "Liric the Jolly Swagman"
+              },
+              "mother": {
+                "name": "Dunfionn Gigha"
+              }
+            },
+            "mother": {
+              "name": "Yennadon Dynamic Dan",
+              "father": {
+                "name": "Yennandon Prime Time"
+              },
+              "mother": {
+                "name": "Gaidheal Sorell of Yennadon"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4655",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "černá s pálením",
@@ -1764,6 +1980,98 @@
       "clp": "6760",
       "father": "Silent North Eye Con",
       "mother": "Yukki Hill To Kiss And To Hug",
+      "pedigree":   {
+        "father": {
+          "name": "Silent North Eyecon ",
+          "father": {
+            "name": "Spring Run and Gilnockie Feast Your Eyes",
+            "father": {
+              "name": "Firethorn ans Sandpiper and   Easy on the Eyes",
+              "father": {
+                "name": "Spring Run's Take it Easy "
+              },
+              "mother": {
+                "name": "Sandpiper's Ship-To- Shore "
+              }
+            },
+            "mother": {
+              "name": "Valley View's Xmas Cookie",
+              "father": {
+                "name": "Valley View's Enterprize "
+              },
+              "mother": {
+                "name": "Abercairn's Lady Kate "
+              }
+            }
+          },
+          "mother": {
+            "name": "Showpoint do it Again",
+            "father": {
+              "name": "Raggededge Red Label",
+              "father": {
+                "name": "Winsomes Music Maker"
+              },
+              "mother": {
+                "name": "Raggededge Big Timer Return"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Celebrity",
+              "father": {
+                "name": "Rivermist Squre Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Yukki Hill To Kiss and To Hug",
+          "father": {
+            "name": "Yukki Hill Wizard of Gordon Castle",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Snow Queen",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill MY FAIR LADY",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Showpoint Be Pop A Lula",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Kingpoint Celebrity"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "HD": "A",

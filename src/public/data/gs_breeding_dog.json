@@ -1153,6 +1153,116 @@
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princess Pearl Moravia",
       "sex": "male",
+      "pedigree":   {
+        "father": {
+          "clp": "6286",
+          "name": "Zir z Holubické stráně",
+          "father": {
+            "name": "Sangerfild Earldom",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebony Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minde Cleopatra"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5778",
+            "name": "Quina z Holubické stráně",
+            "father": {
+              "clp": "5053",
+              "name": "Faro z Prostějovska",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4820",
+                "name": "Kingcross Viki"
+              }
+            },
+            "mother": {
+              "clp": "5380",
+              "name": "Kora z Holubické stráně",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4767",
+                "name": "Bessy z Podléskovičí"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6429",
+          "name": "Ashley Princess Pearl Moravia",
+          "father": {
+            "name": "Atrei z Tomanikových vrškov",
+            "father": {
+              "clp": "5479",
+              "name": "Grant Bojandolí",
+              "father": {
+                "name": "Black Devil's Joshua"
+              },
+              "mother": {
+                "clp": "4946",
+                "name": "Anita Sandberg"
+              }
+            },
+            "mother": {
+              "clp": "5393",
+              "name": "Cita z Nedvězí",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4665",
+                "name": "Flora Jovana"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6079",
+            "name": "Cinderella Carolain Áres Šamarkan",
+            "father": {
+              "name": "Dreamer Misialinka",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Allison of MacLeod"
+              }
+            },
+            "mother": {
+              "clp": "5570",
+              "name": "Frea z Želečky",
+              "father": {
+                "clp": "5151",
+                "name": "Cento Bojandolí"
+              },
+              "mother": {
+                "clp": "5350",
+                "name": "Elza z Želečky"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "color": "černá s pálením",
