@@ -1955,7 +1955,8 @@
         "rcd4": "clear"
       },
       "shows": "VN1, BIS štěně, VD",
-      "exams": "KZV MSKAO I.cena CACT, KPZ KBO I.cena CACT, KPZ MSKAO I.cena CACT, LZ I.cena, Šampion práce ČR",
+      "championships": "Šampion práce ČR",
+      "exams": "KZV MSKAO I.cena CACT, KPZ KBO I.cena CACT, KPZ MSKAO I.cena CACT, LZ I.cena",
       "owner": {
         "first_name": "Olga",
         "last_name": "Vránová",
