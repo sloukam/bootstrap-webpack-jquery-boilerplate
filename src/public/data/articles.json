@@ -1,7 +1,36 @@
 {
   "articles": [
     {
-      "articleId": 20210008,
+      "articleId": 20210010,
+      "dateOfPublish": "2021-04-16",
+      "title": "Klubové zkoušky vloh ohařů",
+      "paragraphs": [
+        "Také máme v plánu uspořádat klubové zkoušky vloh ohařů, které se uskuteční 16. května v Těšanech. Bude zadáváno čekatelství CACT, RES. CACT.",
+        "Věříme, že se zde setkáme v hojném počtu."
+      ],
+      "images": [
+        "./public/pdf/2021/210516-klubove_vlohy/plakat.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2021/210516-klubove_vlohy/plakat.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/210516-klubove_vlohy/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2021/210516-klubove_vlohy/prihlaska.docx",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "articleId": 20210009,
       "dateOfPublish": "2021-04-16",
       "title": "Klubové podzimní zkoušky ohařů",
       "paragraphs": [
