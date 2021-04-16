@@ -331,6 +331,15 @@ $img-thumbnail-max-height-value: 200px;
   background: #a4c2a4;
 }
 
+.pedigree-rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(even) {
+  background: #ea4eb4;
+  //background: #d6d6d6;
+}
+
+.pedigree-rows-stripped .row:not(.rowHeader):not(.noStrip):nth-child(odd) {
+  background: #549efa;
+}
+
 .rows-hover .row:not(.rowHeader):not(.noStrip):hover {
   background: rgb(167, 232, 162);
   //background: #a1d9ae;
@@ -381,7 +390,7 @@ $img-thumbnail-max-height-value: 200px;
   //}
 }
 
-.pedigree-modal-content {
+.pedigree-modal-content, .add-breeding-dog-form {
   border: 2px solid $a-hover-color;
   padding-left: 20px;
   padding-right: 20px;

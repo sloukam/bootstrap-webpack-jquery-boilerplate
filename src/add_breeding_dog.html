@@ -253,14 +253,15 @@
                 <button id="copyToClippboardBtn" class="btn btn-sm btn-outline-primary">copy to clipboard</button>
               </div>
             </div>
-            <h2 class="results__heading">Vyplnena data</h2>
+          </form>
+          <form id="mail-form" class="mail-form" action="mailto:Web.mskao@gmail.com?subject=Novy%20chovny%20pes" method="post" enctype="text/plain">
+            <input class="btn btn-sm btn-danger" type="submit" value="Poslat jako email">
             <div class="results__display-wrapper">
-                <textarea id="results__display" class="results__display" rows="20" cols="50">
-                </textarea>
-            </div>
-            <div class="results2">
+              <textarea id="results__display" class="results__display" rows="20" name="json" cols="50" spellcheck="false"></textarea>
             </div>
           </form>
+          <div class="results2">
+          </div>
         </div>
       </div>
     </div>
