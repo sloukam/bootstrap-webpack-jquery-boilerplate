@@ -2,6 +2,35 @@
   "articles": [
     {
       "articleId": 20210008,
+      "dateOfPublish": "2021-04-16",
+      "title": "Klubové podzimní zkoušky ohařů",
+      "paragraphs": [
+        "Letos se budou konat klubové podzimní zkoušky ohařů 15. května v Těšanech. Bude zadáváno čekatelství CACT, RES. CACT.",
+        "Na vaši účast se velice těšíme."
+      ],
+      "images": [
+        "./public/pdf/2021/210515-klubove_podzimni_zkousky/plakat.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2021/210515-klubove_podzimni_zkousky/plakat.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/210515-klubove_podzimni_zkousky/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2021/210515-klubove_podzimni_zkousky/prihlaska.docx",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "articleId": 20210008,
       "dateOfPublish": "4/8/2021",
       "title": "Klubová výstava ve Slavkově",
       "paragraphs": [
