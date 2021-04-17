@@ -796,6 +796,100 @@
       "clp": "11245",
       "father": "Athos Pointerland Sáregresi",
       "mother": "Dheli z Karczewskiej Zagrody",
+      "pedigree": {
+        "father": {
+          "name": "Athos Pointerland Sáregresi",
+          "father": {
+            "name": "Csillaghegyi Foltos Izidor",
+            "father": {
+              "name": "Crookrise Monty's  Theme",
+              "father": {
+                "name": "Bookstor Robert Frost"
+              },
+              "mother": {
+                "name": "Crookrise Gill"
+              }
+            },
+            "mother": {
+              "name": "Ammily Europos  Mitas",
+              "father": {
+                "name": "Sáregresi Speedy Snowman"
+              },
+              "mother": {
+                "name": "Bea Aquila Bojnise"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kopaszhegyi Furge Bella",
+            "father": {
+              "name": "Coradhras of Szedresi",
+              "father": {
+                "name": "Luj Buzahazl"
+              },
+              "mother": {
+                "name": "Sáregresi Rambling Wind"
+              }
+            },
+            "mother": {
+              "name": "Sáregrasi Xéna",
+              "father": {
+                "clp": "9253",
+                "name": "Gróf z Dolnic"
+              },
+              "mother": {
+                "name": "Sáregresi Passionate"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10940",
+          "name": "Dheli z Karczewskiej Zagrody",
+          "father": {
+            "name": "Robwyn Dreams Are Free",
+            "father": {
+              "name": "Chesterhope Catch The Dream AJ Robwyn",
+              "father": {
+                "name": "Robwyn Time To Tell"
+              },
+              "mother": {
+                "name": "Top-Shot Dazlle"
+              }
+            },
+            "mother": {
+              "name": "Atsira Never Say Never",
+              "father": {
+                "name": "Vossmead Firecrest of Crookrise"
+              },
+              "mother": {
+                "name": "Rowenglen Lady Stella"
+              }
+            }
+          },
+          "mother": {
+            "name": "Bandhura z Karczewskiej Zagrody",
+            "father": {
+              "name": "Ari Beyi Europos Mitas",
+              "father": {
+                "name": "Sáregresi Speedy Snowman"
+              },
+              "mother": {
+                "name": "Bea Aquila Bojnise"
+              }
+            },
+            "mother": {
+              "name": "Aquilla z Karczewskiej Zagrody",
+              "father": {
+                "name": "Sáregresi Casanova"
+              },
+              "mother": {
+                "name": "Frida z Karczewskiej Zagrody"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "žlutobílá",
@@ -1037,6 +1131,98 @@
       "clp": "11466",
       "father": "Athos Pointerland Sáregresi",
       "mother": "Fydal Ava",
+      "pedigree": {
+        "father": {
+          "name": "Sáregresi Pointerland Athos",
+          "father": {
+            "name": "Csillaghegyi Foltos Izidor",
+            "father": {
+              "name": "Crookrise Monty'S Theme",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            },
+            "mother": {
+              "name": "Ammily Europos Mitas",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            }
+          },
+          "mother": {
+            "name": "Kopaszhegyi Furge Bella",
+            "father": {
+              "name": "Caradhras of Szedresi",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            },
+            "mother": {
+              "name": "Sáregresi Xéna",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Fydal Ava",
+          "father": {
+            "name": "Sáregresi Classic Point",
+            "father": {
+              "name": "Sáregresi Unicum",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            },
+            "mother": {
+              "name": "Sáregresi Sally Gold",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            }
+          },
+          "mother": {
+            "name": "Raigmore Dawn Chorus Over Fydal",
+            "father": {
+              "name": "Wherathy Walter at Calderside",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            },
+            "mother": {
+              "name": "Raigmore Quest",
+              "father": {
+                "name": "."
+              },
+              "mother": {
+                "name": "."
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "62",
         "color": "oranžovobílá",

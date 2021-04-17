@@ -441,6 +441,100 @@
       "father": "Kadon Here’s Dunley Charismatic",
       "mother": "Latin Lover Show On The Sahara",
       "sex": "male",
+      "pedigree": {
+        "father": {
+          "name": "Kadon Here's Dunley Charismatic",
+          "father": {
+            "name": "Celestial's Man on Fire",
+            "father": {
+              "name": "Countryn Squire Rock Star",
+              "father": {
+                "name": "Stagedoor  Rock It Man"
+              },
+              "mother": {
+                "name": "Bluequail Country Squire Danica"
+              }
+            },
+            "mother": {
+              "name": "Celestial Dasia Voo",
+              "father": {
+                "name": "Kaliber's Yorick Of Sir Cedric"
+              },
+              "mother": {
+                "name": "Snowbird Celestial Flight Of Fancy"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kanon's Truth Or Dare",
+            "father": {
+              "name": "Windjammer Kadon Joseph's Coat",
+              "father": {
+                "name": "Kadon Seafield This Buds Forme"
+              },
+              "mother": {
+                "name": "WindJammer Shaded Silouette"
+              }
+            },
+            "mother": {
+              "name": "Kadon's River Of Dreams",
+              "father": {
+                "name": "Baysides River Deep"
+              },
+              "mother": {
+                "name": "Kadon's Remember Best Friends"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5839",
+          "name": "Latin Lover Snow On The Sahara",
+          "father": {
+            "clp": "6022",
+            "name": "Lorien July Sunburst",
+            "father": {
+              "name": "Artizoe High Caliber",
+              "father": {
+                "name": "Honeygait Limited Edition"
+              },
+              "mother": {
+                "name": "Artizoe Rosewood Cora "
+              }
+            },
+            "mother": {
+              "name": "Lorien Tri Lana",
+              "father": {
+                "name": "Edwardian Three Star General "
+              },
+              "mother": {
+                "name": "Khyczar's Silver Bells"
+              }
+            }
+          },
+          "mother": {
+            "name": "Set's Ridge's Desert Rose",
+            "father": {
+              "name": "Set'r Ridge's Real Gold",
+              "father": {
+                "name": "Set'r Ridge's Solid Gold"
+              },
+              "mother": {
+                "name": "Kadons Se't Ridge Tissa"
+              }
+            },
+            "mother": {
+              "name": "Set'r Ridge's Quaking Aspen",
+              "father": {
+                "name": "Mi Jean's Boot ScootinBoogie"
+              },
+              "mother": {
+                "name": "Set'r Ridge's Canterfield Look'r"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "67",
         "color": "orange belton",
