@@ -407,16 +407,16 @@
       "pedigree": {
         "father": {
           "clp": "10659",
-          "name": "Hako z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+          "name": "Hako z Mešinské Hájovny",
           "father": {
             "clp": "9083",
-            "name": "Archie z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+            "name": "Archie z Mešinské Hájovny",
             "father": {
               "clp": "8691",
               "name": "Hak z Cechu",
               "father": {
                 "clp": "7374",
-                "name": "Am ze ZÃ¡koutÃ­ pasek"
+                "name": "Am ze Zákoutí pasek"
               },
               "mother": {
                 "clp": "8177",
@@ -425,10 +425,10 @@
             },
             "mother": {
               "clp": "8688",
-              "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "name": "Moly z Kunštátských lesů",
               "father": {
                 "clp": "7610",
-                "name": "Mat ze SeÄ e"
+                "name": "Mat ze Seče"
               },
               "mother": {
                 "clp": "8234",
@@ -441,14 +441,14 @@
             "name": "Cita z Joskor",
             "father": {
               "clp": "8534",
-              "name": "Argo z KryÅ¡tofova dvora",
+              "name": "Argo z Kryštofova dvora",
               "father": {
                 "clp": "7874",
-                "name": "Blesk z RoÅ¡tejna"
+                "name": "Blesk z Roštejna"
               },
               "mother": {
                 "clp": "7977",
-                "name": "Arpa z NÄ›meckÃ©ho dvora"
+                "name": "Arpa z Německého dvora"
               }
             },
             "mother": {
@@ -467,10 +467,10 @@
         },
         "mother": {
           "clp": "10591",
-          "name": "Lily od NezdickÃ©ho potoka ",
+          "name": "Lily od Nezdického potoka ",
           "father": {
             "clp": "10136",
-            "name": "ChÃ¡n z Dolnic",
+            "name": "Chán z Dolnic",
             "father": {
               "clp": "8978",
               "name": "Holan z Tismenic",
@@ -488,7 +488,7 @@
               "name": "Gela z Dolnic",
               "father": {
                 "clp": "8560",
-                "name": "Brit z BudÃ­nskÃ½ch lesÅ¯"
+                "name": "Brit z Budínských lesů"
               },
               "mother": {
                 "clp": "8469",
@@ -498,7 +498,7 @@
           },
           "mother": {
             "clp": "9781",
-            "name": "Borka z ChÅ™ibskÃ½ch lesÅ¯",
+            "name": "Borka z Chřibských lesů",
             "father": {
               "clp": "9676",
               "name": "Brick",
@@ -511,7 +511,7 @@
             },
             "mother": {
               "clp": "9201",
-              "name": "FlÃ©r z Niv-BuÄ ovic",
+              "name": "Flér z Niv-Bučovic",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -766,7 +766,7 @@
       "pedigree": {
         "father": {
           "clp": "10431",
-          "name": "Pluto z Knollovy Å¡koly",
+          "name": "Pluto z Knollovy školy",
           "father": {
             "clp": "9922",
             "name": "Franzini Moris",
@@ -791,13 +791,13 @@
           },
           "mother": {
             "clp": "9555",
-            "name": "Ajda z Knollovy Å¡koly",
+            "name": "Ajda z Knollovy školy",
             "father": {
               "clp": "9271",
               "name": "Ben z Joskor",
               "father": {
                 "clp": "8974",
-                "name": "Flak z VranovskÃ©ho ÃºdolÃ­"
+                "name": "Flak z Vranovského údolí"
               },
               "mother": {
                 "clp": "8917",
@@ -806,30 +806,30 @@
             },
             "mother": {
               "clp": "9098",
-              "name": "Ivory z NovÃ©ho remÃ­zu",
+              "name": "Ivory z Nového remízu",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
               },
               "mother": {
                 "clp": "8266",
-                "name": "Aida z PÃ¡lavskÃ½ch skal"
+                "name": "Aida z Pálavských skal"
               }
             }
           }
         },
         "mother": {
           "clp": "10409",
-          "name": "Karen od NezdickÃ©ho potoka",
+          "name": "Karen od Nezdického potoka",
           "father": {
             "clp": "9525",
-            "name": "Ford z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+            "name": "Ford z Mešinské Hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
               "father": {
                 "clp": "8186",
-                "name": "Flik od DÅ™enickÃ© studÃ¡nky"
+                "name": "Flik od Dřenické studánky"
               },
               "mother": {
                 "clp": "8177",
@@ -838,10 +838,10 @@
             },
             "mother": {
               "clp": "8688",
-              "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "name": "Moly z Kunštátských lesů",
               "father": {
                 "clp": "7610",
-                "name": "Mat ze SeÄ e"
+                "name": "Mat ze Seče"
               },
               "mother": {
                 "clp": "8234",
@@ -851,7 +851,7 @@
           },
           "mother": {
             "clp": "9781",
-            "name": "Borka z ChÅ™ibskÃ½ch lesÅ¯",
+            "name": "Borka z Chřibských lesů",
             "father": {
               "clp": "9676",
               "name": "Brick",
@@ -864,7 +864,7 @@
             },
             "mother": {
               "clp": "9201",
-              "name": "FlÃ©r z Niv-BuÄ ovic",
+              "name": "Flér z Niv-Bučovic",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -1151,7 +1151,7 @@
                 "name": "Luj Buzahazi"
               },
               "mother": {
-                "name": "SÃ¡regresi Rambling Wind"
+                "name": "Sáregresi Rambling Wind"
               }
             },
             "mother": {
@@ -1171,7 +1171,7 @@
               "name": "Frodo z Kaczewskiej Zagrody",
               "father": {
                 "clp": "9145",
-                "name": "Brel z KÅ™iÅ¾anovskÃ© strÃ¡nÄ›"
+                "name": "Brel z KřiÅ¾anovské stráně"
               },
               "mother": {
                 "name": "Bea Z Wiecborskich PÃ³l"
@@ -1181,7 +1181,7 @@
               "name": "Persa Wilczy Raj",
               "father": {
                 "clp": "9083",
-                "name": "Archie z MeÅ¡Ã­nskÃ© hÃ¡jovny"
+                "name": "Archie z Mešinské Hájovny"
               },
               "mother": {
                 "name": "Bona z Kniei nad Browina"
@@ -1191,7 +1191,7 @@
         },
         "mother": {
           "clp": "10920",
-          "name": "Amy z BÃ­tyÅ¡skÃ½ch baÅ¾in",
+          "name": "Amy z Bítyšských baÅ¾in",
           "father": {
             "clp": "10532",
             "name": "Endy z Hovoran",
@@ -1209,7 +1209,7 @@
               "name": "Bora z Hovoran",
               "father": {
                 "clp": "8424",
-                "name": "Aron z KoÅ¡Ã¡ku"
+                "name": "Aron z Košáku"
               },
               "mother": {
                 "clp": "8878",
@@ -1219,10 +1219,10 @@
           },
           "mother": {
             "clp": "10358",
-            "name": "Mona z Knollovy Å¡koly",
+            "name": "Mona z Knollovy školy",
             "father": {
               "clp": "9614",
-              "name": "Avar z ChÅ™ibskÃ½ch lesÅ¯",
+              "name": "Avar z Chřibských lesů",
               "father": {
                 "name": "Brick"
               },
@@ -1233,14 +1233,14 @@
             },
             "mother": {
               "clp": "9555",
-              "name": "Ajda z Knollovy Å¡koly",
+              "name": "Ajda z Knollovy školy",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Jaskor"
               },
               "mother": {
                 "clp": "9098",
-                "name": "Ivory z NovÃ©ho remÃ­zu"
+                "name": "Ivory z Nového remízu"
               }
             }
           }
@@ -1287,7 +1287,7 @@
                 "name": "Luj Buzahazi"
               },
               "mother": {
-                "name": "SÃ¡regresi Rambling Wind"
+                "name": "Sáregresi Rambling Wind"
               }
             },
             "mother": {
@@ -1307,7 +1307,7 @@
               "name": "Frodo z Kacewskiej Zagrody",
               "father": {
                 "clp": "9145",
-                "name": "Bret z KÅ™iÅ¾anovskÃ© strÃ¡nÄ›"
+                "name": "Bret z KřiÅ¾anovské stráně"
               },
               "mother": {
                 "name": "Bea z Wiecborskich PÃ³l"
@@ -1317,7 +1317,7 @@
               "name": "Persa Wilczy Raj",
               "father": {
                 "clp": "9083",
-                "name": "Archie z MeÅ¡Ã­nskÃ© hÃ¡jovny"
+                "name": "Archie z Mešinské Hájovny"
               },
               "mother": {
                 "name": "Bona z Kniei nad Browina"
@@ -1327,7 +1327,7 @@
         },
         "mother": {
           "clp": "10920",
-          "name": "Amy z BÃ­tyÅ¡skÃ½ch BaÅ¾in",
+          "name": "Amy z Bítyšských BaÅ¾in",
           "father": {
             "clp": "10532",
             "name": "Endy z Hovoran",
@@ -1345,7 +1345,7 @@
               "name": "Bora z Hovoran",
               "father": {
                 "clp": "8424",
-                "name": "Aron z KoÅ¡Ã¡ku"
+                "name": "Aron z Košáku"
               },
               "mother": {
                 "clp": "8878",
@@ -1355,10 +1355,10 @@
           },
           "mother": {
             "clp": "10358",
-            "name": "Mona z Knollovy Å¡koly",
+            "name": "Mona z Knollovy školy",
             "father": {
               "clp": "9614",
-              "name": "Avar z ChÅ™ibskÃ½ch lesÅ¯",
+              "name": "Avar z Chřibských lesů",
               "father": {
                 "name": "Brick"
               },
@@ -1369,14 +1369,14 @@
             },
             "mother": {
               "clp": "9555",
-              "name": "Ajda z Knollovy Å¡koly",
+              "name": "Ajda z Knollovy školy",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9098",
-                "name": "Ivory z NovÃ©ho remÃ­zu"
+                "name": "Ivory z Nového remízu"
               }
             }
           }
@@ -1439,18 +1439,18 @@
           "mother": {
             "name": "Pawprint Celebration",
             "father": {
-              "name": "SÃ¡regresi Unicum",
+              "name": "Sáregresi Unicum",
               "father": {
-                "name": "SÃ¡regresi ImperiÃ¡l"
+                "name": "Sáregresi Imperiál"
               },
               "mother": {
-                "name": "SÃ¡regresi Pretty Promise"
+                "name": "Sáregresi Pretty Promise"
               }
             },
             "mother": {
-              "name": "SÃ¡regresi Snowy Victory",
+              "name": "Sáregresi Snowy Victory",
               "father": {
-                "name": "SÃ¡regresi Onset"
+                "name": "Sáregresi Onset"
               },
               "mother": {
                 "name": "Caroline of Zamunda"
@@ -1460,60 +1460,60 @@
         },
         "mother": {
           "clp": "10892",
-          "name": "Cita z Å½ehuÅˆskÃ© kovÃ¡rny",
+          "name": "Cita z Å½ehuÅˆské kovárny",
           "father": {
             "clp": "9541",
-            "name": "Dak z OuhelÃ­",
+            "name": "Dak z Ouhelí",
             "father": {
               "clp": "9050",
-              "name": "Tor z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "name": "Tor z Kunštátských lesů",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
               },
               "mother": {
                 "clp": "8688",
-                "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯"
+                "name": "Moly z Kunštátských lesů"
               }
             },
             "mother": {
               "clp": "9034",
-              "name": "Fina od PrÅ¯Å¡i",
+              "name": "Fina od Průši",
               "father": {
                 "clp": "8186",
-                "name": "Flik od DÅ™enickÃ© studÃ¡nky"
+                "name": "Flik od Dřenické studánky"
               },
               "mother": {
                 "clp": "8176",
-                "name": "DÃ¡ja z Cechu"
+                "name": "Dája z Cechu"
               }
             }
           },
           "mother": {
             "clp": "10308",
-            "name": "Bigi z Å½ehuÅˆskÃ© kovÃ¡rny",
+            "name": "Bigi z Å½ehuÅˆské kovárny",
             "father": {
               "clp": "9353",
-              "name": "Char z BeÅˆovskÃ© skÃ¡ly",
+              "name": "Char z BeÅˆovské skály",
               "father": {
                 "clp": "8534",
-                "name": "Argo z KryÅ¡tofova  dvora"
+                "name": "Argo z Kryštofova  dvora"
               },
               "mother": {
                 "clp": "9070",
-                "name": "Zona z FanÄ ali"
+                "name": "Zona z Fančali"
               }
             },
             "mother": {
               "clp": "9539",
-              "name": "Gloris z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+              "name": "Gloris z Mešinské Hájovny",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9084",
-                "name": "Aris z MeÅ¡Ã­nskÃ© HÃ¡jovny"
+                "name": "Aris z Mešinské Hájovny"
               }
             }
           }
@@ -1706,7 +1706,7 @@
       "pedigree": {
         "father": {
           "clp": "10431",
-          "name": "Pluto z Knollovy Å¡koly",
+          "name": "Pluto z Knollovy školy",
           "father": {
             "clp": "9922",
             "name": "Franzini Moris",
@@ -1731,13 +1731,13 @@
           },
           "mother": {
             "clp": "9555",
-            "name": "Ajda z Knollovy Å¡koly",
+            "name": "Ajda z Knollovy školy",
             "father": {
               "clp": "9271",
               "name": "Ben z Joskor",
               "father": {
                 "clp": "8974",
-                "name": "Flak z VranovskÃ©ho ÃºdolÃ­"
+                "name": "Flak z Vranovského údolí"
               },
               "mother": {
                 "clp": "8917",
@@ -1746,30 +1746,30 @@
             },
             "mother": {
               "clp": "9098",
-              "name": "Ivory z NovÃ©ho remÃ­zu",
+              "name": "Ivory z Nového remízu",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
               },
               "mother": {
                 "clp": "8266",
-                "name": "Aida z PÃ¡lavskÃ½ch skal"
+                "name": "Aida z Pálavských skal"
               }
             }
           }
         },
         "mother": {
           "clp": "10409",
-          "name": "Karen od NezdickÃ©ho potoka",
+          "name": "Karen od Nezdického potoka",
           "father": {
             "clp": "9525",
-            "name": "Ford z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+            "name": "Ford z Mešinské Hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
               "father": {
                 "clp": "8186",
-                "name": "Flik od DÅ™enickÃ© studÃ¡nky"
+                "name": "Flik od Dřenické studánky"
               },
               "mother": {
                 "clp": "8177",
@@ -1778,10 +1778,10 @@
             },
             "mother": {
               "clp": "8688",
-              "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "name": "Moly z Kunštátských lesů",
               "father": {
                 "clp": "7610",
-                "name": "Mat ze SeÄ e"
+                "name": "Mat ze Seče"
               },
               "mother": {
                 "clp": "8234",
@@ -1791,7 +1791,7 @@
           },
           "mother": {
             "clp": "9781",
-            "name": "Borka z ChÅ™ibskÃ½ch lesÅ¯",
+            "name": "Borka z Chřibských lesů",
             "father": {
               "clp": "9676",
               "name": "Brick",
@@ -1804,7 +1804,7 @@
             },
             "mother": {
               "clp": "9201",
-              "name": "FlÃ©r z Niv-BuÄ ovic",
+              "name": "Flér z Niv-Bučovic",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -1877,14 +1877,14 @@
             "name": "Bora z Hovoran",
             "father": {
               "clp": "8424",
-              "name": "Aron z KoÅ¡Ã¡ku",
+              "name": "Aron z Košáku",
               "father": {
                 "clp": "7688",
                 "name": "Monty Frony"
               },
               "mother": {
                 "clp": "8045",
-                "name": "Erna od DÅ™enickÃ© studÃ¡nky"
+                "name": "Erna od Dřenické studánky"
               }
             },
             "mother": {
@@ -1892,7 +1892,7 @@
               "name": "Nitka z Niv",
               "father": {
                 "clp": "7949",
-                "name": "Aran ze StichovskÃ©ho dvora"
+                "name": "Aran ze Stichovského dvora"
               },
               "mother": {
                 "clp": "8556",
@@ -1906,35 +1906,35 @@
           "name": "Diana z Helmu",
           "father": {
             "clp": "10054",
-            "name": "Ort z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+            "name": "Ort z Mešinské Hájovny",
             "father": {
               "clp": "9525",
-              "name": "Ford z MeÅ¡Ã­nskÃ© hÃ¡jovny",
+              "name": "Ford z Mešinské Hájovny",
               "father": {
                 "clp": "8932",
                 "name": "Iran z Cechu"
               },
               "mother": {
                 "clp": "8688",
-                "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯"
+                "name": "Moly z Kunštátských lesů"
               }
             },
             "mother": {
               "clp": "9166",
-              "name": "Ina z LukavskÃ½ch lÃ¡nÅ¯",
+              "name": "Ina z Lukavských lánů",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
               },
               "mother": {
                 "clp": "8416",
-                "name": "Ara z LukavskÃ½ch lÃ¡nÅ¯"
+                "name": "Ara z Lukavských lánů"
               }
             }
           },
           "mother": {
             "clp": "10419",
-            "name": "Lea ze SrnÃ­na",
+            "name": "Lea ze Srnína",
             "father": {
               "clp": "8978",
               "name": "Halan z Tismenic",
@@ -1949,14 +1949,14 @@
             },
             "mother": {
               "clp": "9369",
-              "name": "InÅ¾a ze SrnÃ­na",
+              "name": "InÅ¾a ze Srnína",
               "father": {
                 "clp": "9089",
                 "name": "Filip z Dolnic"
               },
               "mother": {
                 "clp": "8287",
-                "name": "Ketty z ÄŒejkovskÃ© tvrze"
+                "name": "Ketty z ÄŒejkovské tvrze"
               }
             }
           }
@@ -2053,16 +2053,16 @@
           },
           "mother": {
             "clp": "10666",
-            "name": "Fronta z MalÃ© sv. Hory",
+            "name": "Fronta z Malé sv. Hory",
             "father": {
               "clp": "10145",
-              "name": "Car PozoÅ™ice",
+              "name": "Car Pozořice",
               "father": {
                 "name": "Franzini Moris"
               },
               "mother": {
                 "clp": "9374",
-                "name": "Kera z Niv-BuÄ ovic"
+                "name": "Kera z Niv-Bučovic"
               }
             },
             "mother": {
@@ -2084,10 +2084,10 @@
           "name": "Deby z Borovinky",
           "father": {
             "clp": "10355",
-            "name": "Marko z Knollovy Å¡koly",
+            "name": "Marko z Knollovy školy",
             "father": {
               "clp": "9614",
-              "name": "Avar z ChÅ™ibskÃ½ch lesÅ¯",
+              "name": "Avar z Chřibských lesů",
               "father": {
                 "name": "Brick"
               },
@@ -2098,30 +2098,30 @@
             },
             "mother": {
               "clp": "9555",
-              "name": "Ajda z Knollovy Å¡koly",
+              "name": "Ajda z Knollovy školy",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9098",
-                "name": "Ivory z NovÃ©ho remÃ­zu"
+                "name": "Ivory z Nového remízu"
               }
             }
           },
           "mother": {
             "clp": "10552",
-            "name": "IÅ¡a z Oklikova",
+            "name": "Iša z Oklikova",
             "father": {
               "clp": "9550",
-              "name": "Ajax z Knollovy Å¡koly",
+              "name": "Ajax z Knollovy školy",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9098",
-                "name": "Ivory z NovÃ©ho remÃ­zu"
+                "name": "Ivory z Nového remízu"
               }
             },
             "mother": {
@@ -2129,7 +2129,7 @@
               "name": "Brenda Blahu",
               "father": {
                 "clp": "8978",
-                "name": "Flak z VranovskÃ©ho ÃºdolÃ­"
+                "name": "Flak z Vranovského údolí"
               },
               "mother": {
                 "clp": "9155",
@@ -2198,17 +2198,17 @@
           },
           "mother": {
             "clp": "10666",
-            "name": "Frona z MalÃ© sv. Hory",
+            "name": "Frona z Malé sv. Hory",
             "father": {
               "clp": "10145",
-              "name": "Car PozoÅ™ice",
+              "name": "Car Pozořice",
               "father": {
                 "clp": "9922",
                 "name": "Franzini Moris"
               },
               "mother": {
                 "clp": "9374",
-                "name": "Kera z Niv-BuÄ ovic"
+                "name": "Kera z Niv-Bučovic"
               }
             },
             "mother": {
@@ -2230,7 +2230,7 @@
           "name": "Porta WK-SB",
           "father": {
             "clp": "10431",
-            "name": "Pluto z Knollovy Å¡koly",
+            "name": "Pluto z Knollovy školy",
             "father": {
               "clp": "9922",
               "name": "Franzini Moris",
@@ -2243,14 +2243,14 @@
             },
             "mother": {
               "clp": "9555",
-              "name": "Ajda z Knollovy Å¡koly",
+              "name": "Ajda z Knollovy školy",
               "father": {
                 "clp": "9271",
                 "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9098",
-                "name": "Ivory z NovÃ©ho remÃ­zu"
+                "name": "Ivory z Nového remízu"
               }
             }
           },
