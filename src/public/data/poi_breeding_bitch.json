@@ -437,6 +437,122 @@
       "clp": "11040",
       "father": "Aramis z Vinných tratí",
       "mother": "Juka z Mešinské hájovny",
+      "pedigree": {
+        "breed": "POI",
+        "sex": "female",
+        "clp": "11040",
+        "father": {
+          "clp": "10615",
+          "name": "Aramis z Vinných tratí",
+          "father": {
+            "clp": "10054",
+            "name": "Ort z Mešínské hájovny",
+            "father": {
+              "clp": "9525",
+              "name": "Ort z Mešínské hájovny",
+              "father": {
+                "clp": "9832",
+                "name": "Iran z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "clp": "9166",
+              "name": "Ina z Lukavských lánů",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8416",
+                "name": "Ara z Lukavsých lánů"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10285",
+            "name": "Dorotka z Černých blat",
+            "father": {
+              "clp": "9922",
+              "name": "Franzini Moris",
+              "father": {
+                "name": "Ran del Sole"
+              },
+              "mother": {
+                "name": "Dama del Biondo"
+              }
+            },
+            "mother": {
+              "clp": "9681",
+              "name": "Eki od Semiče Staňka",
+              "father": {
+                "clp": "9038",
+                "name": "Alan od Turka"
+              },
+              "mother": {
+                "clp": "9375",
+                "name": "Kia z Niv-Bučovic"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10741",
+          "name": "Juka z Mešínské hájovny",
+          "father": {
+            "name": "Panter Wilczy Raj",
+            "father": {
+              "clp": "9083",
+              "name": "Archie z Mešínské hájovny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "name": "Bona z Kniei nad Browina",
+              "father": {
+                "name": "Arno Kostowski Staw"
+              },
+              "mother": {
+                "name": "Aga z Parowy Plockiej"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9927",
+            "name": "Larga z Mešínské hájovny",
+            "father": {
+              "name": "Max v.d. Ebershohe",
+              "father": {
+                "name": "Dachs vom Hilleborn"
+              },
+              "mother": {
+                "name": "Alka Somola"
+              }
+            },
+            "mother": {
+              "clp": "9309",
+              "name": "Citra z Mešínské hájovny",
+              "father": {
+                "clp": "8932",
+                "name": "Iran z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Molly z Kunštátských lesů"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "58",
         "color": "hnědá bílé znaky",
@@ -555,6 +671,119 @@
       "clp": "11182",
       "father": "Scott z Mešinské hájovny",
       "mother": "Perla z Knollovy školy",
+      "pedigree": {
+        "father": {
+          "clp": "10927",
+          "name": "Scott z Mešínské hájovny",
+          "father": {
+            "clp": "10532",
+            "name": "Endy z Hovoran",
+            "father": {
+              "name": "Best di Torre Brencola",
+              "father": {
+                "name": "Owest del Sole"
+              },
+              "mother": {
+                "name": "Clavarensis Bella"
+              }
+            },
+            "mother": {
+              "clp": "9335",
+              "name": "Bora z Hovoran",
+              "father": {
+                "clp": "8424",
+                "name": "Aron z Košáku"
+              },
+              "mother": {
+                "clp": "8878",
+                "name": "Nitka z Niv"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10598",
+            "name": "Gala z Mešínské hájovny",
+            "father": {
+              "clp": "10054",
+              "name": "Ort z Mešínské hájovny",
+              "father": {
+                "clp": "9525",
+                "name": "Ford z Mešínské hájovny"
+              },
+              "mother": {
+                "clp": "9166",
+                "name": "Ina z Lukavských lánů"
+              }
+            },
+            "mother": {
+              "clp": "9437",
+              "name": "Brita Jedlová chýše",
+              "father": {
+                "clp": "8461",
+                "name": "Talmberk Galahad"
+              },
+              "mother": {
+                "clp": "9022",
+                "name": "Aida Jedová chýše"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10434",
+          "name": "Perla z Knollovy školy",
+          "father": {
+            "clp": "9922",
+            "name": "Franzini Moris",
+            "father": {
+              "name": "Ran del Sole",
+              "father": {
+                "name": "Frik del Sole"
+              },
+              "mother": {
+                "name": "Fiaba del Sole"
+              }
+            },
+            "mother": {
+              "name": "Dama del Biondo",
+              "father": {
+                "name": "Rol del Biondo"
+              },
+              "mother": {
+                "name": "Emy del Biondo"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9555",
+            "name": "Ajda z Knollovy školy",
+            "father": {
+              "clp": "9271",
+              "name": "Ben z Joskor",
+              "father": {
+                "clp": "8974",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            },
+            "mother": {
+              "clp": "9098",
+              "name": "Ivory z Nového remízu",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8266",
+                "name": "Aida z Pálavských skal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "62",
         "color": "žemlová",
@@ -1254,6 +1483,128 @@
       "clp": "11411",
       "father": "Car od Zeleného stolu",
       "mother": "Ara z Kunčiny Vsi",
+      "pedigree": {
+        "father": {
+          "clp": "11099",
+          "name": "Car od Zeleného stolu",
+          "father": {
+            "clp": "10903",
+            "name": "Ciro z Borovinky",
+            "father": {
+              "clp": "10432",
+              "name": "Prim z Knollovy školy",
+              "father": {
+                "clp": "9922",
+                "name": "Franzini Moris"
+              },
+              "mother": {
+                "clp": "9555",
+                "name": "Ajda z Knollovy školy"
+              }
+            },
+            "mother": {
+              "clp": "10552",
+              "name": "Iša z Oklikova",
+              "father": {
+                "clp": "9550",
+                "name": "Ajax z Knollovy školy"
+              },
+              "mother": {
+                "clp": "9644",
+                "name": "Brenda Blahud"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10725",
+            "name": "Alma od Zeleného stolu",
+            "father": {
+              "clp": "9905",
+              "name": "Kord z Mešínské hájovny",
+              "father": {
+                "clp": "9524",
+                "name": "Flik z Mešínské hájovny"
+              },
+              "mother": {
+                "clp": "9437",
+                "name": "Brita Jedlová chýše"
+              }
+            },
+            "mother": {
+              "clp": "10257",
+              "name": "Iris Juta z Bolatic",
+              "father": {
+                "clp": "9922",
+                "name": "Franzini Moris"
+              },
+              "mother": {
+                "clp": "9827",
+                "name": "Hexa Soběšický kobylín"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "11018",
+          "name": "Ara z Kunčiny Vsi",
+          "father": {
+            "clp": "10615",
+            "name": "Aramis z Vinných tratí",
+            "father": {
+              "clp": "10054",
+              "name": "Ort z Mešínské hájovny",
+              "father": {
+                "clp": "9525",
+                "name": "Ford z Mešínské Hájovny"
+              },
+              "mother": {
+                "clp": "9166",
+                "name": "Ina z Lukavských lánů"
+              }
+            },
+            "mother": {
+              "clp": "10285",
+              "name": "Dorotka z Černých Blat",
+              "father": {
+                "clp": "9922",
+                "name": "Franzini Moris"
+              },
+              "mother": {
+                "clp": "9681",
+                "name": "Eki od Semiče Staňka"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10551",
+            "name": "Iris z Oklikova",
+            "father": {
+              "clp": "9550",
+              "name": "Ajax z Knollovy školy",
+              "father": {
+                "clp": "9271",
+                "name": "Ben z Joskor"
+              },
+              "mother": {
+                "clp": "9098",
+                "name": "Ivory z Nového remízu"
+              }
+            },
+            "mother": {
+              "clp": "9644",
+              "name": "Brenda Blahud",
+              "father": {
+                "clp": "8974",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "9155",
+                "name": "Karin z Tismenic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "color": "žlutobílá",
