@@ -71,6 +71,113 @@
       "clp": "6447",
       "father": "Liric Xcaliber",
       "mother": "Arry z Dvorku Čamourku",
+      "pedigree": {
+        "father": {
+          "name": "Liric Xcaliber",
+          "father": {
+            "name": "Shannas Colonial with Liric",
+            "father": {
+              "name": "Lochfain Not To Be Denied For Bareve",
+              "father": {
+                "name": "Glynderys High'n'Mighty with Liric"
+              },
+              "mother": {
+                "name": "Lochfain Never a Dull Moment"
+              }
+            },
+            "mother": {
+              "name": "Shannas Quizzical",
+              "father": {
+                "name": "Shannas Daimler"
+              },
+              "mother": {
+                "name": "Shannas Muscadet"
+              }
+            }
+          },
+          "mother": {
+            "name": "Liric Blac Xtasy",
+            "father": {
+              "name": "Liric Coolabah",
+              "father": {
+                "name": "Latchmere High Flyer"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            },
+            "mother": {
+              "name": "Liric An Affair to Remember",
+              "father": {
+                "name": "Shannas Daimler"
+              },
+              "mother": {
+                "name": "Drumdaroch Jazz Dancer with Liric"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5968",
+          "name": "Arry z Dvorku Čamourku",
+          "father": {
+            "clp": "5603",
+            "name": "Aves od Semenačky",
+            "father": {
+              "clp": "5320",
+              "name": "Agip Jinonický dvůr",
+              "father": {
+                "clp": "4428",
+                "name": "Alf z Hlídova"
+              },
+              "mother": {
+                "clp": "4889",
+                "name": "Usure Sonave"
+              }
+            },
+            "mother": {
+              "clp": "5251",
+              "name": "Deisy DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodůnky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5690",
+            "name": "Dyksi z Krátošických strání",
+            "father": {
+              "clp": "5248",
+              "name": "Dastin DAMA Krkonoše",
+              "father": {
+                "clp": "4870",
+                "name": "Tramp from Lady's Place"
+              },
+              "mother": {
+                "clp": "4532",
+                "name": "Asta od Hodůnky"
+              }
+            },
+            "mother": {
+              "clp": "5073",
+              "name": "Elza z Pohnánských vrchů",
+              "father": {
+                "clp": "4624",
+                "name": "Bor z Náměště na Hané"
+              },
+              "mother": {
+                "clp": "4645",
+                "name": "Loty z Aklic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "65",
         "color": "černá s pálením",
@@ -2393,6 +2500,106 @@
       "clp": "6828",
       "father": "Cameron From Stirling Bridge",
       "mother": "Alotria Neverending Grace",
+      "pedigree": {
+        "father": {
+          "name": "Cameron from Stirling Bridge",
+          "father": {
+            "name": "Laurelhach Legend",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance with Me of Shillay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue a Story"
+              }
+            },
+            "mother": {
+              "name": "Triseter Ebonie Zena with Laurelhach",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            }
+          },
+          "mother": {
+            "name": "Stirling Bridge Arwen",
+            "father": {
+              "name": "Nice River Boby",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Guiness Honeybee"
+              }
+            },
+            "mother": {
+              "name": "Gor-Csa Igrain",
+              "father": {
+                "name": "Triomfante van Monte di Angeli"
+              },
+              "mother": {
+                "name": "Gor-Csa Midway"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6447",
+          "name": "Alotria Neverending Grace",
+          "father": {
+            "name": "Liric Xcaliber",
+            "father": {
+              "name": "Shannas Colonial with Liric",
+              "father": {
+                "name": "Lochfain Not To Be Denied For Bareve"
+              },
+              "mother": {
+                "name": "Shannas Quizzical"
+              }
+            },
+            "mother": {
+              "name": "Liric Blac Xtasy",
+              "father": {
+                "name": "Liric Coolabah"
+              },
+              "mother": {
+                "name": "Liric An Affair to Remember"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5968",
+            "name": "Arry z Dvorku Čamourku",
+            "father": {
+              "clp": "5603",
+              "name": "Aves od Semenačky",
+              "father": {
+                "clp": "5320",
+                "name": "Agip Jinonický dvůr"
+              },
+              "mother": {
+                "clp": "5251",
+                "name": "Deisy DAMA Krkonoše"
+              }
+            },
+            "mother": {
+              "clp": "5690",
+              "name": "Dyksi z Krátošických strání",
+              "father": {
+                "clp": "5248",
+                "name": "Dastin DAMA Krkonoše"
+              },
+              "mother": {
+                "clp": "5073",
+                "name": "Elza z Pohnánských vrchů"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s pálením",
