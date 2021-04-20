@@ -62,7 +62,7 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ELLEN VALIANT HUNTER",
       "date_of_birth": "2015-07-09",
       "clp": "308",

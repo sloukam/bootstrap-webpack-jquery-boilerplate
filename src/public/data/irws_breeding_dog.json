@@ -154,7 +154,8 @@
         },
         "phone": "737815574",
         "email": "sedlakova.jani@tiscali.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IRWS",
@@ -170,6 +171,7 @@
         "color": "červenobílý",
         "HD": "A"
       },
+      "championships": "JCH CZ",
       "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, Krajský vítěz, národní vítěz",
       "exams": "ZV - I.c,",
       "owner": {
