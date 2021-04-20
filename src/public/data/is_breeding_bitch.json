@@ -8,6 +8,109 @@
       "clp": "15723",
       "father": "Hrabia z Orszaku Chrobrego",
       "mother": "Pera od Klapavce",
+      "pedigree": {
+        "father": {
+          "clp": "15450",
+          "name": "Hrabia z Orszaku Chrobrego",
+          "father": {
+            "name": "Kerrimere Winter Wine",
+            "father": {
+              "name": "Donaway Destiny",
+              "father": {
+                "name": "Caspians Intrepid"
+              },
+              "mother": {
+                "name": "Donaway Kentucky Rose"
+              }
+            },
+            "mother": {
+              "name": "Kerrimere Shining Star",
+              "father": {
+                "name": "Donaway By Design"
+              },
+              "mother": {
+                "name": "Kerrimere Mika"
+              }
+            }
+          },
+          "mother": {
+            "name": "Shadwell Absolutely All My Love",
+            "father": {
+              "name": "Erinade Estingished Dr. Robin",
+              "father": {
+                "name": "Caspians Intrepid"
+              },
+              "mother": {
+                "name": "Erinade Bewildered"
+              }
+            },
+            "mother": {
+              "name": "Pendledell Anise",
+              "father": {
+                "name": "Reddlins Lucien of Clovereder"
+              },
+              "mother": {
+                "name": "Wickenberry Red Velvet"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "14501",
+          "name": "Pera od Klapavce",
+          "father": {
+            "clp": "13459",
+            "name": "Tarn od Velkého dubu",
+            "father": {
+              "clp": "11758",
+              "name": "Glen Mahagon Moravia",
+              "father": {
+                "name": "Kingcross Crazy"
+              },
+              "mother": {
+                "clp": "11218",
+                "name": "Kingcross Kitty"
+              }
+            },
+            "mother": {
+              "clp": "11656",
+              "name": "Patricia Irsal",
+              "father": {
+                "name": "Donald v.d. Wester-HUy"
+              },
+              "mother": {
+                "clp": "10234",
+                "name": "Glorietta Nonstop"
+              }
+            }
+          },
+          "mother": {
+            "clp": "13955",
+            "name": "Lassi od Klapavce",
+            "father": {
+              "name": "Dunmore of Future's Dream",
+              "father": {
+                "name": "Connemara's Patric"
+              },
+              "mother": {
+                "name": "O'Reilly's  Nosca"
+              }
+            },
+            "mother": {
+              "clp": "12348",
+              "name": "Fatima od Zbraně",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10537",
+                "name": "Alma z Dubanského kopce"
+              }
+            }
+          }
+        }
+      },
       "sex": "female",
       "body": {
         "HD": "B"
@@ -146,6 +249,116 @@
       "clp": "15923",
       "father": "Eddy z Košumberka",
       "mother": "Dolly z Jirouškova dvora",
+      "pedigree": {
+        "father": {
+          "clp": "14654",
+          "name": "Eddy z Košumberka",
+          "father": {
+            "name": "Hubertus Zobel vom Söhrenberg",
+            "father": {
+              "name": "Hubertus Volcan vom Söhrenberg",
+              "father": {
+                "name": "Eich vom Römerkastell"
+              },
+              "mother": {
+                "name": "O'Sullivan Bacara"
+              }
+            },
+            "mother": {
+              "name": "Hubertus Umbra vom Söhrenberg",
+              "father": {
+                "name": "Bascha vom Westermünsterland"
+              },
+              "mother": {
+                "name": "Hubertus Mafia vom Söhrenberg"
+              }
+            }
+          },
+          "mother": {
+            "clp": "13609",
+            "name": "Georgina z Dubanského kopce",
+            "father": {
+              "name": "Dunmore of Future's Dream",
+              "father": {
+                "name": "Connemara's Patric"
+              },
+              "mother": {
+                "name": "O'Relly's Nosca"
+              }
+            },
+            "mother": {
+              "clp": "12062",
+              "name": "Elis z Dubanského kopce",
+              "father": {
+                "clp": "19833",
+                "name": "Vigor Kamilov"
+              },
+              "mother": {
+                "clp": "9898",
+                "name": "Zita z Vobůrky"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15160",
+          "name": "Dolly z Jirouškova dvora",
+          "father": {
+            "clp": "14505",
+            "name": "Dor z Hosteckých vrchů",
+            "father": {
+              "clp": "13162",
+              "name": "Grosby z Lesinky",
+              "father": {
+                "name": "Luxatori Glind of Gold"
+              },
+              "mother": {
+                "clp": "12114",
+                "name": "Diana z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13535",
+              "name": "Arka z Hosteckých vrchů",
+              "father": {
+                "clp": "12408",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "11603",
+                "name": "Draga z Vobůrky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14132",
+            "name": "Iara od Rakovnické brány",
+            "father": {
+              "clp": "13724",
+              "name": "Valmont Jenny's Irsal",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Princess Carolina Irsal "
+              }
+            },
+            "mother": {
+              "clp": "12823",
+              "name": "Flér od Rakovnické brány",
+              "father": {
+                "clp": "11303",
+                "name": "Christian Irsal"
+              },
+              "mother": {
+                "clp": "10480",
+                "name": "Sandra Virgo Bohemia"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
@@ -172,6 +385,116 @@
       "clp": "16009",
       "father": "Lary ze Srbeckých luhů",
       "mother": "Brela Apoli Gwen",
+      "pedigree": {
+        "father": {
+          "clp": "14489",
+          "name": "Larry ze Srbeckých luhů",
+          "father": {
+            "clp": "13830",
+            "name": "Irr z Lesinky",
+            "father": {
+              "name": "Scirocco's  Norton The Red Destiny",
+              "father": {
+                "name": "Arcus vom Torsfeld"
+              },
+              "mother": {
+                "name": "Scirocco's Fainerss"
+              }
+            },
+            "mother": {
+              "clp": "13167",
+              "name": "Gloria z Lesinky",
+              "father": {
+                "name": "Luxatori Glind of Gold"
+              },
+              "mother": {
+                "clp": "12114",
+                "name": "Diana z Lesinky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "13394",
+            "name": "Agra von Klinhab",
+            "father": {
+              "clp": "11250",
+              "name": "Athos z Železných hor",
+              "father": {
+                "clp": "9765",
+                "name": "Carlos Kamilov"
+              },
+              "mother": {
+                "clp": "10411",
+                "name": "Gyta z Peckovské skály"
+              }
+            },
+            "mother": {
+              "clp": "12212",
+              "name": "Iva ze Srbeckých luhů",
+              "father": {
+                "clp": "10229",
+                "name": "Gaius Julius Nonstop"
+              },
+              "mother": {
+                "clp": "10755",
+                "name": "Erika Jokran"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15405",
+          "name": "Brela Apoli Gwen",
+          "father": {
+            "name": "Russell's Kismet",
+            "father": {
+              "name": "Saeterelva's Russell",
+              "father": {
+                "name": "Hav Gas Arco"
+              },
+              "mother": {
+                "name": "Saeterelva's Trom-So"
+              }
+            },
+            "mother": {
+              "name": "Highfeather Raise'n a Ruckus",
+              "father": {
+                "name": "Kulana Qismet's Rhuzara"
+              },
+              "mother": {
+                "name": "Russell's Roxy Roller"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14470",
+            "name": "Desiree z Košumberka",
+            "father": {
+              "clp": "13077",
+              "name": "Flynn z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future's Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            },
+            "mother": {
+              "clp": "12782",
+              "name": "Dita z Šonovských hor",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10952",
+                "name": "Brita z Dubanského kopce"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "C"
       },
@@ -199,6 +522,101 @@
       "clp": "15996",
       "father": "Cordarragh Picasso",
       "mother": "Artemis Elimar Doubrava",
+      "pedigree": {
+        "father": {
+          "name": "Cordarragh Picasso",
+          "father": {
+            "name": "Scotselaw Detroit Spinner By Thendara",
+            "father": {
+              "name": "Thendara The Tourist",
+              "father": {
+                "name": "Thendara Kennedy"
+              },
+              "mother": {
+                "name": "Bardonhill Eeny Meeny Of Thendara"
+              }
+            },
+            "mother": {
+              "name": "Scotselaw Choco Holic",
+              "father": {
+                "name": "Covamey Chocolate Mousse"
+              },
+              "mother": {
+                "name": "Scotselaw Hollywood Madam"
+              }
+            }
+          },
+          "mother": {
+            "name": "Cordarragh Lady In Red",
+            "father": {
+              "name": "Cordarragh Huggie Bear",
+              "father": {
+                "name": "Thendara The Tourist"
+              },
+              "mother": {
+                "name": "Dnnygasik Honeysuckle"
+              }
+            },
+            "mother": {
+              "name": "Lunaline Let It Be",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Crynllis Moondust over Lunaline"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15446",
+          "name": "Artemis Elimar Doubrava",
+          "father": {
+            "name": "Garden Sta’s Irish Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Fellow"
+              },
+              "mother": {
+                "name": "Tempfress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garde Star‘s Bonnie Tyler",
+              "father": {
+                "name": "Vicary’s US Dolar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wicktoria Becham Z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver‘s"
+              },
+              "mother": {
+                "clp": "12057",
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary’s Xuni",
+              "father": {
+                "name": "Vicary’s US Dolar"
+              },
+              "mother": {
+                "name": "Vicary’s Sugartop"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
@@ -226,6 +644,108 @@
       "clp": "16028",
       "father": "Douglas Redweed",
       "mother": "Hera Červený vítr",
+      "pedigree": {
+        "father": {
+          "clp": "15531",
+          "name": "Douglas Redweed",
+          "father": {
+            "name": "Corranroo Redweed",
+            "father": {
+              "name": "Satlas Man Overboard",
+              "father": {
+                "name": "Satlas Waywardman"
+              },
+              "mother": {
+                "name": "Satlas Moody Blue"
+              }
+            },
+            "mother": {
+              "name": "Ballantines of Redweed",
+              "father": {
+                "name": "Orstone Country Gentleman of Wester-Huy"
+              },
+              "mother": {
+                "name": "Murphy v.d. Wester-Huy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15273",
+            "name": "Montefigueiras Isabel",
+            "father": {
+              "name": "Lochfrae Ralph Lauren",
+              "father": {
+                "name": "Jonola Adonis at Redchester"
+              },
+              "mother": {
+                "name": "Lochfrae Miss Saigon"
+              }
+            },
+            "mother": {
+              "name": "Jackie v.d. Wester-Huy",
+              "father": {
+                "name": "Sametsuz Mak´N Good"
+              },
+              "mother": {
+                "name": "Logan v.d. Wester-Huy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15723",
+          "name": "Hera Červený vítr",
+          "father": {
+            "clp": "15450",
+            "name": "Hrabia z Orszaku Chrobrego",
+            "father": {
+              "name": "Kerrimere Winter Wine",
+              "father": {
+                "name": "Donaway Destiny"
+              },
+              "mother": {
+                "name": "Kerrimere Shining Star"
+              }
+            },
+            "mother": {
+              "name": "Shadwell Absolutely All My Love",
+              "father": {
+                "name": "Erinade Estingished Dr. Robin"
+              },
+              "mother": {
+                "name": "Pendledell Anise"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14501",
+            "name": "Pera od Klapavce",
+            "father": {
+              "clp": "13459",
+              "name": "Tarn od Velkého dubu",
+              "father": {
+                "clp": "11758",
+                "name": "Glen Mahagon Moravia"
+              },
+              "mother": {
+                "clp": "11656",
+                "name": "Patricia Irsal"
+              }
+            },
+            "mother": {
+              "clp": "13955",
+              "name": "Lassi od Klapavce",
+              "father": {
+                "name": "Dunmore of Future's Dream"
+              },
+              "mother": {
+                "clp": "12348",
+                "name": "Fatima od Zbraně"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
@@ -254,6 +774,110 @@
       "clp": "16047",
       "father": "Neiven Amor´s Arrow",
       "mother": "X-Apache z Hradiska Rájce",
+      "pedigree": {
+        "father": {
+          "name": "Neiven Amor's Arrow",
+          "father": {
+            "name": "Centre Point Zambi",
+            "father": {
+              "name": "Jonola Dr. Doolittle",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jonola Bellestar"
+              }
+            },
+            "mother": {
+              "name": "Born Ti Be Happy Zambi",
+              "father": {
+                "name": "Shandwick Topaz"
+              },
+              "mother": {
+                "name": "Ally Chocolate Queen Zambi"
+              }
+            }
+          },
+          "mother": {
+            "name": "Hawana Rude Ziolko",
+            "father": {
+              "name": "Gin Tonic of the Hunter's Home",
+              "father": {
+                "name": "Endless Touche of the Hunter's Home"
+              },
+              "mother": {
+                "name": "Your Wish of the Hunter's Home"
+              }
+            },
+            "mother": {
+              "name": "Annais Rauhbaard",
+              "father": {
+                "name": "Vicary's Xgamble"
+              },
+              "mother": {
+                "name": "Articcastle 's Vaileta"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15153",
+          "name": "X-Apache Lady z Hradiska Rájce",
+          "father": {
+            "clp": "13566",
+            "name": "Blesk z Bučovských hájů",
+            "father": {
+              "clp": "11704",
+              "name": "Kid Jokran",
+              "father": {
+                "clp": "10229",
+                "name": "Gaius Julius Nonstop"
+              },
+              "mother": {
+                "clp": "9922",
+                "name": "Tora z Bolešínské Hůrky"
+              }
+            },
+            "mother": {
+              "clp": "12844",
+              "name": "Bona z Niv",
+              "father": {
+                "clp": "12344",
+                "name": "Fox od Zbraně"
+              },
+              "mother": {
+                "clp": "11156",
+                "name": "Bernadetta Mahagon Moravia"
+              }
+            }
+          },
+          "mother": {
+            "clp": "13941",
+            "name": "Vanilka z Hradiska Rájce",
+            "father": {
+              "name": "Kris-Wonderstar vo der Igalffy-Igaly",
+              "father": {
+                "name": "Arkus vom Torsfeld"
+              },
+              "mother": {
+                "name": "Kokino Arisz"
+              }
+            },
+            "mother": {
+              "clp": "13195",
+              "name": "Usty z Hradiska Rájce",
+              "father": {
+                "clp": "12707",
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "11871",
+                "name": "Ticiana z Hradiska Rájce"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
