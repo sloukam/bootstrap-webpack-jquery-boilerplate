@@ -733,6 +733,112 @@
       "clp": "11205",
       "father": "Ajzon z Halikarnasu",
       "mother": "Odeta ze Štípek",
+      "pedigree": {
+        "father": {
+          "name": "Ajzon z Halikarnasu",
+          "father": {
+            "name": "Forget Me Not of Szedresi",
+            "father": {
+              "name": "Caradhras og Szedresi",
+              "father": {
+                "name": "Luj Buzahazi"
+              },
+              "mother": {
+                "name": "Sáregresi Rambling Wind"
+              }
+            },
+            "mother": {
+              "name": "Falkenbergi Deborah",
+              "father": {
+                "clp": "9253",
+                "name": "Gróf z Dolnic"
+              },
+              "mother": {
+                "name": "Apple Princess of Spring-Field"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kora z Halikarnasu",
+            "father": {
+              "name": "Frodo z Kaczewskiej Zagrody",
+              "father": {
+                "clp": "9145",
+                "name": "Bret z Křižanovské stráně"
+              },
+              "mother": {
+                "name": "Bea Z Wiecborskich Pól"
+              }
+            },
+            "mother": {
+              "name": "Persa Wilczy raj",
+              "father": {
+                "clp": "9083",
+                "name": "Archie z Mešínské hájovny"
+              },
+              "mother": {
+                "name": "Bona z Kniel nad Browina"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10871",
+          "name": "Odeta ze Štípek",
+          "father": {
+            "clp": "10272",
+            "name": "Diablo ze Štípek",
+            "father": {
+              "clp": "9083",
+              "name": "Archie z Mešínské hájovny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "clp": "9516",
+              "name": "Klasa Editor",
+              "father": {
+                "name": "Georges du Pic de la Grave"
+              },
+              "mother": {
+                "name": "Alka Somola"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10259",
+            "name": "Juta z Bolatic",
+            "father": {
+              "clp": "9922",
+              "name": "Franzini Moris",
+              "father": {
+                "name": "Ran del Sole"
+              },
+              "mother": {
+                "name": "Dama del Biondo"
+              }
+            },
+            "mother": {
+              "clp": "9827",
+              "name": "Hexa Soběšický Kobylín",
+              "father": {
+                "clp": "9280",
+                "name": "Elan Soběšický Kobylín"
+              },
+              "mother": {
+                "clp": "9344",
+                "name": "Gita Soběšický Kobylín"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černobílý",

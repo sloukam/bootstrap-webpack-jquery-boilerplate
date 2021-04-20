@@ -224,6 +224,118 @@
       "clp": "10920",
       "father": "Endy z Hovoran",
       "mother": "Mona z Knollovy školy",
+      "pedigree": {
+        "father": {
+          "clp": "10532",
+          "name": "Endy z Hovoran",
+          "father": {
+            "name": "Best di Torre Brencola",
+            "father": {
+              "name": "Owest del Sole",
+              "father": {
+                "name": "Ribot della Noce"
+              },
+              "mother": {
+                "name": "Atena del Sole"
+              }
+            },
+            "mother": {
+              "name": "Clavarensis Bella",
+              "father": {
+                "name": "Cal"
+              },
+              "mother": {
+                "name": "Giada"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9335",
+            "name": "Bora z Hovoran",
+            "father": {
+              "clp": "8424",
+              "name": "Aron z Košáku",
+              "father": {
+                "clp": "7688",
+                "name": "Monty Frony"
+              },
+              "mother": {
+                "clp": "8045",
+                "name": "Ema od Dřenické studánky"
+              }
+            },
+            "mother": {
+              "clp": "8878",
+              "name": "Nitka z Niv",
+              "father": {
+                "clp": "7949",
+                "name": "Aran ze Stichovského dvora"
+              },
+              "mother": {
+                "clp": "8556",
+                "name": "Lovka z Niv"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10358",
+          "name": "Mona z Knollovy školy",
+          "father": {
+            "clp": "9614",
+            "name": "Avar z Chřibských lesů",
+            "father": {
+              "name": "Brick",
+              "father": {
+                "name": "Branco"
+              },
+              "mother": {
+                "name": "Bice dell Inglese"
+              }
+            },
+            "mother": {
+              "clp": "9082",
+              "name": "Dora z Katoviny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8491",
+                "name": "Astra Soběšický Kobylín"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9555",
+            "name": "Ajda z Kollovy školy",
+            "father": {
+              "clp": "9271",
+              "name": "Ben z Joskor",
+              "father": {
+                "clp": "8975",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            },
+            "mother": {
+              "clp": "9098",
+              "name": "Ivory z Nového remízu",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z cechu"
+              },
+              "mother": {
+                "clp": "8266",
+                "name": "Aida z Pálavských skal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "černá s náprsenkou",
@@ -373,6 +485,119 @@
       "clp": "11005",
       "father": "Pluto z Knollovy školy",
       "mother": "Karen od Nezdického potoka",
+      "pedigree": {
+        "father": {
+          "clp": "10431",
+          "name": "Pluto z Knollovy školy",
+          "father": {
+            "clp": "9922",
+            "name": "Franzini Moris",
+            "father": {
+              "name": "Ran del Sole",
+              "father": {
+                "name": "Frik del Biondo"
+              },
+              "mother": {
+                "name": "Fiaba del Sole"
+              }
+            },
+            "mother": {
+              "name": "Dama del Biondo",
+              "father": {
+                "name": "Roi del Biondo"
+              },
+              "mother": {
+                "name": "Emy del Biondo"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9555",
+            "name": "Ajda z Knollovy školy",
+            "father": {
+              "clp": "9271",
+              "name": "Ben z Joskor",
+              "father": {
+                "clp": "8974",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            },
+            "mother": {
+              "clp": "9098",
+              "name": "Ivory z Nového remízu",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8266",
+                "name": "Aida z Pálavských skal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10409",
+          "name": "Karen od Nezdickéo potoka",
+          "father": {
+            "clp": "9525",
+            "name": "Ford z Mešínské hájovny",
+            "father": {
+              "clp": "8932",
+              "name": "Iran z Cechu",
+              "father": {
+                "clp": "8186",
+                "name": "Flik od Dřenické studánky"
+              },
+              "mother": {
+                "clp": "8177",
+                "name": "Dixa z Cechu"
+              }
+            },
+            "mother": {
+              "clp": "8688",
+              "name": "Moly z Kunštátských lesů",
+              "father": {
+                "clp": "7610",
+                "name": "Mat ze Seče"
+              },
+              "mother": {
+                "clp": "8234",
+                "name": "Linka z Čertovy smoly"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9781",
+            "name": "Borka z Chřibských lesů",
+            "father": {
+              "name": "Brick",
+              "father": {
+                "name": "Branco"
+              },
+              "mother": {
+                "name": "Bice dell Inglese"
+              }
+            },
+            "mother": {
+              "clp": "9201",
+              "name": "Flér z Niv-Bučovic",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8877",
+                "name": "Nyra z Niv"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "59",
         "color": "žlutobílá",
@@ -1110,6 +1335,112 @@
       "clp": "11206",
       "father": "Ajzon z Halikarnasu",
       "mother": "Odeta ze Štípek",
+      "pedigree": {
+        "father": {
+          "name": "Ajzon z Halikarnasu",
+          "father": {
+            "name": "Forget Me Not of Szedresi",
+            "father": {
+              "name": "Caradhras og Szedresi",
+              "father": {
+                "name": "Luj Buzahazi"
+              },
+              "mother": {
+                "name": "Sáregresi Rambling Wind"
+              }
+            },
+            "mother": {
+              "name": "Falkenbergi Deborah",
+              "father": {
+                "clp": "9253",
+                "name": "Gróf z Dolnic"
+              },
+              "mother": {
+                "name": "Apple Princess of Spring-Field"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kora z Halikarnasu",
+            "father": {
+              "name": "Frodo z Kaczewskiej Zagrody",
+              "father": {
+                "clp": "9145",
+                "name": "Bret z Křižanovské stráně"
+              },
+              "mother": {
+                "name": "Bea Z Wiecborskich Pól"
+              }
+            },
+            "mother": {
+              "name": "Persa Wilczy raj",
+              "father": {
+                "clp": "9083",
+                "name": "Archie z Mešínské hájovny"
+              },
+              "mother": {
+                "name": "Bona z Kniel nad Browina"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10871",
+          "name": "Odeta ze Štípek",
+          "father": {
+            "clp": "10272",
+            "name": "Diablo ze Štípek",
+            "father": {
+              "clp": "9083",
+              "name": "Archie z Mešínské hájovny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "clp": "9516",
+              "name": "Klasa Editor",
+              "father": {
+                "name": "Georges du Pic de la Grave"
+              },
+              "mother": {
+                "name": "Alka Somola"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10259",
+            "name": "Juta z Bolatic",
+            "father": {
+              "clp": "9922",
+              "name": "Franzini Moris",
+              "father": {
+                "name": "Ran del Sole"
+              },
+              "mother": {
+                "name": "Dama del Biondo"
+              }
+            },
+            "mother": {
+              "clp": "9827",
+              "name": "Hexa Soběšický Kobylín",
+              "father": {
+                "clp": "9280",
+                "name": "Elan Soběšický Kobylín"
+              },
+              "mother": {
+                "clp": "9344",
+                "name": "Gita Soběšický Kobylín"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "černobílá",
@@ -2644,6 +2975,121 @@
       "clp": "11500",
       "father": "Oliver ze Štípek",
       "mother": "Audrey z Mešinské hájovny",
+      "pedigree": {
+        "father": {
+          "clp": "10865",
+          "name": "Oliver ze Štípek",
+          "father": {
+            "clp": "10272",
+            "name": "Diablo ze Štípek",
+            "father": {
+              "clp": "9083",
+              "name": "Archie z Mešínské hájovny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "clp": "9516",
+              "name": "Klasa Editor",
+              "father": {
+                "name": "Georges du Pic de la Grave"
+              },
+              "mother": {
+                "name": "Alka Somola"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10259",
+            "name": "Indi Juta z Bolatic",
+            "father": {
+              "clp": "9922",
+              "name": "Francizi Moris",
+              "father": {
+                "name": "Ran del Sole"
+              },
+              "mother": {
+                "name": "Dama del Biondo"
+              }
+            },
+            "mother": {
+              "clp": "9827",
+              "name": "Hexa Soběšický Kobylín",
+              "father": {
+                "clp": "9280",
+                "name": "Elan Soběšický Kobylín"
+              },
+              "mother": {
+                "clp": "9344",
+                "name": "Gita Soběšický Kobylín"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "11182",
+          "name": "Audrey z Mešínské hájovny",
+          "father": {
+            "clp": "10927",
+            "name": "Scott z Mešínské hájovny",
+            "father": {
+              "clp": "10532",
+              "name": "Endy z Hovoran",
+              "father": {
+                "name": "Best di Torre Brencola"
+              },
+              "mother": {
+                "clp": "9335",
+                "name": "Bora z Hovoran"
+              }
+            },
+            "mother": {
+              "clp": "10598",
+              "name": "Gala z Mešínské hájovny",
+              "father": {
+                "clp": "10054",
+                "name": "Ort z Mešínské hájovny"
+              },
+              "mother": {
+                "clp": "9437",
+                "name": "Brita Jedlová chýše"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10434",
+            "name": "Perla z Knollovy školy",
+            "father": {
+              "clp": "9922",
+              "name": "Franzini Moris",
+              "father": {
+                "name": "Ran del Sole"
+              },
+              "mother": {
+                "name": "Dama del Biondo"
+              }
+            },
+            "mother": {
+              "clp": "9555",
+              "name": "Ajda z Knollovy školy",
+              "father": {
+                "clp": "9271",
+                "name": "Ben z Joskor"
+              },
+              "mother": {
+                "clp": "9098",
+                "name": "Ivory z Nového remízu"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "oranžovobílá",
@@ -2705,6 +3151,106 @@
       "clp": "11593",
       "father": "Sáregresi Pointerland Athos",
       "mother": "Apache ze Štípek",
+      "pedigree": {
+        "father": {
+          "name": "Sáregresi Pointerland Athos",
+          "father": {
+            "name": "Csillaghegyi Foltos",
+            "father": {
+              "name": "Crookrise Monty's Thome",
+              "father": {
+                "name": "Bookstar Robert Frost"
+              },
+              "mother": {
+                "name": "Crookrise Gill"
+              }
+            },
+            "mother": {
+              "name": "Ammily Europos Mitas",
+              "father": {
+                "name": "Sáregresi Speedy Snowman"
+              },
+              "mother": {
+                "name": "Bea Aquila Bojsine"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kapaszhegyi Furge Bella",
+            "father": {
+              "name": "Caradhras od Szedresi",
+              "father": {
+                "name": "Luj Buzahazi"
+              },
+              "mother": {
+                "name": "Sáregresi Rambling Wind"
+              }
+            },
+            "mother": {
+              "name": "Sáregresi Xéna",
+              "father": {
+                "clp": "9253",
+                "name": "Gróf z Dolnic"
+              },
+              "mother": {
+                "name": "Sáegresi Passionate"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "11206",
+          "name": "Apache ze Štípek",
+          "father": {
+            "name": "Ajzon z Halikarnasu",
+            "father": {
+              "name": "Forgel Me Not of Szedresi",
+              "father": {
+                "name": "Caradhras od Szedresi"
+              },
+              "mother": {
+                "name": "Falkenbergi Deborah"
+              }
+            },
+            "mother": {
+              "name": "Kora z Halikarnasu",
+              "father": {
+                "name": "Frodo z Kaczewskiej Zagrody"
+              },
+              "mother": {
+                "name": "Persa Wilczy Raj"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10871",
+            "name": "Odeta ze Štípek",
+            "father": {
+              "clp": "10272",
+              "name": "Diablo ze Štípek",
+              "father": {
+                "clp": "9083",
+                "name": "Archie z Mešínské hájovny"
+              },
+              "mother": {
+                "name": "Klasa Editor"
+              }
+            },
+            "mother": {
+              "clp": "10259",
+              "name": "Indi Juta z Bolatic",
+              "father": {
+                "clp": "9922",
+                "name": "Franzini Moris"
+              },
+              "mother": {
+                "clp": "9827",
+                "name": "Hesa Soběšický Kobylín"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "color": "bílooranžová",
