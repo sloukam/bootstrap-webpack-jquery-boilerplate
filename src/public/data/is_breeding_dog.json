@@ -685,6 +685,106 @@
       "clp": "16253",
       "father": "Navarro Jay Slovak Base",
       "mother": "Bereta Apoli Gwen",
+      "pedigree": {
+        "father": {
+          "name": "Navarro Jay Slovak Base",
+          "father": {
+            "name": "Edy spod Zobora",
+            "father": {
+              "name": "Kris-Wonderstar von der Igalffy-Igaly",
+              "father": {
+                "name": "Arkus vom Torksfeld"
+              },
+              "mother": {
+                "name": "Kokina Arisz"
+              }
+            },
+            "mother": {
+              "name": "Aja Bezákov dvor",
+              "father": {
+                "clp": "11388",
+                "name": "Jerry z Dubské"
+              },
+              "mother": {
+                "name": "Vora Meškov dvor"
+              }
+            }
+          },
+          "mother": {
+            "name": "Kankán Jay Slovak base",
+            "father": {
+              "name": "Flash Jay Slovak Base",
+              "father": {
+                "name": "Garden Star´s Billion Dolar"
+              },
+              "mother": {
+                "name": "Beauty Jay Slovak Base"
+              }
+            },
+            "mother": {
+              "name": "Chardonnay Jay Slovak Base",
+              "father": {
+                "name": "Satlas Man Overboard"
+              },
+              "mother": {
+                "name": "Dolly Jay Slovak Base"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15404",
+          "name": "Bereta Apoli Gwen",
+          "father": {
+            "name": "Russell s Kismet",
+            "father": {
+              "name": "Saeterelva s Russell",
+              "father": {
+                "name": "Hav Gas Arco"
+              },
+              "mother": {
+                "name": "Saeterelva s Trom-So"
+              }
+            },
+            "mother": {
+              "name": "Highteather Raise",
+              "father": {
+                "name": "Kulana Oismet s Rhuzara"
+              },
+              "mother": {
+                "name": "Russell s Roxy roller"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14470",
+            "name": "Desiree z Košumberka",
+            "father": {
+              "clp": "13077",
+              "name": "Flynn z Dubanského kopce",
+              "father": {
+                "name": "Dunmore ot Future s Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            },
+            "mother": {
+              "clp": "12782",
+              "name": "Dita z Šonovských hor",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10952",
+                "name": "Brita z Dubanského kopce"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
@@ -739,6 +839,124 @@
       "clp": "16391",
       "father": "Luky z Bolešinské hůrky",
       "mother": "Berta z Lesa království",
+      "pedigree": {
+        "father": {
+          "clp": "15055",
+          "name": "Luky z Bolešinské hůrky",
+          "father": {
+            "clp": "14021",
+            "name": "Irish Wonder Nonstop",
+            "father": {
+              "name": "Grysko of Future´s Dream",
+              "father": {
+                "name": "Beautifull Flame v.d. Westerhuy"
+              },
+              "mother": {
+                "name": "Beverly of Future´s Dream"
+              }
+            },
+            "mother": {
+              "clp": "12898",
+              "name": "Chelsea Nonstop",
+              "father": {
+                "clp": "11303",
+                "name": "Christian Irsal"
+              },
+              "mother": {
+                "clp": "10828",
+                "name": "Donna Rafaella Nonstop"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14094",
+            "name": "Agnes ze Žďárského kopce",
+            "father": {
+              "clp": "13036",
+              "name": "Dag z Bolešinské hůrky",
+              "father": {
+                "clp": "11102",
+                "name": "Gary Jokran"
+              },
+              "mother": {
+                "clp": "12452",
+                "name": "Judy od Alp"
+              }
+            },
+            "mother": {
+              "clp": "12425",
+              "name": "Miriam Irslak",
+              "father": {
+                "clp": "10049",
+                "name": "Oscar Nonstop"
+              },
+              "mother": {
+                "clp": "11637",
+                "name": "Lily Gilab"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15717",
+          "name": "Berta z Lesa království",
+          "father": {
+            "clp": "14466",
+            "name": "Duke z Košumberka",
+            "father": {
+              "clp": "13077",
+              "name": "Flynn z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            },
+            "mother": {
+              "clp": "12782",
+              "name": "Dita z Šonovských hor",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10952",
+                "name": "Brita z Dubanského kopce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14797",
+            "name": "Celia Mahagony Rose",
+            "father": {
+              "clp": "13029",
+              "name": "Hak z Luhové seče",
+              "father": {
+                "clp": "11704",
+                "name": "Kid Jokran"
+              },
+              "mother": {
+                "clp": "12140",
+                "name": "Doris z Luhové seče"
+              }
+            },
+            "mother": {
+              "clp": "13426",
+              "name": "Kréta z Nětčic",
+              "father": {
+                "clp": "12707",
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "12193",
+                "name": "Lussy od Velkého dubu"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "HD": "A"
@@ -768,6 +986,108 @@
       "clp": "16399",
       "father": "Almost Picasso Daisy Rain",
       "mother": "Bereta Apoli Gwen",
+      "pedigree": {
+        "father": {
+          "clp": "15990",
+          "name": "Almost Picasso Daisy Rain",
+          "father": {
+            "name": "Cordarragh Picasso",
+            "father": {
+              "name": "Scotselaw Detroit Spinner By Thendara",
+              "father": {
+                "name": "Thendara The Tourist"
+              },
+              "mother": {
+                "name": "Scotselaw Choco Holic"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Lady In Red",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let It Be"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish-Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15404",
+          "name": "Bereta Apoli Gwen",
+          "father": {
+            "name": "Russell´s Kismet",
+            "father": {
+              "name": "Saeterelva s Russell",
+              "father": {
+                "name": "Hav Gas Arco"
+              },
+              "mother": {
+                "name": "Saeterelva s Trom-So"
+              }
+            },
+            "mother": {
+              "name": "Highteather Raise",
+              "father": {
+                "name": "Kulana Oismet s Rhuzara"
+              },
+              "mother": {
+                "name": "Russell s Roxy roller"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14470",
+            "name": "Desiree z Košumberka",
+            "father": {
+              "clp": "13077",
+              "name": "Flynn z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            },
+            "mother": {
+              "clp": "12782",
+              "name": "Dita z Šonovských hor",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10952",
+                "name": "Brita z Dubanského kopce"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A",
         "ED": "0/0"
@@ -796,6 +1116,112 @@
       "clp": "16428",
       "father": "Aramis Apolly Moravia",
       "mother": "Clotilde z Břevnovského vrchu",
+      "pedigree": {
+        "father": {
+          "name": "Aramis Apolly Moravia",
+          "father": {
+            "name": "Neiven Amor´s Arrow",
+            "father": {
+              "name": "Centre Point Zambi",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Born To Be Happy Zambi"
+              }
+            },
+            "mother": {
+              "name": "Hawana Rude Ziólko",
+              "father": {
+                "name": "Gin Tonic of the Hunter´s Home"
+              },
+              "mother": {
+                "name": "Annais Rauhbaard"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15102",
+            "name": "Mira z Bolešinské hůrky",
+            "father": {
+              "clp": "14555",
+              "name": "Chán z Bolešinské hůrky",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "14094",
+                "name": "Agnes ze Žďárského kopce"
+              }
+            },
+            "mother": {
+              "clp": "14406",
+              "name": "Gracy z Bolešinské hůrky",
+              "father": {
+                "clp": "13036",
+                "name": "Dag z Bolešinské hůrky"
+              },
+              "mother": {
+                "clp": "13721",
+                "name": "Tori of Redestate"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15871",
+          "name": "Clotilde z Břevnovského vrchu",
+          "father": {
+            "name": "Thendara Satisfaction",
+            "father": {
+              "name": "Sumaric Shadow Of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Vanilla Ice",
+              "father": {
+                "name": "Thendara Kramer"
+              },
+              "mother": {
+                "name": "Cordarragh Ladybird of Thendara"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14914",
+            "name": "Adelaide z Břevnovského vrchu",
+            "father": {
+              "clp": "14067",
+              "name": "Dorian Grey Jenny´s Irsal",
+              "father": {
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13335",
+                "name": "Tiffany Jenny´s Irsal"
+              }
+            },
+            "mother": {
+              "clp": "14431",
+              "name": "Annie Mahagon Dream",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13585",
+                "name": "Bellinda Tojakr"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },
@@ -850,6 +1276,98 @@
       "clp": "16585",
       "father": "Dubliner Wellington",
       "mother": "Caemgen´s Fashion Is My Passion",
+      "pedigree": {
+        "father": {
+          "name": "Dubliner Wellington",
+          "father": {
+            "name": "Chase Cinammon´s",
+            "father": {
+              "name": "Copper´s Champagne On Ice",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            },
+            "mother": {
+              "name": "Banthi Cinammon´s",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            }
+          },
+          "mother": {
+            "name": "Dubliner Valkyria",
+            "father": {
+              "name": "Dubliner Mac Mio",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            },
+            "mother": {
+              "name": "Kanelin Hurrah Dubliner",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Caemgen´s Fashion Is My Passion",
+          "father": {
+            "name": "Pendoric Foggy Perfection",
+            "father": {
+              "name": "Setterlands Tamburello at Pendoric",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            },
+            "mother": {
+              "name": "Pendoric Fire Anythyme",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            }
+          },
+          "mother": {
+            "name": "Caemgen´s Dark´N Dashing",
+            "father": {
+              "name": "Garden Star´s Billion Dollar",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            },
+            "mother": {
+              "name": "Caemgen´s Butterflies in Winter",
+              "father": {
+                "name": "xxx xxx"
+              },
+              "mother": {
+                "name": "xxx xxx"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "68",
         "HD": "A"
@@ -880,6 +1398,103 @@
       "clp": "16574",
       "father": "Paris Match Thendara",
       "mother": "Electra Ruby Mahagony Paw",
+      "pedigree": {
+        "father": {
+          "name": "Paris Match Thendara",
+          "father": {
+            "name": "Gwendariff Pop The Question",
+            "father": {
+              "name": "Danaway Lancelot of Autumnwood",
+              "father": {
+                "name": "Danaway Michelangelo"
+              },
+              "mother": {
+                "name": "Danaway Demure"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Pop My Cork",
+              "father": {
+                "name": "Danaway Fortune Teller"
+              },
+              "mother": {
+                "name": "Clonageera Klassique Gwendariff"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Lenamore",
+            "father": {
+              "name": "Sumaric Shadow od Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Capriati",
+              "father": {
+                "name": "Scotselaw Detroit Spinner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "67",
         "HD": "A",
@@ -912,6 +1527,103 @@
       "clp": "16576",
       "father": "Paris Match Thendara",
       "mother": "Electra Ruby Mahagony Paw",
+      "pedigree": {
+        "father": {
+          "name": "Paris Match Thendara",
+          "father": {
+            "name": "Gwendariff Pop The Question",
+            "father": {
+              "name": "Danaway Lancelot of Autumnwood",
+              "father": {
+                "name": "Danaway Michelangelo"
+              },
+              "mother": {
+                "name": "Danaway Demure"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Pop My Cork",
+              "father": {
+                "name": "Danaway Fortune Teller"
+              },
+              "mother": {
+                "name": "Clonageera Klassique Gwendariff"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Lenamore",
+            "father": {
+              "name": "Sumaric Shadow od Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Capriati",
+              "father": {
+                "name": "Scotselaw Detroit Spinner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "67",
         "HD": "A",
@@ -1027,6 +1739,106 @@
       "clp": "16641",
       "father": "Riverwood Pleased as Punch",
       "mother": "Clea Red Joker",
+      "pedigree": {
+        "father": {
+          "name": "Riverwood Pleased as Punch",
+          "father": {
+            "name": "Wynjill Well I Am",
+            "father": {
+              "name": "Sametsuz Scriptwriter",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Sametsuz Secret Affair"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Whata Wynjill",
+              "father": {
+                "name": "Danaway Discreet"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            }
+          },
+          "mother": {
+            "name": "Riverwood Kumbayah",
+            "father": {
+              "name": "Houston of the Trav´Lin Star",
+              "father": {
+                "name": "Atron Limited Edition"
+              },
+              "mother": {
+                "name": "Charmain of the Trav´Lin Star"
+              }
+            },
+            "mother": {
+              "name": "Girly Girl of McBirdy",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Chickadee of McBirdy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16041",
+          "name": "Clea Red Joker",
+          "father": {
+            "clp": "15444",
+            "name": "Abandinus Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15252",
+            "name": "Beauty Red Joker",
+            "father": {
+              "clp": "15064",
+              "name": "Satlas Man Overboard",
+              "father": {
+                "name": "Satlas Waywardman"
+              },
+              "mother": {
+                "name": "Satlas Moody Blue"
+              }
+            },
+            "mother": {
+              "clp": "14484",
+              "name": "Aisha Red Joker",
+              "father": {
+                "clp": "12605",
+                "name": "Fabrizio Juglana"
+              },
+              "mother": {
+                "clp": "13918",
+                "name": "Andy Dianin Šíp"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "67",
         "HD": "B"
@@ -1056,6 +1868,103 @@
       "clp": "16661",
       "father": "Riverwood Pleased as Punch",
       "mother": "Zephyre Maya Redweed",
+      "pedigree": {
+        "father": {
+          "name": "Riverwood Pleased as Punch",
+          "father": {
+            "name": "Wynjill Well I am",
+            "father": {
+              "name": "Sametsuz Scriptwriter",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Sametsuz Secret Affair"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Whata Wynjill",
+              "father": {
+                "name": "Danaway Discreet"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            }
+          },
+          "mother": {
+            "name": "Riverwood Kumbayah",
+            "father": {
+              "name": "Houston of the Trav´Lin Star",
+              "father": {
+                "name": "Aston Limited Edition"
+              },
+              "mother": {
+                "name": "Charmain of the Trav´Lin Star"
+              }
+            },
+            "mother": {
+              "name": "Girly Girl of McBirdy",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Chickadee of McBirdy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16174",
+          "name": "Zephyre Maya Redweed",
+          "father": {
+            "clp": "13965",
+            "name": "Stamboek Redweed",
+            "father": {
+              "name": "Orstone Country Gentleman of Westerhuy",
+              "father": {
+                "name": "Konakakela Zagar by Romarne"
+              },
+              "mother": {
+                "name": "Orstone Morgan Le Fay"
+              }
+            },
+            "mother": {
+              "clp": "12893",
+              "name": "Oriflame Mahagon Moravia",
+              "father": {
+                "name": "Erinade Extinguished"
+              },
+              "mother": {
+                "clp": "10785",
+                "name": "Andromeda Mahagon Moravia"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15273",
+            "name": "Isabel Montefigueiras",
+            "father": {
+              "name": "Lochfrae Ralph Lauren",
+              "father": {
+                "name": "Jonola Adonis at Redchester"
+              },
+              "mother": {
+                "name": "Lochfrae Miss Saigon"
+              }
+            },
+            "mother": {
+              "name": "Jackie v.d. Wester-Huy",
+              "father": {
+                "name": "Sametsuz Mak´N Good"
+              },
+              "mother": {
+                "name": "Logan v.d. Westerhuy"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "66",
         "HD": "B",
@@ -1072,7 +1981,7 @@
           "street": "Pod Vartou",
           "number": "636",
           "city": "Zliv",
-          "post_code": "37293"
+          "post_code": "37344"
         },
         "phone": "776171298",
         "email": "daisy.rain@seznam.cz",
@@ -1089,12 +1998,105 @@
       "clp": "16711",
       "father": "Oakdene Que Du Bonheur",
       "mother": "Oakdene Puzzles's Crisps",
+      "pedigree": {
+        "father": {
+          "name": "Oakdene Que du Bonheur",
+          "father": {
+            "name": "Jonola Dr Doolittle",
+            "father": {
+              "name": "Lochfrae Ralph Lauren",
+              "father": {
+                "name": "Jonola Adonis at Redchester"
+              },
+              "mother": {
+                "name": "Lochfrae Miss Saigon"
+              }
+            },
+            "mother": {
+              "name": "Jonola Bellstar",
+              "father": {
+                "name": "Jonola Southern Connection"
+              },
+              "mother": {
+                "name": "Jonola Libertybelle"
+              }
+            }
+          },
+          "mother": {
+            "name": "Oakdene Nothing Compares 2U",
+            "father": {
+              "name": "Thendara Satisfaction",
+              "father": {
+                "name": "Sumaric Shadow of Mr Jingles"
+              },
+              "mother": {
+                "name": "Thendara Vanilla Ice"
+              }
+            },
+            "mother": {
+              "name": "Oakdene Kilby",
+              "father": {
+                "name": "Thendara Frozen Asset"
+              },
+              "mother": {
+                "name": "Mayfred Mrs Robinson"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Oakdene Puzzles´n Crisps",
+          "father": {
+            "name": "Paris Match Thendara",
+            "father": {
+              "name": "Gwendariff Pop The Question",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            },
+            "mother": {
+              "name": "Thendara Lenamore",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Thendata Capriati"
+              }
+            }
+          },
+          "mother": {
+            "name": "Oakdene Kilby",
+            "father": {
+              "name": "Thendara Frozen Asset",
+              "father": {
+                "name": "Thendara Kramer"
+              },
+              "mother": {
+                "name": "Cordarragh Ladybird of Thendara"
+              }
+            },
+            "mother": {
+              "name": "Mayfred Mrs Robinson",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Kirkavagh Darara at Mayfred"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A",
         "ED": "0/0",
         "rcd4": "clear",
-        "other": "CLAD N/N, gen. profil"
+        "other": "CLAD N/N, gen. profil, PRA rcd 1 clear"
       },
+      "championships": "JCH ČR",
       "shows": "CAJC, BOJ, NV, BOB, BIG 3",
       "exams": "ZV I.cena",
       "owner": {
@@ -1108,6 +2110,7 @@
         },
         "phone": ""
       },
+      "other": "Import Polsko",
       "img_ext": "jpg"
     }
   ]

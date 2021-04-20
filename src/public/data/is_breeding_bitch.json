@@ -1616,7 +1616,7 @@
       },
       "body": {
         "HD": "A",
-        "rcd4": "clear",
+        "rcd4": "carrier",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
       "championships": "CH ČR",
@@ -1902,7 +1902,7 @@
       },
       "championships": "JCH ČR, CH ČR",
       "shows": "CAJC, CAC",
-      "exams": "ZV II.cena",
+      "exams": "ZV I.cena",
       "owner": {
         "title": "Bc.",
         "first_name": "Miroslava",
