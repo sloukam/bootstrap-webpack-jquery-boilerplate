@@ -1,562 +1,79 @@
 {
   "dogs": [
     {
-      "visible": false,
+      "id": "45977342-9db7-4c8c-8b27-4629a012bf87",
+      "visible": true,
       "breed": "AS",
-      "name": "LORIEN JULY SUNBURST",
-      "championships": "CH ČR",
-      "clp": "6022",
-      "date_of_birth": "2008-06-27",
-      "sex": "male",
+      "male": false,
+      "clp": 6372,
+      "name": "c2asdfsasdf prirazeny existujici contact",
+      "date_of_birth": "1977-04-19T12:58:01.000+00:00",
+      "father": {
+        "id": "0a358846-a8be-4ab2-a2b4-00fa4671ab75",
+        "visible": false,
+        "breed": null,
+        "male": false,
+        "clp": null,
+        "name": "this is father - b2adfsdafsads",
+        "date_of_birth": null,
+        "father": null,
+        "mother": null,
+        "body": null,
+        "championships": null,
+        "shows": null,
+        "exams": null,
+        "owner": null
+      },
+      "mother": {
+        "id": "17f9d79f-84e5-4707-8ed5-d9f38661d58f",
+        "visible": false,
+        "breed": null,
+        "male": false,
+        "clp": null,
+        "name": "mother - b2adfsdafsads",
+        "date_of_birth": null,
+        "father": null,
+        "mother": null,
+        "body": null,
+        "championships": null,
+        "shows": null,
+        "exams": null,
+        "owner": null
+      },
       "body": {
+        "id": "9c594d32-cdab-4f0a-9130-1e19d5414d3d",
+        "visible": true,
         "height": 64,
-        "color": "orange belton",
-        "HD": "A",
-        "ED": "0/0",
-        "BAER": true,
-        "other": ""
+        "color": "blue-belton",
+        "hd": "A",
+        "ed": "AA",
+        "baer": true,
+        "rcd4": "carrier",
+        "ocd": "clear",
+        "other": "other value"
       },
-      "shows": "CAC, CACIB, BOB",
-      "exams": "pracovní zkouška v Itálii",
-      "father": "Artizoe High Caliber",
-      "mother": "Lorien Tri Lana",
+      "championships": "JCH CR, CH SK, CH CR",
+      "shows": "BOB, BIG, BOS",
+      "exams": "ZV I.c.",
       "owner": {
-        "title": "Ing.",
+        "id": "f0f8fddd-ee68-4844-984b-15bf814419cc",
+        "visible": false,
         "first_name": "Martin",
-        "last_name": "Kostelník",
+        "last_name": "Slouka",
         "address": {
-          "street": "Sadová",
-          "number": "315/7",
-          "city": "Mnichovice",
-          "post_code": ""
+          "id": "aaf16080-9be7-4f0e-bde0-df90fe7f6a4d",
+          "visible": false,
+          "street": "Katosky",
+          "number": "222",
+          "city": "Katerinice",
+          "country": "Ceska republika"
         },
-        "phone": "602212634",
-        "email": "martin@nip.cz"
-      },
-      "other": "Import Itálie",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": false,
-      "breed": "AS",
-      "name": "DELLIOR TAPIO DAVARONI",
-      "championships": "CH ČR",
-      "clp": "5760",
-      "date_of_birth": "2010-02-08",
-      "sex": "male",
-      "body": {
-        "height": "64",
-        "color": "blue belton",
-        "HD": "A",
-        "ED": "0/0",
-        "BAER": true,
-        "other": ""
-      },
-      "shows": "CAJC, res.CAC, CAC, res.CACIB",
-      "exams": "ZV - I.c., KZV - III.c.",
-      "father": "Yavanna’s Kariya Cenhamn",
-      "mother": "Camellia Brilanti Davaroni",
-      "owner": {
-        "title": "",
-        "first_name": "Jiří",
-        "last_name": "Havlíček",
-        "address": {
-          "street": "Ješetínská",
-          "number": "623",
-          "city": "Černá Hora",
-          "post_code": ""
-        },
-        "phone": "777864026",
-        "email": "16081977@seznam.cz",
-        "web": "http://www.davaroni.com"
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": false,
-      "breed": "AS",
-      "name": "JUSTIN Z MEŠINSKÉ HÁJOVNY",
-      "championships": "",
-      "clp": "5802",
-      "date_of_birth": "2010-03-24",
-      "sex": "male",
-      "body": {
-        "height": "64",
-        "color": "tricolor",
-        "HD": "A"
-      },
-      "shows": "CAJC, CAC, VT, KV, BOJ, BOB",
-      "exams": "ZV - I.c, Jarní pohár ČPSK – I. c",
-      "father": "Condor z Mešinského hájemství",
-      "mother": "Lacey z Krzáku",
-      "owner": {
-        "title": "",
-        "first_name": "Pavel",
-        "last_name": "Thiel",
-        "address": {
-          "street": "Nová ves",
-          "number": "141",
-          "city": "Nová ves",
-          "post_code": ""
-        },
-        "phone": "725032292",
-        "email": "thiel@vycvikpsuliberecko.cz",
-        "web": ""
-      },
-      "co-owner": {
-        "title": "",
-        "first_name": "Lenka",
-        "last_name": "Kellerová"
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "ARNY Z NOVÉHO REMÍZU",
-      "championships": "",
-      "clp": "5857",
-      "date_of_birth": "2011-01-30",
-      "sex": "male",
-      "body": {
-        "height": "63",
-        "color": "blue belton",
-        "HD": "C",
-        "other": "HD vyšetřeno ve stáří 6 let"
-      },
-      "shows": "velmi dobrý",
-      "exams": "ZV - I.c., PZ – I.c., ZVP – I. c., LZ – I.c.",
-      "father": "Janek z Podřipské břízy",
-      "mother": "Inka z Mešinské hájovny",
-      "owner": {
-        "title": "",
-        "first_name": "Petr",
-        "last_name": "Chaloupka",
-        "address": {
-          "street": "Květnická",
-          "number": "17",
-          "city": "Tišnov",
-          "post_code": ""
-        },
-        "phone": "732488291",
-        "email": "petrchall@centrum.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "FALCO Z LUHOVÉ SEČE",
-      "championships": "",
-      "clp": "5865",
-      "date_of_birth": "2011-02-17",
-      "sex": "male",
-      "body": {
-        "height": "64",
-        "color": "blue belton",
-        "HD": "A"
-      },
-      "shows": "CAJC, BOJ",
-      "exams": "ZV - I.c",
-      "father": "Valdy z Průhonické obory",
-      "mother": "Alma Trnavské lesy",
-      "owner": {
-        "title": "",
-        "first_name": "Martin",
-        "last_name": "Cahlík",
-        "address": {
-          "street": "Kladeruby",
-          "number": "132",
-          "city": "Kelč",
-          "post_code": ""
-        },
-        "phone": "731029521",
-        "email": "cahlikova.marie@seznam.cz",
-        "web": "http://www.zluhovesece.estranky.cz"
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "AL PRIMO LORIDAM LYMARKOS",
-      "championships": "CH ČR, SK, JCH ČR",
-      "clp": "6017",
-      "date_of_birth": "2012-06-17",
-      "sex": "male",
-      "body": {
-        "height": "65",
-        "color": "blue belton",
-        "HD": "A",
-        "ED": "0/0",
-        "BAER": true,
-        "other": ""
-      },
-      "shows": "CAJC, BOJ, CAC, res.CACIB, Národní vítěz, CACIB, BOB",
-      "exams": "ZV - I.c, PZ – II. c, LZ – I.c, VZ – II.c",
-      "father": "Lorien July Sunburst",
-      "mother": "Isis Lady DAMA Krkonoše",
-      "owner": {
-        "title": "Bc.",
-        "first_name": "Barbora",
-        "last_name": "Černá",
-        "address": {
-          "street": "17.listopadu",
-          "number": "121",
-          "city": "Kutná Hora",
-          "post_code": ""
-        },
-        "phone": "732944098",
-        "email": "bara.cerna@atlas.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "JETHRO MORRISON",
-      "championships": "JCH ČR",
-      "clp": "6058",
-      "date_of_birth": "2013-04-20",
-      "sex": "male",
-      "body": {
-        "height": "64",
-        "color": "orange belton",
-        "HD": "A",
-        "ED": "0/0",
-        "other": ""
-      },
-      "shows": "CAJC, CAC, BOJ",
-      "exams": "ZV - I.c, PZ - I. c",
-      "father": "Easter Morrison",
-      "mother": "Kety z Podřipské Břízy",
-      "owner": {
-        "title": "",
-        "first_name": "Dominik",
-        "last_name": "Hašek",
-        "address": {
-          "street": "",
-          "number": "",
-          "city": "",
-          "post_code": ""
-        },
-        "phone": "725032292",
-        "email": "thiel@vycvikpsuliberecko.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "ARGO Z VLČÍCH HOR",
-      "clp": "6194",
-      "date_of_birth": "2015-07-28",
-      "sex": "male",
-      "body": {
-        "height": "64",
-        "color": "tricolor",
-        "HD": "A",
-        "BAER": true,
-        "other": ""
-      },
-      "championships": "CH, SK",
-      "shows": "res. CAC, CAC, VT, Krajský vítěz",
-      "exams": "ZV - I. cena, 188 b., FT - bon, Memoriál Josefa Luxe I.c., Agrotec Novomlýnské derby - I.c., vítěz Derby, 220 bodů, nos - 4, T.A.N., NFT MSKAO - TB, MFT MSKAO - TB",
-      "father": "Fino Vis Tranquilla",
-      "mother": "Cranberry Seva",
-      "owner": {
-        "title": "",
-        "first_name": "Sylva",
-        "last_name": "Vanžurová",
-        "address": {
-          "street": "Bohuňova",
-          "number": "34",
-          "city": "Brno",
-          "post_code": ""
-        },
-        "phone": "604720606",
-        "email": "sylva.vanzurova@centrum.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "NOELL MORRISON",
-      "championships": "CH SR, JCH ČR, SR",
-      "clp": "6181",
-      "date_of_birth": "2015-06-21",
-      "sex": "male",
-      "body": {
-        "height": "66",
-        "color": "blue belton",
-        "HD": "C",
-        "other": ""
-      },
-      "shows": "BOJ, res. CACIB",
-      "exams": "ZV - I. cena",
-      "father": "Easter Morrison",
-      "mother": "Kety z Podřipské Břízy",
-      "owner": {
-        "title": "Mgr.",
-        "first_name": "Helena",
-        "last_name": "Daňková",
-        "address": {
-          "street": "Na Vyhlídce",
-          "number": "592",
-          "city": "Rájec - Jestřebí",
-          "post_code": ""
-        },
-        "phone": "739096565",
-        "email": "helena.dankova@post.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "DARK REFLECTION SHADOW DOG",
-      "championships": "JCH ČR, SR",
-      "clp": "6312",
-      "date_of_birth": "2017-02-04",
-      "sex": "male",
-      "body": {
-        "height": "65",
-        "color": "tricolor",
-        "HD": "A",
-        "ED": "0/0",
-        "other": ""
-      },
-      "shows": "CAJC, CAC, BOJ, KVM, KV, BOB",
-      "exams": "ZV - I. cena",
-      "father": "Sheradin’s Star Baileys",
-      "mother": "Lucksheray Darkness",
-      "owner": {
-        "title": "Mgr.",
-        "first_name": "Helena",
-        "last_name": "Daňková",
-        "address": {
-          "street": "Na Vyhlídce",
-          "number": "592",
-          "city": "Rájec - Jestřebí",
-          "post_code": ""
-        },
-        "phone": "739096565",
-        "email": "helena.dankova@post.cz",
-        "web": ""
-      },
-      "other": "",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "TRIN",
-      "clp": "6299",
-      "date_of_birth": "2017-07-07",
-      "sex": "male",
-      "body": {
-        "height": "62",
-        "color": "tricolor",
-        "HD": "A",
-        "BAER": true,
-        "other": ""
-      },
-      "championships": "JCH ČR",
-      "shows": "CAJC, BOJ, CAC, res. CAC",
-      "exams": "ZV - I. cena, Jarní pohár ČPSK-I.c., Agrotec Novomlýnské derby 2018-I.c, CACT. Novomlýnské derby 2019-I.c. Vítěz derby, TAN, NFT-Exc, NFT derby couple-B, MAS-12b.",
-      "father": "Uno Antonio Zell Brancco",
-      "mother": "Matka: Danka",
-      "owner": {
-        "title": "",
-        "first_name": "Sylva",
-        "last_name": "Vanžurová",
-        "address": {
-          "street": "Bohuňova",
-          "number": "34",
-          "city": "Brno",
-          "post_code": ""
-        },
-        "phone": "604720606",
-        "email": "sylva.vanzurova@centrum.cz",
-        "web": ""
-      },
-      "other": "Import Srbsko",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "ASLAN LIKE AN ANGEL ROYAL SETTER",
-      "championships": "JCH CZ, SK, A",
-      "clp": "6241",
-      "date_of_birth": "2016-01-19",
-      "sex": "male",
-      "body": {
-        "height": "67",
-        "color": "orange belton",
-        "HD": "A",
-        "other": ""
-      },
-      "shows": "BIS, BIG, J.BIS CZ, res. J.BIS, J.BOD, J.BIG, BOB, Junior roku 2017 ČMKU, Šampion šampionů CZ 2017 BIG 3, Šampión Šampionov SK 2017 BIG 2, TOP DOG 2018 ČMKU",
-      "exams": "ZV - I.c",
-      "father": "Artush Mandygold",
-      "mother": "Latin Lover Madeleine",
-      "owner": {
-        "title": "",
-        "first_name": "Pavel",
-        "last_name": "Thiel",
-        "address": {
-          "street": "Nová ves",
-          "number": "141",
-          "city": "Nová ves",
-          "post_code": ""
-        },
-        "phone": "725032292",
-        "email": "thiel@vycvikpsuliberecko.cz",
-        "web": ""
-      },
-      "other": "Uchovněn na výjimku - chybí 2x M3 viz. zápis z výboru 23.7.2017",
-      "img_ext": "jpg"
-    },
-    {
-      "visible": true,
-      "breed": "AS",
-      "name": "CRICKET JUMBO BEDNAR LYMARKOS",
-      "date_of_birth": "2017-06-05",
-      "clp": "6306",
-      "father": "Kadon Here’s Dunley Charismatic",
-      "mother": "Latin Lover Show On The Sahara",
-      "sex": "male",
-      "pedigree": {
-        "father": {
-          "name": "Kadon Here's Dunley Charismatic",
-          "father": {
-            "name": "Celestial's Man on Fire",
-            "father": {
-              "name": "Countryn Squire Rock Star",
-              "father": {
-                "name": "Stagedoor  Rock It Man"
-              },
-              "mother": {
-                "name": "Bluequail Country Squire Danica"
-              }
-            },
-            "mother": {
-              "name": "Celestial Dasia Voo",
-              "father": {
-                "name": "Kaliber's Yorick Of Sir Cedric"
-              },
-              "mother": {
-                "name": "Snowbird Celestial Flight Of Fancy"
-              }
-            }
-          },
-          "mother": {
-            "name": "Kanon's Truth Or Dare",
-            "father": {
-              "name": "Windjammer Kadon Joseph's Coat",
-              "father": {
-                "name": "Kadon Seafield This Buds Forme"
-              },
-              "mother": {
-                "name": "WindJammer Shaded Silouette"
-              }
-            },
-            "mother": {
-              "name": "Kadon's River Of Dreams",
-              "father": {
-                "name": "Baysides River Deep"
-              },
-              "mother": {
-                "name": "Kadon's Remember Best Friends"
-              }
-            }
-          }
-        },
-        "mother": {
-          "clp": "5839",
-          "name": "Latin Lover Snow On The Sahara",
-          "father": {
-            "clp": "6022",
-            "name": "Lorien July Sunburst",
-            "father": {
-              "name": "Artizoe High Caliber",
-              "father": {
-                "name": "Honeygait Limited Edition"
-              },
-              "mother": {
-                "name": "Artizoe Rosewood Cora "
-              }
-            },
-            "mother": {
-              "name": "Lorien Tri Lana",
-              "father": {
-                "name": "Edwardian Three Star General "
-              },
-              "mother": {
-                "name": "Khyczar's Silver Bells"
-              }
-            }
-          },
-          "mother": {
-            "name": "Set's Ridge's Desert Rose",
-            "father": {
-              "name": "Set'r Ridge's Real Gold",
-              "father": {
-                "name": "Set'r Ridge's Solid Gold"
-              },
-              "mother": {
-                "name": "Kadons Se't Ridge Tissa"
-              }
-            },
-            "mother": {
-              "name": "Set'r Ridge's Quaking Aspen",
-              "father": {
-                "name": "Mi Jean's Boot ScootinBoogie"
-              },
-              "mother": {
-                "name": "Set'r Ridge's Canterfield Look'r"
-              }
-            }
-          }
-        }
-      },
-      "body": {
-        "height": "67",
-        "color": "orange belton",
-        "HD": "A",
-        "ED": "0/0",
-        "BAER": true
-      },
-      "championships": "C.I.E., C.I.B., GRAND CH CZ, CH CZ, CH SK, CH AT, CH PL, JCH CZ",
-      "shows": "BOB, CACIB, Res. CACIB, CACA, CWC, CAC, Národní vítěz, Klubový vítěz MSKAO, Nejlepší pracovní pes výstavy -sdružená výstava Zákupy",
-      "exams": "ZV - I.c",
-      "owner": {
-        "first_name": "Taťána",
-        "last_name": "Bednářová Wilczková",
-        "address": {
-          "street": "Jižní",
-          "number": "718",
-          "city": "Rychvald"
-        },
-        "phone": "724474360",
-        "email": "Tatana.bednarova@gmail.com"
+        "owned_dogs": null
       },
       "img_ext": "jpg"
     }
-  ]
-}
+
+
+
+
+  ]}

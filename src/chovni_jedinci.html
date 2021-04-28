@@ -21,7 +21,11 @@
             </div>
             <div class="col-3">
               <div class="sex-symbol">
-                <img src="./public/images/{{sex}}_symbol.png" class="sex_symbol_img">
+                {{#if male}}
+                <img src="./public/images/male_symbol.png" class="sex_symbol_img">
+                {{else}}
+                <img src="./public/images/female_symbol.png" class="sex_symbol_img">
+                {{/if}}
               </div>
             </div>
           </div>
@@ -62,11 +66,11 @@
             </div>
             <div class="row">
               <div class="col-4 item-label">otec:</div>
-              <div class="col">{{father}}</div>
+              <div class="col">{{father.name}}</div>
             </div>
             <div class="row">
               <div class="col-4 item-label">matka:</div>
-              <div class="col">{{mother}}</div>
+              <div class="col">{{mother.name}}</div>
             </div>
             {{#if pedigree}}
             <div class="row">
@@ -89,23 +93,23 @@
               <div class="col">{{color}}</div>
             </div>
             {{/if}}
-            {{#if HD}}
+            {{#if hd}}
             <div class="row">
               <div class="col-4 item-label">HD:</div>
-              <div class="col">{{HD}}</div>
+              <div class="col">{{hd}}</div>
             </div>
             {{/if}}
-            {{#if ED}}
+            {{#if ed}}
             <div class="row">
               <div class="col-4 item-label">ED:</div>
-              <div class="col">{{ED}}</div>
+              <div class="col">{{ed}}</div>
             </div>
             {{/if}}
-            {{#if (isDefined BAER)}}
+            {{#if (isDefined baer)}}
             <div class="row">
-              <div class="col-4 item-label">BAER:</div>
+              <div class="col-4 item-label">baer:</div>
               <div class="col">
-                {{#if BAER}}
+                {{#if baer}}
                 normal
                 {{else}}
                 abnormal
@@ -117,6 +121,12 @@
             <div class="row">
               <div class="col-4 item-label">PRA rcd4:</div>
               <div class="col">{{rcd4}}</div>
+            </div>
+            {{/if}}
+            {{#if ocd}}
+            <div class="row">
+              <div class="col-4 item-label">OCD:</div>
+              <div class="col">{{ocd}}</div>
             </div>
             {{/if}}
             {{#if other}}
@@ -147,51 +157,59 @@
             </div>
             {{/if}}
 
+            {{#with owner}}
             <div class="row">
               <div class="col-4 item-label">majitel:</div>
               <div class="col">
-                {{owner.title}} {{owner.first_name}} {{owner.last_name}}
-                {{#if co-owner.last_name}}
-                a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}
+                {{title}} {{first_name}} {{last_name}}
+                {{#if co-last_name}}
+                a {{co-title}} {{co-first_name}} {{co-last_name}}
                 {{/if}}
               </div>
             </div>
             <div class="row">
               <div class="col-4 item-label"></div>
               <div class="col">
-                {{owner.address.street}} {{owner.address.number}}
+                {{address.street}} {{address.number}}
               </div>
             </div>
             <div class="row">
               <div class="col-4 item-label"></div>
               <div class="col">
-                {{owner.address.post_code}} {{owner.address.city}}
+                {{address.post_code}} {{address.city}}
               </div>
             </div>
-            {{#if owner.phone}}
+            <div class="row">
+              <div class="col-4 item-label"></div>
+              <div class="col">
+                {{address.country}}
+              </div>
+            </div>
+            {{#if phone}}
             <div class="row">
               <div class="col-4"><img src="./public/images/phone_icon.png" height="20" width="20"></div>
               <div class="col">
-                <a href="tel:{{owner.phone}}">{{owner.phone}}</a>
+                <a href="tel:{{phone}}">{{phone}}</a>
               </div>
             </div>
             {{/if}}
-            {{#if owner.email}}
+            {{#if email}}
             <div class="row">
               <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
               <div class="col shorten-col">
-                <a href="mailto:{{owner.email}}">{{owner.email}}</a>
+                <a href="mailto:{{email}}">{{email}}</a>
               </div>
             </div>
             {{/if}}
-            {{#if owner.web}}
+            {{#if web}}
             <div class="row">
               <div class="col-4"><img src="./public/images/web_icon.png" height="20" width="20"></div>
               <div class="col shorten-col">
-                <a href="{{{owner.web}}}" target="_blank">{{owner.web}}</a>
+                <a href="{{{web}}}" target="_blank">{{web}}</a>
               </div>
             </div>
             {{/if}}
+            {{/with}}
           </div>
         </div>
       </div>
