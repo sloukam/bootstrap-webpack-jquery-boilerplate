@@ -396,6 +396,128 @@
       "clp": "10958",
       "father": "Ort z Měšínské hájovny",
       "mother": "Lea ze Srnína",
+      "pedigree": {
+        "father": {
+          "clp": "10054",
+          "name": "Ort z Mešinské Hájovny",
+          "father": {
+            "clp": "9525",
+            "name": "Ford z Mešinské Hájovny",
+            "father": {
+              "clp": "8932",
+              "name": "Iran z Cechu",
+              "father": {
+                "clp": "8186",
+                "name": "Flik od DÅ™evnickÃ© studÃ¡nky"
+              },
+              "mother": {
+                "clp": "8177",
+                "name": "Dixa z Cechu"
+              }
+            },
+            "mother": {
+              "clp": "8688",
+              "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "father": {
+                "clp": "7610",
+                "name": "Mat ze SeÄ e"
+              },
+              "mother": {
+                "clp": "8234",
+                "name": "Cinka z Čertovy zmoly"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9166",
+            "name": "Ina z LukavskÃ½ch lÃ¡nÅ¯",
+            "father": {
+              "clp": "8691",
+              "name": "Hak z Cechu",
+              "father": {
+                "clp": "7374",
+                "name": "Am ze ZÃ¡koutÃ­ pasek"
+              },
+              "mother": {
+                "clp": "8177",
+                "name": "Dixa z Cechu"
+              }
+            },
+            "mother": {
+              "clp": "8416",
+              "name": "Ara z LukavskÃ½ch lÃ¡nÅ¯",
+              "father": {
+                "clp": "7874",
+                "name": "Blesk z RoÅ¡tejna"
+              },
+              "mother": {
+                "clp": "7417",
+                "name": "Nela z LukavskÃ½ch lÃ¡nÅ¯"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10419",
+          "name": "Lea ze SrnÃ­na",
+          "father": {
+            "clp": "8978",
+            "name": "Holan z Tismenic",
+            "father": {
+              "clp": "7709",
+              "name": "Dart Talmberk",
+              "father": {
+                "clp": "7316",
+                "name": "Argo z PolÅˆÃ¡ku"
+              },
+              "mother": {
+                "clp": "6804",
+                "name": "Hi-Fi z LuÅ¾ickÃ© strÃ¡nÄ›"
+              }
+            },
+            "mother": {
+              "clp": "8422",
+              "name": "Fera z Lichovek",
+              "father": {
+                "clp": "7478",
+                "name": "Broque Talmberk"
+              },
+              "mother": {
+                "clp": "7359",
+                "name": "Dera z Lichovek"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9369",
+            "name": "InÅ¾a ze SrnÃ­na",
+            "father": {
+              "clp": "9089",
+              "name": "Filip z Dolnic",
+              "father": {
+                "clp": "8424",
+                "name": "Aron z KoÅ¡Ã¡ku"
+              },
+              "mother": {
+                "clp": "8469",
+                "name": "Aida z Dolnic"
+              }
+            },
+            "mother": {
+              "clp": "8287",
+              "name": "Ketty z Čejkovské tvrze",
+              "father": {
+                "clp": "7709",
+                "name": "Dart Talmberk"
+              },
+              "mother": {
+                "clp": "7822",
+                "name": "Any od ZbrodskÃ©ho dubu"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "bíločerná",
@@ -426,6 +548,125 @@
       "clp": "10990",
       "father": "Marko z Knollovy školy",
       "mother": "Iša z Oklikova",
+      "pedigree": {
+        "father": {
+          "clp": "10355",
+          "name": "Marko z Knollovy školy",
+          "father": {
+            "clp": "9614",
+            "name": "Avar z Chřibských lesů",
+            "father": {
+              "name": "Brick",
+              "father": {
+                "name": "Branco"
+              },
+              "mother": {
+                "name": "Bice dell Inglesa"
+              }
+            },
+            "mother": {
+              "clp": "9082",
+              "name": "Dora z Katoviny",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8491",
+                "name": "Astra Soběšický Kobylín"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9555",
+            "name": "Ajda z Knollovy školy",
+            "father": {
+              "clp": "9271",
+              "name": "Ben z Joskor",
+              "father": {
+                "clp": "8974",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            },
+            "mother": {
+              "clp": "9098",
+              "name": "Ivory z Nového remízu",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8256",
+                "name": "Aida z Pálavských skal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10552",
+          "name": "Iša z Oklikova",
+          "father": {
+            "clp": "9550",
+            "name": "Ajax z Knollovy školy",
+            "father": {
+              "clp": "9271",
+              "name": "Ben z Joskor",
+              "father": {
+                "clp": "8974",
+                "name": "Flak z Vranovského údolí"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            },
+            "mother": {
+              "clp": "9098",
+              "name": "Ivory z Nového remízu",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8256",
+                "name": "Aida z Pálavských skal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9644",
+            "name": "Brenda Blahud",
+            "father": {
+              "clp": "8974",
+              "name": "Flak z Vranovského údolí",
+              "father": {
+                "clp": "8231",
+                "name": "Cesar z Čertovy zmoly"
+              },
+              "mother": {
+                "clp": "8484",
+                "name": "Aika z Kobylnic"
+              }
+            },
+            "mother": {
+              "clp": "9155",
+              "name": "Karin z Tismenic",
+              "father": {
+                "clp": "8164",
+                "name": "Dyk ze Zákoutí pasek"
+              },
+              "mother": {
+                "clp": "8422",
+                "name": "Fera z Lichovek"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "60",
@@ -657,7 +898,7 @@
               },
               "mother": {
                 "clp": "8234",
-                "name": "Linka z ÄŒertovy zmoly"
+                "name": "Linka z Čertovy zmoly"
               }
             }
           },
@@ -956,6 +1197,126 @@
       "clp": "11046",
       "father": "Lesan od Nezdického potoka",
       "mother": "Lea ze Srnína",
+      "pedigree": {
+        "father": {
+          "clp": "10587",
+          "name": "Lesan od Nezdického potoka",
+          "father": {
+            "clp": "10136",
+            "name": "Chán z Dolnic",
+            "father": {
+              "clp": "8978",
+              "name": "Holan z Tismenic",
+              "father": {
+                "clp": "7709",
+                "name": "Dart Talmberk"
+              },
+              "mother": {
+                "clp": "8422",
+                "name": "Fera z Lichovek"
+              }
+            },
+            "mother": {
+              "clp": "9256",
+              "name": "Gela z Dolnic",
+              "father": {
+                "clp": "8560",
+                "name": "Brit z Budínských lesů"
+              },
+              "mother": {
+                "clp": "8469",
+                "name": "Ajda z Dolnic"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9781",
+            "name": "Borka z Chřibských lesů",
+            "father": {
+              "clp": "9676",
+              "name": "Brick",
+              "father": {
+                "name": "Brando"
+              },
+              "mother": {
+                "name": "Bice dell Inglese"
+              }
+            },
+            "mother": {
+              "clp": "9201",
+              "name": "Flér z Niv-Bučovic",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8877",
+                "name": "Nyra Niv"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10419",
+          "name": "Lea ze Srnína",
+          "father": {
+            "clp": "8978",
+            "name": "Holan z Tismenic",
+            "father": {
+              "clp": "7709",
+              "name": "Dart Talmberk",
+              "father": {
+                "clp": "7316",
+                "name": "Argo z Polňáku"
+              },
+              "mother": {
+                "clp": "6804",
+                "name": "Hi-fi z Nuzické stráně"
+              }
+            },
+            "mother": {
+              "clp": "8422",
+              "name": "Fera z Lichovek",
+              "father": {
+                "clp": "7478",
+                "name": "Broque Talmberk"
+              },
+              "mother": {
+                "clp": "7359",
+                "name": "Dera z Lichovek"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9369",
+            "name": "Inža ze Srnína",
+            "father": {
+              "clp": "9089",
+              "name": "Filip z Dolnic",
+              "father": {
+                "clp": "8424",
+                "name": "Aron z Košáku"
+              },
+              "mother": {
+                "clp": "8469",
+                "name": "Aida z Dolnic"
+              }
+            },
+            "mother": {
+              "clp": "8287",
+              "name": "Ketty z Čejkovské tvrze",
+              "father": {
+                "clp": "7709",
+                "name": "Dart Talmberk"
+              },
+              "mother": {
+                "clp": "7822",
+                "name": "Any od Zbradského dubu"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "bíložlutá",
@@ -1070,7 +1431,7 @@
               },
               "mother": {
                 "clp": "8234",
-                "name": "Cinka z ÄŒertovy zmoly"
+                "name": "Cinka z Čertovy zmoly"
               }
             }
           },
@@ -1273,8 +1634,127 @@
       "name": "DAISY LUČNÍ KVĚT",
       "date_of_birth": "2015-05-22",
       "clp": "11202",
-      "father": "Adar z Hanáckých polí,",
+      "father": "Adar z Hanáckých polí",
       "mother": "Iwi Blahud",
+      "pedigree": {
+        "breed": "POI",
+        "sex": "female",
+        "clp": "11202",
+        "father": {
+          "clp": "10110",
+          "name": "Adar z Hanáckých polí",
+          "father": {
+            "clp": "9922",
+            "name": "Franzini Moris",
+            "father": {
+              "name": "Ran del Sole",
+              "father": {
+                "name": "Frik del Biondo"
+              },
+              "mother": {
+                "name": "Fiaba del Sole"
+              }
+            },
+            "mother": {
+              "name": "Dama del Biondo",
+              "father": {
+                "name": "Rol del Biondo"
+              },
+              "mother": {
+                "name": "Emy del Biondo"
+              }
+            }
+          },
+          "mother": {
+            "clp": "9522",
+            "name": "Cita z Joskor",
+            "father": {
+              "clp": "8534",
+              "name": "Argo z Kryštofova dvora",
+              "father": {
+                "clp": "7874",
+                "name": "Blesk z Roštejna"
+              },
+              "mother": {
+                "clp": "7977",
+                "name": "Arpa z Německého dvora"
+              }
+            },
+            "mother": {
+              "clp": "9163",
+              "name": "Aida z Joskor",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8917",
+                "name": "Faty z Tismenic"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10844",
+          "name": "Iwi Blahud",
+          "father": {
+            "clp": "9639",
+            "name": "Bonny Blahud",
+            "father": {
+              "clp": "8974",
+              "name": "Flak z Vranovského údolí",
+              "father": {
+                "clp": "8231",
+                "name": "Cesar z Čertovy zmoly"
+              },
+              "mother": {
+                "clp": "8484",
+                "name": "Ajka z Kobylnic"
+              }
+            },
+            "mother": {
+              "clp": "9155",
+              "name": "Karin z Tismenic",
+              "father": {
+                "clp": "8164",
+                "name": "Dyk ze ZÃ¡koutÃ­ pasek"
+              },
+              "mother": {
+                "clp": "8422",
+                "name": "Fera z Lichovek"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10103",
+            "name": "Gama Blahud",
+            "father": {
+              "clp": "9117",
+              "name": "Max z Cechu",
+              "father": {
+                "clp": "8164",
+                "name": "Dyk ze ZÃ¡koutÃ­ pasek"
+              },
+              "mother": {
+                "clp": "8609",
+                "name": "Freja z Cechu"
+              }
+            },
+            "mother": {
+              "clp": "9257",
+              "name": "Gora z Dolnic",
+              "father": {
+                "clp": "8560",
+                "name": "Brit z BudÃ­nskÃ½ch lesÅ¯"
+              },
+              "mother": {
+                "clp": "8469",
+                "name": "Aida z Dolnic"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "58",
         "color": "žlutobílá",
@@ -1828,7 +2308,7 @@
               "name": "Char z BeÅˆovské skály",
               "father": {
                 "clp": "8534",
-                "name": "Argo z Kryštofova  dvora"
+                "name": "Argo z Kryštofova dvora"
               },
               "mother": {
                 "clp": "9070",
@@ -1915,7 +2395,7 @@
           "father": {
             "name": "Csillaghegyi Foltos Izidor",
             "father": {
-              "name": "Crookrise Monty's  Theme",
+              "name": "Crookrise Monty's Theme",
               "father": {
                 "name": "Bookstor Robert Frost"
               },
@@ -1924,7 +2404,7 @@
               }
             },
             "mother": {
-              "name": "Ammily Europos  Mitas",
+              "name": "Ammily Europos Mitas",
               "father": {
                 "name": "Sáregresi Speedy Snowman"
               },
@@ -2116,7 +2596,7 @@
               },
               "mother": {
                 "clp": "8234",
-                "name": "Cinka z ÄŒertovy zmoly"
+                "name": "Cinka z Čertovy zmoly"
               }
             }
           },
@@ -2287,7 +2767,7 @@
               },
               "mother": {
                 "clp": "8287",
-                "name": "Ketty z ÄŒejkovské tvrze"
+                "name": "Ketty z Čejkovské tvrze"
               }
             }
           }
