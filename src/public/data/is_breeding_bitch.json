@@ -1428,6 +1428,35 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "BASERIAN MAHAGON KENYA",
+      "date_of_birth": "2015-06-28",
+      "clp": "16193",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Flea Červený vítr",
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, VT",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Marek",
+        "last_name": "Pavel",
+        "address": {
+          "street": "Zimní",
+          "number": "862",
+          "city": "Vysoké Mýto",
+          "post_code": "56601"
+        },
+        "phone": "604 955 070",
+        "email": "marek.pavel@technet.ms"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "BINJARA MAHAGON KENYA",
       "date_of_birth": "2015-06-28",
       "clp": "16196",
@@ -2743,6 +2772,38 @@
         },
         "phone": "739406622",
         "email": "nemcova_m@centrum.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ELLIE ELIMAR DOUBRAVA",
+      "date_of_birth": "2018-02-06",
+      "clp": "16532",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Emily from Avon Farm",
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "other": "OCD N/N"
+      },
+      "shows": "V, CAC, CACIB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing. ",
+        "first_name": "Aleš",
+        "last_name": "Borek",
+        "address": {
+          "street": "Skalička",
+          "number": "170",
+          "city": "Skalička",
+          "post_code": "75352"
+        },
+        "phone": "725 257 586"
       },
       "img_ext": "jpg"
     }
