@@ -322,6 +322,105 @@
       "clp": "15848",
       "father": "Garden Star´s Royal Legend",
       "mother": "Ashley Punk Mahagony Paw",
+      "pedigree":   {
+        "father": {
+          "name": "Garden Star's Royal Legend",
+          "father": {
+            "name": "Sumaric Shadow of Mr. Jingles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smooth Criminal"
+              },
+              "mother": {
+                "name": "Greer Paige of Thendara"
+              }
+            },
+            "mother": {
+              "name": "Jonola Same Like It Hot At Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Garden Star's Light Joghurt",
+            "father": {
+              "name": "Ardan of Funny Home",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Brinade Fergie of Westerhuys"
+              }
+            },
+            "mother": {
+              "name": "Garden Star's Ferero Rocher",
+              "father": {
+                "name": "Garden Star's Billion Dolar"
+              },
+              "mother": {
+                "name": "Garden Star's Amber Light"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15042",
+          "name": "Ashley Punk Mahagony Paw",
+          "father": {
+            "name": "Vicary's Cobacabana",
+            "father": {
+              "name": "Clonageera Limited Edition",
+              "father": {
+                "name": "Clonageera Whisper"
+              },
+              "mother": {
+                "name": "Clonageera Fascination"
+              }
+            },
+            "mother": {
+              "name": "Vicary's Yassmine",
+              "father": {
+                "name": "Vicary's US Dollar"
+              },
+              "mother": {
+                "name": "Vicary's Sugartop"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14401",
+            "name": "Country Melody Jenny's Irsal",
+            "father": {
+              "clp": "14067",
+              "name": "Dorian Grey Jenny‘s Irsal",
+              "father": {
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13335",
+                "name": "Tiffany Jenny‘s Irsal"
+              }
+            },
+            "mother": {
+              "clp": "12831",
+              "name": "Ruby Jenny's Irsal",
+              "father": {
+                "clp": "11758",
+                "name": "Glen Mahagon Moravia"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Princess Carolina Irsal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "68",
         "HD": "A"
@@ -348,6 +447,108 @@
       "clp": "15867",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
+      "pedigree":   {
+        "father": {
+          "name": "Thendara Satisfaction",
+          "father": {
+            "name": "Sumaric Shadow of Mr. JIngles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smoothe Criminal"
+              },
+              "mother": {
+                "name": "Greer Palge of Thedara"
+              }
+            },
+            "mother": {
+              "name": "Jonola Some Like it Hot at Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Vanilla Ice",
+            "father": {
+              "name": "Thendara Kromer",
+              "father": {
+                "name": "Scotselaw Detroit Spiner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Ladybird of Thendara",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let it be"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "14914",
+          "name": "Adelaide z Břevnovského vrchu",
+          "father": {
+            "clp": "14067",
+            "name": "Dorian Gray Jenny's Irsal",
+            "father": {
+              "name": "Kris-Wonderstar von der Igalffy-Igaly",
+              "father": {
+                "name": "Arkus vom Torskfeld"
+              },
+              "mother": {
+                "name": "Kokina Arisz"
+              }
+            },
+            "mother": {
+              "clp": "13335",
+              "name": "Tiffany Jenny's Irsal",
+              "father": {
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "11603",
+                "name": "Princes Carolina Irsal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14431",
+            "name": "Annie Mahagon Dream",
+            "father": {
+              "clp": "13631",
+              "name": "Ussure od Velkého dubu",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Priscilla od Velkého dubu"
+              }
+            },
+            "mother": {
+              "clp": "13585",
+              "name": "Bellinda Tojakr",
+              "father": {
+                "clp": "11303",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "10480",
+                "name": "Sally z Hodonského jezu"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A"
       },

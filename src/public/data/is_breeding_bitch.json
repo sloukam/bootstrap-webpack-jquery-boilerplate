@@ -193,6 +193,108 @@
       "clp": "15871",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
+      "pedigree":   {
+        "father": {
+          "name": "Thendara Satisfaction",
+          "father": {
+            "name": "Sumaric Shadow of Mr. JIngles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smoothe Criminal"
+              },
+              "mother": {
+                "name": "Greer Palge of Thedara"
+              }
+            },
+            "mother": {
+              "name": "Jonola  Some Like it Hot at Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Vanilla Ice",
+            "father": {
+              "name": "Thendara Kromer",
+              "father": {
+                "name": "Scotselaw Detroit Spiner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Ladybird of Thendara",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let it be"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "14914",
+          "name": "Adelaide z Břevnovského vrchu",
+          "father": {
+            "clp": "14067",
+            "name": "Dorian Gray Jenny's Irsal",
+            "father": {
+              "name": "Kris-Wonderstar von der Igalffy-Igaly",
+              "father": {
+                "name": "Arkus vom Torskfeld"
+              },
+              "mother": {
+                "name": "Kokina Arisz"
+              }
+            },
+            "mother": {
+              "clp": "13335",
+              "name": "Tiffany Jenny's Irsal",
+              "father": {
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "11603",
+                "name": "Princes Carolina Irsal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14431",
+            "name": "Annie Mahagon Dream",
+            "father": {
+              "clp": "13631",
+              "name": "Ussure od Velkého dubu",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Priscilla od Velkého dubu"
+              }
+            },
+            "mother": {
+              "clp": "13585",
+              "name": "Bellinda Tojakr",
+              "father": {
+                "clp": "11303",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "10480",
+                "name": "Sally z Hodonského jezu"
+              }
+            }
+          }
+        }
+      },
       "sex": "female",
       "body": {
         "HD": "A"
@@ -221,6 +323,108 @@
       "clp": "15876",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
+      "pedigree":   {
+        "father": {
+          "name": "Thendara Satisfaction",
+          "father": {
+            "name": "Sumaric Shadow of Mr. JIngles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smoothe Criminal"
+              },
+              "mother": {
+                "name": "Greer Palge of Thedara"
+              }
+            },
+            "mother": {
+              "name": "Jonola  Some Like it Hot at Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Vanilla Ice",
+            "father": {
+              "name": "Thendara Kromer",
+              "father": {
+                "name": "Scotselaw Detroit Spiner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Ladybird of Thendara",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let it be"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "14914",
+          "name": "Adelaide z Břevnovského vrchu",
+          "father": {
+            "clp": "14067",
+            "name": "Dorian Gray Jenny's Irsal",
+            "father": {
+              "name": "Kris-Wonderstar von der Igalffy-Igaly",
+              "father": {
+                "name": "Arkus vom Torskfeld"
+              },
+              "mother": {
+                "name": "Kokina Arisz"
+              }
+            },
+            "mother": {
+              "clp": "13335",
+              "name": "Tiffany Jenny's Irsal",
+              "father": {
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "11603",
+                "name": "Princes Carolina Irsal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14431",
+            "name": "Annie Mahagon Dream",
+            "father": {
+              "clp": "13631",
+              "name": "Ussure od Velkého dubu",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Priscilla od Velkého dubu"
+              }
+            },
+            "mother": {
+              "clp": "13585",
+              "name": "Bellinda Tojakr",
+              "father": {
+                "clp": "11303",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "10480",
+                "name": "Sally z Hodonského jezu"
+              }
+            }
+          }
+        }
+      },
       "sex": "female",
       "body": {
         "HD": "A"
