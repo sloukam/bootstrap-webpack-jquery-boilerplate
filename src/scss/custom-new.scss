@@ -11,6 +11,7 @@ $menu-dropdown-hover-bg: #a6bfa6;
 $header-container-height: 160px;
 $header-container-height-mobile: 58px;
 $footer-container-height: 45px;
+$footer-container-height-mobile: 70px;
 
 //$main-container-height: calc(100vh - 45px - 162px);
 
@@ -49,6 +50,9 @@ a:hover {
     top: $header-container-height-mobile;
   }
   bottom: $footer-container-height;
+  @include media-breakpoint-down(md) {
+    bottom: $footer-container-height-mobile;
+  }
   left: 0px;
   right: 0px;
   overflow: auto;
@@ -179,6 +183,9 @@ a:hover {
   position: absolute;
   bottom: 0px;
   height: $footer-container-height;
+  @include media-breakpoint-down(md) {
+    height: $footer-container-height-mobile;
+  }
   left: 0px;
   right: 0px;
   overflow: hidden;
@@ -217,6 +224,10 @@ a:hover {
   margin-top: 10px;
   margin-bottom: 0px;
   height: $footer-container-height;
+  @include media-breakpoint-down(md) {
+    height: $footer-container-height-mobile;
+  }
+
 
   @if $debug {
     border: 2px solid #c306d7 !important;
