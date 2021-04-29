@@ -1433,6 +1433,113 @@
       "clp": "16193",
       "father": "Abandinus Elimar Doubrava",
       "mother": "Flea Červený vítr",
+      "pedigree": {
+        "father": {
+          "clp": "15444",
+          "name": "Abandinus Elimar Doubrava",
+          "father": {
+            "name": "Garden Star´s Irish Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale Garden Star´s Bonnie Tyler",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver´s"
+              },
+              "mother": {
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15307",
+          "name": "Flea Červený vítr",
+          "father": {
+            "clp": "14717",
+            "name": "Dag z Křenovic",
+            "father": {
+              "clp": "13940",
+              "name": "Vesuv z Hradiska Rájce",
+              "father": {
+                "name": "Kris-WonderStar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13195",
+                "name": "Usty z Hradiska Rájce"
+              }
+            },
+            "mother": {
+              "clp": "14411",
+              "name": "Sandra z Luhové seče",
+              "father": {
+                "clp": "12836",
+                "name": "Ort z Dubské"
+              },
+              "mother": {
+                "clp": "13342",
+                "name": "Ilen z Luhové seče"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14501",
+            "name": "Pera od Klapavce",
+            "father": {
+              "clp": "13459",
+              "name": "Tarn od Velkého dubu",
+              "father": {
+                "clp": "11758",
+                "name": "Glen Mahagon Moravia"
+              },
+              "mother": {
+                "clp": "11656",
+                "name": "Patricia Irsal"
+              }
+            },
+            "mother": {
+              "clp": "13955",
+              "name": "Lassi od Klapavce",
+              "father": {
+                "name": "Dunmore of Future 's Dream"
+              },
+              "mother": {
+                "clp": "0000",
+                "name": "Fatima od Zbraně"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "61",
         "color": "mahagon",
@@ -1731,6 +1838,101 @@
       "clp": "16221",
       "father": "Garden Star's Red Bull",
       "mother": "Artemis Elimar Doubrava",
+      "pedigree": {
+        "father": {
+          "name": "Garden Star's Red Bull",
+          "father": {
+            "name": "Sumaric Shadow of Mr. Jingles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smooth Criminal"
+              },
+              "mother": {
+                "name": "Greer Page Of Thendara"
+              }
+            },
+            "mother": {
+              "name": "Jonola Some Like It Hot At Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Garden Star's Light Yoghurt",
+            "father": {
+              "name": "Ardan of Funny Home",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Erinade Fergie van de Westerhuy"
+              }
+            },
+            "mother": {
+              "name": "Garden Star's Ferrero Rocher",
+              "father": {
+                "name": "Garden Star's Billion Dolar"
+              },
+              "mother": {
+                "name": "Garden Star's Amberlight"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15446",
+          "name": "Artemis Elimar Doubrava",
+          "father": {
+            "name": "Garden Star's Irish-Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garden Star's Bonnie Tyler",
+              "father": {
+                "name": "Vicary's US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver's"
+              },
+              "mother": {
+                "clp": "12057",
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary's Xuni",
+              "father": {
+                "name": "Vicary's US Dollar"
+              },
+              "mother": {
+                "name": "Vicary's Sugartop"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A",
         "ED": "0/0",
@@ -2628,6 +2830,103 @@
       "clp": "16580",
       "father": "Paris Match Thendara",
       "mother": "Electra Ruby Mahagony Paw",
+      "pedigree": {
+        "father": {
+          "name": "Paris Match Thendara",
+          "father": {
+            "name": "Gwendariff Pop The Question",
+            "father": {
+              "name": "Danaway Lancelot of Autumnwood",
+              "father": {
+                "name": "Danaway Michelangelo"
+              },
+              "mother": {
+                "name": "Danaway Demure"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Pop My Cork",
+              "father": {
+                "name": "Danaway Fortune Teller"
+              },
+              "mother": {
+                "name": "Clonageera Klassique Gwendariff"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Lenamore",
+            "father": {
+              "name": "Sumaric Shadow od Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Capriati",
+              "father": {
+                "name": "Scotselaw Detroit Spinner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A",
         "ED": "0/0",
