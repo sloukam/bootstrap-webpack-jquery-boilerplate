@@ -2093,6 +2093,98 @@
       "clp": "16325",
       "father": "Garden Star ́s Irish Tequila",
       "mother": "Autumn Legend Goldset",
+      "pedigree": {
+        "father": {
+          "name": "Garden Star´s Irish Tequila",
+          "father": {
+            "name": "Garden Star´s Royal Legend",
+            "father": {
+              "name": "Sumariic Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "name": "Garden Star´s Ferrero Rocher",
+            "father": {
+              "name": "Garden Star´s Billion Dollar",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Amber Light",
+              "father": {
+                "name": "Bardonhill Storm Front"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Autumn Legend Goldset",
+          "father": {
+            "name": "Applegrove Bechamel",
+            "father": {
+              "name": "Pendoric Foggy Perfection",
+              "father": {
+                "name": "Setterlands Tamburello At Pendoric"
+              },
+              "mother": {
+                "name": "Pendoric Fire Anythyme"
+              }
+            },
+            "mother": {
+              "name": "Applegrove Look At Me I´m Natalie",
+              "father": {
+                "name": "Grove Creek´s Xtreme Quick Blow"
+              },
+              "mother": {
+                "name": "Fairhaven Brown Eyed Girl"
+              }
+            }
+          },
+          "mother": {
+            "name": "Garden Star´s Irish Utopia",
+            "father": {
+              "name": "Garden Star´s Gentleman",
+              "father": {
+                "name": "Garden Star´s Billion Dollar"
+              },
+              "mother": {
+                "name": "Connie Jay Slovak Base"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Youghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "HD": "A",
         "ED": "0/0"
@@ -2799,6 +2891,38 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "ELLIE ELIMAR DOUBRAVA",
+      "date_of_birth": "2018-02-06",
+      "clp": "16532",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Emily from Avon Farm",
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "other": "OCD N/N"
+      },
+      "shows": "V, CAC, CACIB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing. ",
+        "first_name": "Aleš",
+        "last_name": "Borek",
+        "address": {
+          "street": "Skalička",
+          "number": "170",
+          "city": "Skalička",
+          "post_code": "75352"
+        },
+        "phone": "725 257 586"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "JARA Z JIROUŠKOVA DVORA",
       "date_of_birth": "2018-04-22",
       "clp": "16572",
@@ -3170,38 +3294,6 @@
         },
         "phone": "739406622",
         "email": "nemcova_m@centrum.cz"
-      },
-      "img_ext": "jpg"
-    },
-    {
-      "breed": "IS",
-      "sex": "female",
-      "visible": true,
-      "name": "ELLIE ELIMAR DOUBRAVA",
-      "date_of_birth": "2018-02-06",
-      "clp": "16532",
-      "father": "Abandinus Elimar Doubrava",
-      "mother": "Emily from Avon Farm",
-      "body": {
-        "height": "62",
-        "color": "mahagon",
-        "HD": "A",
-        "ED": "0/0",
-        "other": "OCD N/N"
-      },
-      "shows": "V, CAC, CACIB",
-      "exams": "ZV I.cena",
-      "owner": {
-        "title": "Ing. ",
-        "first_name": "Aleš",
-        "last_name": "Borek",
-        "address": {
-          "street": "Skalička",
-          "number": "170",
-          "city": "Skalička",
-          "post_code": "75352"
-        },
-        "phone": "725 257 586"
       },
       "img_ext": "jpg"
     }

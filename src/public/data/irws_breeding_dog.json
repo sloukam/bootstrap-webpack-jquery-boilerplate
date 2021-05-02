@@ -100,6 +100,99 @@
       "clp": "376",
       "father": "Vistador Bohemian",
       "mother": "Bellanice Artegerd",
+      "pedigree": {
+        "father": {
+          "clp": "376",
+          "name": "Vistador Bohemian",
+          "father": {
+            "name": "Spyefire May Springs Rainbow",
+            "father": {
+              "name": "Spyefire Pricelless",
+              "father": {
+                "name": "Cormallen Strike a Light with Spyefire "
+              },
+              "mother": {
+                "name": "Spyefire Irish JIG"
+              }
+            },
+            "mother": {
+              "name": "All That Jazz Among",
+              "father": {
+                "name": "Tulamore Ted"
+              },
+              "mother": {
+                "name": "Laoirebay Midnicht Dreamer"
+              }
+            }
+          },
+          "mother": {
+            "name": "United Spota Quicksilver",
+            "father": {
+              "name": "United Spots Nightwish",
+              "father": {
+                "name": "United Spots Just do It"
+              },
+              "mother": {
+                "name": "Palmar Alison"
+              }
+            },
+            "mother": {
+              "name": "Sinead Red Nokomis",
+              "father": {
+                "name": "Cormallen Moonlight Silver"
+              },
+              "mother": {
+                "name": "United Spots Mrs Jones"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Belanice Artegerd",
+          "father": {
+            "name": "Casafelice Montadale",
+            "father": {
+              "name": "Corranro Connexion",
+              "father": {
+                "name": "Vanders Veracity"
+              },
+              "mother": {
+                "name": "Corranroo Calypsoo "
+              }
+            },
+            "mother": {
+              "name": "Casafelice Charollais",
+              "father": {
+                "name": "Vanders Venatic Legend"
+              },
+              "mother": {
+                "name": "Caispern Godita Of Chayselt"
+              }
+            }
+          },
+          "mother": {
+            "name": "Artemis Bohemia Thalset",
+            "father": {
+              "name": "United Spots Justbe",
+              "father": {
+                "name": "Ruemadra Snow King"
+              },
+              "mother": {
+                "name": "Autumnwood Silver Rose"
+              }
+            },
+            "mother": {
+              "name": "Vanesa Rysi Wykrot",
+              "father": {
+                "name": "Rushfield Smudge"
+              },
+              "mother": {
+                "name": "Exclusive°s Velvet"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "63",
         "color": "červenobílý",
