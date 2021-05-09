@@ -1,7 +1,50 @@
 {
   "articles": [
     {
-      "articleId": 9999999999999,
+      "articleId": 20210013,
+      "dateOfPublish": "2021/05/03",
+      "title": "Speciální výstavu ohařů při světové výstavě v Brně",
+      "paragraphs": [
+        "Dnešním dnem spuštěno přihlašování na Speciální výstavu ohařů při světové výstavě v Brně. Přihlašování je možné přes <a href=\"https://dogoffice.cz/\" target=\"_blank\">Dogoffice</a> a zde najdete i propozice.",
+        "<a href=\"./public/images/2021/210930-vystava_kromeriz.jpg\" target=\"_blank\"><img src=\"./public/images/2021/210930-vystava_kromeriz.jpg\" height=\"300\" width=\"600\"></a>",
+        "<a href=\"./public/images/2021/2021-wds_dogoffice_list.jpg\" target=\"_blank\"><img src=\"./public/images/2021/2021-wds_dogoffice_list.jpg\" height=\"100\" width=\"800\"></a>"
+      ],
+      "images": [
+        "./public/images/2021/210930-vystava_kromeriz.jpg",
+        "./public/images/2021/2021-wds_dogoffice_list.jpg"
+      ]
+    },
+    {
+      "articleId": 20210012,
+      "dateOfPublish": "2021/05/03",
+      "title": "Zprávy z ČMKU",
+      "paragraphs": [
+"<quote>",
+        "Vážení vystavovatelé,",
+        "Velice se omlouváme za informační prodlevu. Jednání byla opravdu intenzivní a náročná. S ohledemm na jejich výsledek jsme se snad konečně dobrali k finálnímu datu konání Brněnské národní výstavy a mezinárodní výstavy Špilberka.",
+        "Nový termín výše uvedených výstav byl stanoven na 4. – 6.6.2021.",
+        "<b>4.6.2021 – Brněnská národní výstava psů</b>",
+        "<b>5.–6.6.2021 mezinárodní výstava psů Špilberka</b>",
+        "Vše nasvědčuje tomu, že tento termín je opravdu už termínem definitivním.",
+        "Zrušení přihlášek na výše uvedené výstavy přijímáme do <b>10.5.2021</b>.",
+        "Kontakt: NVP Brněnská <a href=\"mailto:vystava@vystavabrno.info\">vystava@vystavabrno.info</a>",
+        "MVP Špilberka <a href=\"mailto:vystava@cmku.cz\">vystava@cmku.cz</a>",
+        "Přeřazení ve třídách, podle věku přihlášených psů, bude provedeno automaticky bez požadavku na doplatek výstavního poplatku.",
+        "Uspořádání těchto výstav bude vyžadovat určitá omezení. Omezen bude i počet psů, kteří se budou moci výstav zúčastnit. S ohledem na možnost rušení přihlášek, vyhodnotíme po <b>10.5.2021</b> počet registrovaných psů a, pokud to situace dovolí, bude dohlašování psů na tyto výstavy znovu otevřeno. Eventuální znovuotevření přihlašování bude krátkodobé a budeme vás o něm informovat. Sledujte, prosím <a href=\"https://www.facebook.com/permalink.php?story_fbid=4061953617207230&id=692032327532726\" target=\"_blank\">FB profil</a> a webové stránky výstav.",
+        "Zároveň bychom vás chtěli informovat, že i nadále hledáme vhodný náhradní termín pro výstavu DuoCACIB Brno.",
+        "Doufáme, že dlouho očekávané rozvolnění se pozitivně dotkne i našich aktivit. ",
+        "Těším se na viděnou.",
+        "Lubomír Široký<br>Předseda ČMKU",
+
+        "</quote>"
+      ],
+      "images": [
+        "./public/images/2021/210930-vystava_kromeriz.jpg",
+        "./public/images/2021/2021-wds_dogoffice_list.jpg"
+      ]
+    },
+    {
+      "articleId": 20210011,
       "dateOfPublish": "2021/04/16",
       "title": "Brzy se budou konat... (na detaily mrkněte níže)",
       "paragraphs": [
