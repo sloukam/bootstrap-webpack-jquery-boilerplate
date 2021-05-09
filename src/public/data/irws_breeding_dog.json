@@ -259,6 +259,98 @@
       "clp": "356",
       "father": "Caesar Valiant Hunter",
       "mother": "Roxana z Lukovských Lánů",
+      "pedigree": {
+        "father": {
+          "name": "Caesar Valiant Hunter",
+          "father": {
+            "name": "Leo Bojandolí",
+            "father": {
+              "name": "United spots Justbe",
+              "father": {
+                "name": "Ruemadra Snow King"
+              },
+              "mother": {
+                "name": "Autumnwood Silver Rose"
+              }
+            },
+            "mother": {
+              "name": "Iris Bohemia Thalset",
+              "father": {
+                "name": "Exclusive's Vincenz"
+              },
+              "mother": {
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          },
+          "mother": {
+            "name": "Reddeer Everlasting love",
+            "father": {
+              "name": "Chaerstveen Celttic Music",
+              "father": {
+                "name": "Craigrua Dylan"
+              },
+              "mother": {
+                "name": "Dalriah Gone With The Wind"
+              }
+            },
+            "mother": {
+              "name": "Saoisse Red Nokomis",
+              "father": {
+                "name": "Cormallen Moonlight Silver"
+              },
+              "mother": {
+                "name": "United Spots Mr. Jones"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Roxana z Lukovských Lánů",
+          "father": {
+            "name": "Lohmann's Bernstein",
+            "father": {
+              "name": "History's of Highland Baloú",
+              "father": {
+                "name": "Cevin vom Duvenseer Moor"
+              },
+              "mother": {
+                "name": "History's of Highland Audrey"
+              }
+            },
+            "mother": {
+              "name": "Deargban O'Faolain",
+              "father": {
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "name": "Sheebhin Orla"
+              }
+            }
+          },
+          "mother": {
+            "name": "Dalriach Proud Mary",
+            "father": {
+              "name": "Dalriach Auchindoun",
+              "father": {
+                "name": "Kestrel of Cherryfield"
+              },
+              "mother": {
+                "name": "Ardbraccan Firecrest"
+              }
+            },
+            "mother": {
+              "name": "Pepperstown Polly",
+              "father": {
+                "name": "Rushfield Rascal"
+              },
+              "mother": {
+                "name": "Lusmagh Polly"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "červenobílý",
