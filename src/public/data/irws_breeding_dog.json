@@ -42,6 +42,100 @@
       "clp": "274",
       "father": "Berstein Lohmann‘s;",
       "mother": "Proud Mary Dalriach",
+      "pedigree": {
+        "father": {
+          "clp": "258",
+          "name": "Lohmann's Bernstein",
+          "father": {
+            "name": "History's of Highland Baloú",
+            "father": {
+              "name": "Cevin vom Duvenseer Moor",
+              "father": {
+                "name": "Exclusive's Allforme"
+              },
+              "mother": {
+                "name": "Bonny vom Duvenseer Moor"
+              }
+            },
+            "mother": {
+              "name": "History's of Higland Audrey",
+              "father": {
+                "name": "Exclusive's Querido"
+              },
+              "mother": {
+                "name": "Huntmaster's Hummingbird"
+              }
+            }
+          },
+          "mother": {
+            "name": "Deargban O'Faolain",
+            "father": {
+              "name": "Deargban Blanco",
+              "father": {
+                "name": "Silent Seeker of Shannonbally"
+              },
+              "mother": {
+                "name": "Bishopmill Bronze Quean"
+              }
+            },
+            "mother": {
+              "name": "Sheebhin Orla",
+              "father": {
+                "name": "Craigrua Aran"
+              },
+              "mother": {
+                "name": "Ruemadra Kitu"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "257",
+          "name": "Dalriach Proud Mary",
+          "father": {
+            "name": "Dalriach Auchindoun",
+            "father": {
+              "name": "Kestrel of Cherryfield",
+              "father": {
+                "name": "Bawnrhu Smart Fella"
+              },
+              "mother": {
+                "name": "Cherryfield Jill"
+              }
+            },
+            "mother": {
+              "name": "Ardbraccan Firecrest",
+              "father": {
+                "name": "Ardbraccan Dunboyne"
+              },
+              "mother": {
+                "name": "Sureayne Moonlite Rhapsody at Ardbraccan"
+              }
+            }
+          },
+          "mother": {
+            "name": "Pepperstown Polly",
+            "father": {
+              "name": "Rushfield Rascal",
+              "father": {
+                "name": "Rushfield Smudge"
+              },
+              "mother": {
+                "name": "Rushfield Kerry"
+              }
+            },
+            "mother": {
+              "name": "Lusmagh Polly",
+              "father": {
+                "name": "Craigrua Ranger"
+              },
+              "mother": {
+                "name": "Craigrua Candy"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "62",
         "color": "červenobílý",
@@ -226,6 +320,100 @@
       "clp": "353",
       "father": "Rolf z Lukovských lánů",
       "mother": "Lucy Mc Gillicuddy‘s",
+      "pedigree": {
+        "father": {
+          "clp": "273",
+          "name": "Rolf z Lukovských Lánů",
+          "father": {
+            "name": "Lohmann's Bernstein",
+            "father": {
+              "name": "History's of Highland Baloú",
+              "father": {
+                "name": "Cevin vom Duvenseer Moor"
+              },
+              "mother": {
+                "name": "History's of Highland  Audrey"
+              }
+            },
+            "mother": {
+              "name": "Deargban O'Faolain",
+              "father": {
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "name": "Sheebhin Orla"
+              }
+            }
+          },
+          "mother": {
+            "name": "Dalriach Proud Mary",
+            "father": {
+              "name": "Dalriach Auchindoun",
+              "father": {
+                "name": "Kestrel of Cherryfield"
+              },
+              "mother": {
+                "name": "Ardbraccan Firecrest"
+              }
+            },
+            "mother": {
+              "name": "Peppesrtown Polly",
+              "father": {
+                "name": "Rushfield Rascal"
+              },
+              "mother": {
+                "name": "Lusmagh Polly"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "318",
+          "name": "Lucy Mc Gillicuddy's",
+          "father": {
+            "name": "Fanfan Du Val Des Mordorees",
+            "father": {
+              "name": "Dearban Blanco",
+              "father": {
+                "name": "Sillent Seeker of Shannonbally"
+              },
+              "mother": {
+                "name": "Bishopmill Bronze Quean"
+              }
+            },
+            "mother": {
+              "name": "Swane Du Val Des Mordorees",
+              "father": {
+                "name": "Exclusive's Viscount"
+              },
+              "mother": {
+                "name": "Du Val Des Mordorees Penelope"
+              }
+            }
+          },
+          "mother": {
+            "name": "Abi Shadow Dog",
+            "father": {
+              "name": "Dalriach Rolling Stone",
+              "father": {
+                "name": "Tullamore Troubador"
+              },
+              "mother": {
+                "name": "Dalriach Geraldine"
+              }
+            },
+            "mother": {
+              "name": "Secret Wish Shadow Dog",
+              "father": {
+                "name": "Dick ze Skřípů"
+              },
+              "mother": {
+                "name": "Jarda Rysi Wykrot"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "červenobílý",
@@ -382,6 +570,100 @@
       "clp": "349",
       "father": "Rolf z Lukovských lánů",
       "mother": "Lucy Mc Gillicuddy‘s",
+      "pedigree": {
+        "father": {
+          "clp": "273",
+          "name": "Rolf z Lukovských Lánů",
+          "father": {
+            "name": "Lohmann's Bernstein",
+            "father": {
+              "name": "History's of Highland Baloú",
+              "father": {
+                "name": "Cevin vom Duvenseer Moor"
+              },
+              "mother": {
+                "name": "History's of Highland  Audrey"
+              }
+            },
+            "mother": {
+              "name": "Deargban O'Faolain",
+              "father": {
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "name": "Sheebhin Orla"
+              }
+            }
+          },
+          "mother": {
+            "name": "Dalriach Proud Mary",
+            "father": {
+              "name": "Dalriach Auchindoun",
+              "father": {
+                "name": "Kestrel of Cherryfield"
+              },
+              "mother": {
+                "name": "Ardbraccan Firecrest"
+              }
+            },
+            "mother": {
+              "name": "Peppesrtown Polly",
+              "father": {
+                "name": "Rushfield Rascal"
+              },
+              "mother": {
+                "name": "Lusmagh Polly"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "318",
+          "name": "Lucy Mc Gillicuddy's",
+          "father": {
+            "name": "Fanfan Du Val Des Mordorees",
+            "father": {
+              "name": "Dearban Blanco",
+              "father": {
+                "name": "Sillent Seeker of Shannonbally"
+              },
+              "mother": {
+                "name": "Bishopmill Bronze Quean"
+              }
+            },
+            "mother": {
+              "name": "Swane Du Val Des Mordorees",
+              "father": {
+                "name": "Exclusive's Viscount"
+              },
+              "mother": {
+                "name": "Du Val Des Mordorees Penelope"
+              }
+            }
+          },
+          "mother": {
+            "name": "Abi Shadow Dog",
+            "father": {
+              "name": "Dalriach Rolling Stone",
+              "father": {
+                "name": "Tullamore Troubador"
+              },
+              "mother": {
+                "name": "Dalriach Geraldine"
+              }
+            },
+            "mother": {
+              "name": "Secret Wish Shadow Dog",
+              "father": {
+                "name": "Dick ze Skřípů"
+              },
+              "mother": {
+                "name": "Jarda Rysi Wykrot"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "červenobílý",
