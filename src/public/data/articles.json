@@ -19,7 +19,6 @@
       "dateOfPublish": "2021/05/03",
       "title": "Zprávy z ČMKU",
       "paragraphs": [
-"<quote>",
         "Vážení vystavovatelé,",
         "Velice se omlouváme za informační prodlevu. Jednání byla opravdu intenzivní a náročná. S ohledemm na jejich výsledek jsme se snad konečně dobrali k finálnímu datu konání Brněnské národní výstavy a mezinárodní výstavy Špilberka.",
         "Nový termín výše uvedených výstav byl stanoven na 4. – 6.6.2021.",
@@ -35,12 +34,9 @@
         "Doufáme, že dlouho očekávané rozvolnění se pozitivně dotkne i našich aktivit. ",
         "Těším se na viděnou.",
         "Lubomír Široký<br>Předseda ČMKU",
-
-        "</quote>"
       ],
       "images": [
-        "./public/images/2021/210930-vystava_kromeriz.jpg",
-        "./public/images/2021/2021-wds_dogoffice_list.jpg"
+        "./public/images/2021/2021-cmku_logo.jpg"
       ]
     },
     {
