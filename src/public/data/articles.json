@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "articleId": 20210015,
+      "dateOfPublish": "2021/05/25",
+      "title": "Speciální výstava MSKAO - Zákupy",
+      "paragraphs": [
+        "Včerejším dnem bylo spuštěno přihlašování na Speciální výstavu MSKAO (CAC, Vítěz speciální výstavy), která se koná každé dva roky v rámci Sdružené výstavy v Zákupech. Setry a pointry posoudí slovenská rozhohodčí paní <b>Jana Janek</b>.",
+        "Přihlášky možno podat přes přiložený odkaz - <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScVuXTwmJPj7S2RbV2bQxxRfQ3bBfEoQGi1QmX8Ucc4RSW6Yw/viewform\" target=\"_blank\">https://docs.google.com/forms/..../viewform</a>"
+      ],
+      "images": [
+        "./public/images/2021/210814-zakupy.jpg",
+        "./public/images/2021/210814-zakupy.jpg",
+        "./public/images/2021/210814-zakupy.jpg",
+        "./public/images/2021/210814-zakupy.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/210814-zakupy/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2021/210814-zakupy/prihlaska.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
       "articleId": 20210014,
       "dateOfPublish": "2021/05/15",
       "title": "Aktuality k výstavě v Náměšti na Hané",
