@@ -297,6 +297,11 @@ $img-thumbnail-max-height-value: 200px;
   //width: 40px;
 }
 
+.img-thumbnail {
+  background-color: unset;
+  border: 1px solid $a-color;
+}
+
 // -----------------------------------------------
 // ---------- KARTA CHOVNEHO PSA A FENY ----------
 // -----------------------------------------------
