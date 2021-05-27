@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "articleId": 20210016,
+      "dateOfPublish": "2021/05/27",
+      "title": "Nabídka na zakoupení knihy",
+      "paragraphs": [
+        "Vážení členové našeho klubu,",
+        "na náš email přišla zpráva s možností si za zvýhodněnoou cenu zakoupit knižní novinku <a href=\"https://www.knihydobrovsky.cz/kniha/chov-psu-prirucka-zodpovedneho-chovatele-258168035\" target=\"_blank\">Chov psů - Příručka zodpovědného chovatele</a>, která navazuje na velmi úspěšnou knihu <a href=\"https://www.knihydobrovsky.cz/kniha/jak-prodlouzit-zivot-vaseho-psa-191136366\" target=\"_blank\">Jak prodloužit život vašeho psa</a>.",
+        "Autor nám nabídl v případě zájmu knihu za zvýhodněnou cenu 90,-Kč/ks + 68,-Kč poštovné.",
+        "V případě zájmu napiště na email: <a href=\"mailto:director@zootabor.eu\">director@zootabor.eu</a> nebo telefonicky na telefoním čísle: +420 233 372 021."
+      ],
+      "images": [
+      ]
+    },
+    {
       "articleId": 20210015,
       "dateOfPublish": "2021/05/25",
       "title": "Speciální výstava MSKAO - Zákupy",
