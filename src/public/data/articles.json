@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "articleId": 20210017,
+      "dateOfPublish": "2021/05/28",
+      "title": "Inzerce",
+      "paragraphs": [
+        "<a href=\"./public/inzerce/210528-brita_inzerat/inzerat.pdf\" target=\"_blank\"><img src=\"./public/inzerce/210528-brita_inzerat/inzerat.jpg\" width=\"230\" height=\"297\"></a>"
+      ]
+    },
+    {
       "articleId": 20210016,
       "dateOfPublish": "2021/05/27",
       "title": "Nabídka na zakoupení knihy",
