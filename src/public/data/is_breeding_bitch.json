@@ -3041,8 +3041,10 @@
           "number": "337",
           "city": "Dambořice",
           "post_code": "69635"
-        }
-      }
+        },
+        "phone": "724 524 454"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",

@@ -17,15 +17,51 @@
           "publicationDate": "2021-01-22",
           "breeder": "MIRELIONNE",
           "bitch": "Concentrate The Mind Glimmer Noblesse",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Beauty or The Beast Diervilla",
+          "releaseDate": "2021-03-30",
+          "puppies": "1/1"
         },
         {
           "id": "III/21",
           "publicationDate": "2021-01-26",
           "breeder": "MAHOGANY DREAM CATCHER",
           "bitch": "Eternal Flame Goldset",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/21",
+          "publicationDate": "2021-04-09",
+          "breeder": "MIRELIONNE",
+          "bitch": "Ebony Mahagony Beauty",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "V/21",
+          "publicationDate": "2021-04-16",
+          "breeder": "Z ROKYCKÉ ČILINY",
+          "bitch": "Corin ze Svrateckých pláňav",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VI/21",
+          "publicationDate": "2021-05-12",
+          "breeder": "p. Marek Pavel",
+          "bitch": "Baserian Mahagon Kenya",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VII/21",
+          "publicationDate": "2021-05-12",
+          "breeder": "DAISY RAIN",
+          "bitch": "Betty Barcley Daisy Rain",
           "dog": "",
           "releaseDate": "",
           "puppies": ""
@@ -62,10 +98,6 @@
           "releaseDate": "2020-03-05",
           "puppies": "5/6"
         },
-
-
-
-
         {
           "id": "IV/20",
           "publicationDate": "2020-06-15",
@@ -116,9 +148,9 @@
           "publicationDate": "2020-10-21",
           "breeder": "MAHAGONY PAW",
           "bitch": "Electra Ruby Mahagony Paw",
-          "dog": "",
-          "releaseDate": "nakryto",
-          "puppies": ""
+          "dog": "Oakdene Que du Bonheur",
+          "releaseDate": "2021-03-29",
+          "puppies": "3/7"
         },
         {
           "id": "X/20",
