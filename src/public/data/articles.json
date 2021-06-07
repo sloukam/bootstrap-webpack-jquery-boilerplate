@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "articleId": 20210018,
+      "dateOfPublish": "2021/06/05",
+      "title": "!!! UPOZORNĚNÍ !!!",
+      "paragraphs": [
+        "Rádi bychom Vás informovali, že <b>KLUBOVÉ ZKOUŠKY VLOH</b> původně plánované na květen byly z důvodů souvisejících s tehdy platnými opatřeními přesunuty na náhradní termín 20. ČERVNA 2021. Všichni účastníci, kteří byli řádně přihlášeni v termínu na květnové zkoušky, byli vyrozuměni o změně termínu konání. Vzhledem k tomu, že maximální kapacita již byla takto naplněna, není bohužel možné se přihlašovat na zkoušky vloh v náhradním termínu."
+      ]
+    },
+    {
       "articleId": 20210017,
       "dateOfPublish": "2021/05/28",
       "title": "Inzerce",
