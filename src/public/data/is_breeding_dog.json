@@ -1051,7 +1051,8 @@
           "city": "Slezská Ostrava",
           "post_code": "71000"
         },
-        "phone": "602500986"
+        "phone": "602500986",
+        "email": "kasprik.jan@seznam.cz"
       },
       "img_ext": "jpg"
     },
@@ -3763,7 +3764,8 @@
       "body": {
         "HD": "A"
       },
-      "shows": "CAJC, BOJ, CAC, CACIB",
+      "championships": "CH SK, JCH SK, JCH ČR, GRAND CH SK, CH ČR",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB",
       "exams": "ZV I.cena CACT",
       "owner": {
         "first_name": "Jan",
@@ -3774,7 +3776,8 @@
           "city": "Slezská Ostrava",
           "post_code": "71000"
         },
-        "phone": "602500986"
+        "phone": "602500986",
+        "email": "kasprik.jan@seznam.cz"
       },
       "img_ext": "jpg"
     },
