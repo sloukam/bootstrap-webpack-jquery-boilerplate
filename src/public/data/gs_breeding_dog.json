@@ -30,10 +30,11 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "BRITT Z DVORKU ČAMOURKU",
       "date_of_birth": "2009-06-14",
+      "date_of_death": "2021-06-03",
       "clp": "6122",
       "father": "Forester's Zampano of Darkmoor",
       "mother": "Dyksi z Krátošických strání",
