@@ -1,5 +1,21 @@
+
 {
   "articles": [
+    {
+      "articleId": 20210018,
+      "dateOfPublish": "2021/06/22",
+      "title": "Informace ke klubové klubové výstavě",
+      "paragraphs": [
+        "Přihlašování na letošní Klubovou výstavu se zadáváním titulu Klubový vítěz je ukončeno. Počet přihlášených psů se vyšplhal na číslo <big class=\"red\">152</big> 😊",
+        "Děkujeme všem majitelům, kteří přihlásili své psy a budou s námi vytvářet tu jedinečnou atmosféru \"klubovky ve Slavkově\"",
+        "Těšíme se na Vás v <b>sobotu 10.července  9 hodin</b> v zahajovacím průvodu.",
+        "<h3>Angličanům ve Slavkově... Zdar </h3>",
+        "<a href=\"./public/pdf/2021/210710-klubovka_slavkov/pocty_prihlasenych.png\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-klubovka_slavkov/pocty_prihlasenych.png\" height=\"151\" width=\"611\"></a>",
+        "<a href=\"./public/pdf/2021/210710-klubovka_slavkov/kokardy.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-klubovka_slavkov/kokardy.jpg\" height=\"150\" width=\"200\"></a>"
+      ],
+      "images": [
+      ]
+    },
     {
       "articleId": 20210018,
       "dateOfPublish": "2021/06/05",
