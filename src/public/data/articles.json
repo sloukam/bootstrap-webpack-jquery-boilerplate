@@ -2,6 +2,18 @@
 {
   "articles": [
     {
+      "articleId": 20210019,
+      "dateOfPublish": "2021/06/24",
+      "title": "Vstupní listy",
+      "paragraphs": [
+        "<big class=\"red\">!!! Ve svých profilech na Dogoffice již najdete vstupní listy na KV Slavkov 2021 !!!</big>",
+        "Přihlášky podané přes ekonoma,dostanou vstupní list do e-mailu."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
       "articleId": 20210018,
       "dateOfPublish": "2021/06/22",
       "title": "Informace ke klubové klubové výstavě",
