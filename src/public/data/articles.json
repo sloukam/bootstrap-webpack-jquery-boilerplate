@@ -2,6 +2,17 @@
 {
   "articles": [
     {
+      "articleId": 20210020,
+      "dateOfPublish": "2021/07/04",
+      "title": "Výstava v Náměšti na Hané",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2021/210710-vystava_namest/plakat.pdf\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/plakat.jpg\" height=\"180\" width=\"128`\"</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
       "articleId": 20210019,
       "dateOfPublish": "2021/06/24",
       "title": "Vstupní listy",
