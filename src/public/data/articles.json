@@ -2,6 +2,41 @@
 {
   "articles": [
     {
+      "articleId": 20210021,
+      "dateOfPublish": "2021/07/14",
+      "title": "Výsledky výstavy v Náměšti na Hané",
+      "paragraphs": [
+        "BIS – <b>Alan z Lukovečského remízu</b> maj. Jan Kaspřík",
+        "Junior BIS Raphia Starring In Simarilion</b> maj. Růžena lepařová",
+        "<br>",
+        "BOB AS - <b>Lucksheray Pure Soul</b> maj.  Helena Daňková",
+        "BOB GS – <b>Oldmansion Avalon Dazzle</b> maj. Marta Ščudlová",
+        "BOB IČBS – <b>Chevonne Shadow Dog</b> maj. Yweta Kaděrová",
+        "BOB IS – <b>Alan z Lukovečského remízu</b> maj. Jan Kaspřík",
+        "BOB POI – <b>Clarysa ze Štípek</b> maj. Martina Müllerová",
+        "<br>",
+        "<i>Závěrečné soutěže Oblastní výstavy</i>",
+        "Nejlepší pár: 2.místo Mister Bentley Áres Šamarkan, I’m Black Mamba Áres Šamarkan GS",
+        "Chovatelské skupiny 1.místo CHS Áres Šamarkan GS",
+        "Nejlepší pracovní pes: 2.místo Clarysa ze Štípek POI",
+        "Nejlepší mladá fena: 3.místo Caramela  ze Zaječích polí POI",
+        "Nejlepší veterán: 1.místo Earnest Enthusiast Everdene IS",
+        "<br>",
+        "<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0171.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0171.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0178.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0178.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0186.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0186.jpg\" height=\"150\" width=\"220\"></a>",
+        "<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0188.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0188.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0191.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0191.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0246.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0246.jpg\" height=\"150\" width=\"220\"></a>"
+      ],
+      "images": [
+        "./public/pdf/2021/210710-vystava_namest/images/BIS.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2021/210710-vystava_namest/vysledky.xlsx",
+          "type": "xls"
+        }
+      ]
+    },
+    {
       "articleId": 20210020,
       "dateOfPublish": "2021/07/04",
       "title": "Výstava v Náměšti na Hané",
