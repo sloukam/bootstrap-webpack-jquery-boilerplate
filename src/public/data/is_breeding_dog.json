@@ -525,7 +525,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "DEXTER REDWEED",
       "date_of_birth": "2010-12-16",
       "clp": "15534",
@@ -3373,6 +3373,135 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
+      "name": "CINZANO DAISY RAIN",
+      "date_of_birth": "2017-04-19",
+      "clp": "16369",
+      "father": "Karmino Made Oleander",
+      "mother": "Artemis Elimar Doubrava",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16369",
+        "father": {
+          "clp": "15855",
+          "name": "Karmino Made Oleander",
+          "father": {
+            "name": "Applegrove Bechamel",
+            "father": {
+              "name": "Pendoric Foggy Perfection",
+              "father": {
+                "name": "Setterlands Tamburello At Pendoric"
+              },
+              "mother": {
+                "name": "Pendoric Fire Anythyme"
+              }
+            },
+            "mother": {
+              "name": "Applegrove Look At Me I´ m Natalie",
+              "father": {
+                "name": "Grove Creek´s Xtreme Quick Blow"
+              },
+              "mother": {
+                "name": "Fairhaven Brown Eyed Girl"
+              }
+            }
+          },
+          "mother": {
+            "name": "Karmino Made Improvisation",
+            "father": {
+              "name": "Karmino Made Fanfan La Tulipe",
+              "father": {
+                "name": "Dubliner Wallstreet"
+              },
+              "mother": {
+                "name": "Karmino Chiquita"
+              }
+            },
+            "mother": {
+              "name": "Karmino Made Enigma",
+              "father": {
+                "name": "Gwyndara Double Impact"
+              },
+              "mother": {
+                "name": "Chic Choix East Of Eden"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15446",
+          "name": "Artemis Elimar Doubrava",
+          "father": {
+            "name": "Garden Star´s Irish Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Bonnie Tyler",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver´s "
+              },
+              "mother": {
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "B",
+        "rcd4": "clear",
+        "other": "CLAD gen. N/N"
+      },
+      "shows": "CAJC, CAC",
+      "exams": "ZV I.cena, PZ I.cena, VP I.cena",
+      "owner": {
+        "first_name": "Jaromír ",
+        "last_name": "Coufal",
+        "address": {
+          "street": "Chořelice",
+          "number": "1094",
+          "city": "Litovel",
+          "post_code": "78401"
+        },
+        "phone": "732 789 203"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
       "name": "CID Z LESA KRÁLOVSTVÍ",
       "date_of_birth": "2017-05-16",
       "clp": "16391",
@@ -4636,7 +4765,8 @@
         "rcd4": "clear",
         "other": "CLAD gen. N/N"
       },
-      "shows": "CAJC, BOJ, KV mladých, JBIS",
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB",
       "exams": "ZV I.cena - CACT, PZ I.cena",
       "owner": {
         "title": "Mgr.",
