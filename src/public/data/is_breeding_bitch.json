@@ -292,7 +292,7 @@
       "clp": "15871",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Thendara Satisfaction",
           "father": {
@@ -422,7 +422,7 @@
       "clp": "15876",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Thendara Satisfaction",
           "father": {
@@ -2896,6 +2896,104 @@
       "clp": "16532",
       "father": "Abandinus Elimar Doubrava",
       "mother": "Emily from Avon Farm",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16532",
+        "father": {
+          "clp": "15444",
+          "name": "Abandinus Elimar Doubrava",
+          "father": {
+            "name": "Garden Star´s Irish Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Bonnie Tyler",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver´s "
+              },
+              "mother": {
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16333",
+          "name": "Emily from Avon Farm",
+          "father": {
+            "name": "Avon Farm Thoughts Of Calcutta",
+            "father": {
+              "name": "Avon Farm Ohi Calcutta",
+              "father": {
+                "name": "Avon Farm Rockaway"
+              },
+              "mother": {
+                "name": "Tealwood´s Avon After Eight"
+              }
+            },
+            "mother": {
+              "name": "Avon Farm Penny For Your Thoughts",
+              "father": {
+                "name": "Avon Farm Nobbie Huntsman"
+              },
+              "mother": {
+                "name": "Avon Farm Orient Express"
+              }
+            }
+          },
+          "mother": {
+            "name": "Avon Farm Special Ruling",
+            "father": {
+              "name": "Avon Farm Kingston Rule",
+              "father": {
+                "name": "Eireannmada Fortuifous"
+              },
+              "mother": {
+                "name": "Avon Farm London Bells"
+              }
+            },
+            "mother": {
+              "name": "Avon Farm Camelot",
+              "father": {
+                "name": "Avon Farm Rockaway"
+              },
+              "mother": {
+                "name": "Tealwood´s Avon After Eight"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "62",
         "color": "mahagon",
@@ -2918,6 +3016,153 @@
         "phone": "725 257 586"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "Dina Bohemia Tátrum",
+      "date_of_birth": "2018-02-21",
+      "clp": "16566",
+      "father": "Pad ze Srbeckých luhů",
+      "mother": "Betty Bohemia Tátrum",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16566",
+        "father": {
+          "clp": "14986",
+          "name": "Pad ze Srbeckých luhů",
+          "father": {
+            "clp": "14209",
+            "name": "Cit z Hosteckých vrchů",
+            "father": {
+              "clp": "13162",
+              "name": "Grosby z Lesinky",
+              "father": {
+                "name": "Luxatori Glint Of Gold"
+              },
+              "mother": {
+                "clp": "12114",
+                "name": "Diana z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13535",
+              "name": "Arka z Hosteckých vrchů",
+              "father": {
+                "clp": "12408",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "11603",
+                "name": "Draga z Vobůrky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14313",
+            "name": "Kyty ze Srbeckých luhů",
+            "father": {
+              "clp": "13829",
+              "name": "Ikar z Lesinky",
+              "father": {
+                "name": "Scirocco´s Norton The Red Destiny"
+              },
+              "mother": {
+                "clp": "13167",
+                "name": "Gloria z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13394",
+              "name": "Agra von Kínhab",
+              "father": {
+                "clp": "11250",
+                "name": "Athos z Železných hor"
+              },
+              "mother": {
+                "clp": "12212",
+                "name": "Iva ze Srbeckých luhů"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15924",
+          "name": "Betty Bohemia Tátrum",
+          "father": {
+            "clp": "14654",
+            "name": "Eddy z Košumberka",
+            "father": {
+              "name": "Hubertus Zobel vom Söhrenberg",
+              "father": {
+                "name": "Hubertus Vulkan vom Söhrenberg"
+              },
+              "mother": {
+                "name": "Hubertus Umbra vom Söhrenberg"
+              }
+            },
+            "mother": {
+              "clp": "13609",
+              "name": "Georgina z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15160",
+            "name": "Dolly z Jirouškova dvora",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14132",
+              "name": "Iara od Rakovnické brány",
+              "father": {
+                "clp": "13724",
+                "name": "Valmont Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12823",
+                "name": "Flér od Rakovnické brány"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "65",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "ZV I.cena, KZV I.cena, PZ I.cena, KPZ I.cena",
+      "owner": {
+        "first_name": "Ladislav",
+        "last_name": "Chytil",
+        "address": {
+          "street": "Komenského",
+          "number": "231",
+          "city": "Hulín",
+          "post_code": "76824"
+        },
+        "email": "chytil@bedea.cz"
+      }
     },
     {
       "breed": "IS",
@@ -3298,6 +3543,416 @@
         "email": "nemcova_m@centrum.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "DAIQUIRI DAISY RAIN",
+      "date_of_birth": "2019-01-20",
+      "clp": "16625",
+      "father": "Copper´s Gypsy Rose",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16625",
+        "father": {
+          "name": "Copper´s Gypsy Rose",
+          "father": {
+            "name": "Copper´s Magiska Under",
+            "father": {
+              "name": "Dubliner Tiger Woods",
+              "father": {
+                "name": "Asoftwind of the Golden Vale"
+              },
+              "mother": {
+                "name": "Dublner Imagine"
+              }
+            },
+            "mother": {
+              "name": "Copper´s Magical Bubble",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            }
+          },
+          "mother": {
+            "name": "Copper´s Wine´n Roses",
+            "father": {
+              "name": "Copper´s Bubble Power",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            },
+            "mother": {
+              "name": "Lynwood Kiss´n´tell Copper´s",
+              "father": {
+                "name": "Copper´s Bubblande Glad"
+              },
+              "mother": {
+                "name": "Lynwood Sealed With A Kiss"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles ",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher "
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen  of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "mahagon",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "championships": "CH ČR",
+      "shows": "CAJC, BOJ, CAC, NV, BOS, JBIG",
+      "exams": "ZV I.cena, KZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Petra",
+        "last_name": "Divilová",
+        "address": {
+          "street": "Fryčovice",
+          "number": "233",
+          "city": "Fryčovice",
+          "post_code": "73945"
+        },
+        "phone": "774 700 404",
+        "email": "petradi@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "DELLY DAISY RAIN",
+      "date_of_birth": "2019-01-20",
+      "clp": "16626",
+      "father": "Copper´s Gypsy Rose",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16626",
+        "father": {
+          "name": "Copper´s Gypsy Rose",
+          "father": {
+            "name": "Copper´s Magiska Under",
+            "father": {
+              "name": "Dubliner Tiger Woods",
+              "father": {
+                "name": "Asoftwind of the Golden Vale"
+              },
+              "mother": {
+                "name": "Dublner Imagine"
+              }
+            },
+            "mother": {
+              "name": "Copper´s Magical Bubble",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            }
+          },
+          "mother": {
+            "name": "Copper´s Wine´n Roses",
+            "father": {
+              "name": "Copper´s Bubble Power",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            },
+            "mother": {
+              "name": "Lynwood Kiss´n´tell Copper´s",
+              "father": {
+                "name": "Copper´s Bubblande Glad"
+              },
+              "mother": {
+                "name": "Lynwood Sealed With A Kiss"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles ",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher "
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen  of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63,5",
+        "color": "mahagon",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "championships": "",
+      "shows": "VD",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Hlobíková",
+        "address": {
+          "street": "Stará cesta",
+          "number": "103",
+          "city": "Katovice",
+          "post_code": "38711"
+        },
+        "phone": "722 770 061",
+        "email": "veronika1.navratilova@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ENNY BOHEMIA TÁTRUM",
+      "date_of_birth": "2019-05-10",
+      "clp": "16683",
+      "father": "Tim ze Srbeckých luhů",
+      "mother": "Betty Bohemia Tátrum",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16683",
+        "father": {
+          "clp": "15524",
+          "name": "Tim ze Srbeckých luhů",
+          "father": {
+            "clp": "14734",
+            "name": "Candy Mahagon Dream",
+            "father": {
+              "clp": "13830",
+              "name": "Irr z Lesinky",
+              "father": {
+                "name": "Scirocco´s Norton The Red Destiny"
+              },
+              "mother": {
+                "clp": "13167",
+                "name": "Gloria z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13585",
+              "name": "Bellinda Tojakr",
+              "father": {
+                "clp": "12408",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "12316",
+                "name": "Sally z Hodonínského jezu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14730",
+            "name": "Nela ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "13394",
+              "name": "Agra von Kínhab",
+              "father": {
+                "clp": "11250",
+                "name": "Athos z Železných hor"
+              },
+              "mother": {
+                "clp": "12212",
+                "name": "Iva ze Srbeckých luhů"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15924",
+          "name": "Betty Bohemia Tátrum",
+          "father": {
+            "clp": "14654",
+            "name": "Eddy z Košumberka",
+            "father": {
+              "name": "Hubertus Zobel vom Söhrenberg",
+              "father": {
+                "name": "Hubertus Vulkan vom Söhrenberg"
+              },
+              "mother": {
+                "name": "Hubertus Umbra vom Söhrenberg"
+              }
+            },
+            "mother": {
+              "clp": "13609",
+              "name": "Georgina z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15160",
+            "name": "Dolly z Jirouškova dvora",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby zz Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14132",
+              "name": "Iara od Rakovnické brány",
+              "father": {
+                "clp": "13724",
+                "name": "Valmont Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12823",
+                "name": "Flér od Rakovnické brány"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "V",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing. ",
+        "first_name": "Martina",
+        "last_name": "Krchňáková",
+        "address": {
+          "street": "Vendryně ",
+          "number": "1173",
+          "city": "Vendryně",
+          "post_code": "73994"
+        },
+        "email": "krchnakova.ma@seznam.cz"
+      }
     }
   ]
 }
