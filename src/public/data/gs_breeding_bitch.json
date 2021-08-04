@@ -2625,6 +2625,415 @@
         "web": "http://www.neverending.websnadno.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "CARRIE APRIL PEARL MORAVIA",
+      "date_of_birth": "2019-04-01",
+      "clp": "6876",
+      "father": "Celtic Frost Kochanej Emilki",
+      "mother": "Beitris Pearl Moravia",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6876",
+        "father": {
+          "name": "Celtic Frost Kochanej Emilki",
+          "father": {
+            "name": "Fairray Black To the Future",
+            "father": {
+              "name": "Triseter Celtic Ice",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Sunny Prides Mac Bess",
+              "father": {
+                "name": "Goango Black Booms"
+              },
+              "mother": {
+                "name": "Sunny PridesBlack Lotus"
+              }
+            }
+          },
+          "mother": {
+            "name": "Rosalie von der Wilden Horde",
+            "father": {
+              "name": "Laurelhach Legend",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena With Laurelhach"
+              }
+            },
+            "mother": {
+              "name": "Palvi von der Wilden Horde",
+              "father": {
+                "name": "Lochlay The Legislator"
+              },
+              "mother": {
+                "name": "Beautitul-Sky Magic of Elegance"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6648",
+          "name": "Beitris Pearl Moravia",
+          "father": {
+            "clp": "6286",
+            "name": "Zir z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6429",
+            "name": "Ashley Princess Pearl Moravia",
+            "father": {
+              "name": "Atrei z Tomanikových vrškov",
+              "father": {
+                "name": "Grand z Bojandolí"
+              },
+              "mother": {
+                "name": "Cita z Nedvězí"
+              }
+            },
+            "mother": {
+              "clp": "6079",
+              "name": "Cinderella Carolain Áres Šamarkan",
+              "father": {
+                "name": "Dreamer Misialinka"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "shows": "výborná, CAC",
+      "exams": "ZV - I.c., Klubové PZ - I.c.",
+      "owner": {
+        "first_name": "Jana ",
+        "last_name": "Vajdíková",
+        "address": {
+          "street": "V Uličce",
+          "number": "305",
+          "city": "Uherské Hradiště",
+          "post_code": "68601"
+        },
+        "phone": "733 761 328",
+        "email": "va.jana305@seznam.cz",
+        "web": "http://www.pearlmoravia.cz/"
+      },
+      "co-owner": {
+        "first_name": "Bronislav",
+        "last_name": "Vajdík"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "FIXA Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2019-11-27",
+      "clp": "6954",
+      "father": "Sherwin´s Handsome Guy",
+      "mother": "Caren z Holubické stráně",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6954",
+        "father": {
+          "name": "Sherwin´s Handsome Guy",
+          "father": {
+            "name": "Yukki Hill Walk of Fame to Fairray",
+            "father": {
+              "name": "Triseter Ebony Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Snow Queen Yukki Hill",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sherwin´s  Camee",
+            "father": {
+              "name": "Liric None So Special",
+              "father": {
+                "name": "Shannas Colonial With Liric"
+              },
+              "mother": {
+                "name": "Liric Xtra Special"
+              }
+            },
+            "mother": {
+              "name": "Tarock´s Romy",
+              "father": {
+                "name": "Tarock´s Lycos"
+              },
+              "mother": {
+                "name": "Tarock´s Imola"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6608",
+          "name": "Caren z Holubické stráně",
+          "father": {
+            "name": "Lamborghini Black Ivy",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Shadow Of The Moon",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Zira z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldon",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holuibické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "shows": "výborná, vítěz třídy, CAC, res.CAC,  res. CACIB",
+      "exams": "Klubové ZV - I.c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Karolina",
+        "last_name": "Vybíralová",
+        "address": {
+          "street": "Králová",
+          "number": "69",
+          "city": "Medlov",
+          "post_code": "78391"
+        },
+        "phone": "722931443",
+        "email": "vasickok@seznam.cz",
+        "web": "http://www.gordonsetr.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "FREYA Z HOLUBICKÉ STRÁNĚ",
+      "date_of_birth": "2019-11-27",
+      "clp": "6956",
+      "father": "Sherwin´s Handsome Guy",
+      "mother": "Caren z Holubické stráně",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6956",
+        "father": {
+          "name": "Sherwin´s Handsome Guy",
+          "father": {
+            "name": "Yukki Hill Walk of Fame to Fairray",
+            "father": {
+              "name": "Triseter Ebony Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Snow Queen Yukki Hill",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sherwin´s  Camee",
+            "father": {
+              "name": "Liric None So Special",
+              "father": {
+                "name": "Shannas Colonial With Liric"
+              },
+              "mother": {
+                "name": "Liric Xtra Special"
+              }
+            },
+            "mother": {
+              "name": "Tarock´s Romy",
+              "father": {
+                "name": "Tarock´s Lycos"
+              },
+              "mother": {
+                "name": "Tarock´s Imola"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6608",
+          "name": "Caren z Holubické stráně",
+          "father": {
+            "name": "Lamborghini Black Ivy",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Shadow Of The Moon",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Zira z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldon",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holuibické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "shows": "výborná",
+      "exams": "Klubové ZV - I.c., VP III.c",
+      "owner": {
+        "first_name": "Petr",
+        "last_name": "Malohlava",
+        "address": {
+          "street": "Skřípov ",
+          "number": "3",
+          "city": "okr. Opava",
+          "post_code": "74745"
+        },
+        "phone": "724296737",
+        "email": "petr.kleinkopf@seznam.cz",
+        "web": "https://silesiasetter.weebly.com/"
+      },
+      "co-owner": {
+        "first_name": "Anna",
+        "last_name": "Malohlavová"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
