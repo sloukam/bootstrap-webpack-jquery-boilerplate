@@ -16,6 +16,7 @@
 
   <script id="articleTemplate" type="text/template">
     {{#each articles}}
+    {{#if visible}}
     <div class="row">
       <div class="col-md order-md-1">
         <h2 class="red">{{title}}</h2>
@@ -55,6 +56,7 @@
       </div>
     </div>
     <hr class="featurette-divider"/>
+    {{/if}}
     {{/each}}
   </script>
 

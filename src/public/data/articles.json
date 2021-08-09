@@ -1,7 +1,7 @@
-
 {
   "articles": [
     {
+      "visible": false,
       "articleId": 20210021,
       "dateOfPublish": "2021/08/04",
       "title": "Štěňata IS k zadání",
@@ -19,6 +19,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210021,
       "dateOfPublish": "2021/07/20",
       "title": "Výsledky klubové výstavy ve Slavkově",
@@ -37,6 +38,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210020,
       "dateOfPublish": "2021/07/14",
       "title": "Fotky z klubové výstavy ze Slavkova",
@@ -49,6 +51,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210021,
       "dateOfPublish": "2021/07/14",
       "title": "Výsledky výstavy v Náměšti na Hané",
@@ -85,6 +88,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210020,
       "dateOfPublish": "2021/07/04",
       "title": "Výstava v Náměšti na Hané",
@@ -96,6 +100,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210019,
       "dateOfPublish": "2021/06/24",
       "title": "Vstupní listy",
@@ -108,6 +113,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210018,
       "dateOfPublish": "2021/06/22",
       "title": "Informace ke klubové klubové výstavě",
@@ -123,6 +129,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210018,
       "dateOfPublish": "2021/06/05",
       "title": "!!! UPOZORNĚNÍ !!!",
@@ -131,6 +138,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210017,
       "dateOfPublish": "2021/05/28",
       "title": "Inzerce",
@@ -139,6 +147,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210016,
       "dateOfPublish": "2021/05/27",
       "title": "Nabídka na zakoupení knihy",
@@ -152,6 +161,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210015,
       "dateOfPublish": "2021/05/25",
       "title": "Speciální výstava MSKAO - Zákupy",
@@ -172,6 +182,7 @@
           "type": "pdf"
         },
         {
+          "visible": true,
           "description": "přihláška",
           "filePath": "./public/pdf/2021/210814-zakupy/prihlaska.pdf",
           "type": "pdf"
@@ -179,6 +190,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210014,
       "dateOfPublish": "2021/05/15",
       "title": "Aktuality k výstavě v Náměšti na Hané",
@@ -190,6 +202,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210013,
       "dateOfPublish": "2021/05/03",
       "title": "Speciální výstavu ohařů při světové výstavě v Brně",
@@ -204,6 +217,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210012,
       "dateOfPublish": "2021/05/03",
       "title": "Zprávy z ČMKU",
@@ -229,6 +243,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210011,
       "dateOfPublish": "2021/04/16",
       "title": "Brzy se budou konat... (na detaily mrkněte níže)",
@@ -237,6 +252,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210010,
       "dateOfPublish": "2021-04-16",
       "title": "Klubové zkoušky vloh ohařů",
@@ -254,11 +270,13 @@
           "type": "jpg"
         },
         {
+          "visible": true,
           "description": "propozice",
           "filePath": "./public/pdf/2021/210516-klubove_vlohy/propozice.pdf",
           "type": "pdf"
         },
         {
+          "visible": true,
           "description": "přihláška",
           "filePath": "./public/pdf/2021/210516-klubove_vlohy/prihlaska.docx",
           "type": "doc"
@@ -266,6 +284,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210009,
       "dateOfPublish": "2021-04-16",
       "title": "Klubové podzimní zkoušky ohařů",
@@ -283,11 +302,13 @@
           "type": "jpg"
         },
         {
+          "visible": true,
           "description": "propozice",
           "filePath": "./public/pdf/2021/210515-klubove_podzimni_zkousky/propozice.pdf",
           "type": "pdf"
         },
         {
+          "visible": true,
           "description": "přihláška",
           "filePath": "./public/pdf/2021/210515-klubove_podzimni_zkousky/prihlaska.docx",
           "type": "doc"
@@ -295,6 +316,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 20210008,
       "dateOfPublish": "4/8/2021",
       "title": "Klubová výstava ve Slavkově",
@@ -311,6 +333,7 @@
           "type": "pdf"
         },
         {
+          "visible": true,
           "description": "proposition (EN)",
           "filePath": "./public/pdf/2021/210710-klubovka_slavkov/propozice-en.pdf",
           "type": "pdf"
@@ -318,6 +341,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "4/8/2021",
       "title": "Kalendář klubových akcí",
@@ -328,6 +352,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/23/2021",
       "title": "Přihlašování na Světovou Výstavu Psů v Brně",
@@ -344,6 +369,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/16/2021",
       "title": "Členské příspěvky",
@@ -355,6 +381,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/16/2021",
       "title": "WDS BRNO",
@@ -371,6 +398,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/16/2021",
       "title": "MVP PRAHA",
@@ -385,6 +413,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/16/2021",
       "title": "NVP OSTRAVA",
@@ -400,6 +429,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "3/16/2021",
       "title": "NVP BRNO + MVP ŠPILBERKA + MVP DUOCACIB",
@@ -425,6 +455,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "12/13/2020",
       "title": "Ročenka",
@@ -435,6 +466,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "12/22/2020",
       "title": "PF 2021",
@@ -443,6 +475,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "12/13/2020",
       "title": "Inzerce v ročence MSKAO",
@@ -453,6 +486,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "12/12/2020",
       "title": "Nová pravidla pro Evropský pohár britských ohařů",
@@ -462,6 +496,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "10/12/2020",
       "title": "Informace k Memoriálu Aloise Sklenáře-NFT:",
@@ -472,6 +507,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "10/5/2020",
       "title": "Informace k podzimním zkouškám ohařů a zkouškám vloh",
@@ -483,6 +519,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "10/5/2020",
       "title": "Memoriál Karla Podhajského",
@@ -497,6 +534,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "9/23/2020",
       "title": "Výsledky klubové výstavy v Náměšti na Hané",
@@ -511,6 +549,7 @@
       ]
     },
     {
+      "visible": true,
       "articleId": 9999999999999,
       "dateOfPublish": "9/23/2020",
       "title": "Aktuality ke klubové výstavě v Náměšti na Hané",
