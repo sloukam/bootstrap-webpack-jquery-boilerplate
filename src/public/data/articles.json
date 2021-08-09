@@ -1,8 +1,28 @@
 {
   "articles": [
     {
+      "visible": true,
+      "articleId": 20210023,
+      "dateOfPublish": "2021/08/09",
+      "title": "Rozpis kruhů na výstavě v Zákupech",
+      "paragraphs": [
+        "Milí vystavovatelé a návštěvníci,",
+        "zveřejňujeme rozdělení plemen do příslušných kruhů spolu s jejich předpokládaným časem posouzení."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "rozpis kruhů",
+          "filePath": "./public/pdf/2021/210814-zakupy/rozpis_kruhu.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
       "visible": false,
-      "articleId": 20210021,
+      "articleId": 20210022,
       "dateOfPublish": "2021/08/04",
       "title": "Štěňata IS k zadání",
       "paragraphs": [
