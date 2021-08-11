@@ -2,6 +2,29 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210024,
+      "dateOfPublish": "2021/08/11",
+      "title": "Dvě feny irského setra k zadání",
+      "paragraphs": [
+        "Polská chovatelská stanice Dragonborn FCI v Jelení Hoře, zadá poslední dvě feny irského setra z vrhu narozeného 17.7.2021",
+        "Štěňata narozená ze spojení:",
+        "<ul>",
+        "<li>Otec: <b>Universe of Doubtless Justice All Irish Gold</b><br>JCH PL, JCH HU, JCH SK, CH HU, Cruft 2019 2.místo třída mladých<br>HD A, ED 0,PRA 1 RCD Free, ,PRA 4 RCD Free, CLAD - Free</li>",
+        "<li>Matka: <b>Heroine of Wisdom All Irish Gold</b><br>CH PL, CH CZ<br>HD A,PRA 1 RCD Free, ,PRA 4 RCD Careier , CLAD – Free<br>pracovní certifikát lovecké upotřebitelnosti WCC, využívána v praxi</li>",
+        "</ul>",
+        "K případnému odebrání do Čech , budou štěňata připravena po 12-tém týdnu věku (konec října) očkovaná na vzteklinu s exportním průkazem původu a mezinárodním pasem.",
+        "Kontakty pro rezervaci:<br><a href=\"mailto:dragonbornfci@gmail.com\">dragonbornfci@gmail.com</a><br>(+48) 502 944 620",
+        "Více informací o chovatelské stanici naleznete zde:",
+        "<ul><li><a href=\"http://www.dragonborn.pl\" target=\"_blank\">www.dragonborn.pl</a></li><li><a href=\"http://www.dogwoow.pl\" target=\"_blank\">www.dogwoow.pl</a></li><li><a href=\"https://www.facebook.com/dragonbornfci/\" target=\"_blank\">https://www.facebook.com/dragonbornfci/</a></li><li><a href=\"https://www.instagram.com/dragonborn_fci/\" target=\"_blank\">https://www.instagram.com/dragonborn_fci/</a></li><li><a href=\"https://www.youtube.com/channel/UChtvaXiC3MdeydKf01ZUofA\" target=\"_blank\">https://www.youtube.com/channel/UChtvaXiC3MdeydKf01ZUofA</a>",
+        "<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/01.jpg\" height=\"150\" width=\"125\"></a>&nbsp;<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/02.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/03.jpg\" height=\"150\" width=\"220\"></a>",
+        "<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0188.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0188.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0191.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0191.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0246.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-vystava_namest/images/IMG-0246.jpg\" height=\"150\" width=\"220\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210023,
       "dateOfPublish": "2021/08/09",
       "title": "Rozpis kruhů na výstavě v Zákupech",
