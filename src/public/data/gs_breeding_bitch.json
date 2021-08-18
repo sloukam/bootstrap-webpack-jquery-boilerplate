@@ -213,7 +213,7 @@
       "clp": "6471",
       "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Misty Lake´s Never Say Never",
           "father": {
@@ -338,7 +338,7 @@
       "clp": "6466",
       "father": "Misty Lake's Never Say Never",
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Misty Lake´s Never Say Never",
           "father": {
@@ -736,7 +736,7 @@
       "clp": "6493",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6287",
           "name": "Zoom z Holubické stráně",
@@ -871,7 +871,7 @@
       "clp": "6489",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6287",
           "name": "Zoom z Holubické stráně",
@@ -1137,7 +1137,7 @@
       "clp": "6600",
       "father": "Lochfain An Aus Approach To Glenmaurangl",
       "mother": "Bora z Dvorku Čamourku",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Lochfain An Aus Approach To Glenmaurangi",
           "father": {
@@ -1401,7 +1401,7 @@
       "clp": "6617",
       "father": "Diamond Dudu Áres Šamarkan",
       "mother": "Kaira z Želečky",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6255",
           "name": "Diamond Dude Áres Šamarkan",
@@ -1544,7 +1544,7 @@
       "clp": "6633",
       "father": "Flynnrock's I'm Zac",
       "mother": "Xsara z Holubické stráně",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Flynnrock's I'm Zac",
           "father": {
@@ -1677,7 +1677,7 @@
       "clp": "6648",
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princes Pearl Moravia",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6286",
           "name": "Zir z Holubické stráně",
@@ -1820,7 +1820,7 @@
       "clp": "6649",
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princes Pearl Moravia",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6286",
           "name": "Zir z Holubické stráně",
@@ -2088,7 +2088,7 @@
       "clp": "6760",
       "father": "Silent North Eye Con",
       "mother": "Yukki Hill To Kiss And To Hug",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Silent North Eyecon ",
           "father": {
@@ -3032,6 +3032,140 @@
       "co-owner": {
         "first_name": "Anna",
         "last_name": "Malohlavová"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
+      "name": "FAZER MANON LESCAUT",
+      "date_of_birth": "2020-02-03",
+      "clp": "6961",
+      "father": "Yennadon Lochan At Rubymoon",
+      "mother": "Caffé Racer Manon Lescaut",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6961",
+        "father": {
+          "name": "Yennadon Lochan At Rubymoon",
+          "father": {
+            "name": "The Xpat to Liric Drumdaroch",
+            "father": {
+              "name": "Lochtay Darkn Stormy",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Lochtay Brodie"
+              }
+            },
+            "mother": {
+              "name": "MBWS My Girl Drumdaroch",
+              "father": {
+                "name": "Brentwood´sBWM Of Berridale"
+              },
+              "mother": {
+                "name": "Tahtan Vanity Fair"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yennadon Time For Daisy",
+            "father": {
+              "name": "Dunfionn Inverkip",
+              "father": {
+                "name": "Liric The Jolly Swagman"
+              },
+              "mother": {
+                "name": "Dunfionn Gigha"
+              }
+            },
+            "mother": {
+              "name": "Yennadon Time for Tavy",
+              "father": {
+                "name": "Yennadon Prime Time"
+              },
+              "mother": {
+                "name": "Gaidheal Sorrel at Yennadon"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6536",
+          "name": "Caffé Racer Manon Lescaut",
+          "father": {
+            "name": "Dolce Link Everywhere z Ojcowskiej Doliny",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Africa z Ojcowskiej Doliny",
+              "father": {
+                "name": "Kingpoint Everywhere"
+              },
+              "mother": {
+                "name": "Shanta Kaladan"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6198",
+            "name": "Xsara z Holubické stráně",
+            "father": {
+              "name": "Yennadon Dynamic Dan",
+              "father": {
+                "name": "Dunfionn Inverkip"
+              },
+              "mother": {
+                "name": "Yennadon Time for Tavy"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "58",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "championships": "CH ČR, CH Černe Hory, JCH Bosny a Hercegoviny",
+      "shows": "5x CAJC, 5xBOJ, 6x CAC, 3xCACIB,  8x BOB,  BIG 2, BIG 3",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Vlastislav",
+        "last_name": "Nedavaška",
+        "address": {
+          "street": "V Důlkách ",
+          "number": "480/2",
+          "city": "Ostarva - Nová Bělá",
+          "post_code": "72400"
+        },
+        "phone": "605917503",
+        "email": "nedavaskovi@seznam.cz",
+        "web": "http:/www.manonlescaut.net"
       },
       "img_ext": "jpg"
     }
