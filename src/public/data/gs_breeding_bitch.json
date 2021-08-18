@@ -2238,6 +2238,134 @@
       "breed": "GS",
       "sex": "female",
       "visible": true,
+      "name": "FAMOUS DIVINE IDYLI KOCHANEJ EMILKI",
+      "date_of_birth": "2017-05-30",
+      "clp": "6785",
+      "father": "Amscot Cheyenne Poacher",
+      "mother": "Celtic Blackened Kochanej Emilki",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6785",
+        "father": {
+          "name": "Amscot Cheynne Poacher",
+          "father": {
+            "name": "Boyers Strauss",
+            "father": {
+              "name": "Amscot Dramatist",
+              "father": {
+                "name": "Locksheath Yarra Glen"
+              },
+              "mother": {
+                "name": "Amscot Tinker Belle"
+              }
+            },
+            "mother": {
+              "name": "Boyers Sedge",
+              "father": {
+                "name": "Amscot Jetsetter"
+              },
+              "mother": {
+                "name": "Boyers Scree"
+              }
+            }
+          },
+          "mother": {
+            "name": "Amscot American Beauty",
+            "father": {
+              "name": "Sun-Yak Spellbond Heaven Scent",
+              "father": {
+                "name": "Spellbound´s Notorious"
+              },
+              "mother": {
+                "name": "Sun-Yak´s Desetr Echo"
+              }
+            },
+            "mother": {
+              "name": "Amscot Unbeliva Belle",
+              "father": {
+                "name": "Amscot Dramatist"
+              },
+              "mother": {
+                "name": "Amscot Impressa Belle"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Celtic Blackened Kochanej Emilki",
+          "father": {
+            "name": "Fairray Black to the Future",
+            "father": {
+              "name": "Triseter Celtic Ice",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Sunny Prides Mac Bess",
+              "father": {
+                "name": "Goango Black Booms"
+              },
+              "mother": {
+                "name": "Sunny prides Black Lotus"
+              }
+            }
+          },
+          "mother": {
+            "name": "Rosalie von der Wilden Horde",
+            "father": {
+              "name": "Laurelhach Legend",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena with Laurelhach"
+              }
+            },
+            "mother": {
+              "name": "Päivi von der Wilden Horde",
+              "father": {
+                "name": "lochtay the Legislator"
+              },
+              "mother": {
+                "name": "Beautiful-Sky Magic of Elegance"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "CH ČR",
+      "shows": "Výborná, CAJC, CAC, BOS",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Jakub",
+        "last_name": "Doležal",
+        "address": {
+          "street": "Zaječí ",
+          "number": "5",
+          "city": "Maršovice",
+          "post_code": "25756"
+        },
+        "phone": "602323676",
+        "email": "dolezal@nikwax.cz",
+        "web": "https://www.redfernhunters.com/"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
       "name": "DOUBLE DREAM LOVESET TOLLERS COSA NOSTRA",
       "date_of_birth": "2018-04-20",
       "clp": "6909",
