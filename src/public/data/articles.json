@@ -2,6 +2,21 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210025,
+      "dateOfPublish": "2021/08/19",
+      "title": "Tři kluci irského setra k zadání",
+      "paragraphs": [
+        "<b>ChS Mahogany Dream Catcher</b> má k zadání poslední tři volné chlapečky z vrhu <b>B</b> ze spojení <b>Universe of Never Ending Adventure All Irish Gold</b> X <b>Eternal Flame Goldset</b>. ",
+        "Narozeni 15.6.2021. Pouze do milujících a zodpovědných rukou. Ihned k odběru. Veškeré info v letáčku. ",
+        "Tel.: 721161987",
+        "<a href=\"./public/inzerce/210819-Veronika_Stechovska/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210819-Veronika_Stechovska/01.jpg\" height=\"150\" width=\"230\"></a>&nbsp;<a href=\"./public/inzerce/210819-Veronika_Stechovska/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210819-Veronika_Stechovska/02.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/inzerce/210819-Veronika_Stechovska/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210819-Veronika_Stechovska/03.jpg\" height=\"150\" width=\"100\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210024,
       "dateOfPublish": "2021/08/11",
       "title": "Dvě feny irského setra k zadání",
