@@ -3,6 +3,24 @@
     {
       "visible": true,
       "articleId": 20210025,
+      "dateOfPublish": "2021/08/20",
+      "title": "Změna rozhodčích, poslední uzávěrka se blíží...",
+      "paragraphs": [
+        "Po všech anabázích máme konečný tým rozhodčích. <b class=\"red\">NEPROŠVIHNĚTE</b> poslední uzávěrku přihlášek na <b class=\"red\">SPECIÁLNÍ VÝSTAVU OHAŘŮ při Světové výstavě psů 2021</b>.",
+        "Speciální výstava se bude konat na výstavišti V KROMĚŘÍŽI dne 30. ZÁŘÍ 2021. Anglické setry, gordonsetry a pointry posoudí polská rozhodčí paní <b>JADWIGA KONKIEL</b>. Irské setry a irské červenobílé setry posoudí rozhodčí paní <b>ALENKA POKORN</b> ze Slovinska.",
+        "<b class=\"red\">POSLEDNÍ UZÁVĚRKA NA VÝSTAVU JE 31. SRPNA 2021</b>. Přihlášky na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.dogoffice.cz</a>.",
+        "&nbsp;",
+        "<b class=\"red\">DON'T MISS</b> the last entry deadline for <b class=\"red\">GUNDOG SPECIALTY SHOW on the occasion of the World Dog Show 2021</b>.",
+        "The specialty show will take place at KROMĚŘÍŽ exhibition center (half an hour by car from Brno) on 30 SEPTEMBER 2021. English setters, Gordon Setters and English Pointers will be judged by Polish judge Mrs. <b>JADWIGA KONKIEL</b>.  Irish Setters and Irish Red and White Setters will be judged by Mrs. <b>ALENKA POKORN</b> from Slovenia.",
+        "<b class=\"red\">The LAST ENTRY DEADLINE is on AUGUST 31, 2021</b>. Entries at <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.dogoffice.cz</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210025,
       "dateOfPublish": "2021/08/19",
       "title": "Tři kluci irského setra k zadání",
       "paragraphs": [
