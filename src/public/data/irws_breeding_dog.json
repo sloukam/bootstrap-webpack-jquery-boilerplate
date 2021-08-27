@@ -683,6 +683,133 @@
         "email": "P.Mitasik@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "Bojar z Drválovského revíru",
+      "date_of_birth": "2019-12-18",
+      "clp": "366",
+      "father": "Celtic red and white Orson",
+      "mother": "Mc Gillicuddys Lucy",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "male",
+        "clp": "366",
+        "father": {
+          "name": "Celtic red and white Orson",
+          "father": {
+            "name": "United Spots Red Kite",
+            "father": {
+              "name": "Gallybob Gold Standard",
+              "father": {
+                "name": "Tullamore Ted"
+              },
+              "mother": {
+                "name": "Autumnwood Gold Dust"
+              }
+            },
+            "mother": {
+              "name": "United Spots Ohealy",
+              "father": {
+                "name": "United Spots Nightwish"
+              },
+              "mother": {
+                "name": "Pepperstown Polly"
+              }
+            }
+          },
+          "mother": {
+            "name": "Jeroben Full of  Joy",
+            "father": {
+              "name": "Dalriach Garryowen",
+              "father": {
+                "name": "Dalriach Lord Decider"
+              },
+              "mother": {
+                "name": "Dalriach Bruar"
+              }
+            },
+            "mother": {
+              "name": "Holllys Girl of Jeroben",
+              "father": {
+                "name": "Bush Buster"
+              },
+              "mother": {
+                "name": "Red Rascal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "318",
+          "name": "Mc Gillicuddys Lucy",
+          "father": {
+            "name": "Fanfan Du Val Des Mordorees",
+            "father": {
+              "name": "Deargban Bianco",
+              "father": {
+                "name": "Silent Seeker of Shannonbally"
+              },
+              "mother": {
+                "name": "Bishopmil Bronze Quean"
+              }
+            },
+            "mother": {
+              "name": "Swone Du Val Des Mordorees",
+              "father": {
+                "name": "Exclusives Viscount"
+              },
+              "mother": {
+                "name": "Du Val Des Mordorees Penelope"
+              }
+            }
+          },
+          "mother": {
+            "name": "Abi Shadow Dog",
+            "father": {
+              "name": "Dalriach Roling Stone",
+              "father": {
+                "name": "Tulamore Troubador"
+              },
+              "mother": {
+                "name": "Dalriach Geraldine"
+              }
+            },
+            "mother": {
+              "name": "Secret Wish Shadow Dog",
+              "father": {
+                "clp": "113",
+                "name": "Dick ze Skřípů"
+              },
+              "mother": {
+                "name": "Jarda Rysi Wykrot"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "červenobílý",
+        "HD": "A",
+        "other": "plnochrupý"
+      },
+      "shows": "",
+      "exams": "",
+      "owner": {
+        "first_name": "Jana",
+        "last_name": "Sedláková",
+        "address": {
+          "street": "Drválovice",
+          "number": "19",
+          "city": "Vanovice",
+          "post_code": "67936"
+        },
+        "phone": "737815574"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
