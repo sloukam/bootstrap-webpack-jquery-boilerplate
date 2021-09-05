@@ -2,6 +2,44 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210026,
+      "dateOfPublish": "2021/09/03",
+      "title": "Pozvánka na zkoušky vloh 10.10.2021 v Těšanech",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2021/211010-zkousky_vloh/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211010-zkousky_vloh/01.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211010-zkousky_vloh/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211010-zkousky_vloh/02.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211010-zkousky_vloh/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211010-zkousky_vloh/03.jpg\" height=\"297\" width=\"210\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/211010-zkousky_vloh/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210026,
+      "dateOfPublish": "2021/09/03",
+      "title": "Pozvánka na podzimní zkoušky 9.10.2021 v Těšanech",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2021/211009-podzimni_zkousky/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211009-podzimni_zkousky/01.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211009-podzimni_zkousky/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211009-podzimni_zkousky/02.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211009-podzimni_zkousky/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211009-podzimni_zkousky/03.jpg\" height=\"297\" width=\"210\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/211009-podzimni_zkousky/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210025,
       "dateOfPublish": "2021/08/20",
       "title": "Všestranné zkoušky v termínu 4.-5.9.2021 se ruší!!!",
