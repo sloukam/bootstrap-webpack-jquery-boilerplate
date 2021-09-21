@@ -1161,7 +1161,7 @@
       "body": {
         "HD": "C"
       },
-      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, JCH ČR, JCH SK",
+      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, CH HR, VETERAN CH ČR, JCH ČR, JCH SK",
       "shows": "CAJC, CAC, CACIB, NV, BOB, JBIG, BIG",
       "exams": "ZV I.cena",
       "owner": {
@@ -1301,9 +1301,10 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "KARMINO MADE OLEANDER",
       "date_of_birth": "2013-01-04",
+      "date_of_death": "2021-09-15",
       "clp": "15855",
       "father": "Applegrove Bechamel",
       "mother": "Karmino Made Improvisation",
@@ -3087,7 +3088,7 @@
       },
       "championships": "GRAND CH ČR, CH ČMKU, CH ČR, CH SK, JCH ČR",
       "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, BOB, JBIG, BIG 3",
-      "exams": "ZV I.cena",
+      "exams": "PZ I.cena, LZ I.cena, SVP I.cena, VZ II.cena, ZV I.cena",
       "owner": {
         "first_name": "Ladislav",
         "last_name": "Lokaj",
@@ -3483,7 +3484,8 @@
         "rcd4": "clear",
         "other": "CLAD gen. N/N"
       },
-      "shows": "CAJC, CAC",
+      "championships": "CH ČR",
+      "shows": "res. CACIB, CAJC, CAC",
       "exams": "ZV I.cena, PZ I.cena, VP I.cena",
       "owner": {
         "first_name": "Jaromír ",
@@ -4042,7 +4044,7 @@
         "height": "68",
         "HD": "A"
       },
-      "championships": "CH ČR, CH SK, JCH ČR",
+      "championships": "GRAND CH ČR, GRAND CH MK, CH MK, CH ČR, CH SK, JCH ČR",
       "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, JBIG",
       "exams": "ZV I.cena",
       "owner": {
