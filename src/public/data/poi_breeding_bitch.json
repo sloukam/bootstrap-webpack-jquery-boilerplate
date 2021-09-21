@@ -202,14 +202,14 @@
       "exams": "ZV-I. c",
       "owner": {
         "first_name": "Lenka",
-        "last_name": "Janečková Horáková",
+        "last_name": "Horáková",
         "address": {
           "street": "Nádražní",
           "number": "1738",
           "city": "Dubňany",
           "post_code": "69603"
         },
-        "phone": "728942000",
+        "phone": "607067931",
         "web": "http://www.natyavegrove.com"
       },
       "other": "Import Polsko",
@@ -3276,7 +3276,8 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "shows": "V1, CAJC, CAC, BOJ, BOS",
+      "championships": "CH SK, CH CZ",
+      "shows": "KL MSKAO, BOB, BOS, BOJ, CAC, V1, CAJC,",
       "exams": "IFT solo VD 15 b",
       "owner": {
         "first_name": "Lenka",
@@ -3287,7 +3288,7 @@
           "city": "Dubňany",
           "post_code": "69590"
         },
-        "phone": "728942000",
+        "phone": "607067931",
         "email": "info@natyavegrove.com",
         "web": "http://www.natyavegrove.com "
       },
