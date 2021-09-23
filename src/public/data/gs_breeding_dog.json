@@ -1603,6 +1603,136 @@
       },
       "other": "uchovněn na vyjímku chybí 1x M3",
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
+      "name": "CROCCO  SCOTCH DO POLE",
+      "date_of_birth": "2020-03-30",
+      "clp": "6983",
+      "father": "Fieldtalk´s Juri´S´Joker",
+      "mother": "Abigail Scotch do pole",
+      "body": {
+        "height": "66",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "6983",
+        "father": {
+          "name": "Fieldtalk´s Juri ´S´ Joker",
+          "father": {
+            "name": "Sunsetter´s Sing ´O´ the Times",
+            "father": {
+              "name": "Sun-Yak Spellbnd Heaven Scent",
+              "father": {
+                "name": "Spellbound´s Notourious"
+              },
+              "mother": {
+                "name": "Sun-Yak´s Desert Echo"
+              }
+            },
+            "mother": {
+              "name": "Sunsetter´s Bohemian Rhapsody",
+              "father": {
+                "name": "Ludstar Maranello"
+              },
+              "mother": {
+                "name": "Sunsetter´s Take a Chance on Me"
+              }
+            }
+          },
+          "mother": {
+            "name": "Fieldtalk´s Hooly-Dooly",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Fieldtalk´s Forever Rhapsody",
+              "father": {
+                "name": "Stilmoor Rainy Day Blues"
+              },
+              "mother": {
+                "name": "Sunsetter´s Rhapsody in Blue"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6466",
+          "name": "Abigail Scotch do pole",
+          "father": {
+            "name": "Misty Lake´s Never Say Never",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance With Me Of Shillay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue A Story"
+              }
+            },
+            "mother": {
+              "name": "Showpoint Black Magic Woman",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Kingpoint Celebrity"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6072",
+            "name": "Maria Matilde Scotch DAMA Krkonoše",
+            "father": {
+              "name": "Ludstar Kingdom",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Ludstar Mrspott"
+              }
+            },
+            "mother": {
+              "clp": "5865",
+              "name": "Sarmando Dream Erica",
+              "father": {
+                "name": "Kingpoint Even So"
+              },
+              "mother": {
+                "name": "Reila Scottish Leader"
+              }
+            }
+          }
+        }
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "výborný, CAJC, CAC, res.CACIB, BOJ, BOS",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Romana ",
+        "last_name": "Rychlá",
+        "address": {
+          "street": "Pražská",
+          "number": "79",
+          "city": "Řitka",
+          "post_code": "25203"
+        },
+        "phone": "728882424",
+        "email": "romana.rychla@email.cz"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
