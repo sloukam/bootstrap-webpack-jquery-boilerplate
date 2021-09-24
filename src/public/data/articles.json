@@ -3,6 +3,61 @@
     {
       "visible": true,
       "articleId": 20210026,
+      "dateOfPublish": "2021/09/24",
+      "title": "VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO",
+      "paragraphs": [
+        "<big class=\"red\">VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO</big> se uskuteční v náhradním termínu <b>v neděli 31. ŘÍJNA 2021</b> v <b>motelu Podkova v Kloboukách u Brna</b>.",
+        "Pozvánku a program naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/pozvanka.pdf\" target=\"_blank\">ZDE</a> a současně bude členům klubu zaslána na e-mailovou adresu. Výroční členská schůze MSKAO konaná 8.3.2020 uložila výboru připravit nový <b>Jednací řád MSKAO</b>, jehož znění naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/mskao_jednaci_rad_navrh.pdf\" target=\"_blank\">ZDE</a> a členům bude s pozvánkou také zaslán na e-mailovou adresu."
+      ],
+      "images": [],
+      "attachments": [
+        {
+          "description": "pozvánka a program schůze",
+          "filePath": "./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/pozvanka.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "návrh nového jednacího řádu MSKAO",
+          "filePath": "./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/mskao_jednaci_rad_navrh.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210026,
+      "dateOfPublish": "2021/09/24",
+      "title": "Omluva k ročence 2021",
+      "paragraphs": [
+        "Vážení členové Moravskoslezského klubu anglických ohařů,",
+        "s omluvou Vám sdělujeme že z objektivních důvodů jsme se rozhodli vydat klubovou Ročenku MSKAO za dva „covidové“ roky 2020 a 2021 až na začátku roku 2022. Obsáhlejší Ročenka 2020/2021 bude informovat o událostech a akcích v průběhu těchto dvou let, ve kterých se, i přes četná vládní nařízení a omezení, konaly nejen klubové kynologické akce a život se psy se nezastavil. Děkujeme Vám za laskavé pochopení a jsme rádi, že informace o klubových akcích čerpáte především z těchto klubových webových stránek a z klubového profilu na sociální síti facebook.",
+        "Přejeme Vám pěkné dny a těšíme se na setkání s Vámi na výroční členské schůzi 31.10.2021,",
+        "Výbor MSKAO"
+      ],
+      "images": [],
+      "attachments": []
+    },
+    {
+      "visible": true,
+      "articleId": 20210026,
+      "dateOfPublish": "2021/09/24",
+      "title": "Výborová schůze MSKAO",
+      "paragraphs": [
+        "Zápis z výborové schůze MSKAO konané dne 12.9.2021 v Brně čtěte <a href=\"./public/pdf/2021/210912-vybor_mskao.pdf\" target=\"_blank\">ZDE</a>."
+      ],
+      "images": [
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2021/210912-vybor_mskao.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210026,
       "dateOfPublish": "2021/09/03",
       "title": "Pozvánka na zkoušky vloh 10.10.2021 v Těšanech",
       "paragraphs": [
