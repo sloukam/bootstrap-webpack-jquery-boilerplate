@@ -2,7 +2,24 @@
   "articles": [
     {
       "visible": true,
-      "articleId": 20210026,
+      "articleId": 20210031,
+      "dateOfPublish": "2021/10/05",
+      "title": "Memoriál Aloise Sklenáře",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2021/211017-memorial_aloise_sklenare/mas.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211017-memorial_aloise_sklenare/mas.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211017-memorial_aloise_sklenare/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211017-memorial_aloise_sklenare/01.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211017-memorial_aloise_sklenare/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211017-memorial_aloise_sklenare/02.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2021/211017-memorial_aloise_sklenare/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/211017-memorial_aloise_sklenare/03.jpg\" height=\"297\" width=\"210\"></a>"
+      ],
+      "images": [],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2021/211017-memorial_aloise_sklenare/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210030,
       "dateOfPublish": "2021/09/24",
       "title": "VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO",
       "paragraphs": [
@@ -25,7 +42,7 @@
     },
     {
       "visible": true,
-      "articleId": 20210026,
+      "articleId": 20210029,
       "dateOfPublish": "2021/09/24",
       "title": "Omluva k ročence 2021",
       "paragraphs": [
@@ -39,7 +56,7 @@
     },
     {
       "visible": true,
-      "articleId": 20210026,
+      "articleId": 20210028,
       "dateOfPublish": "2021/09/24",
       "title": "Výborová schůze MSKAO",
       "paragraphs": [
@@ -57,7 +74,7 @@
     },
     {
       "visible": true,
-      "articleId": 20210026,
+      "articleId": 20210027,
       "dateOfPublish": "2021/09/03",
       "title": "Pozvánka na zkoušky vloh 10.10.2021 v Těšanech",
       "paragraphs": [
