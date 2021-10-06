@@ -2,6 +2,62 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210034,
+      "dateOfPublish": "2021/10/06",
+      "title": "Světová výstava psů 2021 Brno",
+      "paragraphs": [
+        "Vyvrcholením třídenního výstavního maratonu byla Světová výstava psů 2021, kterou ČMKU pořádala na Brněnském výstavišti v pátek 1. října 2021. Na jedné z nejvýznamnějších letošních kynologických akcí se opět neztratili setři a pointři členů MSKAO a dalších českých majitelů či z českého chovu, když si z Brna odvezli i tituly nejvyšší, jako <b>Světový vítěz 2021</b>, <b>Světový vítěz veteránů 2021</b>, <b>Světový vítěz mladých 2021</b> či <b>Světová naděje 2021</b>.",
+        "<a href=\"./public/pdf/2021/211001-wds_brno_vysledky.pdf\" target=\"_blank\"><b>ZDE</b></a> jsou výsledky otitulovaných psů a fen. Anglické a irské setry posoudila česká rozhodčí paní Hana Kunfalvi. Irské červenobílé setry a pointry posuzoval pan Čestmír Šrámek z České republiky a gordonsetry italská rozhodčí paní Ludovica Salamon."
+      ],
+      "images": [
+        "./public/images/2021/2021-wds_brno_logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2021/211001-wds_brno_vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210033,
+      "dateOfPublish": "2021/10/06",
+      "title": "Mimořádná speciální výstava ohařů při Světové výstavě psů 2021",
+      "paragraphs": [
+        "Ve čtvrtek 30. září 2021 se na výstavišti v Kroměříži konala Mimořádná speciální výstava ohařů, kterou pořádal náš klub ve spolupráci s Klubem chovatelů hrubosrstých a maďarských ohařů a Klubem chovatelů výmarských ohařů. Naše plemena posuzovaly polská rozhodčí paní <b>Jadwiga Konkiel</b> a paní <b>Alenka Pokorn</b> ze Slovinska. Kompletní výsledky setrů a pointrů naleznete <a href=\"./public/pdf/2021/210930-kromeriz/vysledky.pdf\" target=\"_blank\"><b>ZDE</b></a>.",
+        "Fotografie z výstavy, především ze závěrečných soutěží si po bezplatném zaregistrování můžete prohlédnout na odkazu: &nbsp;<a href=\"https://gallery.adoriphoto.sk/-vstavaoha/gallery\" target=\"_blank\">https://gallery.adoriphoto.sk/-vstavaoha/gallery</a>",
+        "<a href=\"./public/pdf/2021/210930-kromeriz/01.png\" target=\"_blank\"><img src=\"./public/pdf/2021/210930-kromeriz/01.png\" width=\"300\" height=\"200\"></a>"
+      ],
+      "images": [],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2021/210930-kromeriz/vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20210032,
+      "dateOfPublish": "2021/10/06",
+      "title": "Mezinárodní výstava psů Brněnka při Světové výstavě psů 2021",
+      "paragraphs": [
+        "Ve středu 29. září 2021 na Brněnském výstavišti začal třídenní výstavní maraton. Mezinárodní výstavu psů Brněnka pořádala ČMKU a plemena sdružená v našem klubu posoudil český rozhodčí pan <b>Miroslav Kalich</b>. <a href=\"./public/pdf/2021/210929-brnenka-vysledky.pdf\" target=\"_blank\"><b>ZDE</b></a> se můžete podívat na výsledky psů a fen českých majitelů nebo členů MSKAO, eventuálně z českého chovu. Uvádíme psi a feny, kteří získali vysoká hodnocení, včetně titulů. Ale za skvělou prezentaci našich plemen děkujeme všem účastníkům této výstavy."
+      ],
+      "images": [],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2021/210929-brnenka-vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210031,
       "dateOfPublish": "2021/10/05",
       "title": "Memoriál Aloise Sklenáře",
@@ -24,7 +80,7 @@
       "title": "VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO",
       "paragraphs": [
         "<big class=\"red\">VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO</big> se uskuteční v náhradním termínu <b>v neděli 31. ŘÍJNA 2021</b> v <b>motelu Podkova v Kloboukách u Brna</b>.",
-        "Pozvánku a program naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/pozvanka.pdf\" target=\"_blank\">ZDE</a> a současně bude členům klubu zaslána na e-mailovou adresu. Výroční členská schůze MSKAO konaná 8.3.2020 uložila výboru připravit nový <b>Jednací řád MSKAO</b>, jehož znění naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/mskao_jednaci_rad_navrh.pdf\" target=\"_blank\">ZDE</a> a členům bude s pozvánkou také zaslán na e-mailovou adresu."
+        "Pozvánku a program naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/pozvanka.pdf\" target=\"_blank\"><b>ZDE</b></a> a současně bude členům klubu zaslána na e-mailovou adresu. Výroční členská schůze MSKAO konaná 8.3.2020 uložila výboru připravit nový <b>Jednací řád MSKAO</b>, jehož znění naleznete <a href=\"./public/pdf/2021/211031-vcs_vyrocni_clenska_schuze/mskao_jednaci_rad_navrh.pdf\" target=\"_blank\"><b>ZDE</b></a> a členům bude s pozvánkou také zaslán na e-mailovou adresu."
       ],
       "images": [],
       "attachments": [
@@ -60,7 +116,7 @@
       "dateOfPublish": "2021/09/24",
       "title": "Výborová schůze MSKAO",
       "paragraphs": [
-        "Zápis z výborové schůze MSKAO konané dne 12.9.2021 v Brně čtěte <a href=\"./public/pdf/2021/210912-vybor_mskao.pdf\" target=\"_blank\">ZDE</a>."
+        "Zápis z výborové schůze MSKAO konané dne 12.9.2021 v Brně čtěte <a href=\"./public/pdf/2021/210912-vybor_mskao.pdf\" target=\"_blank\"><b>ZDE</b></a>."
       ],
       "images": [
       ],
