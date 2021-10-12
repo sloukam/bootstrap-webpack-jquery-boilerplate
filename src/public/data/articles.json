@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210035,
+      "dateOfPublish": "2021/10/12",
+      "title": "Memoriál Aloise Sklenáře se ruší !!!",
+      "paragraphs": [
+        "Vážení,",
+        "z důvodu malého počtu přihlášených psů se Memoriál Aloise Sklenáře ruší.",
+        "Děkujeme za pochopení"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210034,
       "dateOfPublish": "2021/10/06",
       "title": "Světová výstava psů 2021 Brno",
