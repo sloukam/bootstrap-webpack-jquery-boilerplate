@@ -531,6 +531,133 @@
       "breed": "IRWS",
       "sex": "female",
       "visible": true,
+      "name": "Darling Debbie Artegerd",
+      "date_of_birth": "2016-04-25",
+      "clp": "326",
+      "father": "Boreas Artegerd",
+      "mother": "Redmore Debbie",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "326",
+        "father": {
+          "clp": "295",
+          "name": "Boreas Artegerd",
+          "father": {
+            "name": "Casafelice Montadale",
+            "father": {
+              "name": "Corranroo Connexion",
+              "father": {
+                "name": "Vanders Veracity"
+              },
+              "mother": {
+                "name": "Corranroo Calypso"
+              }
+            },
+            "mother": {
+              "name": "Casafelice Charollais",
+              "father": {
+                "name": "Vanders Venatic Legend at Oldestone"
+              },
+              "mother": {
+                "name": "Calspem Godita of Chaysett"
+              }
+            }
+          },
+          "mother": {
+            "name": "Artemis Bohemia Thalset",
+            "father": {
+              "name": "United Spots Justbe",
+              "father": {
+                "name": "Ruemadra Snow King"
+              },
+              "mother": {
+                "name": "Autumnwood Silver Rose"
+              }
+            },
+            "mother": {
+              "name": "Vanesa Rysi Wykrot",
+              "father": {
+                "name": "Rushfield Smudge"
+              },
+              "mother": {
+                "name": "Exlusive's Velvet"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "222",
+          "name": "Redmore Debbie",
+          "father": {
+            "name": "Keamey- Kea Red Nokomis",
+            "father": {
+              "name": "United Spots Nightflame",
+              "father": {
+                "name": "United Spots Just Do It"
+              },
+              "mother": {
+                "name": "Palmar Alison"
+              }
+            },
+            "mother": {
+              "name": "Mirta Red Nokomis",
+              "father": {
+                "name": "Dalriach Auchindoun"
+              },
+              "mother": {
+                "name": "Sinead Red Nokomis"
+              }
+            }
+          },
+          "mother": {
+            "name": "Redmore Amy Sunny Moments",
+            "father": {
+              "name": "Carmallen Moonlight Silver",
+              "father": {
+                "name": "Vanders Veracity"
+              },
+              "mother": {
+                "name": "Carmallen Summer Light"
+              }
+            },
+            "mother": {
+              "name": "Gigi Conquerer of Hidden Irland",
+              "father": {
+                "name": "Carmallen Seen the Light"
+              },
+              "mother": {
+                "name": "Cherry vom Katharienberg"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "56",
+        "HD": "A",
+        "other": "plnochrupá"
+      },
+      "shows": "CAC res CACIB",
+      "exams": "ZV Ic.",
+      "owner": {
+        "first_name": "Gabriela",
+        "last_name": "Filipová",
+        "address": {
+          "street": "Podmoklany",
+          "number": "4",
+          "city": "Ždírec nad Doubravou",
+          "post_code": "58263"
+        },
+        "phone": "724512611",
+        "email": "gabriella.filipova@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "female",
+      "visible": true,
       "name": "Amálka z Drválovského revíru",
       "date_of_birth": "2018-03-19",
       "clp": "354",
