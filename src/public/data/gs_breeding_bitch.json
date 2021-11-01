@@ -207,7 +207,8 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
+      "excluded": true,
       "name": "ALBERTA SCOTCH DO POLE",
       "date_of_birth": "2013-03-18",
       "clp": "6471",
@@ -1001,7 +1002,8 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
+      "excluded": true,
       "name": "CAFFÉ RACER MANON LESCAUT",
       "date_of_birth": "2014-06-02",
       "clp": "6536",
