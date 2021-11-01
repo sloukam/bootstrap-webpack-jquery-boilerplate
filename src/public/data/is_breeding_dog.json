@@ -1433,7 +1433,7 @@
       "clp": "15848",
       "father": "Garden Star´s Royal Legend",
       "mother": "Ashley Punk Mahagony Paw",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Garden Star's Royal Legend",
           "father": {
@@ -1558,7 +1558,7 @@
       "clp": "15867",
       "father": "Thendara Satisfaction",
       "mother": "Adelaide z Břevnovského vrchu",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Thendara Satisfaction",
           "father": {
@@ -3101,6 +3101,136 @@
         "phone": "606499792",
         "email": "llokaj@seznam.cz",
         "web": "http://www.irsky-setr.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BRUNO MARS DAISY RAIN",
+      "date_of_birth": "2016-01-13",
+      "clp": "16218",
+      "father": "Garden Star´s Red Bull",
+      "mother": "Artemis Elimar Doubrava",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16218",
+        "father": {
+          "name": "Garden Star's Red Bull",
+          "father": {
+            "name": "Sumaric Shadow of Mr. Jingles",
+            "father": {
+              "name": "Thendara Don Corleone",
+              "father": {
+                "name": "Scarletti Smooth Criminal"
+              },
+              "mother": {
+                "name": "Greer Page Of Thendara"
+              }
+            },
+            "mother": {
+              "name": "Jonola Some Like It Hot At Sumaric",
+              "father": {
+                "name": "Jonola Jack Daniels"
+              },
+              "mother": {
+                "name": "Jonola Hotter Than Ever"
+              }
+            }
+          },
+          "mother": {
+            "name": "Garden Star's Light Yoghurt",
+            "father": {
+              "name": "Ardan of Funny Home",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Erinade Fergie van de Westerhuy"
+              }
+            },
+            "mother": {
+              "name": "Garden Star's Ferrero Rocher",
+              "father": {
+                "name": "Garden Star's Billion Dolar"
+              },
+              "mother": {
+                "name": "Garden Star's Amberlight"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15446",
+          "name": "Artemis Elimar Doubrava",
+          "father": {
+            "name": "Garden Star's Irish-Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garden Star's Bonnie Tyler",
+              "father": {
+                "name": "Vicary's US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver's"
+              },
+              "mother": {
+                "clp": "12057",
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary's Xuni",
+              "father": {
+                "name": "Vicary's US Dollar"
+              },
+              "mother": {
+                "name": "Vicary's Sugartop"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "B",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "championships": "CH ČR",
+      "shows": "V, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Zdeňka",
+        "last_name": "Juříková",
+        "address": {
+          "number": "476",
+          "city": "Šumice",
+          "post_code": "68731"
+        },
+        "phone": "777 682 253",
+        "email": "z.jurikova@seznam.cz"
       },
       "img_ext": "jpg"
     },
@@ -4812,6 +4942,143 @@
         },
         "phone": "724508679"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ERY WILD SHAMROCK",
+      "date_of_birth": "2019-05-23",
+      "clp": "16932",
+      "father": "Clifford z Břevnovského vrchu",
+      "mother": "Abbey Wild Shamrock",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16932",
+        "father": {
+          "clp": "15867",
+          "name": "Clifford z Břevnovského vrchu",
+          "father": {
+            "name": "Thendara Satisfaction",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Vanilla Ice",
+              "father": {
+                "name": "Thendara Kramer"
+              },
+              "mother": {
+                "name": "Cordarragh Ladybird of Thendara"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14914",
+            "name": "Adelaide z Břevnovského vrchu",
+            "father": {
+              "clp": "14067",
+              "name": "Dorian Grey Jenny´s Irsal",
+              "father": {
+                "name": "Kris Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13335",
+                "name": "Tiffany Jenny´s Irsal"
+              }
+            },
+            "mother": {
+              "clp": "14431",
+              "name": "Annie Mahagon Dream",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13585",
+                "name": "Bellinda Tojakr"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Abbey Wild Shamrock",
+          "father": {
+            "name": "Garden Star´s Royal Legend",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Youghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "name": "Lady Jay Slovak Base",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "name": "Cinderella Jay Slovak Base",
+              "father": {
+                "name": "Winter Sun of Buffalo"
+              },
+              "mother": {
+                "name": "Beauty Jay Slovak Base"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "67",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "CAJC, CAC, r. CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Simona",
+        "last_name": "Lengál",
+        "address": {
+          "street": "Masarykovo náměstí ",
+          "number": "12",
+          "city": "Hodonín",
+          "post_code": "69501"
+        },
+        "phone": "728 852 014",
+        "email": "foto@lengal.com"
+      },
+      "co-owner": {
+        "first_name": "Radek",
+        "last_name": "Lengál"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
