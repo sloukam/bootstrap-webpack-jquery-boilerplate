@@ -2063,7 +2063,7 @@
       },
       "shows": "VN1, BIS štěně, VD",
       "championships": "Šampion práce ČR",
-      "exams": "KZV MSKAO I.cena CACT, KPZ KBO I.cena CACT, KPZ MSKAO I.cena CACT, LZ I.cena",
+      "exams": "KZV MSKAO I.cena CACT, KPZ KBO I.cena CACT, KPZ MSKAO I.cena CACT, LZ I.cena, VZ I.cena",
       "owner": {
         "first_name": "Olga",
         "last_name": "Vránová",
@@ -2470,8 +2470,8 @@
         "ED": "0/0",
         "rcd4": "clear"
       },
-      "shows": "CAJC, BOJ, Vítěz třídy",
-      "exams": "ZV I.c.",
+      "shows": "CAJC, BOJ, Vítěz třídy, res.CAC",
+      "exams": "ZV I.c., KZV MSKAO I.c., KPZ KBO I.c.",
       "owner": {
         "first_name": "Olga",
         "last_name": "Vránová",
@@ -2483,6 +2483,10 @@
         },
         "email": "firochara@seznam.cz",
         "web": "http://www.fiorchara.cz"
+      },
+      "co-owner": {
+        "first_name": "Ing. Karolina",
+        "last_name": "Vybíralová"
       },
       "img_ext": "jpg"
     },
@@ -3010,7 +3014,7 @@
         "rcd4": "clear"
       },
       "shows": "výborná, vítěz třídy, CAC, res.CAC,  res. CACIB",
-      "exams": "Klubové ZV - I.c.",
+      "exams": "Klubové ZV - I.c., Klubové PZ KBO I.c., Klubové PZ MSKAO I.c.",
       "owner": {
         "title": "Ing.",
         "first_name": "Karolina",
