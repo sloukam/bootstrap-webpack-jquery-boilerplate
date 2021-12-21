@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210039,
+      "dateOfPublish": "2021/12/21",
+      "title": "Výzva a přání",
+      "paragraphs": [
+        "Zdravíme všechny členy a příznivce našeho Moravskoslezského klubu anglických ohařů. V tuto předvánoční dobu bychom Vám rádi dali příležitost, tak jako každoročně, stát se přispěvatelem do klubové ročenky a najít v ní tak svůj članek, reportáž nebo inzerci.",
+        "Na Vaše příspěvky netrpělivě čekáme na emailové adrese <a href=\"mailto:rocenka@mskao.cz?subject=Material%20do%20rocenky\">rocenka@mskao.cz</a>",
+        "Do nadcházejících dní Vám všem přejeme klidné prožití vánočních svátků v rodinném kruhu včetně Vašich milovaných čtyřnohých kamarádů a v roce 2022 hlavně zdraví a mnoho uspěchů Vám i vašim parťákům."
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210038,
       "dateOfPublish": "2021/12/19",
       "title": "Pes roku 2020 exteriér",
