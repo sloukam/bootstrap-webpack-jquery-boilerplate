@@ -2368,6 +2368,133 @@
       "breed": "GS",
       "sex": "female",
       "visible": true,
+      "name": "DARSY PEXESO",
+      "date_of_birth": "2017-12-30",
+      "clp": "6793",
+      "father": "Black Scottish Gin Shadow Dog",
+      "mother": "Alice Scotch do pole",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6793",
+        "father": {
+          "clp": "6619",
+          "name": "Black Scottish Gin Shadow Dog",
+          "father": {
+            "name": "Laurelhach Classic Allegro",
+            "father": {
+              "name": "Laurelhach Just Jitterbug",
+              "father": {
+                "name": "Shannas Colonial With Liric"
+              },
+              "mother": {
+                "name": "Laurelhach Love Story"
+              }
+            },
+            "mother": {
+              "name": "Triseter Ebonie Zena With Laurelhach",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            }
+          },
+          "mother": {
+            "name": "My Oh My Black Lofty",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zeus"
+              }
+            },
+            "mother": {
+              "name": "Goango Black Essence",
+              "father": {
+                "name": "Showpoint Born To Be Wild"
+              },
+              "mother": {
+                "name": "Goango Black Belle"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6469",
+          "name": "Alice Scotch do pole",
+          "father": {
+            "name": "Misty Lake´s Never Say Never",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance, With Me Of Shillay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue A Story"
+              }
+            },
+            "mother": {
+              "name": "Showpoint Black Magic Woman",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Kingpoint Celebrity"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6072",
+            "name": "Maria Matilde Scotch DAMA Krkonoše",
+            "father": {
+              "name": "Ludstar Kingdom",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Ludstar Mrspott"
+              }
+            },
+            "mother": {
+              "name": "Samando Dream Erica",
+              "father": {
+                "name": "Kingpoint Even So"
+              },
+              "mother": {
+                "name": "Reila Scottish Leader"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Barbara ",
+        "last_name": "Stránská",
+        "address": {
+          "street": "Velký Dřevíč",
+          "number": "265",
+          "city": "Hronov 4",
+          "post_code": "54934"
+        },
+        "phone": "602275866"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
       "name": "DOUBLE DREAM LOVESET TOLLERS COSA NOSTRA",
       "date_of_birth": "2018-04-20",
       "clp": "6909",
