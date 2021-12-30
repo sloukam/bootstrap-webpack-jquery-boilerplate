@@ -1946,7 +1946,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BENGIE Z BÍTÝŠSKÝCH BAŽIN",
       "date_of_birth": "2015-08-30",
       "clp": "11231",
