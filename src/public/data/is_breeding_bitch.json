@@ -158,7 +158,7 @@
     },
     {
       "breed": "IS",
-      "visible": true,
+      "visible": false,
       "name": "COUNTRY MELODY MAHAGONY PAW",
       "date_of_birth": "2013-01-31",
       "clp": "15852",
@@ -286,7 +286,7 @@
     },
     {
       "breed": "IS",
-      "visible": true,
+      "visible": false,
       "name": "CLOTILDE Z BŘEVNOVSKÉHO VRCHU",
       "date_of_birth": "2013-04-08",
       "clp": "15871",
@@ -416,7 +416,7 @@
     },
     {
       "breed": "IS",
-      "visible": true,
+      "visible": false,
       "name": "CRAZY DAISY Z BŘEVNOVSKÉHO VRCHU",
       "date_of_birth": "2013-04-08",
       "clp": "15876",
@@ -546,7 +546,7 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BELINDA BOHEMIA TÁTRUM",
       "date_of_birth": "2013-07-04",
       "clp": "15923",
@@ -1052,6 +1052,7 @@
       "body": {
         "HD": "A"
       },
+      "championships": "CH ČR",
       "shows": "V, CAC, BOS, BOB",
       "exams": "ZV I.cena, MFT 8 b.",
       "owner": {
@@ -1060,11 +1061,12 @@
         "last_name": "Homola",
         "address": {
           "street": "Předvrší",
-          "number": "436/44",
+          "number": "859/1",
           "city": "Ostrava Krásné Pole",
           "post_code": "72526"
         },
-        "phone": "777148716"
+        "phone": "777148716",
+        "email": "homolao@centrum.cz"
       },
       "img_ext": "jpg"
     },

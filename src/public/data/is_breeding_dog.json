@@ -3,7 +3,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "SYNDY ZE SRBECKÝCH LUHŮ",
       "date_of_birth": "2009-02-15",
       "clp": "15235",
@@ -146,7 +146,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "BERNARD LORD EVERDENE",
       "date_of_birth": "2009-08-27",
       "clp": "15332",
@@ -280,7 +280,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "HRABIA Z ORSAKU CHROBREGO",
       "date_of_birth": "2009-11-26",
       "clp": "15450",
@@ -401,7 +401,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "DOUGLAS REDWEED",
       "date_of_birth": "2010-12-16",
       "clp": "15531",
@@ -650,7 +650,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "LARY OD ZÁPOTOCKÉHO",
       "date_of_birth": "2011-04-03",
       "clp": "15579",
@@ -2982,7 +2982,7 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "BLACK JACK DAISY RAIN",
       "date_of_birth": "2016-01-13",
       "clp": "16214",

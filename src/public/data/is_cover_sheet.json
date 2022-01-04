@@ -44,9 +44,9 @@
           "publicationDate": "2021-04-16",
           "breeder": "Z ROKYCKÉ ČILINY",
           "bitch": "Corin ze Svrateckých pláňav",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Alvin z Lukovečského remízku",
+          "releaseDate": "2021-07-10",
+          "puppies": "7/4"
         },
         {
           "id": "VI/21",
@@ -62,17 +62,35 @@
           "publicationDate": "2021-05-12",
           "breeder": "DAISY RAIN",
           "bitch": "Betty Barcley Daisy Rain",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Aaron Arno Redweed",
+          "releaseDate": "2021-07-16",
+          "puppies": "3/7"
         },
         {
           "id": "VIII/21",
-          "publicationDate": null,
+          "publicationDate": "2021-06-07",
           "breeder": "MAHAGON KENYA",
           "bitch": "Bwindi Mahagon Kenya",
+          "dog": "Yahoo Lofty (PL)",
+          "releaseDate": "2021-08-17",
+          "puppies": "0/2"
+        },
+        {
+          "id": "IX/21",
+          "publicationDate": "2021-11-05",
+          "breeder": "MAHOGANY DREAM CATCHER\n",
+          "bitch": "Adina Meda Mahogany Dream Catcher",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": null,
+          "puppies": ""
+        },
+        {
+          "id": "X/21",
+          "publicationDate": "2021-12-17",
+          "breeder": "MIRELIONNE",
+          "bitch": "Amzing Red Girl Mirelionne",
+          "dog": "",
+          "releaseDate": null,
           "puppies": ""
         }
       ]
