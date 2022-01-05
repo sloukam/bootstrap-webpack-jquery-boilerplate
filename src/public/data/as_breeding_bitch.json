@@ -90,7 +90,8 @@
         "address": {
           "street": "Pod Skalkou",
           "number": "69/10",
-          "city": "Přerov"
+          "city": "Přerov",
+          "post_code": "75124"
         },
         "phone": "776658147"
       },
@@ -115,7 +116,7 @@
       "exams": "ZV – I.c., SVP – I.c.",
       "owner": {
         "title": "Mgr.",
-        "first_name": "Hana Kneřová",
+        "first_name": "Hana Kneřová a ",
         "last_name": "Zbyněk Pochman",
         "address": {
           "street": "Řevničov",
@@ -169,7 +170,8 @@
       "body": {
         "height": "61",
         "color": "orange belton",
-        "HD": "A"
+        "HD": "A",
+        "other": "Uchovněna na výjimku 1 vrhu – skus"
       },
       "shows": "CAC",
       "exams": "ZV – I.c.",
@@ -185,7 +187,6 @@
         "email": "molly88@seznam.cz",
         "web": "http://www.deaarduinna.wbs.cz"
       },
-      "other": "Uchovněna na výjimku 1 vrhu – skus",
       "img_ext": "jpg"
     },
     {
@@ -265,7 +266,8 @@
         "color": "orange belton",
         "HD": "A",
         "ED": "0/0",
-        "BAER": true
+        "BAER": true,
+        "other": "uchovněna na výjimku bez zkoušek"
       },
       "championships": "CH AT",
       "shows": "V, CAC, CACIB, BOS",
@@ -283,7 +285,6 @@
         "phone": "602 212 634",
         "email": "martinnip@me.com"
       },
-      "other": "uchovněna na výjimku bez zkoušek",
       "img_ext": "jpg"
     },
     {

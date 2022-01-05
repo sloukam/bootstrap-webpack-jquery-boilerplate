@@ -1242,7 +1242,8 @@
       "body": {
         "height": "60",
         "color": "černá s pálením",
-        "HD": "A"
+        "HD": "A",
+        "other": "Uchovněna na vyjímku – chybí 2x P3"
       },
       "championships": "JCH ČR, CH ČR",
       "shows": "CAC, CAJC",
@@ -1256,7 +1257,6 @@
           "city": "Polná"
         }
       },
-      "other": "Uchovněna na vyjímku – chybí 2x P3",
       "img_ext": "jpg"
     },
     {
@@ -1650,7 +1650,8 @@
         "height": "64",
         "color": "černá s pálením",
         "HD": "A",
-        "rcd4": "clear"
+        "rcd4": "clear",
+        "other": "uchovněna na vyjímku – chybí 1xP3"
       },
       "championships": "CH CZ",
       "shows": "CAC, r.CACIB, BOB, BIS, KV ČPSK, BIS MSKAO",
@@ -1667,7 +1668,6 @@
         "email": "ivka.mlejova@gmail.com",
         "web": "http://www.redfernhunters.com"
       },
-      "other": "uchovněna na vyjímku – chybí 1xP3",
       "img_ext": "jpg"
     },
     {
@@ -2061,7 +2061,8 @@
         "color": "černá s pálením",
         "HD": "A",
         "ED": "0/0",
-        "rcd4": "clear"
+        "rcd4": "clear",
+        "other": "uchovněna na výjimku – nepravidelný skus"
       },
       "shows": "VN1, BIS štěně, VD",
       "championships": "Šampion práce ČR",
@@ -2078,7 +2079,6 @@
         "email": "fiorchara@seznam.cz",
         "web": "http://www.fiorchara.cz"
       },
-      "other": "uchovněna na výjimku – nepravidelný skus",
       "img_ext": "jpg"
     },
     {

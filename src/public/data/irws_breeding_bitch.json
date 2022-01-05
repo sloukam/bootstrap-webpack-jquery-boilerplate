@@ -106,7 +106,8 @@
       "body": {
         "height": "56",
         "color": "červenobílá",
-        "HD": "A"
+        "HD": "A",
+        "other": "uchovněna na vyjímku chybí P2DL+P2DP 1vrh"
       },
       "shows": "CAJC, CAC, NV, BOJ, BOS, BOB",
       "exams": "ZV – I.c., Memoriál A. Sklenáře NF 18b. CACT, NZŘ 55b., MZŘ BV-VT 54b.",
@@ -119,8 +120,7 @@
           "city": "Město Albrechtice",
           "post_code": "79395"
         }
-      },
-      "other": "uchovněna na vyjímku chybí P2DL+P2DP 1vrh"
+      }
     },
     {
       "breed": "IRWS",
