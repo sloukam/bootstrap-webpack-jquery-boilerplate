@@ -63,6 +63,28 @@
             , {{other}}
           {{/if}}
         </div>
+        <div class="col-3">
+          <div class="row justify-content-center border-0 img-tumbnail-max-height">
+            {{#if img_ext}}
+            <div class="col centralize-content pop">
+              <img src="./public/images/{{breed}}/{{clp}}.{{img_ext}}" alt="{{name}}"
+                   class="img-thumbnail img-rounded img-responsive img-max-height">
+            </div>
+            {{else}}
+            <div class="col centralize-content">
+              <img src="./public/images/{{breed}}-bw.png" alt=""
+                   class="img-thumbnail img-rounded img-responsive img-max-height">
+            </div>
+            {{/if}}
+          </div>
+          {{#if img_ext}}
+          <div class="row">
+            <div class="col centralize-content">
+              download fotky - <a href="./public/images/{{breed}}/{{clp}}.{{img_ext}}" download>{{breed}}-{{clp}}.{{img_ext}}.</a>
+            </div>
+          </div>
+          {{/if}}
+        </div>
       </div>
       {{/if}}
     {{/each}}
