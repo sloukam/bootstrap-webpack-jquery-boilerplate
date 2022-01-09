@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220001,
+      "dateOfPublish": "2021/01/07",
+      "title": "Inzerce v ročence MSKAO",
+      "paragraphs": [
+        "Upozorňujeme na možnost uveřejnění inzerce v připravovaném dvojčísle Ročenky MSKAO. Inzeráty prosím posílejte ve formátu tiskového PDF na adresu <a href=\"mailto:rocenka@mskao.cz?subject=Inzerce%20v%20rocence%202021\">rocenka@mskao.cz</a> do 16.1.2021.",
+        "Podmínky jsou následující: <ul> <li>celá strana A4 (chovatelský inzerát člen MSKAO 800 Kč/nečlen 1.600 Kč/komerční inzerát 4.000 Kč) </li> <li>½ strany A4 (člen MSKAO 500 Kč/nečlen 1.000 Kč/komerční inzerát 2.000 Kč)</li> <li>¼ strany A4 (člen MSKAO 300 Kč/nečlen 600 Kč/komerční inzerát 1.000 Kč)</li> </ul>",
+        "<b><big>Číslo bankovního účtu: 2600505087 / 2010 (FIO banka)</big></b>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20210039,
       "dateOfPublish": "2021/12/21",
       "title": "Výzva a přání",
