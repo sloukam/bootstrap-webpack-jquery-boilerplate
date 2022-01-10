@@ -197,6 +197,153 @@
         "BAER": true,
         "other": ""
       },
+      "pedigree": {
+        "breed": "AS",
+        "sex": "male",
+        "clp": "6017",
+        "father": {
+          "country": "LOI",
+          "clp": "7921",
+          "name": "Lorien July Sunburst",
+          "father": {
+            "country": "AKC",
+            "clp": "25744101",
+            "name": "Artizoe High Caliber",
+            "father": {
+              "country": "AKC",
+              "clp": "61561203",
+              "name": "Honeygait Limited Edition",
+              "father": {
+                "country": "AKC",
+                "clp": "07532701",
+                "name": "Kerryhill Lampir Ropin'Thewind"
+              },
+              "mother": {
+                "country": "AKC",
+                "clp": "31896803",
+                "name": "Foxtract's Honeygait Alexa"
+              }
+            },
+            "mother": {
+              "country": "AKC",
+              "clp": "60635601",
+              "name": "Artizoe Rosewood Cora",
+              "father": {
+                "country": "AKC",
+                "clp": "749926",
+                "name": "English Times Bugle Boy"
+              },
+              "mother": {
+                "country": "AKC",
+                "clp": "27808901",
+                "name": "Artizoe Power of Love"
+              }
+            }
+          },
+          "mother": {
+            "country": "AKC",
+            "clp": "06536602",
+            "name": "Lorien Tri Lana",
+            "father": {
+              "country": "AKC",
+              "clp": "56117504",
+              "name": "Edwardian Three Star General CD",
+              "father": {
+                "country": "AKC",
+                "clp": "25600601",
+                "name": "Somerset Huckleberry Bey"
+              },
+              "mother": {
+                "country": "AKC",
+                "clp": "90860501",
+                "name": "Edwardian Three Times A Lady CD"
+              }
+            },
+            "mother": {
+              "country": "AKC",
+              "clp": "21454108",
+              "name": "Khycza's Silver Bells",
+              "father": {
+                "country": "AKC",
+                "clp": "725503",
+                "name": "Khycza's Blue Fir"
+              },
+              "mother": {
+                "country": "AKC",
+                "clp": "99791401",
+                "name": "Windems Mail Order Bride"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5459",
+          "name": "Isis Lady DAMA Krkonoše",
+          "father": {
+            "clp": "5149",
+            "name": "Connemara's Maxwell",
+            "father": {
+              "country": "VDH",
+              "clp": "27",
+              "name": "Ecu Franciszkanski Folwark",
+              "father": {
+                "country": "VDH",
+                "clp": "47",
+                "name": "Silvanus Jordano"
+              },
+              "mother": {
+                "country": "PKR",
+                "clp": "1645",
+                "name": "Amiga Franciszkanski Folwark"
+              }
+            },
+            "mother": {
+              "country": "VDH",
+              "clp": "46",
+              "name": "Connemara's Kayla",
+              "father": {
+                "country": "SHSB",
+                "clp": "450901",
+                "name": "Amber of Flying Hunter"
+              },
+              "mother": {
+                "country": "VDH",
+                "clp": "37",
+                "name": "Connemara's Dianne"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5023",
+            "name": "Epril Lady DAMA Krkonoše",
+            "father": {
+              "clp": "4576",
+              "name": "Cvik z Lodínských luhů",
+              "father": {
+                "clp": "4212",
+                "name": "Print z Kokrd"
+              },
+              "mother": {
+                "clp": "4132",
+                "name": "Fleur Majko"
+              }
+            },
+            "mother": {
+              "clp": "4604",
+              "name": "Noly z Kunštátských lesů",
+              "father": {
+                "country": "SPKP",
+                "clp": "274",
+                "name": "Žuk z Moškovho dvora"
+              },
+              "mother": {
+                "clp": "4202",
+                "name": "Betty ze Sokolího dvora"
+              }
+            }
+          }
+        }
+      },
       "shows": "CAJC, BOJ, CAC, res.CACIB, Národní vítěz, CACIB, BOB",
       "exams": "ZV - I.c, PZ – II. c, LZ – I.c, VZ – II.c",
       "father": "Lorien July Sunburst",
@@ -267,6 +414,131 @@
         "HD": "A",
         "BAER": true,
         "other": ""
+      },
+      "pedigree": {
+        "breed": "AS",
+        "sex": "male",
+        "clp": "6194",
+        "father": {
+          "clp": "5422",
+          "name": "Fino vis Tranquilla",
+          "father": {
+            "clp": "14383",
+            "name": "Lux od Benčiča",
+            "father": {
+              "clp": "11621",
+              "name": "Becker od Benčiča",
+              "father": {
+                "clp": "10244",
+                "name": "Den od Benčiča"
+              },
+              "mother": {
+                "clp": "11620",
+                "name": "Ira dei Laderchi"
+              }
+            },
+            "mother": {
+              "clp": "12060",
+              "name": "Luna od Benčiča",
+              "father": {
+                "clp": "519654",
+                "name": "Bill"
+              },
+              "mother": {
+                "clp": "11258",
+                "name": "Mia od Benčiča"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5221",
+            "name": "Bea vis Tranquilla",
+            "father": {
+              "clp": "13205",
+              "name": "Nero",
+              "father": {
+                "clp": "449708",
+                "name": "Argo"
+              },
+              "mother": {
+                "clp": "426151",
+                "name": "Chita"
+              }
+            },
+            "mother": {
+              "clp": "4961",
+              "name": "Livia od Benčiča",
+              "father": {
+                "clp": "11805",
+                "name": "Bilo od Pastorčiča"
+              },
+              "mother": {
+                "clp": "11623",
+                "name": "Baika od Benčiča"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "5725",
+          "name": "Cranberry Seva",
+          "father": {
+            "clp": "113933",
+            "name": "Tris dei Dianella",
+            "father": {
+              "clp": "51974",
+              "name": "Frenk dei Dianella",
+              "father": {
+                "clp": "541319",
+                "name": "Gion dei Dianella"
+              },
+              "mother": {
+                "clp": "463596",
+                "name": "Ila dei Dianella"
+              }
+            },
+            "mother": {
+              "clp": "47043",
+              "name": "Mia dei Dianella",
+              "father": {
+                "clp": "541319",
+                "name": "Gion dei Dianella"
+              },
+              "mother": {
+                "clp": "505963",
+                "name": "Ledy dei Dianella"
+              }
+            }
+          },
+          "mother": {
+            "clp": "5123",
+            "name": "Cheeky z Lodinských luhů",
+            "father": {
+              "clp": "4308",
+              "name": "Attila Hope",
+              "father": {
+                "clp": "241",
+                "name": "Archie Dunajské lesy"
+              },
+              "mother": {
+                "clp": "4107",
+                "name": "Ala od Benčiča"
+              }
+            },
+            "mother": {
+              "clp": "4858",
+              "name": "Elis z Lodinských luhů",
+              "father": {
+                "clp": "4529",
+                "name": "Artus Praha Ten"
+              },
+              "mother": {
+                "clp": "4635",
+                "name": "Dolly z Lodinských luhů"
+              }
+            }
+          }
+        }
       },
       "championships": "CH, SK",
       "shows": "res. CAC, CAC, VT, Krajský vítěz",
