@@ -1348,6 +1348,36 @@
         "email": "Soukupova.Ivanka@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "BANDYT NATYAVE GROVE",
+      "date_of_birth": "2019-08-12",
+      "clp": "11657",
+      "father": "WHIPSPAN GOLDE LEGACY",
+      "mother": "AGATA FROM WINEPOINT NATYAVE GROVE",
+      "body": {
+        "height": "67",
+        "color": "ORANŽOVOBÍLÁ",
+        "HD": "A"
+      },
+      "shows": "KV tř.mladých V3,V1 CAC",
+      "exams": "K-ZV-I.c  CACT ",
+      "owner": {
+        "first_name": "Marek ",
+        "last_name": "Hylebrant",
+        "address": {
+          "street": "Vřesová",
+          "number": "608",
+          "city": "Chýně",
+          "post_code": "25301"
+        },
+        "phone": "606837999",
+        "email": "marhyl@centrum.cz"
+      },
+      "img_ext": "jpg"
     }
   ]
 }

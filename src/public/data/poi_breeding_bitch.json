@@ -3628,6 +3628,56 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
+      "name": "Dorka od Zeleného stolu",
+      "date_of_birth": "2018-09-15",
+      "clp": "11532",
+      "father": "Car od Zeleného stolu",
+      "mother": "Cilka z Borovinky",
+      "body": {
+        "height": "59",
+        "color": "bíložlutá",
+        "HD": "A"
+      },
+      "shows": "VN1,V1,VT RES.CACIB",
+      "exams": "ZV-I.c,BZ-I.c,PZ-I.c,PZ-I.c,",
+      "owner": {
+        "first_name": "Žaneta ",
+        "last_name": "Živělová",
+        "address": {
+          "street": "VLČKOVA ",
+          "number": "9",
+          "city": "BRNO ",
+          "post_code": "62000"
+        },
+        "phone": "601590770"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "GAYA Z HELMU",
+      "date_of_birth": "2019-01-09",
+      "clp": "11559",
+      "father": "Alvin z Bukovinského vršku",
+      "mother": "Daisy Luční květ",
+      "body": {
+        "height": "64",
+        "color": "bíložlutá",
+        "HD": "A"
+      },
+      "shows": "VD3",
+      "exams": "PZ-I.c,",
+      "owner": {
+        "first_name": "Jakub",
+        "last_name": "Toman ",
+        "phone": "776054321"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
       "name": "CLARYSA ZE ŠTÍPEK",
       "date_of_birth": "2019-02-18",
       "clp": "11593",
@@ -3754,6 +3804,66 @@
         "web": "http://www.chszestipek.cz/"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "Baileys ze Zaječích polí",
+      "date_of_birth": "2019-04-18",
+      "clp": "11616",
+      "father": "AVON",
+      "mother": "Audrey ze Zaječích polí",
+      "body": {
+        "height": "59",
+        "color": "černá",
+        "HD": "A"
+      },
+      "shows": "V3",
+      "exams": "ZV-I.c,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": " Dobromilice",
+          "number": "258",
+          "city": " Dobromilice ",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz",
+        "web": "https://ze-zajecich-poli.webnode.cz/"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BERNADETTE ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2019-04-18",
+      "clp": "11612",
+      "father": "AVON",
+      "mother": "Audrey ze Zaječích polí",
+      "body": {
+        "height": "62",
+        "color": "žemlová",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "V1,CAC,NV,BOS,WDS V1,RES.CACIB",
+      "exams": "ZV-I.c, PZ-I.c,",
+      "owner": {
+        "first_name": "VÍT ",
+        "last_name": "KLIMEŠ",
+        "address": {
+          "street": "ŠKOLNÍ ",
+          "number": "19",
+          "city": "HUSTOPEČE",
+          "post_code": "69301"
+        }
+      }
     }
   ]
 }
