@@ -1214,7 +1214,7 @@
         "color": "bílohnědá",
         "HD": "A"
       },
-      "shows": "VD",
+      "shows": "V1, CAC, RES.CAC, V1, CAC vítěz speciální výstavy",
       "exams": "ZV I.c CACT",
       "owner": {
         "first_name": "Marek",
@@ -1376,6 +1376,37 @@
         },
         "phone": "606837999",
         "email": "marhyl@centrum.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
+      "name": "BOYD NATYAVE GROVE",
+      "date_of_birth": "2019-08-12",
+      "clp": "11655",
+      "father": "WHIPSPAN GOLDE LEGACY",
+      "mother": "AGATA FROM WINEPOINT NATYAVE GROVE",
+      "body": {
+        "height": "67",
+        "color": "ORANŽOVOBÍLÁ",
+        "HD": "A"
+      },
+      "shows": "V1,CAC,CACIB.BOB",
+      "exams": "ZV-I.c,",
+      "owner": {
+        "first_name": "Nikol",
+        "last_name": "Hajmonová",
+        "address": {
+          "street": "Zahradní",
+          "number": "2629/20",
+          "city": "Břeclav",
+          "post_code": "69003"
+        },
+        "phone": " 775 638 947",
+        "email": "nikol.hajmonova@post.cz",
+        "web": "https://www.agelmoravia.cz/"
       },
       "img_ext": "jpg"
     }

@@ -3864,6 +3864,37 @@
           "post_code": "69301"
         }
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BRÍS NATYAVE GROVE",
+      "date_of_birth": "2019-08-12",
+      "clp": "11661",
+      "father": "WHIPSPAN GOLDE LEGACY",
+      "mother": "AGATA FROM WINEPOINT NATYAVE GROVE",
+      "body": {
+        "height": "64",
+        "color": "bíložlutá",
+        "HD": "A"
+      },
+      "shows": "V1,CAC",
+      "exams": "ZV-I.C,",
+      "owner": {
+        "first_name": "Nikol",
+        "last_name": "Hajmonová",
+        "address": {
+          "street": "Zahradní",
+          "number": "2629/20",
+          "city": "Břeclav",
+          "post_code": "69003"
+        },
+        "phone": "775 638 947",
+        "email": "nikol.hajmonova@post.cz",
+        "web": "https://www.agelmoravia.cz/"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
