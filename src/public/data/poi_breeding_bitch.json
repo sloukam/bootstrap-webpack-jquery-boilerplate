@@ -3649,8 +3649,10 @@
           "city": "BRNO ",
           "post_code": "62000"
         },
-        "phone": "601590770"
-      }
+        "phone": "601590770",
+        "email": "zanetaziv@seznam.cz"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
@@ -3862,6 +3864,34 @@
           "number": "19",
           "city": "HUSTOPEČE",
           "post_code": "69301"
+        }
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "BRILLIANT ZE ZAJEČÍCH POLÍ ",
+      "date_of_birth": "2019-04-18",
+      "clp": "11613",
+      "father": "AVON",
+      "mother": "Audrey ze Zaječích polí",
+      "body": {
+        "height": "62",
+        "color": "černá",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "V1.CAC,CACIB",
+      "exams": "ZV-I.c, KZV-I.c,MVV-ZV CACT-I.c, MFT Derby SOLO -T,B. 12.",
+      "owner": {
+        "first_name": "Kristýna ",
+        "last_name": "Šejnohová",
+        "address": {
+          "street": "Rosice",
+          "number": "356",
+          "city": "Rosice u Chrasti",
+          "post_code": "53834"
         }
       }
     },
