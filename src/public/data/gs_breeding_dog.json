@@ -542,7 +542,7 @@
       "father": "Misty Lake ́s Never ay Never",
       "mother": "Maria Matilda Scotch DAMA Krkonoše",
       "sex": "male",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Misty Lake´s Never Say Never",
           "father": {
@@ -804,7 +804,7 @@
       "father": "Fairray Black To The Future",
       "mother": "Rosalie Von Der Wilden Horde",
       "sex": "male",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Fairray Black To The Future",
           "father": {
@@ -1064,7 +1064,7 @@
                 "name": "Trisetr Ebony Nirvana"
               },
               "mother": {
-                "name": "Kingpoint  Celebrity"
+                "name": "Kingpoint Celebrity"
               }
             }
           }
@@ -1155,7 +1155,7 @@
       "father": "Zir z Holubické stráně",
       "mother": "Ashley Princess Pearl Moravia",
       "sex": "male",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "clp": "6286",
           "name": "Zir z Holubické stráně",
@@ -1297,7 +1297,7 @@
       "father": "Sunsetter ́s Sing O The Times",
       "mother": "Celtic Carpediem Samarkan Kochanej Emilki",
       "sex": "male",
-      "pedigree":   {
+      "pedigree": {
         "father": {
           "name": "Sunsetter's Sign o The Times",
           "father": {
@@ -1608,7 +1608,7 @@
       "breed": "GS",
       "sex": "male",
       "visible": true,
-      "name": "CROCCO  SCOTCH DO POLE",
+      "name": "CROCCO SCOTCH DO POLE",
       "date_of_birth": "2020-03-30",
       "clp": "6983",
       "father": "Fieldtalk´s Juri´S´Joker",
@@ -1717,8 +1717,8 @@
           }
         }
       },
-      "championships": "JCH ČR, CH ČR",
-      "shows": "výborný, CAJC, CAC, res.CACIB, BOJ, BOS",
+      "championships": "JCH ČR, CH ČR, CH HU",
+      "shows": "CAJC, CAC, res.CACIB, CACIB, BOJ, BOS, BOB",
       "exams": "ZV I.c.",
       "owner": {
         "first_name": "Romana ",
