@@ -3893,8 +3893,10 @@
           "number": "356",
           "city": "Rosice u Chrasti",
           "post_code": "53834"
-        }
-      }
+        },
+        "email": "KristynaJiroutova@seznam.cz"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "POI",
