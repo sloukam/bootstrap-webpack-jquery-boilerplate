@@ -75,7 +75,7 @@
           "id": "II/20",
           "publicationDate": "2020-02-03",
           "breeder": "ze Zaječích polí",
-          "bitch": "Affi ze Zaječích polí ",
+          "bitch": "Affi ze Zaječích polí",
           "dog": "Avon",
           "releaseDate": "nezabřezla",
           "puppies": ""
@@ -114,7 +114,7 @@
           "bitch": "Bigi od Hlubokého úvozu",
           "dog": "Best z Bítýšských bažin",
           "releaseDate": "2021-03-06",
-          "puppies": "2/4 "
+          "puppies": "2/3"
         },
         {
           "id": "VII/20",
@@ -128,16 +128,16 @@
         {
           "id": "VIII/20",
           "publicationDate": "2020-06-01",
-          "breeder": "Sulíkovská strán",
+          "breeder": "Sulíkovská stráň",
           "bitch": "Diana z Helmu ",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
           "id": "IX/20",
           "publicationDate": "2020-06-01",
-          "breeder": "Sulíkovská strán",
+          "breeder": "Sulíkovská stráň",
           "bitch": "Fany z Helmu",
           "dog": "",
           "releaseDate": "nevyužito",
@@ -148,7 +148,7 @@
           "publicationDate": "2020-06-10",
           "breeder": "ze Zaječích polí",
           "bitch": "Audrey z Mešínské hájovny",
-          "dog": "Sáregresi Mystic Chase",
+          "dog": "Sáregresi Infinite Love In The Mist",
           "releaseDate": "2020-08-19",
           "puppies": "0/2"
         },
@@ -176,7 +176,7 @@
           "breeder": "ze Zaječích polí",
           "bitch": "Wela z Mešínské hájovny",
           "dog": "Avon",
-          "releaseDate": "nezabřezla",
+          "releaseDate": "narozeno - úhyn",
           "puppies": ""
         },
         {
@@ -185,7 +185,7 @@
           "breeder": "Zdenek Valenta",
           "bitch": "Jorika Blahut",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
@@ -194,7 +194,7 @@
           "breeder": "z Vinných tratí",
           "bitch": "Arga Syrovické lány",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
@@ -203,7 +203,7 @@
           "breeder": "Hastrmánek",
           "bitch": "Aylen z Raklesu",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
@@ -219,19 +219,19 @@
           "id": "XVIII/20",
           "publicationDate": "2020-11-13",
           "breeder": "z Měnínského lesa",
-          "bitch": "Debý z Borovinky",
+          "bitch": "Deby z Borovinky",
           "dog": "Egon z Žehuňské kovárny",
           "releaseDate": "2021-01-20",
-          "puppies": "2/1"
+          "puppies": "3/2"
         },
         {
           "id": "XIX/20",
           "publicationDate": "2020-11-15",
-          "breeder": "Sulíkovská strán",
+          "breeder": "Sulíkovská stráň",
           "bitch": "Fany z Helmu",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Elyen z Mešinské Hájovny",
+          "releaseDate": "2021/05/27",
+          "puppies": "5/4"
         },
         {
           "id": "XX/20",
@@ -248,7 +248,7 @@
           "breeder": "ze Zaječích polí ",
           "bitch": "Affi ze Zaječích polí ",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         }
       ]
