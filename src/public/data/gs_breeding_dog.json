@@ -1608,6 +1608,131 @@
       "breed": "GS",
       "sex": "male",
       "visible": true,
+      "name": "FORESTER´S IGNOTUS PEVERELL OF DARKMOOR",
+      "date_of_birth": "2019-06-05",
+      "clp": "6959",
+      "father": "Forester´s Devils Answer of Darkmoor",
+      "mother": "Voice of Forester´s Black Ivy",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "6959",
+        "father": {
+          "name": "Forester´s Devil Answer of Darkmoor",
+          "father": {
+            "name": "Laurelhach Encrypt",
+            "father": {
+              "name": "Triseter Celtic Link with Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Legacy",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena with Laurelhach"
+              }
+            }
+          },
+          "mother": {
+            "name": "Courtier´s Catch my Heart",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "father": {
+                "name": "Warchant Twilight Bolero"
+              },
+              "mother": {
+                "name": "Forester´s Xinia of Darkmoor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Voice os Forester´s Black Ivy",
+          "father": {
+            "name": "Lochfain An Aus Approach To Glenmaurangi",
+            "father": {
+              "name": "Drumdaroch the Xpat to Liric",
+              "father": {
+                "name": "Lochtay Darkkn Stormy"
+              },
+              "mother": {
+                "name": "Drumdaroch BMWS My Girl"
+              }
+            },
+            "mother": {
+              "name": "Lochfain´s Eggstravagence",
+              "father": {
+                "name": "Lochfain Not To Be Denied For Bareve"
+              },
+              "mother": {
+                "name": "Lochfain Never A Dull Moment"
+              }
+            }
+          },
+          "mother": {
+            "name": "Chiquita Black Ivy",
+            "father": {
+              "name": "Brodruggan Sir Lancelot",
+              "father": {
+                "name": "Triseter Ebonie Nrvana"
+              },
+              "mother": {
+                "name": "Tahtan Blac Magic"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Shadow of the Moon",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint be Pop a Lula"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "championships": "Slovenský šampion štěňat, JCH SK, Chorvatský JCH, CH SK, CH ČR, CH Makedonie, Grand CH Makedonie, CH Bosny a Hercegoviny, Grand CH Bosny a Hercegoviny, CH HU,  C.I.E., C.I.B.",
+      "shows": "Výborný, CAC, CACIB, BOB, ",
+      "exams": "KLubové ZV I.c. CACT",
+      "owner": {
+        "first_name": "Iveta",
+        "last_name": "Šedová",
+        "address": {
+          "street": "Žižín",
+          "city": "Pardubice",
+          "post_code": "53002"
+        },
+        "phone": "602471330",
+        "email": "Mandygold@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
       "name": "CROCCO SCOTCH DO POLE",
       "date_of_birth": "2020-03-30",
       "clp": "6983",
