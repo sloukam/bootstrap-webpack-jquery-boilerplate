@@ -3956,6 +3956,132 @@
         },
         "email": "krchnakova.ma@seznam.cz"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "ADINA MEDA",
+      "date_of_birth": "2019-08-03",
+      "clp": "16757",
+      "father": "Nucky of McBirdy",
+      "mother": "Eternal Flame Goldset",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16757",
+        "father": {
+          "name": "Nucky of McBirdy",
+          "father": {
+            "name": "Thendara Satisfaction",
+            "father": {
+              "name": "Sumaric Shadow of Mr.Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Vanilla Ice",
+              "father": {
+                "name": "Thendara Kramer"
+              },
+              "mother": {
+                "name": "Cordarragh Ladybird of Thendara"
+              }
+            }
+          },
+          "mother": {
+            "name": "Idgie of McBirdy",
+            "father": {
+              "name": "Jonola Dr. Doolittle",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jonola Bellstar"
+              }
+            },
+            "mother": {
+              "name": "Frisbee of McBirdy",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Cheyenn of McBirdy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16325",
+          "name": "Eternal Flame Goldset",
+          "father": {
+            "name": "Garden Star´s Irish Tequila",
+            "father": {
+              "name": "Garden Star´s Royal Legend",
+              "father": {
+                "name": "Sumaric Shadow of Mr.Jingles "
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Ferrero Rocher",
+              "father": {
+                "name": "Garden Star´s Billion Dollar"
+              },
+              "mother": {
+                "name": "Garden Star´s Amber Light"
+              }
+            }
+          },
+          "mother": {
+            "name": "Autumn Legend Goldset",
+            "father": {
+              "name": "Applegrove Bechamel",
+              "father": {
+                "name": "Pendoric Foggy Perfection"
+              },
+              "mother": {
+                "name": "Applegrove Look at Me I´m Natalie"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Irish Utopia ",
+              "father": {
+                "name": "Garden Star´s Gentleman"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "58",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "CAJC, CAC, res. CAC",
+      "exams": "KZV I.cena",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "Vidoulská ",
+          "number": "3",
+          "city": "Praha",
+          "post_code": "15800"
+        },
+        "phone": "721 161 987",
+        "email": "verustechovska@gmail.com"
+      }
     }
   ]
 }
