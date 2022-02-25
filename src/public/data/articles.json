@@ -16,6 +16,9 @@
           "filePath": "./public/pdf/2022/220327-pozvanka_vcs_2022.pdf",
           "type": "pdf"
         }
+      ],
+      "images": [
+        "./public/images/logo.png"
       ]
     },
     {
