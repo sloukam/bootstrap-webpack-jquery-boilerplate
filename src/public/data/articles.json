@@ -3,7 +3,48 @@
     {
       "visible": true,
       "articleId": 20220003,
-      "dateOfPublish": "2021/02/25",
+      "dateOfPublish": "2022/03/02",
+      "title": "Pozvánka na klubovou výstavu v Náměšti na Hané",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/pozvanka.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/pozvanka.jpg\" height=\"300\" width=\"200\"></a>",
+        "Bližší informace naleznete zde - <a href=\"https://www.vystavanamest.cz/prihlasky/?fbclid=IwAR2tx1de8GFnkexrOLClhvYG4O-CvFOvM_c7W7xF1LrTanwsBTJdRIBSjtc\" target=\"_blank\">ZDE</a>."
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2022/220618-names-na_hane/pozvanka.jpg",
+          "type": "jpg"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220003,
+      "dateOfPublish": "2022/03/02",
+      "title": "Pozvánka na klubovou výstavu ve Slavkově",
+      "paragraphs": [
+        "Spuštění přihlášek na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">Dogoffice</a> očekávejte v půlce března.",
+        "",
+        "<a href=\"./public/pdf/2022/220507-slavkov/pozvanka.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/pozvanka.jpg\" height=\"300\" width=\"200\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2022/220507-slavkov/pozvanka.jpg",
+          "type": "jpg"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220003,
+      "dateOfPublish": "2022/02/25",
       "title": "VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO",
       "paragraphs": [
         "VÝROČNÍ ČLENSKÁ SCHŮZE MSKAO se uskuteční <b>v neděli 27. března 2022 od 10:30 hodin v <a href=\"https://mapy.cz/zakladni?x=16.8599820&y=48.9999373&z=15&source=firm&id=2549822&ds=1\" target=\"_blank\">motelu Podkova v Kloboukách u Brna</a></b>.",
@@ -24,7 +65,7 @@
     {
       "visible": true,
       "articleId": 20220002,
-      "dateOfPublish": "2021/02/21",
+      "dateOfPublish": "2022/02/21",
       "title": "Očekávaný vrh štěňat irských setrů",
       "paragraphs": [
         "Chovatelská stanice irských setrů ROYAL FOREST WIND oznamuje, že přijímá objednávky na zadání štěňat očekávaného vrhu „A“ ze spojení:",
@@ -43,7 +84,7 @@
     {
       "visible": true,
       "articleId": 20220001,
-      "dateOfPublish": "2021/01/07",
+      "dateOfPublish": "2022/01/07",
       "title": "Inzerce v ročence MSKAO",
       "paragraphs": [
         "Upozorňujeme na možnost uveřejnění inzerce v připravovaném dvojčísle Ročenky MSKAO. Inzeráty prosím posílejte ve formátu tiskového PDF na adresu <a href=\"mailto:rocenka@mskao.cz?subject=Inzerce%20v%20rocence%202021\">rocenka@mskao.cz</a> do 16.1.2021.",
