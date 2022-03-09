@@ -2,14 +2,19 @@
   "articles": [
     {
       "visible": true,
-      "articleId": 20220004,
-      "dateOfPublish": "2022/03/04",
-      "title": "Změna místa konání výstavy v Ostravě ve dnech 9.-10.4.2022",
+      "articleId": 20220005,
+      "dateOfPublish": "2022/03/09",
+      "title": "Přihlášení na klubovou výstavu ve Slavkově je otevřeno",
       "paragraphs": [
-        "Vzhledem k níže citovanému rozhodnuti vedeni města Ostravy bude <b>Národní výstava psů přesunuta ve stejném termínu 9.-10.4.2022 do Brna</b>.",
-        "<blockquote cite=\"\" style=\"border: 1px solid black; padding: 20px\"><p>Vážený pane předsedo,<br><br>zasílám informace o dalším využití výstaviště Černá louka.<br><br>Na základě dnešního jednání vedení města Ostravy, krajského úřadu MSK, zainteresovaných složek a současné politické situace, bylo rozhodnuto o následujícím postupu.<br><br>Činnost očkovacího centra v pav. A hala A1 bude ukončena 4. 3. 2022.<br>Uvedený prostor bude dispozičně upraven a v následujícím období od 7.3.2022, bez určení konkrétního konečného termínu, bude využit jako Registrační centrum pro běžence.<br>Předpokladem je, že Registrační centrum bude ještě rozšířeno o prostor haly NA1.<br><br>Naplánované akce je možné realizovat s dočasnou změnou logistiky pohybu návštěvníků.<br><br>Tuto informaci zasílám v souvislosti s Vámi připravovanou Národní výstavou psů, abyste zvážili její konání.<br><br><br>S pozdravem<br><br><br>Ing. Arnošt Pchálek<br>technický a provozní ředitel/prokurista<br>Černá louka s. r. o.<br>GSM: +420 602 795 245<br>E-mail: sekretariat@cerna-louka.cz<br>www.cerna-louka.cz<br>www.ostravainfo.cz</p></blockquote>"
+        "V systému <a href=\"https://www.dogoffice.cz\" target=\"_blank\">DogOffice</a> se nyní můžete přihlásit na naši klubovou výstavu ve Slavkově.",
+        "<a href=\"./public/pdf/2022/220507-slavkov/propozice.pdf\" target=\"_blank\">ZDE</a> najdete propozice."
       ],
-      "images": [
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2022/220507-slavkov/propozice.pdf",
+          "type": "pdf"
+        }
       ]
     },
     {
