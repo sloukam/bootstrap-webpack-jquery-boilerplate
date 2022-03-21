@@ -778,6 +778,190 @@
         "email": "sedlakova.jani@tiscali.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "female",
+      "visible": true,
+      "name": "Adria Marilo Chestnut",
+      "date_of_birth": "2020-05-01",
+      "clp": "373",
+      "father": "Aron z Drválovského revíru",
+      "mother": "Ellen Valiant Hunter",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "373",
+        "father": {
+          "country": "ČLP",
+          "clp": "353",
+          "name": "Aron z Drválovského revíru",
+          "father": {
+            "country": "ČLP",
+            "clp": "273",
+            "name": "Rolf z Lukovských Lánů",
+            "father": {
+              "country": "ČLP",
+              "clp": "258",
+              "name": "Lohmann s Bernstein",
+              "father": {
+                "country": "VDH",
+                "clp": "07",
+                "name": "History s of Highland Baloú"
+              },
+              "mother": {
+                "country": "VDH",
+                "clp": "02",
+                "name": "Deargban O Faolain"
+              }
+            },
+            "mother": {
+              "country": "ČLP",
+              "clp": "257",
+              "name": "Dalriach Proud Mary",
+              "father": {
+                "country": "KCSB",
+                "clp": "3482",
+                "name": "Dalriach Auchindoun"
+              },
+              "mother": {
+                "country": "KC",
+                "clp": "0900102",
+                "name": "Pepperstown Polly"
+              }
+            }
+          },
+          "mother": {
+            "country": "ČLP",
+            "clp": "318",
+            "name": "Mc Gillicuddys Lucy",
+            "father": {
+              "country": "LOF",
+              "clp": "79",
+              "name": "Fanfan Du Val Des Mordorees",
+              "father": {
+                "country": "LOF",
+                "clp": "7",
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "country": "LOF",
+                "clp": "52",
+                "name": "Swane Du Val Des Mordorees"
+              }
+            },
+            "mother": {
+              "country": "PKR",
+              "clp": "3837",
+              "name": "Ai Shadow dog",
+              "father": {
+                "country": "KC",
+                "clp": "46329",
+                "name": "Dalriach Rolling stone"
+              },
+              "mother": {
+                "country": "PKR",
+                "clp": "12827",
+                "name": "Secret Wish Shadow Dog"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "ČLP",
+          "clp": "308",
+          "name": "Ellen Valiant Hunter",
+          "father": {
+            "country": "ČLP",
+            "clp": "137",
+            "name": "Leo Bojandolí",
+            "father": {
+              "country": "ČLP",
+              "clp": "53",
+              "name": "United Spots Justbe",
+              "father": {
+                "country": "ST",
+                "clp": "550294",
+                "name": "Ruemadra Snow King"
+              },
+              "mother": {
+                "country": "ST",
+                "clp": "507270",
+                "name": "Autumnwood Silver Rose"
+              }
+            },
+            "mother": {
+              "country": "ČLP",
+              "clp": "57",
+              "name": "Iris Bohemia Thalset",
+              "father": {
+                "country": "OHZB",
+                "clp": "34",
+                "name": "Exclusive s Vincenz"
+              },
+              "mother": {
+                "country": "ČLP",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          },
+          "mother": {
+            "country": "ČLP",
+            "clp": "238",
+            "name": "Reddeer Everlasting Love",
+            "father": {
+              "country": "KC",
+              "clp": "04419408",
+              "name": "Chaersiveen Celtic Music",
+              "father": {
+                "country": "KC",
+                "clp": "0902232",
+                "name": "Craigrua Dylan"
+              },
+              "mother": {
+                "country": "KC",
+                "clp": "02491410",
+                "name": "Dalriach Gone With the Wind"
+              }
+            },
+            "mother": {
+              "country": "HR",
+              "clp": "10006",
+              "name": "Saoisse Red Nokomis ",
+              "father": {
+                "country": "AC",
+                "clp": "04216602",
+                "name": "Cormallen Moonlight Silver"
+              },
+              "mother": {
+                "country": "HR",
+                "clp": "10000",
+                "name": "Viva la Diva of Barnsley"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "shows": "CAJC,BOJ",
+      "exams": "ZV I.c",
+      "owner": {
+        "title": "CSC.MVDr",
+        "first_name": "Čestmír",
+        "last_name": "Šrámek CSc",
+        "address": {
+          "street": "Údolní",
+          "number": "470/1",
+          "city": "Klobouky u Brna",
+          "post_code": "69172"
+        },
+        "email": "sramek.cestmir@seznam.cz"
+      }
     }
   ]
 }

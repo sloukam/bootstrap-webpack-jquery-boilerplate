@@ -810,6 +810,190 @@
         "phone": "+420 737 815 574"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "visible": true,
+      "name": "Lanamore HUGE HOPE HERRIOT",
+      "date_of_birth": "2020-08-21",
+      "clp": "396",
+      "father": "Eshare Explorer Artegerd",
+      "mother": "Redmore Debbie",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "male",
+        "clp": "396",
+        "father": {
+          "country": "OHZB",
+          "clp": "306",
+          "name": "ESHARE EXPLORER Artegerd",
+          "father": {
+            "country": "OHZB",
+            "clp": "207",
+            "name": "CUDDY of Bruichladdich",
+            "father": {
+              "country": "OHZB",
+              "clp": "170",
+              "name": "United Spots RUBY TOPAZ",
+              "father": {
+                "country": "AJ",
+                "clp": "02387605",
+                "name": "GALLYBOB Gold Standard"
+              },
+              "mother": {
+                "country": "ROI",
+                "clp": "92750",
+                "name": "United Spots OHEALY"
+              }
+            },
+            "mother": {
+              "country": "OHZB",
+              "clp": "107",
+              "name": "ABIGAIL of Bruichladdich",
+              "father": {
+                "country": "VDH",
+                "clp": "03502503",
+                "name": "Rushfield SAGE"
+              },
+              "mother": {
+                "country": "OHZB",
+                "clp": "69",
+                "name": "HEATHER Dalriach"
+              }
+            }
+          },
+          "mother": {
+            "country": "ČLP",
+            "clp": "286",
+            "name": "Caispem Tuscanora",
+            "father": {
+              "country": "AL",
+              "clp": "03154603",
+              "name": "Casafelice Montadale",
+              "father": {
+                "clp": "3052",
+                "name": "Corranroo CONNEXION"
+              },
+              "mother": {
+                "country": "CQ",
+                "clp": "3052",
+                "name": "Casafelice CHAROLLAIS"
+              }
+            },
+            "mother": {
+              "country": "KCSB",
+              "clp": "3427",
+              "name": "Caispem MAID IN IRELAND",
+              "father": {
+                "country": "KCSB",
+                "clp": "0187",
+                "name": "Tullamore TED"
+              },
+              "mother": {
+                "country": "KCSB",
+                "clp": "3989",
+                "name": "Caispem IMPRUDENCE"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "sPKP",
+          "clp": "32",
+          "name": "Redmore Debbie ",
+          "father": {
+            "country": "OHZB",
+            "clp": "166",
+            "name": "KEARNEY-KEA Red Nokomis",
+            "father": {
+              "country": "SLR",
+              "clp": "000002",
+              "name": "United Spots NIGHTFLAME",
+              "father": {
+                "country": "LOI",
+                "clp": "99",
+                "name": "United Spots JUST DO IT"
+              },
+              "mother": {
+                "country": "LOI",
+                "clp": "80171",
+                "name": "Palmar ALISON"
+              }
+            },
+            "mother": {
+              "country": "SLR",
+              "clp": "000009",
+              "name": "Red Nokomis MIRTA",
+              "father": {
+                "country": "HR",
+                "clp": "10008",
+                "name": "Dalriach AUCHINDOUN"
+              },
+              "mother": {
+                "country": "HR",
+                "clp": "10007",
+                "name": "Sinead Red NOKOMIS"
+              }
+            }
+          },
+          "mother": {
+            "country": "OHZB",
+            "clp": "118",
+            "name": "Redmore AMY SUNNY MOMENTS",
+            "father": {
+              "country": "KCRC",
+              "clp": "042166602",
+              "name": "Cormallen MOONLIGHT SILVER",
+              "father": {
+                "country": "KCSB",
+                "clp": "3632",
+                "name": "VANDERS VERACITY"
+              },
+              "mother": {
+                "country": "KCRC",
+                "clp": "3663703",
+                "name": "Cormallen SUMMER LIGHT"
+              }
+            },
+            "mother": {
+              "country": "OHZB",
+              "clp": "53",
+              "name": "GIGI CONQUERER of Hidden Irland",
+              "father": {
+                "country": "VDH",
+                "clp": "17",
+                "name": "Cormallen SEEN THE LIGHT"
+              },
+              "mother": {
+                "country": "VDH",
+                "clp": "17",
+                "name": "CHERRY vom Katharienberg"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "69",
+        "color": "červenobílý",
+        "HD": "A"
+      },
+      "shows": "V1,CAJC",
+      "exams": "ZV I c.",
+      "owner": {
+        "title": "MVDr ing",
+        "first_name": "Lenka",
+        "last_name": "Sedláková",
+        "address": {
+          "street": "Drválovice",
+          "number": "č. 19",
+          "city": "Vanovice",
+          "post_code": "67936"
+        },
+        "phone": "",
+        "email": "lenkasedlakova1990@gmail.com"
+      }
     }
   ]
 }
