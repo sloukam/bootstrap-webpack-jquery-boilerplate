@@ -4933,7 +4933,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I.cena",
+      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, BZ I.cena",
       "owner": {
         "first_name": "Václav",
         "last_name": "Říha",
@@ -4943,7 +4943,8 @@
           "post_code": "67181"
         },
         "phone": "+420 724 508 679"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",

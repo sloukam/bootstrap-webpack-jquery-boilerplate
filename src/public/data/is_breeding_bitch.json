@@ -3015,7 +3015,8 @@
           "city": "Skalička",
           "post_code": "75352"
         },
-        "phone": "+420 725 257 586"
+        "phone": "+420 725 257 586",
+        "web": "http://royalforestwind.cz/"
       },
       "img_ext": "jpg"
     },
@@ -3405,8 +3406,8 @@
         "rcd4": "clear",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
-      "championships": "JCH ČR",
-      "shows": "CAJC, CAC, res.CACIB, BOS",
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, CAC, res.CACIB, CACIB, BOS, VSV",
       "exams": "ZV I.cena",
       "owner": {
         "first_name": "Eva",
@@ -3955,7 +3956,8 @@
           "post_code": "73994"
         },
         "email": "krchnakova.ma@seznam.cz"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
