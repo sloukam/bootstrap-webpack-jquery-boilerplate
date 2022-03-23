@@ -4927,6 +4927,106 @@
       "clp": "16660",
       "father": "Riverwood Pleased as Punch",
       "mother": "Zephyre Maya Redweed",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16660",
+        "father": {
+          "name": "Riverwood Pleased as Punch",
+          "father": {
+            "name": "Wynjill Well I am",
+            "father": {
+              "name": "Sametsuz Scriptwriter",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Sametsuz Secret Affair"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Whata Wynjill",
+              "father": {
+                "name": "Danaway Discreet"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            }
+          },
+          "mother": {
+            "name": "Riverwood Kumbayah",
+            "father": {
+              "name": "Houston of the Trav´Lin Star",
+              "father": {
+                "name": "Aston Limited Edition"
+              },
+              "mother": {
+                "name": "Charmain of the Trav´Lin Star"
+              }
+            },
+            "mother": {
+              "name": "Girly Girl of McBirdy",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Chickadee of McBirdy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16174",
+          "name": "Zephyre Maya Redweed",
+          "father": {
+            "clp": "13965",
+            "name": "Stamboek Redweed",
+            "father": {
+              "name": "Orstone Country Gentleman of Westerhuy",
+              "father": {
+                "name": "Konakakela Zagar by Romarne"
+              },
+              "mother": {
+                "name": "Orstone Morgan Le Fay"
+              }
+            },
+            "mother": {
+              "clp": "12893",
+              "name": "Oriflame Mahagon Moravia",
+              "father": {
+                "name": "Erinade Extinguished"
+              },
+              "mother": {
+                "clp": "10785",
+                "name": "Andromeda Mahagon Moravia"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15273",
+            "name": "Isabel Montefigueiras",
+            "father": {
+              "name": "Lochfrae Ralph Lauren",
+              "father": {
+                "name": "Jonola Adonis at Redchester"
+              },
+              "mother": {
+                "name": "Lochfrae Miss Saigon"
+              }
+            },
+            "mother": {
+              "name": "Jackie v.d. Wester-Huy",
+              "father": {
+                "name": "Sametsuz Mak´N Good"
+              },
+              "mother": {
+                "name": "Logan v.d. Westerhuy"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "64",
         "color": "mahagon",
