@@ -2,6 +2,33 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220012,
+      "dateOfPublish": "2022/04/08",
+      "title": "Klubové zkoušky vloh ohařů",
+      "paragraphs": [
+        "Věříme, že se se spoustou z Vás potkáme na klubových zkouškách vloh ohařů, které se budou konat 1ř.5.2022 v Těšanech.",
+        "<a href=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/01.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/02.jpg\" height=\"297\" width=\"210\"></a>&nbsp;<a href=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/03.jpg\" height=\"297\" width=\"210\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "prihláška",
+          "filePath": "./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "prihláška",
+          "filePath": "./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/prihlaska.docx",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220011,
       "dateOfPublish": "2022/04/08",
       "title": "Klubové podzimní zkoušky ohařů",
