@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220011,
+      "dateOfPublish": "2022/04/08",
+      "title": "Klubové podzimní zkoušky ohařů",
+      "paragraphs": [
+        "Velice rádi Vás všechny zveme na klubové podzimní zkoušky ohařů, které se budou konat v Těšanech.",
+      ],
+      "attachments": [
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220010,
       "dateOfPublish": "2022/03/22",
       "title": "Gratulace a poděkování za prezentaci klubových plemen",
