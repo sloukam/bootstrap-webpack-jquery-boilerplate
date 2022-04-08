@@ -1,6 +1,47 @@
 {
   "years": [
     {
+      "year": "2022",
+      "items": [
+        {
+          "id": "I/22",
+          "publicationDate": "2022-01-02",
+          "breeder": "ROYAL FOREST WIND",
+          "bitch": "Ellie Elimar Doubrava",
+          "dog": "Show Must Go On z Arislandu (PL)",
+          "releaseDate": "2022-03-11",
+          "puppies": "2/7"
+        },
+        {
+          "id": "II/22",
+          "publicationDate": "2022-01-10",
+          "breeder": "FROM THE OLD DIRT ROAD",
+          "bitch": "Delly Daisy Rain",
+          "dog": "Aaron Arno Redweed",
+          "releaseDate": "2022-04-02",
+          "puppies": ""
+        },
+        {
+          "id": "III/22",
+          "publicationDate": "2022-03-07",
+          "breeder": "REGAL BEAUTY",
+          "bitch": "Fiona Eimear Mahagony Paw",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/22",
+          "publicationDate": "2022-04-08",
+          "breeder": "Z ŘÍMOVSKÉ STRÁNĚ\n",
+          "bitch": "Binjara Mahagon Kenya",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2021",
       "items": [
         {
@@ -89,9 +130,9 @@
           "publicationDate": "2021-12-17",
           "breeder": "MIRELIONNE",
           "bitch": "Amzing Red Girl Mirelionne",
-          "dog": "",
-          "releaseDate": null,
-          "puppies": ""
+          "dog": "Aaron Arno Redweed",
+          "releaseDate": "2022-03-12",
+          "puppies": "8/5"
         }
       ]
     },
