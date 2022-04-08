@@ -2573,7 +2573,7 @@
       "body": {
         "HD": "B"
       },
-      "championships": "JCH ČR, CH ČR",
+      "championships": "GRAND CH ČR, CH ČR, JCH ČR",
       "shows": "CAJC, CAC, CACIB, BOB",
       "exams": "ZV I.cena",
       "owner": {
@@ -4070,6 +4070,148 @@
         "phone": "+420 603 195 315"
       },
       "other": "import Lotyšsko"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "BUSHMILLS LORD MAHAGONY STAR",
+      "date_of_birth": "2018-01-02",
+      "clp": "16496",
+      "father": "Dorian Gray Mahagony Paw",
+      "mother": "Bayleys The Original Mahagony Paw",
+      "body": {
+        "height": "64",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16496",
+        "father": {
+          "clp": "15940",
+          "name": "Dorian Gray Mahagony Paw",
+          "father": {
+            "clp": "15533",
+            "name": "De Facto Sagari Redweed",
+            "father": {
+              "clp": "14443",
+              "name": "Corranroo Redweed",
+              "father": {
+                "clp": "15064",
+                "name": "Satlas Man Overboard"
+              },
+              "mother": {
+                "clp": "13749",
+                "name": "Ballantines of Redweed"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15430",
+          "name": "Baileys The Original Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Original Edition",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Ferrero Rocher",
+              "father": {
+                "name": "Garden Star´s Billion Dolar"
+              },
+              "mother": {
+                "name": "Garden Star´s Amber Light"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14401",
+            "name": "Country Melody Jenny´s Irsal",
+            "father": {
+              "clp": "14067",
+              "name": "Dorian Grey Jenny´s Irsal",
+              "father": {
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13335",
+                "name": "Tiffany Jenny´s Irsal"
+              }
+            },
+            "mother": {
+              "clp": "12831",
+              "name": "Ruby Jenny´s Irsal",
+              "father": {
+                "clp": "11758",
+                "name": "Glen Mahagon Moravia"
+              },
+              "mother": {
+                "clp": "11658",
+                "name": "Princess Carolina Irsal"
+              }
+            }
+          }
+        }
+      },
+      "championships": "CH ČR",
+      "shows": "CAC, r.CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Šmídová",
+        "address": {
+          "street": "Václavské náměstí ",
+          "number": "39/821",
+          "city": "Praha 1",
+          "post_code": "11000"
+        },
+        "email": "s.i.t@atlas.cz"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
