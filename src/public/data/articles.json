@@ -2,6 +2,50 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220014,
+      "dateOfPublish": "2022/04/12",
+      "title": "Výroční členská schůze",
+      "paragraphs": [
+        "Zápis z výroční členská schůze konané dne 27.3.2022 bez příloh naleznete <a href=\"./public/pdf/2022/220327-vyrocni_clenska_schuze/zapis_bez_prihloh.pdf\" target=\"_blank\">zde</a>.",
+        "Zápis s přílohami si můžete stáhnout <a href=\"./public/pdf/2022/220327-vyrocni_clenska_schuze/zapis_s_prilohami.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "attachments": [
+        {
+          "description": "zápis bez příloh",
+          "filePath": "./public/pdf/2022/220327-vyrocni_clenska_schuze/zapis_bez_prihloh.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "zápis s přílohami",
+          "filePath": "./public/pdf/2022/220327-vyrocni_clenska_schuze/zapis_s_prilohami.pdf",
+          "type": "pdf"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220013,
+      "dateOfPublish": "2022/04/12",
+      "title": "Výborová schůze",
+      "paragraphs": [
+        "Zápis z výborové schůze konané dne 27.3.2022 naleznete <a href=\"./public/pdf/2022/220327-vyborova_schuze/zapis.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2022/220327-vyborova_schuze/zapis.pdf",
+          "type": "pdf"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220012,
       "dateOfPublish": "2022/04/08",
       "title": "Klubové zkoušky vloh ohařů",
