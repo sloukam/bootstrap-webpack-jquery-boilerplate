@@ -960,8 +960,10 @@
           "city": "Klobouky u Brna",
           "post_code": "69172"
         },
-        "email": "sramek.cestmir@seznam.cz"
-      }
+        "phone": "+420 777 944 933",
+        "email": "cestmir.sramek@seznam.cz",
+      },
+      "img_ext": "jpg"
     }
   ]
 }

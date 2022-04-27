@@ -67,7 +67,7 @@
       "other.other": "Uchovněna na výjimku - chudozubost Import USA"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "JANIS JOPLIN MORRISON",
       "date_of_birth": "2013-04-20",
@@ -98,7 +98,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "RIKY Z KRZÁKU",
       "date_of_birth": "2013-04-28",
@@ -129,7 +129,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "CRANBERRY DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
@@ -159,7 +159,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "CALLIOPPE DEA ARDUINNA",
       "date_of_birth": "2013-08-31",
