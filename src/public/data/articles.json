@@ -2,6 +2,23 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220015,
+      "dateOfPublish": "2022/04/27",
+      "title": "Inzerát",
+      "paragraphs": [
+        "IRSKÝ ČERVENOBÍLÝ SETR - štěňata pro lov i výstavy. Odběr koncem června.",
+        "<ul>",
+        "<li>Otec: <b>Lanamore Huge Hope Herriot</b><br>výstava V1, CAJC, zkoušky ZV I. cena",
+        "<li>Matka: <b>Adria Marilo Chestnut</b><br>výstava V1 ,CAJC, BOJ, BOB",
+        "</ul>",
+        "<a href=\"./public/inzerce/220427-cestmir_sramek_irws/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220427-cestmir_sramek_irws/01.jpg\" height=\"150\" width=\"225\"></a>",
+        "Kontakt:<br>telefon: +420 777 944 933<br>mail:  <a href=\"mailto:cestmir.sramek@seznam.cz\">cestmir.sramek@seznam.cz</a>"
+      ],
+      "attachments": [],
+      "images": []
+    },
+    {
+      "visible": true,
       "articleId": 20220014,
       "dateOfPublish": "2022/04/12",
       "title": "Výroční členská schůze",
