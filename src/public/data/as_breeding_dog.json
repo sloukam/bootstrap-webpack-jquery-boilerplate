@@ -113,7 +113,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "ARNY Z NOVÉHO REMÍZU",
       "championships": "",
@@ -148,7 +148,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "FALCO Z LUHOVÉ SEČE",
       "championships": "",
