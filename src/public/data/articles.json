@@ -2,6 +2,24 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220016,
+      "dateOfPublish": "2022/04/29",
+      "title": "Příjez a vstup do areálu zámku ve Slavkově",
+      "paragraphs": [
+        "Vážení vystavovatelé. ",
+        "Ve svých schránkách v Dogoffice již najdete vstupní listy na letošní Slavkov. Vzhledem k tomu, že letošní ročník proběhne ve spodní části parku pod kašnami, věnujte zvýšenou pozornost mapce, která je součástí vstupního listu. Vstup do parku je vám umožněn branou v tzv. Panšule. Zde se nachází i parkoviště. Ke kruhům docházejte pěšky. Dále do parku v žádném případě nevjíždějte. Porušení vjezdu bude pracovníky zámku hlídáno a pokutováno.",
+        "Nezapomeňte očkovací průkazy svých psů pro namátkovou veterinární kontrolu.",
+        "Těšíme se na setkání na XXV. ročníku Klubové výstavy ve Slavkově.",
+        "<br>",
+        "<a href=\"./public/pdf/2022/220507-slavkov/vstup.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/vstup.jpg\" height=\"150\" width=\"225\"></a>"
+      ],
+      "attachments": [],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220015,
       "dateOfPublish": "2022/04/27",
       "title": "Inzerát",
