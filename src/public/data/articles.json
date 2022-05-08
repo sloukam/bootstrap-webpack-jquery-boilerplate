@@ -2,6 +2,42 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220017,
+      "dateOfPublish": "2022/05/06",
+      "title": "Pár fotek nejkrásnějšího jedince výstavy",
+      "paragraphs": [
+        "Na naší klubové výstavě se včera nejkrásnejším jedincem výstavy stala fena <b>Expensive Stone Achát</b> majitele <b>Jána Melichera</b>. Moc gratulujeme!!!",
+        "<br>",
+        "Povýstavní katalog s výsledky si můžete prohlédnout <a href=\"./public/pdf/2022/220507-slavkov/povystavni_katalog.pdf\" target=\"_blank\"><b>ZDE</b></a>",
+        "<br>",
+        "<a href=\"./public/pdf/2022/220507-slavkov/foto/bis/LUC_2120.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/bis/LUC_2120.jpg\" height=\"200\" width=\"300\"</a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/bis/LUC_2143.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/bis/LUC_2143.jpg\" height=\"200\" width=\"300\"</a>"
+      ],
+      "attachments": [
+        {
+          "description": "povýstaní katalog s výsledky",
+          "filePath": "./public/pdf/2022/220507-slavkov/povystavni_katalog.pdf",
+          "type": "pdf"
+        }
+      ],
+      "images": [
+        "./public/pdf/2022/220507-slavkov/foto/bis/LUC_2134.jpg"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220017,
+      "dateOfPublish": "2022/05/06",
+      "title": "ZMĚNA ROZHODČÍ NA XXV. KLUBOVÉ VÝSTAVĚ MSKAO 7.5.2022 VE SLAVKOVĚ",
+      "paragraphs": [
+        "Z důvodu zdravotní indispozice se z posuzování na klubové výstavě ve Slavkově omluvila maďarská rozhodčí paní <b>Júlia Pataki</b>. Posouzení anglických setrů, irských červenobílých setrů a pointerů se ujme hlavní rozhodčí paní <b>Simona Svatoňová</b>, která je zkušenou chovatelkou pointerů a dlouholetou poradkyní chovu pro plemena anglický setr a pointer a hlavní poradkyní chovu Českého pointer a setter klubu. "
+      ],
+      "attachments": [],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220016,
       "dateOfPublish": "2022/04/29",
       "title": "Příjez a vstup do areálu zámku ve Slavkově",
