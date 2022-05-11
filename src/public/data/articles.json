@@ -2,6 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220018,
+      "dateOfPublish": "2022/05/11",
+      "title": "Poslední možná šance se přihlásit na výstavu v Naměšti na Hané",
+      "paragraphs": [
+        "Dovolujeme si vás informovat, že finální datum poslední uzávěrky pro klubovou výstavu v Náměšti na Hané je <b>pátek 20.května 2022</b>.",
+        "<br>",
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/posledni uzaverka.pdf\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/posledni uzaverka.jpg\" height=\"300\" width=\"200\"</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220017,
       "dateOfPublish": "2022/05/06",
       "title": "Pár fotek nejkrásnějšího jedince výstavy",
