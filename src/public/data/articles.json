@@ -2,13 +2,31 @@
   "articles": [
     {
       "visible": true,
-      "articleId": 20220019,
+      "articleId": 20220020,
       "dateOfPublish": "2022/05/12",
       "title": "Fotogalerie ze Slavkova 2022",
       "paragraphs": [
         "Kompletní fotogalerii z naší klubové výstavy, která se konala 7.5.2022 v parku zámku Slavkov u Brna najdete <a href=\"https://eu.zonerama.com/mskao/Album/8397434\" target=\"_blank\"><b>ZDE</b></a>.",
         "Za krásné fotografie vděčíme nejen všem modelům a modelkám, ale také fotografce Lucii Skopalové (<a href=\"https://lucieskopalova.cz\" target=\"_blank\">www.lucieskopalova.cz</a>, <a href=\"https://okemlucie.cz/portfolio/\" target=\"_blank\">www.okemlucie.cz</a>)",
         "<a href=\"./public/pdf/2022/220507-slavkov/foto/web/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/01.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/02.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/03.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/04.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/05.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/05.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/06.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/06.jpg\" height=\"300\" width=\"200\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/07.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/07.jpg\" height=\"200\" width=\"300\"><a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220507-slavkov/foto/web/08.jpg\" target=\"_blank\"><img src=\"./public/pdf/2022/220507-slavkov/foto/web/08.jpg\" height=\"200\" width=\"300\"><a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220019,
+      "dateOfPublish": "2022/05/11",
+      "title": "Štěňata irshých setrů",
+      "paragraphs": [
+        "Dne 11.5.2022 se narodila štěňátka ze spojení:",
+        "<ul>",
+        "<li>Otec: <b>SHOW MUST GO ON Z ARISLANDU</b> (Blake)<br>res. Světový vítěz 2021, Evropský vítěz mladých 2019, Mezinárodní šampión, Polský šampión, Polský junior šampión, Šampión Litvy, Šampión Bulharska, Šampión Ukrajiny, Šampión Černé Hory, HD: A, PRA – rcd1: N/N, PRA – rcd4: N/N, CLAD: N/N, vWD I: N/N, GLD: N/N.",
+        "<li>Matka: <b>AUSTRALIAN RED JOKER Z ARISLANDU</b> (Jolie)<br>Český junior šampión, Český šampión, Šampión Slovenska.. HD: A, PRA – rcd1: N/N, PRA – rcd4: N/N, CLAD: N/N. ",
+        "</ul>",
+        "Přijímáme rezervace:<br>telefon: +420 739 297 833<br>mail: <a href=\"mailto:j.peky@seznam.cz\">j.peky@seznam.cz</a>",
+        "<a href=\"./public/inzerce/220511-IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220511-IS/01.jpg\" height=\"225\" width=\"150\"></a>"
       ],
       "images": [
         "./public/images/logo.png"
