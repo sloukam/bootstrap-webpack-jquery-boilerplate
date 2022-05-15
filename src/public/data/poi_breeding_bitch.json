@@ -933,7 +933,7 @@
         },
         "mother": {
           "clp": "10591",
-          "name": "Lily od Nezdického potoka ",
+          "name": "Lily od Nezdického potoka",
           "father": {
             "clp": "10136",
             "name": "Chán z Dolnic",
@@ -1956,7 +1956,7 @@
         "father": {
           "name": "Ajzon z Halikarnasu",
           "father": {
-            "name": "Forget Me Not of Szedresi ",
+            "name": "Forget Me Not of Szedresi",
             "father": {
               "name": "Caradhras of Szedresi",
               "father": {
@@ -2640,9 +2640,9 @@
         "first_name": "Josef",
         "last_name": "Večeřa",
         "address": {
-          "street": "Sadová ",
+          "street": "Sadová",
           "number": "474",
-          "city": "Dřevohostice ",
+          "city": "Dřevohostice",
           "post_code": "75114"
         },
         "email": "vecvet@seznam.cz"
@@ -3603,7 +3603,7 @@
       "date_of_birth": "2018-06-05",
       "clp": "11501",
       "father": "Oliver ze Štípek",
-      "mother": "Audrey z Mešinské hájovny ",
+      "mother": "Audrey z Mešinské hájovny",
       "body": {
         "height": "58",
         "color": "žemlová",
@@ -3628,6 +3628,34 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
+      "name": "Daillen z Měnínského Lesa",
+      "date_of_birth": "2018-06-25",
+      "clp": "11518",
+      "father": "War z Mešinské hájovny",
+      "mother": "Deby z Borovinky",
+      "body": {
+        "height": "64",
+        "color": "černá s náprsenkou",
+        "HD": "C"
+      },
+      "shows": "CAJC,BOJ,CAC,NV,BOB",
+      "exams": "ZV-II.c,SVP -II.c,PZ-I.c,",
+      "owner": {
+        "first_name": "Kamila",
+        "last_name": "Hopjáková",
+        "address": {
+          "street": "VRAŽNÉ",
+          "number": "217",
+          "post_code": "74234"
+        },
+        "phone": "+420 737 383 359",
+        "email": "kamila.kosm@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
       "name": "Dorka od Zeleného stolu",
       "date_of_birth": "2018-09-15",
       "clp": "11532",
@@ -3641,12 +3669,12 @@
       "shows": "VN1,V1,VT RES.CACIB",
       "exams": "ZV-I.c,BZ-I.c,PZ-I.c,PZ-I.c,",
       "owner": {
-        "first_name": "Žaneta ",
+        "first_name": "Žaneta",
         "last_name": "Živělová",
         "address": {
-          "street": "VLČKOVA ",
+          "street": "VLČKOVA",
           "number": "9",
-          "city": "BRNO ",
+          "city": "BRNO",
           "post_code": "62000"
         },
         "phone": "+420 601 590 770",
@@ -3672,10 +3700,38 @@
       "exams": "PZ-I.c,",
       "owner": {
         "first_name": "Jakub",
-        "last_name": "Toman ",
+        "last_name": "Toman",
         "phone": "+420 776 054 321"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "Anděla z Černých blat",
+      "date_of_birth": "2019-02-05",
+      "clp": "11570",
+      "father": "Alvin z Bukovinského vršku",
+      "mother": "Aura z Vlčích hor",
+      "body": {
+        "height": "58",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V2",
+      "exams": "ZV-I.c, Pz-I.c, Pz-I.c,",
+      "owner": {
+        "first_name": "Václav a Kateřina",
+        "last_name": "Manhalovi",
+        "address": {
+          "street": "Žerotín",
+          "number": "41",
+          "city": "Litovel",
+          "post_code": "78401"
+        },
+        "phone": "+420 777 699 634"
+      }
     },
     {
       "breed": "POI",
@@ -3792,7 +3848,7 @@
         "HD": "A"
       },
       "shows": "CAC, NV, BOB, BIG II., VŠV SKPS, KV MSKAO",
-      "exams": "ZV I.c, NFT TB, 14b.",
+      "exams": "ZV I.c, NFT TB, 14b., PZ-I.c",
       "owner": {
         "title": "Mgr.",
         "first_name": "Martina",
@@ -3831,7 +3887,7 @@
         "address": {
           "street": " Dobromilice",
           "number": "258",
-          "city": " Dobromilice ",
+          "city": " Dobromilice",
           "post_code": "79825"
         },
         "phone": "+420 608 964 289",
@@ -3858,10 +3914,10 @@
       "shows": "V1,CAC,NV,BOS,WDS V1,RES.CACIB",
       "exams": "ZV-I.c, PZ-I.c,",
       "owner": {
-        "first_name": "VÍT ",
+        "first_name": "VÍT",
         "last_name": "KLIMEŠ",
         "address": {
-          "street": "ŠKOLNÍ ",
+          "street": "ŠKOLNÍ",
           "number": "19",
           "city": "HUSTOPEČE",
           "post_code": "69301"
@@ -3873,7 +3929,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
-      "name": "BRILLIANT ZE ZAJEČÍCH POLÍ ",
+      "name": "BRILLIANT ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
       "clp": "11613",
       "father": "AVON",
@@ -3887,7 +3943,7 @@
       "shows": "V1.CAC,CACIB",
       "exams": "ZV-I.c, KZV-I.c,MVV-ZV CACT-I.c, MFT Derby SOLO -T,B. 12.",
       "owner": {
-        "first_name": "Kristýna ",
+        "first_name": "Kristýna",
         "last_name": "Šejnohová",
         "address": {
           "street": "Rosice",

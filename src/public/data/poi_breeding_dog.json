@@ -598,7 +598,7 @@
         "mother": {
           "name": "WHIPSPAN BONDI PEACH",
           "father": {
-            "name": "WHIPSPAN THE WIZARD FROM OZ ",
+            "name": "WHIPSPAN THE WIZARD FROM OZ",
             "father": {
               "name": "ATSIRA SECOND EDITION",
               "father": {
@@ -619,7 +619,7 @@
             }
           },
           "mother": {
-            "name": "WHIPSPAN KALGOORLIE ",
+            "name": "WHIPSPAN KALGOORLIE",
             "father": {
               "name": "JESTERLY DESERT RAIDER OF WYNDSMOOR",
               "father": {
@@ -968,7 +968,7 @@
         "HD": "A"
       },
       "shows": "V2, V1",
-      "exams": "ZV. I.c., PZ I.c., LZ+VP soutěž ohařů jižní Moravy KCHNKO I.c., VP I.c. o putovní pohár Stanislava Vojnara, LZ I.c. ",
+      "exams": "ZV. I.c., PZ I.c., LZ+VP soutěž ohařů jižní Moravy KCHNKO I.c., VP I.c. o putovní pohár Stanislava Vojnara, LZ I.c.",
       "owner": {
         "first_name": "František",
         "last_name": "Zahradníček",
@@ -1327,7 +1327,7 @@
       "date_of_birth": "2019-02-18",
       "date_of_stud": "2022-05-01",
       "clp": "11589",
-      "father": "Sáregresi Pointerland Athos ",
+      "father": "Sáregresi Pointerland Athos",
       "mother": "Apache ze Štípek",
       "body": {
         "height": "63",
@@ -1337,10 +1337,10 @@
       "shows": "CAC,CACIB,BOB",
       "exams": "ZV.I.c, PZ-I.c,",
       "owner": {
-        "first_name": "Petr ",
-        "last_name": "Krčmář ",
+        "first_name": "Petr",
+        "last_name": "Krčmář",
         "address": {
-          "street": "Fibichova ",
+          "street": "Fibichova",
           "number": "45",
           "city": "Držovice",
           "post_code": "79607"
@@ -1394,9 +1394,9 @@
         "HD": "A"
       },
       "shows": "KV tř.mladých V3,V1 CAC",
-      "exams": "K-ZV-I.c  CACT ",
+      "exams": "K-ZV-I.c  CACT",
       "owner": {
-        "first_name": "Marek ",
+        "first_name": "Marek",
         "last_name": "Hylebrant",
         "address": {
           "street": "Vřesová",
