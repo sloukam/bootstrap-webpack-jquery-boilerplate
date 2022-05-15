@@ -1323,6 +1323,36 @@
       "breed": "POI",
       "sex": "male",
       "visible": true,
+      "name": "Cool ze Štípek",
+      "date_of_birth": "2019-02-18",
+      "date_of_stud": "2022-05-01",
+      "clp": "11589",
+      "father": "Sáregresi Pointerland Athos ",
+      "mother": "Apache ze Štípek",
+      "body": {
+        "height": "63",
+        "color": "oramžovobílá",
+        "HD": "A"
+      },
+      "shows": "CAC,CACIB,BOB",
+      "exams": "ZV.I.c, PZ-I.c,",
+      "owner": {
+        "first_name": "Petr ",
+        "last_name": "Krčmář ",
+        "address": {
+          "street": "Fibichova ",
+          "number": "45",
+          "city": "Držovice",
+          "post_code": "79607"
+        },
+        "phone": "+420 720 070 710",
+        "email": "krcmar.petrr@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "visible": true,
       "name": "ARČÍ OD TÁBORSKÝCH DVOŘÁKŮ",
       "date_of_birth": "2019-07-09",
       "clp": "11649",
