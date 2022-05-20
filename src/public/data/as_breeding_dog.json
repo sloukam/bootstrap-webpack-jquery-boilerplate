@@ -838,6 +838,7 @@
       "date_of_birth": "2018-05-10",
       "datum_uchovneni": "2018-05-10",
       "clp": "6415",
+      "chip": "380260002893497",
       "father": "Ruben",
       "mother": "Lea",
       "body": {
@@ -860,7 +861,6 @@
         "phone": "602834815",
         "email": "aila.falcons@volny.cz"
       },
-      "other": "ČIP: 380260002893497",
       "img_ext": "jpg"
     }
   ]

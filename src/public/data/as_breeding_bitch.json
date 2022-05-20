@@ -537,6 +537,39 @@
         "email": "sloukam@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "visible": true,
+      "name": "TENNESSEE MORRISON",
+      "date_of_birth": "2018-09-13",
+      "clp": "6398",
+      "chip": "953010002710836",
+      "father": "Janis Joplin Morrison",
+      "mother": "Khaynnes Buckshot",
+      "body": {
+        "height": "60",
+        "color": "oranžový bělouš",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "JCH SK, JCH CZ, CZ SK, CH CZ",
+      "shows": "Výborná, CAJC, Vítěz Speciální výstavy SPKS, BOJ, Klubový vítěz mladých SKPS, CAC, CACIB, BOS",
+      "exams": "KZV - I. c.",
+      "owner": {
+        "first_name": "Růžena",
+        "last_name": "Lepařová",
+        "address": {
+          "street": "Pod Skalkou",
+          "number": "69/10",
+          "city": "Přerov",
+          "post_code": "75124"
+        },
+        "phone": "776658147",
+        "email": "Ruzena.Leparova@seznam.cz"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
