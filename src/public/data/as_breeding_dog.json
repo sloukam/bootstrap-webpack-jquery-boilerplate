@@ -829,6 +829,39 @@
         "email": "Tatana.bednarova@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "male",
+      "visible": true,
+      "name": "DIA",
+      "date_of_birth": "2018-05-10",
+      "datum_uchovneni": "2018-05-10",
+      "clp": "6415",
+      "father": "Ruben",
+      "mother": "Lea",
+      "body": {
+        "height": "61",
+        "color": "bílojátrová",
+        "HD": "A"
+      },
+      "shows": "Výborný 3",
+      "exams": "KZV MSKAO - I. c., CACT\nKPZ - I. c.",
+      "owner": {
+        "title": "Prof., MUDr.",
+        "first_name": "Jiří",
+        "last_name": "Veselý",
+        "address": {
+          "street": "Černohorská",
+          "number": "13",
+          "city": "Brno",
+          "post_code": "62100"
+        },
+        "phone": "602834815",
+        "email": "aila.falcons@volny.cz"
+      },
+      "other": "ČIP: 380260002893497",
+      "img_ext": "jpg"
     }
   ]
 }
