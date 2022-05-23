@@ -3032,6 +3032,142 @@
       "breed": "GS",
       "sex": "female",
       "visible": true,
+      "name": "AISCHA SANYBELL",
+      "date_of_birth": "2019-08-31",
+      "datum_uchovneni": "2022-05-22",
+      "clp": "6929",
+      "father": "Passion Find Pay No Mind",
+      "mother": "Blaire Pearl Moravia",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6929",
+        "father": {
+          "name": "Passion Find Pay No Mind",
+          "father": {
+            "name": "Kingpoint Everywhere",
+            "father": {
+              "name": "Windcrest Once In A Blue Moon",
+              "father": {
+                "name": "Woodsmoke´s Classic Alibi CD"
+              },
+              "mother": {
+                "name": "Buteo´s Dixie of Windcrest"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Atlerthought",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sangerfild Empire de la Mode",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6649",
+          "name": "Blaire Pearl Moravia",
+          "father": {
+            "clp": "6286",
+            "name": "Zir z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6429",
+            "name": "Ashley Princess Pearl Moravia",
+            "father": {
+              "name": "Atrei z Tomanikových vŕškov",
+              "father": {
+                "clp": "5479",
+                "name": "Grand Bojandolí"
+              },
+              "mother": {
+                "clp": "5393",
+                "name": "Cita z Nedvězí"
+              }
+            },
+            "mother": {
+              "clp": "6079",
+              "name": "Cinderella Carolain Áres Šamarkan",
+              "father": {
+                "name": "Dreamer Misialinka"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "65",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "výborná, Vítěz třídy, Krajský vítěz, res.CAC, CAC, Klubový vítěz MSKAO 2022",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Lucie",
+        "last_name": "Vodrážková",
+        "address": {
+          "street": "Zakouřilova ",
+          "number": "110",
+          "city": "Praha 4",
+          "post_code": "14900"
+        },
+        "email": "vodrazl@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "visible": true,
       "name": "FIXA Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2019-11-27",
       "clp": "6954",
