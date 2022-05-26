@@ -3,6 +3,21 @@
     {
       "visible": true,
       "articleId": 20220020,
+      "dateOfPublish": "2022/05/26",
+      "title": "Změna rozhodčích",
+      "paragraphs": [
+        "Na naši klubové výstavě došlo k menší úpravě rozhodčích, a to následovně:",
+        "<ul>",
+        "<li>Otec: <b>Forester´s Devil´s Answer of Darkmoor</b><br>HD B, PRA (rcd4) CLEAR, skus nůžkový, chrup úplný<br>C.I.E., C.I.B., GCH HU, CH SK, SLO, HU, DE VDH, maďarský výstavní šampion, Bundesjugendsieger Austria '18, maďarský juniorský KV, JW '17, Junior WW '18, Rakouský KV '18 & 19, Herbstsieger VDH'18, Sieger Leipzig '19, Německý vítěz '19, Slovenský KV '21, Landessieger Bayern '21<br>wesentest, breedingtest, working certificate, FT solo",
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/zmana_rozhodcich.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/zmana_rozhodcich.png\" height=\"120\" width=\"600\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220020,
       "dateOfPublish": "2022/05/25",
       "title": "Štěňata Gordonsetra",
       "paragraphs": [
