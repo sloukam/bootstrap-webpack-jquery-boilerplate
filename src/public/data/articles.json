@@ -2,6 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220021,
+      "dateOfPublish": "2022/05/30",
+      "title": "Klubová výstava MSKAO Náměšť na Hané – 18. června 2022",
+      "paragraphs": [
+        "V sobotu 18. června 2022 proběhne Klubová výstava Moravskoslezského klubu anglických ohařů, z.s. se zadáváním čekatelství CAJC, CAC a R.CAC a bez zadávání titulu Klubový vítěz. Přinášíme přehled přihlášených jedinců v členění dle plemen, tříd a rozhodčích a také mapku výstavního areálu. Všichni setři a pointři se předvedou ve výstavním kruhu číslo 17 na louce. Přejeme hodně úspěchů ve výstavním kruhu a těšíme se na viděnou nejen s vystavovateli, ale všemi obdivovateli britských ohařů.",
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/letak.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/letak.png\" height=\"210\" width=\"280\"></a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" height=\"210\" width=\"280\"></a>",
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/rozpis.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/rozpis.png\" height=\"180\" width=\"750\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220020,
       "dateOfPublish": "2022/05/26",
       "title": "Změna rozhodčích",
