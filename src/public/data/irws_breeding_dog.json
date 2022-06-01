@@ -3,9 +3,11 @@
     {
       "breed": "IRWS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "PINKY PEPPER SHADOW DOG",
       "date_of_birth": "2012-04-29",
+      "date_of_exclusion": "2022-05-26",
+      "reason_of_exclusion": "na žádost majitele",
       "clp": "261",
       "father": "Exlusive’s Gypsyboy",
       "mother": "Dreams Come True Shadow Dog",
