@@ -2,6 +2,18 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220022,
+      "dateOfPublish": "2022/06/02",
+      "title": "Již brzy ve vašich schránkách...",
+      "paragraphs": [
+        "<a href=\"./public/pdf/rocenky/2020-titulka.png\" target=\"_blank\"><img src=\"./public/pdf/rocenky/2020-titulka.png\" height=\"350\" width=\"250\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220021,
       "dateOfPublish": "2022/05/30",
       "title": "Klubová výstava MSKAO Náměšť na Hané – 18. června 2022",
