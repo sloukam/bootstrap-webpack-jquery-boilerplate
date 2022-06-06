@@ -3427,6 +3427,144 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "FLINN AINE FINIS MAHAGONY PAW",
+      "date_of_birth": "2018-05-11",
+      "datum_uchovneni": "2022-06-04",
+      "clp": "16582",
+      "father": "Paris Match Thendara ",
+      "mother": "Electra Ruby Mahagony Paw",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16582",
+        "father": {
+          "name": "Paris Match Thendara",
+          "father": {
+            "name": "Gwendariff Pop The Question",
+            "father": {
+              "name": "Danaway Lancelot of Autumnwood",
+              "father": {
+                "name": "Danaway Michelangelo"
+              },
+              "mother": {
+                "name": "Danaway Demure"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Pop My Cork",
+              "father": {
+                "name": "Danaway Fortune Teller"
+              },
+              "mother": {
+                "name": "Clonageera Klassique Gwendariff"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Lenamore",
+            "father": {
+              "name": "Sumaric Shadow od Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Capriati",
+              "father": {
+                "name": "Scotselaw Detroit Spinner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot at Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "championships": "JCH ČR, CH ČR, GRANDCH ČR",
+      "shows": "CAJC, BOJ, CAC, NV, BOS",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Šárka ",
+        "last_name": "Gašparová",
+        "address": {
+          "street": "Brandlova",
+          "number": "1384/12",
+          "city": "Praha 4",
+          "post_code": "14900"
+        },
+        "email": "sarkaGasparova@seznam.cz"
+      },
+      "co-owner": {
+        "first_name": "Romana ",
+        "last_name": "Kšírová"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "GLIMMER NOBLESSE CONCENTRATE THE MIND",
       "date_of_birth": "2018-05-27",
       "clp": "16615",
@@ -3812,6 +3950,139 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "DORIANNE DAISY RAIN",
+      "date_of_birth": "2019-01-20",
+      "datum_uchovneni": "2022-06-04",
+      "clp": "16629",
+      "father": "Copper´s Gypsy Rose",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16629",
+        "father": {
+          "name": "Copper´s Gypsy Rose",
+          "father": {
+            "name": "Copper´s Magiska Under",
+            "father": {
+              "name": "Dubliner Tiger Woods",
+              "father": {
+                "name": "Asoftwind of the Golden Vale"
+              },
+              "mother": {
+                "name": "Dublner Imagine"
+              }
+            },
+            "mother": {
+              "name": "Copper´s Magical Bubble",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            }
+          },
+          "mother": {
+            "name": "Copper´s Wine´n Roses",
+            "father": {
+              "name": "Copper´s Bubble Power",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            },
+            "mother": {
+              "name": "Lynwood Kiss´n´tell Copper´s",
+              "father": {
+                "name": "Copper´s Bubblande Glad"
+              },
+              "mother": {
+                "name": "Lynwood Sealed With A Kiss"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles ",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher "
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen  of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "CLAD gen. N/N, PRA rcd 1 gen. N/N"
+      },
+      "shows": "V",
+      "exams": "ZV II.cena",
+      "owner": {
+        "title": "Ing. ",
+        "first_name": "Antonín ",
+        "last_name": "Halla",
+        "address": {
+          "street": "Novinky",
+          "number": "250",
+          "city": "Prušánky",
+          "post_code": "69621"
+        },
+        "phone": "728202955",
+        "email": "tonda.halla@gmail.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "ENNY BOHEMIA TÁTRUM",
       "date_of_birth": "2019-05-10",
       "clp": "16683",
@@ -3956,6 +4227,142 @@
           "post_code": "73994"
         },
         "email": "krchnakova.ma@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "INGE Z LUHOVÉ SEČE",
+      "date_of_birth": "2019-06-30",
+      "datum_uchovneni": "2022-06-04",
+      "clp": "16729",
+      "father": "Agar Akimbo Daisy Rain",
+      "mother": "Hera Červený vítr",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16729",
+        "father": {
+          "clp": "15989",
+          "name": "Agar Akimbo Daisy Rain",
+          "father": {
+            "name": "Cordarragh Picasso",
+            "father": {
+              "name": "Scotselaw Detroit Spinner by Thendara",
+              "father": {
+                "name": "Thendara The Tourist"
+              },
+              "mother": {
+                "name": "Scotselaw Choco Holic"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Lady in Red",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let It Be"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15723",
+          "name": "Hera Červený vítr",
+          "father": {
+            "clp": "15450",
+            "name": "Hrabia z Orszagu Chrobrego",
+            "father": {
+              "name": "Kerrimere Winter Wine",
+              "father": {
+                "name": "Danaway Destiny"
+              },
+              "mother": {
+                "name": "Kerrimere Shining Star"
+              }
+            },
+            "mother": {
+              "name": "Shadwell Absolutely All My Love",
+              "father": {
+                "name": "Erinade Extingished Dr. Robin"
+              },
+              "mother": {
+                "name": "Pendledell Anise"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14501",
+            "name": "Pera od Klapavce",
+            "father": {
+              "clp": "13459",
+              "name": "Tarn od Velkého dubu",
+              "father": {
+                "clp": "11758",
+                "name": "Glen Mahagon Moravia"
+              },
+              "mother": {
+                "clp": "11656",
+                "name": "Patricia Irsal"
+              }
+            },
+            "mother": {
+              "clp": "13955",
+              "name": "Lassi od Klapavce",
+              "father": {
+                "name": "Dunmore of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12348",
+                "name": "Fatima od Zbraně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "59",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "V, Krajský vítěz",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Josef",
+        "last_name": "Mazůrek",
+        "address": {
+          "street": "Starovičky ",
+          "number": "63",
+          "city": "Starovičky",
+          "post_code": "69168"
+        }
       },
       "img_ext": "jpg"
     },
