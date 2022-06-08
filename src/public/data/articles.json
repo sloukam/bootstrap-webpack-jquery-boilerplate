@@ -2,6 +2,24 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220021,
+      "dateOfPublish": "2022/05/30",
+      "title": "Informace ke klubové výstavě MSKAO v Náměšti na Hané",
+      "paragraphs": [
+        "K nadcházející klubové výstavě v Náměšti na Hané Vám přinášíme:",
+        "<ul>",
+        "<li><a href=\"https://vystavanamest-cz4.webnode.cz/_files/200000347-2cd292cd2b/Časový%20harmonogram%20sobota%202022.pdf\" target=\"_blank\">rozpis kruhů a časový harmonogram</a></li>",
+        "<li><a href=\"https://vystavanamest-cz4.webnode.cz/_files/200000348-68a2568a27/Rozpis%20plemen%20a%20tř%C3%ADd%20sobota%202022.pdf\" target=\"_blank\">rozpis plemen a tříd</a></li>",
+        "<li><a href=\"https://vystavanamest-cz4.webnode.cz/_files/200000344-cd233cd235/Mapa%20arealu2022_1300x900mm_samolepka.pdf\" target=\"_blank\">mapa areálu</a></li>",
+        "</ul>",
+        "Kompletní infromace můžete nalézt na oficiálních stránkách výstavy - <a href=\"https://www.vystavanamest.cz/?fbclid=IwAR0Er1vJtcjuemvMR2J7_iy6JOfFdJNYrqYu0laQE3NGONoj4Rq3So00Dxc\" target=\"_blank\">ZDE</a>.</li>"
+      ],
+      "images": [
+        "./public/pdf/2022/220618-names-na_hane/bis.jpg"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220022,
       "dateOfPublish": "2022/06/02",
       "title": "Již brzy ve vašich schránkách...",
