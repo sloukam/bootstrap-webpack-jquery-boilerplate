@@ -62,15 +62,14 @@
       "title": "Klubová výstava MSKAO Náměšť na Hané – 18. června 2022",
       "paragraphs": [
         "V sobotu 18. června 2022 proběhne Klubová výstava Moravskoslezského klubu anglických ohařů, z.s. se zadáváním čekatelství CAJC, CAC a R.CAC a bez zadávání titulu Klubový vítěz. Přinášíme přehled přihlášených jedinců v členění dle plemen, tříd a rozhodčích a také mapku výstavního areálu. Všichni setři a pointři se předvedou ve výstavním kruhu číslo 17 na louce. Přejeme hodně úspěchů ve výstavním kruhu a těšíme se na viděnou nejen s vystavovateli, ale všemi obdivovateli britských ohařů.",
-        "<a href=\"./public/pdf/2022/220618-names-na_hane/letak.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/letak.png\" height=\"210\" width=\"280\"></a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" height=\"210\" width=\"280\"></a>",
-        "<a href=\"./public/pdf/2022/220618-names-na_hane/rozpis.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/rozpis.png\" height=\"180\" width=\"750\"></a>"
+        "<a href=\"./public/pdf/2022/220618-names-na_hane/letak.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/letak.png\" height=\"210\" width=\"280\"></a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220618-names-na_hane/mapa.png\" height=\"210\" width=\"280\"></a>"
       ],
       "images": [
         "./public/images/logo.png"
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "articleId": 20220020,
       "dateOfPublish": "2022/05/26",
       "title": "Změna rozhodčích",
@@ -736,7 +735,7 @@
         "K případnému odebrání do Čech , budou štěňata připravena po 12-tém týdnu věku (konec října) očkovaná na vzteklinu s exportním průkazem původu a mezinárodním pasem.",
         "Kontakty pro rezervaci:<br><a href=\"mailto:dragonbornfci@gmail.com\">dragonbornfci@gmail.com</a><br>(+48) 502 944 620",
         "Více informací o chovatelské stanici naleznete zde:",
-        "<ul><li><a href=\"http://www.dragonborn.pl\" target=\"_blank\">www.dragonborn.pl</a></li><li><a href=\"http://www.dogwoow.pl\" target=\"_blank\">www.dogwoow.pl</a></li><li><a href=\"https://www.facebook.com/dragonbornfci/\" target=\"_blank\">https://www.facebook.com/dragonbornfci/</a></li><li><a href=\"https://www.instagram.com/dragonborn_fci/\" target=\"_blank\">https://www.instagram.com/dragonborn_fci/</a></li><li><a href=\"https://www.youtube.com/channel/UChtvaXiC3MdeydKf01ZUofA\" target=\"_blank\">https://www.youtube.com/channel/UChtvaXiC3MdeydKf01ZUofA</a>",
+        "<ul><li><a href=\"http://www.dragonborn.pl\" target=\"_blank\">www.dragonborn.pl</a></li><li><a href=\"http://www.dogwoow.pl\" target=\"_blank\">www.dogwoow.pl</a></li><li><a href=\"https://www.facebook.com/dragonbornfci/\" target=\"_blank\">https://www.facebook.com/dragonbornfci/</a></li><li><a href=\"https://www.instagram.com/dragonborn_fci/\" target=\"_blank\">https://www.instagram.com/dragonborn_fci/</a></li><li><a href=\"https://www.youtube.com/channel/UChtvaXiC3MdeydKf01ZUofA\" target=\"_blank\">https://www.youtube.com/</a>",
         "<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/01.jpg\" height=\"150\" width=\"125\"></a>&nbsp;<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/02.jpg\" height=\"150\" width=\"220\"></a>&nbsp;<a href=\"./public/inzerce/210811-Sebastian_Wilk_IS/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/210811-Sebastian_Wilk_IS/03.jpg\" height=\"150\" width=\"220\"></a>"
       ],
       "images": [
@@ -885,7 +884,6 @@
         "Děkujeme všem majitelům, kteří přihlásili své psy a budou s námi vytvářet tu jedinečnou atmosféru \"klubovky ve Slavkově\"",
         "Těšíme se na Vás v <b>sobotu 10.července  9 hodin</b> v zahajovacím průvodu.",
         "<h3>Angličanům ve Slavkově... Zdar </h3>",
-        "<a href=\"./public/pdf/2021/210710-klubovka_slavkov/pocty_prihlasenych.png\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-klubovka_slavkov/pocty_prihlasenych.png\" height=\"151\" width=\"611\"></a>",
         "<a href=\"./public/pdf/2021/210710-klubovka_slavkov/kokardy.jpg\" target=\"_blank\"><img src=\"./public/pdf/2021/210710-klubovka_slavkov/kokardy.jpg\" height=\"150\" width=\"200\"></a>"
       ],
       "images": [
@@ -970,9 +968,7 @@
       "dateOfPublish": "2021/05/03",
       "title": "Speciální výstavu ohařů při světové výstavě v Brně",
       "paragraphs": [
-        "Dnešním dnem spuštěno přihlašování na Speciální výstavu ohařů při světové výstavě v Brně. Přihlašování je možné přes <a href=\"https://dogoffice.cz/\" target=\"_blank\">Dogoffice</a> a zde najdete i propozice.",
-        "<a href=\"./public/images/2021/210930-vystava_kromeriz.jpg\" target=\"_blank\"><img src=\"./public/images/2021/210930-vystava_kromeriz.jpg\" height=\"300\" width=\"600\"></a>",
-        "<a href=\"./public/images/2021/2021-wds_dogoffice_list.jpg\" target=\"_blank\"><img src=\"./public/images/2021/2021-wds_dogoffice_list.jpg\" height=\"100\" width=\"800\"></a>"
+        "Dnešním dnem spuštěno přihlašování na Speciální výstavu ohařů při světové výstavě v Brně. Přihlašování je možné přes <a href=\"https://dogoffice.cz/\" target=\"_blank\">Dogoffice</a> a zde najdete i propozice."
       ],
       "images": [
         "./public/images/2021/210930-vystava_kromeriz.jpg",
@@ -1006,7 +1002,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "articleId": 20210011,
       "dateOfPublish": "2021/04/16",
       "title": "Brzy se budou konat... (na detaily mrkněte níže)",
