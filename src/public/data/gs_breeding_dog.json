@@ -1733,6 +1733,137 @@
       "breed": "GS",
       "sex": "male",
       "visible": true,
+      "name": "Ganter z Dvorku Čamourku",
+      "date_of_birth": "2019-09-16",
+      "clp": "6932",
+      "father": "Charlie Chaplin Áres Šamarkan",
+      "mother": "Deina z Dvorku Čamourku",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "6932",
+        "father": {
+          "clp": "6716",
+          "name": "Charlie Chaplin Áres Šamarkan",
+          "father": {
+            "name": "Sunsetter´s Sing ´O´ the Times",
+            "father": {
+              "name": "Sun-Yak Spelland Heaven Scent",
+              "father": {
+                "name": "Spellbound´s Natourious"
+              },
+              "mother": {
+                "name": "Sun-Yak´s Desert Echo"
+              }
+            },
+            "mother": {
+              "name": "Sunsetter´s Bohemian Rhapsody",
+              "father": {
+                "name": "Ludstar Maranello"
+              },
+              "mother": {
+                "name": "Sunsetter´s Take a Chance on Me"
+              }
+            }
+          },
+          "mother": {
+            "name": "Celtic Carpediem Samarkan Kochanej Emilki",
+            "father": {
+              "name": "Fairray Black To the Future",
+              "father": {
+                "name": "Triseter Celtic ice"
+              },
+              "mother": {
+                "name": "Sunny Prides Mac Bess"
+              }
+            },
+            "mother": {
+              "name": "Rosalie von der Wilden Horde",
+              "father": {
+                "name": "Laurelhach Legend"
+              },
+              "mother": {
+                "name": "Paivi von der Wilden Horde"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6489",
+          "name": "Deina z Dvorku Čamourku",
+          "father": {
+            "clp": "6287",
+            "name": "Zoom z Holubické stráně",
+            "father": {
+              "name": "Sangerfield Earldon",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6131",
+            "name": "Bora z Dvorku Čamourku",
+            "father": {
+              "name": "Forester´s Zampano of Darkmoor",
+              "father": {
+                "name": "Ludstar Defender"
+              },
+              "mother": {
+                "name": "Forester´s Nora-Jane of Darkmoor"
+              }
+            },
+            "mother": {
+              "clp": "5690",
+              "name": "Dyksi z Krátošických strání",
+              "father": {
+                "clp": "5248",
+                "name": "Dastin DAMA Krkonoše"
+              },
+              "mother": {
+                "clp": "5073",
+                "name": "Elza z Pohnanských vrchů"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "68",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "výborný , CAC",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Piskačová",
+        "address": {
+          "street": "Lažany ",
+          "number": "96",
+          "post_code": "67922"
+        },
+        "email": "VeronikaTarabova@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "visible": true,
       "name": "CROCCO SCOTCH DO POLE",
       "date_of_birth": "2020-03-30",
       "clp": "6983",
