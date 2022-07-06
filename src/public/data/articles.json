@@ -2,6 +2,24 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220023,
+      "dateOfPublish": "2022/05/11",
+      "title": "Štěňata irských setrů",
+      "paragraphs": [
+        "Zadáme štěňata IS s PP",
+        "<ul>",
+        "<li>Otec: <b>Flannery Rick Mahagony Paw</b><br>CH ČR, JCH ČR, CAJC, BOJ, CAC, BOB, ZV I.c., PZ I.c CACT, DKK A",
+        "<li>Matka: <b>Laky z Jirouškova dvora</b><br>V2, rCAC, ZV I.c. SVP II.c., BZ II.c., DKK A/A",
+        "</ul>",
+        "Očkovaná, čipovaná štěňátka s petpasem budou k odběru od 20.7.",
+        "Více info na:<br>telefon: 724 225 083<br>mail: <a href=\"mailto:chszjarne@gmail.com\">chszjarne@gmail.com</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220022,
       "dateOfPublish": "2022/06/21",
       "title": "Výsledky klubové výstavy v Náměšti na Hané",
@@ -133,7 +151,7 @@
       "visible": true,
       "articleId": 20220019,
       "dateOfPublish": "2022/05/11",
-      "title": "Štěňata irshých setrů",
+      "title": "Štěňata irských setrů",
       "paragraphs": [
         "Dne 11.5.2022 se narodila štěňátka ze spojení:",
         "<ul>",
