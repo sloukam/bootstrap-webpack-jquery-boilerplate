@@ -7,7 +7,7 @@
       "title": "Propozice na klubové zkoušky vloh MSKAO",
       "paragraphs": [
         "Přinášíme Vám propozice a přihlášku k plánovaným klubovým zkouškám vloh MSKAO se zadáním čekatelství CACT a res. CACT, který se bude konat 8.10.2022.",
-        "<a href=\"../public/pdf/2022/221009-kzv/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221009-kzv/01.png\" height=\"350\" width=\"250\"></a>"
+        "<a href=\"./public/pdf/2022/221009-kzv/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221009-kzv/01.png\" height=\"350\" width=\"250\"></a>"
       ],
       "attachments": [
         {
@@ -37,7 +37,7 @@
       "title": "Propozice na klubové podzimní zkoušky MSKAO",
       "paragraphs": [
         "Přinášíme Vám propozice a přihlášku k plánovaným klubovým podzimním zkouškám MSKAO se zadáním čekatelství CACT a res. CACT, který se bude konat 8.10.2022.",
-        "<a href=\"../public/pdf/2022/221008-kpz/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221008-kpz/01.png\" height=\"350\" width=\"250\"></a>"
+        "<a href=\"./public/pdf/2022/221008-kpz/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221008-kpz/01.png\" height=\"350\" width=\"250\"></a>"
       ],
       "attachments": [
         {
@@ -67,7 +67,7 @@
       "title": "Propozice a přihláška na pohár MSKAO",
       "paragraphs": [
         "Přinášíme Vám propozice a přihlášku k plánovanému poháru MSKAO - podzimní zkoušky a zkoušky vodní práce se zadáním čekatelství CACT a res. CACT, který se bude konat 13.8.2022.",
-        "<a href=\"../public/pdf/2022/220813-pohar_mskao/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220813-pohar_mskao/01.png\" height=\"350\" width=\"250\"></a>"
+        "<a href=\"./public/pdf/2022/220813-pohar_mskao/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220813-pohar_mskao/01.png\" height=\"350\" width=\"250\"></a>"
       ],
       "attachments": [
         {
@@ -137,6 +137,30 @@
         "Kompletní výsledky na <a  href=\"https://dogoffice.cz/results/26041?fbclid=IwAR1jzwmQGKGSA6s4cxMYESPNZ74FSGhhd7j6mXMSl0ZnFKgz8SvJpUUKkIA\" target=\"_blank\">DogOfficu ZDE</a>"
       ]
     },
+
+    {
+      "visible": true,
+      "articleId": 20220021,
+      "publishDate": "2022/05/30",
+      "title": "Výsledky klubových podzimních zkoušek a zkoušek vloh ve dnech 14. a 15.5.2022",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2022/220514-klubove_podzimni_zkousky-Tesany/vysledkova_listina.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220514-klubove_podzimni_zkousky-Tesany/vysledkova_listina.png\" height=\"250\" width=\"450\"></a>&nbsp;<a href=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/vysledkova_listina.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/vysledkova_listina.png\" height=\"280\" width=\"450\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "výsledky KPZ",
+          "filePath": "./public/pdf/2022/220514-klubove_podzimni_zkousky-Tesany/vysledkova_listina.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "výsledky KZV",
+          "filePath": "./public/pdf/2022/220515-klubove_zkousky_vloh-Tesany/vysledkova_listina.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+
+
     {
       "visible": true,
       "articleId": 20220021,
