@@ -2,6 +2,96 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220025,
+      "publishDate": "2022/07/06",
+      "title": "Propozice na klubové zkoušky vloh MSKAO",
+      "paragraphs": [
+        "Přinášíme Vám propozice a přihlášku k plánovaným klubovým zkouškám vloh MSKAO se zadáním čekatelství CACT a res. CACT, který se bude konat 8.10.2022.",
+        "<a href=\"../public/pdf/2022/221009-kzv/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221009-kzv/01.png\" height=\"350\" width=\"250\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2022/221009-kzv/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - pdf",
+          "filePath": "./public/pdf/2022/221009-kzv/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - word",
+          "filePath": "./public/pdf/2022/221009-kzv/prihlaska.docx",
+          "type": "doc"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220025,
+      "publishDate": "2022/07/06",
+      "title": "Propozice na klubové podzimní zkoušky MSKAO",
+      "paragraphs": [
+        "Přinášíme Vám propozice a přihlášku k plánovaným klubovým podzimním zkouškám MSKAO se zadáním čekatelství CACT a res. CACT, který se bude konat 8.10.2022.",
+        "<a href=\"../public/pdf/2022/221008-kpz/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/221008-kpz/01.png\" height=\"350\" width=\"250\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2022/221008-kpz/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - pdf",
+          "filePath": "./public/pdf/2022/221008-kpz/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - word",
+          "filePath": "./public/pdf/2022/221008-kpz/prihlaska.docx",
+          "type": "doc"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220024,
+      "publishDate": "2022/07/06",
+      "title": "Propozice a přihláška na pohár MSKAO",
+      "paragraphs": [
+        "Přinášíme Vám propozice a přihlášku k plánovanému poháru MSKAO - podzimní zkoušky a zkoušky vodní práce se zadáním čekatelství CACT a res. CACT, který se bude konat 13.8.2022.",
+        "<a href=\"../public/pdf/2022/220813-pohar_mskao/01.png\" target=\"_blank\"><img src=\"./public/pdf/2022/220813-pohar_mskao/01.png\" height=\"350\" width=\"250\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2022/220813-pohar_mskao/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - pdf",
+          "filePath": "./public/pdf/2022/220813-pohar_mskao/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška - word",
+          "filePath": "./public/pdf/2022/220813-pohar_mskao/prihlaska.docx",
+          "type": "doc"
+        }
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220023,
       "publishDate": "2022/07/06",
       "title": "Štěňata irských setrů",
