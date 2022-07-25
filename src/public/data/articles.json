@@ -2,6 +2,22 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220027,
+      "publishDate": "2022/07/25",
+      "title": "IS štěňata s PP",
+      "paragraphs": [
+        "CHS od Klapavce nabízí štěňata irských setrů s PP po výborných rodičích. Otec má všechny zkoušky z výkonu v I. c., titul CAC, matka: JZ, PZ, SZVP vše v I. c., výborná. Předpoklad\npracovitých a krásných psů vhodných jak pro lovecké účely, tak jako společník do rodiny i k dětem.",
+        "Odběr koncem srpna 2022. Cena dohodou.",
+        "Telefon: 736 530 280, 724 221 455<br>mail: <a href=\"mailto:kinzelovi@seznam.cz\">kinzelovi@seznam.cz</a>",
+        "<br>",
+        "<a href=\"./public/inzerce/220725-Kinzel_IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220725-Kinzel_IS/01.jpg\" height=\"270\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/220725-Kinzel_IS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220725-Kinzel_IS/02.jpg\" height=\"270\" width=\"190\"></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220026,
       "publishDate": "2022/07/14",
       "title": "Propozice na klubové zkoušky vloh MSKAO",
