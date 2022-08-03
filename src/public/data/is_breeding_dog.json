@@ -4806,6 +4806,136 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
+      "name": "DAMIEN DAISY RAIN",
+      "date_of_birth": "2019-01-20",
+      "clp": "16622",
+      "father": "Copper´s Gypsy Rose",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16622",
+        "father": {
+          "name": "Copper´s Gypsy Rose",
+          "father": {
+            "name": "Copper´s Magiska Under",
+            "father": {
+              "name": "Dubliner Tiger Woods",
+              "father": {
+                "name": "Asoftwind of the Golden Vale"
+              },
+              "mother": {
+                "name": "Dublner Imagine"
+              }
+            },
+            "mother": {
+              "name": "Copper´s Magical Bubble",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            }
+          },
+          "mother": {
+            "name": "Copper´s Wine´n Roses",
+            "father": {
+              "name": "Copper´s Bubble Power",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Balintyne Copper´s Home n Dry"
+              }
+            },
+            "mother": {
+              "name": "Lynwood Kiss´n´tell Copper´s",
+              "father": {
+                "name": "Copper´s Bubblande Glad"
+              },
+              "mother": {
+                "name": "Lynwood Sealed With A Kiss"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles ",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher "
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen  of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "67",
+        "color": "mahagon",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "shows": "V, res.CAC, CAC, OV",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Lucie",
+        "last_name": "Plašťáková",
+        "address": {
+          "street": "U Jana ",
+          "number": "323",
+          "city": "Ostrava",
+          "post_code": "72529"
+        },
+        "phone": "777 774 032",
+        "email": "l.heinrichova3@gmail.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
       "name": "DGANNI RED JOKER",
       "date_of_birth": "2019-04-10",
       "clp": "16641",
@@ -5043,7 +5173,7 @@
         "rcd4": "clear",
         "other": "CLAD gen. N/N"
       },
-      "championships": "JCH ČR, CH ČR",
+      "championships": "JCH ČR, CH ČR, CH SLO",
       "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB",
       "exams": "ZV I.cena - CACT, PZ I.cena",
       "owner": {

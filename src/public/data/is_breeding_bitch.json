@@ -3799,9 +3799,9 @@
         "rcd4": "clear",
         "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
       },
-      "championships": "CH ČR",
-      "shows": "CAJC, BOJ, CAC, NV, BOS, JBIG",
-      "exams": "ZV I.cena, KZV I.cena, PZ I.cena",
+      "championships": "CH ČR, CH RO",
+      "shows": "CAJC, BOJ, CAC, NV, BOS, JBIG, CACIB, BOB, BIG 3",
+      "exams": "ZV I.cena, KZV I.cena, PZ I.cena, SZVP I.cena",
       "owner": {
         "first_name": "Petra",
         "last_name": "Divilová",
