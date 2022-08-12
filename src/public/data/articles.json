@@ -3,6 +3,25 @@
     {
       "visible": true,
       "articleId": 20220027,
+      "publishDate": "2022/08/12",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Zápis z výborové schůze konané dne 7.8.2022 naleznete <a href=\"./public/pdf/2022/220807-vyborova_schuze/220807-zapis.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2022/220807-vyborova_schuze/220807-zapis.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220027,
       "publishDate": "2022/08/03",
       "title": "Prodáme dva kluky IS",
       "paragraphs": [
