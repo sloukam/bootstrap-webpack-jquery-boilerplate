@@ -20,7 +20,7 @@
 
 .dropdown-menu > li a:hover,
 .dropdown-menu > li.show {
-  background: red;
+  background: $menu-dropdown-hover-bg;
   color: black;
 }
 .dropdown-menu > li.show > a{
