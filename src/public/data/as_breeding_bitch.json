@@ -571,6 +571,75 @@
         "email": "Ruzena.Leparova@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "visible": true,
+      "name": "EDITIONS POINTING DAVARONI GIRL",
+      "date_of_birth": "2018-10-13",
+      "clp": "6416",
+      "father": "CH Editions Lions Tigers and Bears",
+      "mother": "CH Sevenoaks AndEditionsMeteorite",
+      "body": {
+        "height": "61",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true,
+        "other": "Thyroid normal"
+      },
+      "championships": "JCH CZ, CH CZ, SLO",
+      "shows": "BIS 3, BIG 1, Junior BIG 3, 3. Nejlepší pracovní pes výstavy, Alpensieger, BOB, Vítěz Lysé, BOJ, CACIB, Nejlepší fena, Res. CACIB, CAC, CACA, Res. CAC, CAJC, V",
+      "exams": "TAN, ZV - I. c., KZV MSKAO - II. c., PZ - I. c., Memoriál Josefa Luxe - I. c., ZVP - I. c., IFT SKPS - 18 b., CACT, CACIT",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Lucie",
+        "last_name": "Studýnková",
+        "address": {
+          "street": "Brambory",
+          "number": "9",
+          "city": "Čáslav",
+          "post_code": "28601"
+        },
+        "phone": "+420737413598",
+        "email": "davaroni@davaroni.com",
+        "web": "http://www.davaroni.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "visible": true,
+      "name": "CLOVA OD DUVANJSKOG POLJA",
+      "date_of_birth": "2021-05-30",
+      "clp": "6582",
+      "father": "Cairo",
+      "mother": "Luna",
+      "body": {
+        "height": "61",
+        "color": "trikolor",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true
+      },
+      "shows": "V4",
+      "exams": "Derby SKPS - 8 b., TAN, KZV KCHHMO - I. c.",
+      "owner": {
+        "first_name": "Sylva",
+        "last_name": "Vanžurová",
+        "address": {
+          "street": "Bohuňova",
+          "number": "34",
+          "city": "Brno",
+          "post_code": "62500"
+        },
+        "phone": "+420604720606",
+        "email": "sylva.vanzurova@centrum.cz"
+      },
+      "img_ext": "jpg"
     }
+
   ]
 }

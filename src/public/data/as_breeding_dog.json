@@ -862,6 +862,72 @@
         "email": "aila.falcons@volny.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "male",
+      "visible": true,
+      "name": "LUCKSHERAY PURE SOUL",
+      "date_of_birth": "2019-04-18",
+      "clp": "6461",
+      "father": "Set'r Ridge's National Reckoning",
+      "mother": "Fairray Nightmare",
+      "body": {
+        "height": "65",
+        "color": "orange belton",
+        "HD": "B"
+      },
+      "championships": "JCH CZ, SK, CH CZ, SK, ČMKU, GCH CZ, SK",
+      "shows": "JBIS II, BIG4, BOB, BOJ, BOS, CACIB, Národní vítěz, KV mladých, V",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "title": "Mgr.",
+        "first_name": "Helena",
+        "last_name": "Daňková",
+        "address": {
+          "street": "Na Vyhlídce",
+          "number": "592",
+          "city": "Rájec - Jestřebí",
+          "post_code": "67902"
+        },
+        "phone": "+420739096565",
+        "email": "helena.dankova@post.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "male",
+      "visible": true,
+      "name": "GORDON HALL BOURBON WHISKEY",
+      "date_of_birth": "2020-06-30",
+      "clp": "6581",
+      "father": "Aerden's Silver Fog Collection",
+      "mother": "Gordon Hall Jasmine",
+      "body": {
+        "height": "63",
+        "color": "modrý bělouš",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true
+      },
+      "championships": "JCH CZ, MNE, BiH",
+      "shows": "World Junior Winner 2021, BIG, BIG Junior, BOB, CAC, CAJC, V",
+      "exams": "ZV - I. c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Jaroslav",
+        "last_name": "Šeda",
+        "address": {
+          "street": "Na Rybníčkách",
+          "number": "160",
+          "city": "Pardubice",
+          "post_code": "53301"
+        },
+        "phone": "775608861",
+        "email": "avalance2@seznam.cz"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
