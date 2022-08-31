@@ -283,7 +283,7 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "TERA Z LUKOVSKÝCH LÁNU",
       "date_of_birth": "2015-10-03",
       "date_vyrazeni": "2022-08-31",
@@ -410,7 +410,7 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "JURA BRUTAR",
       "date_of_birth": "2015-11-20",
       "date_vyrazeni": "2022-08-31",
