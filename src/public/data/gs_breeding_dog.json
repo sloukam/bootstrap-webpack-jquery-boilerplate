@@ -1732,6 +1732,142 @@
     {
       "breed": "GS",
       "sex": "male",
+      "datum_uchovneni": "2022-08-24",
+      "visible": true,
+      "name": "Ares Sanybell",
+      "date_of_birth": "2019-08-31",
+      "clp": "6923",
+      "father": "Passion Fild Pay No Mind",
+      "mother": "Blaire Pearl Moravia",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "6923",
+        "father": {
+          "name": "Passion Fild Pay No Mind",
+          "father": {
+            "name": "Kingpoint Everywhere",
+            "father": {
+              "name": "Windcrest Once in A Blue Moon",
+              "father": {
+                "name": "Woodsmoke´s Classic Alibi CD"
+              },
+              "mother": {
+                "name": "Buteo´s Dixie of Windcrest"
+              }
+            },
+            "mother": {
+              "name": "Kingpoint Afterhought",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            }
+          },
+          "mother": {
+            "name": "Sangerfild Empire de la Mode",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Sangerfild Creme de la Creme",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Free Minds Cleopatra"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6649",
+          "name": "Blaire Pearl Moravia",
+          "father": {
+            "clp": "6286",
+            "name": "Zir z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6429",
+            "name": "Ashley Princess Pearl Moravia",
+            "father": {
+              "name": "Atrei z Tomanikových vŕškov",
+              "father": {
+                "clp": "5479",
+                "name": "Grand Bojandolí"
+              },
+              "mother": {
+                "clp": "5393",
+                "name": "Cita z Nedvězí"
+              }
+            },
+            "mother": {
+              "clp": "6079",
+              "name": "Cinderella Carolain Áres Šamarkan",
+              "father": {
+                "name": "Dreamer Misialinka"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "71",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "výborný, CAC, res.CACIB, Vítěz třídy, Oblastní Vítěz",
+      "exams": "ZV I.c, BZ II.c.",
+      "owner": {
+        "first_name": "Barbara",
+        "last_name": "Hubáčková",
+        "address": {
+          "street": "Častkov",
+          "number": "36",
+          "city": "Častkov",
+          "post_code": "68712"
+        },
+        "email": "boc.hubackova@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
       "visible": true,
       "name": "Ganter z Dvorku Čamourku",
       "date_of_birth": "2019-09-16",
@@ -1863,9 +1999,11 @@
     {
       "breed": "GS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "CROCCO SCOTCH DO POLE",
       "date_of_birth": "2020-03-30",
+      "date_vyrazeni": "2022-08-31",
+      "duvod_vyrazeni": "uhyn",
       "clp": "6983",
       "father": "Fieldtalk´s Juri´S´Joker",
       "mother": "Abigail Scotch do pole",
@@ -1989,6 +2127,150 @@
         "email": "romana.rychla@email.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "datum_uchovneni": "2022-06-18",
+      "visible": true,
+      "name": "DANTE´S MYSTERY Dark House of Gordons",
+      "date_of_birth": "2020-10-06",
+      "clp": "7146",
+      "father": "Emil z Wenytry",
+      "mother": "Amellie Dark House of Gordons",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "7146",
+        "father": {
+          "clp": "6518",
+          "name": "Emil z Wenytry",
+          "father": {
+            "name": "Flash von Pinnower Moor",
+            "father": {
+              "name": "Painted-Black of Darkmoor",
+              "father": {
+                "name": "Zwinny Bandyta Dutch Jagger"
+              },
+              "mother": {
+                "name": "Timberley van Monte di Angeli"
+              }
+            },
+            "mother": {
+              "name": "Annabell vom Pinnower Moor",
+              "father": {
+                "name": "Nero Ebony"
+              },
+              "mother": {
+                "name": "Alisa vom Sperlingsgarten"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6177",
+            "name": "Anabell z Wenytry",
+            "father": {
+              "clp": "5633",
+              "name": "Terry Czech Pamir",
+              "father": {
+                "clp": "5320",
+                "name": "Agip Jinonický dvůr"
+              },
+              "mother": {
+                "clp": "5137",
+                "name": "Pamir Ronnie"
+              }
+            },
+            "mother": {
+              "clp": "5808",
+              "name": "Arwen z Mukuprun",
+              "father": {
+                "clp": "5547",
+                "name": "Orlan z Podmaršovic"
+              },
+              "mother": {
+                "clp": "5470",
+                "name": "Agatha Bohemia Setter"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Amellie Dark House of Gordons",
+          "father": {
+            "clp": "6254",
+            "name": "Dark Devil Áres Šamarkan",
+            "father": {
+              "clp": "5649",
+              "name": "Glen z Želečky",
+              "father": {
+                "clp": "5479",
+                "name": "Grand Bojandolí"
+              },
+              "mother": {
+                "clp": "5350",
+                "name": "Elza z Želečky"
+              }
+            },
+            "mother": {
+              "clp": "5856",
+              "name": "Bumble-Bee Áres Šamarkan",
+              "father": {
+                "clp": "5658",
+                "name": "Koran Bojandolí"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6290",
+            "name": "Zara Otis z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "velmi dobrý",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Helena ",
+        "last_name": "Krejczy Andrejovská",
+        "address": {
+          "street": "Kuldova",
+          "number": "18",
+          "city": "Brno",
+          "post_code": "61500"
+        },
+        "phone": "607 164 671",
+        "email": "hupik1@gmail.com"
+      }
     }
   ]
 }
