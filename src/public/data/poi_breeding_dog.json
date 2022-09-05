@@ -1424,7 +1424,7 @@
         "HD": "A"
       },
       "shows": "V1,CAC,CACIB.BOB",
-      "exams": "ZV-I.c,",
+      "exams": "ZV-I.c, KPZ-I.c, KVP-II.c",
       "owner": {
         "first_name": "Nikol",
         "last_name": "Hajmonová",
@@ -1439,6 +1439,66 @@
         "web": "https://www.agelmoravia.cz/"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2022-09-05",
+      "visible": true,
+      "name": "Aron z Žešovského vršku",
+      "date_of_birth": "2019-08-24",
+      "clp": "11666",
+      "father": "Car od Zeleného stolu",
+      "mother": "Fera z Helmu",
+      "body": {
+        "height": "68",
+        "color": "bíložemlová",
+        "HD": "A"
+      },
+      "shows": "V1,CAC.res.CAC-CACIB,BOB",
+      "exams": "ZVI.c,KPZ I.c,",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "David ",
+        "last_name": "Obračaj",
+        "address": {
+          "street": "Určická",
+          "number": "1284/39",
+          "city": "Prostějov ",
+          "post_code": "79601"
+        },
+        "email": "david.obracaj@post.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2022-08-05",
+      "visible": true,
+      "name": "BLACK Z GAŠPARÍKOVHO DVORA",
+      "date_of_birth": "2020-09-24",
+      "clp": "11765",
+      "father": "KRÁL Z DOLNIC",
+      "mother": "NELA SOMOLA",
+      "body": {
+        "height": "63",
+        "color": "černá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "V1,CAC,BOJ",
+      "exams": "ZV.I,c,",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Andrýsek",
+        "address": {
+          "street": "Sazovice",
+          "number": "90",
+          "city": "Mysločovice, Zlín",
+          "post_code": "76301"
+        },
+        "phone": "+420 739 644 759",
+        "email": "andrysek.zdenek@seznam.cz"
+      }
     }
   ]
 }
