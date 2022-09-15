@@ -1,6 +1,47 @@
 {
   "years": [
     {
+      "year": "2022",
+      "items": [
+        {
+          "id": "I/22",
+          "publicationDate": "2021-01-11",
+          "breeder": "Lymarkos",
+          "bitch": "Latin Lover Vertigo",
+          "dog": "",
+          "releaseDate": " nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "II/22",
+          "publicationDate": "2022-03-22",
+          "breeder": "Lymarkos",
+          "bitch": "Brigitte Bardot Lymarkos",
+          "dog": "Allistar Mister of Settercity",
+          "releaseDate": "2022-06-01",
+          "puppies": "1/5"
+        },
+        {
+          "id": "III/22",
+          "publicationDate": "2022-08-07",
+          "breeder": "DAMA Krkonoše",
+          "bitch": "B Update DAMA Hunting Dog - nečlen",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/22",
+          "publicationDate": "2022-08-23",
+          "breeder": "Moravská LeRůž",
+          "bitch": "Tennessee Morrison",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2021",
       "items": [
         {
@@ -8,9 +49,9 @@
           "publicationDate": "2021-01-18",
           "breeder": "z Krásné doliny",
           "bitch": "Riky z Krzáku",
-          "dog": "",
-          "releaseDate": "nakryto",
-          "puppies": ""
+          "dog": "Slash Morrison",
+          "releaseDate": "2021-04-21",
+          "puppies": "4/4"
         },
         {
           "id": "II/21",
@@ -18,7 +59,7 @@
           "breeder": "Lymarkos",
           "bitch": "Latin Lover Vertigo",
           "dog": "",
-          "releaseDate": "prozatím nevyužito",
+          "releaseDate": "nevyužito",
           "puppies": ""
         }
       ]
