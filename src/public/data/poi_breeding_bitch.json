@@ -3869,9 +3869,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "Baileys ze Zaječích polí",
       "date_of_birth": "2019-04-18",
+      "datum_vyrazeni": "2022-09-19",
       "clp": "11616",
       "father": "AVON",
       "mother": "Audrey ze Zaječích polí",
@@ -3930,9 +3931,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BRILLIANT ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
+      "datum_vyrazeni": "2022-09-19",
       "clp": "11613",
       "father": "AVON",
       "mother": "Audrey ze Zaječích polí",

@@ -298,9 +298,10 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "OLIVER ZE ŠTÍPEK",
       "date_of_birth": "2012-01-31",
+      "datum_vyrazeni": "2022-09-19",
       "clp": "10865",
       "father": "Diablo ze Štípek",
       "mother": "Indi Juta z Bolatic",
