@@ -3987,6 +3987,36 @@
         "web": "https://www.agelmoravia.cz/"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2022-04-07",
+      "visible": true,
+      "name": "Amálka  z Blanských luk",
+      "date_of_birth": "2020-02-18",
+      "clp": "11741",
+      "father": "Ardy del WinePoint",
+      "mother": "Holly z bKarczewskiej zagrody",
+      "body": {
+        "height": "59",
+        "color": "bílohněda",
+        "HD": "A"
+      },
+      "shows": "V1,CAJC,CAC,VT,OV",
+      "exams": "ZV.I,c,MJL III.c,NFT-solo dobře 9b,",
+      "owner": {
+        "first_name": "VIKTOR",
+        "last_name": "MÁRA",
+        "address": {
+          "street": "HŘIBY ",
+          "number": "54",
+          "city": "VITICE",
+          "post_code": "28106"
+        },
+        "phone": "+420775 785 087",
+        "email": "mara.viktor@gmail.com"
+      }
     }
   ]
 }
