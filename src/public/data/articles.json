@@ -2,6 +2,18 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220028,
+      "publishDate": "2022/10/03",
+      "title": "Klubové podzimní zkoušky se ruší",
+      "paragraphs": [
+        "<span class=\"red\">Klubové podzimní zkoušky se ruší</span> z důvodu malého počtu přihlášených psů, děkujeme za pochopení."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220027,
       "publishDate": "2022/08/12",
       "title": "Zápis z výborové schůze",
