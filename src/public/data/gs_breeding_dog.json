@@ -2272,6 +2272,131 @@
         "email": "hupik1@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "datum_uchovneni": "2022-09-17",
+      "visible": true,
+      "name": "Gael from Stirling Bridge",
+      "date_of_birth": "2021-04-10",
+      "clp": "7103",
+      "father": "Cameron From Stirling Bridge",
+      "mother": "History Of Soul \"Murron\" Under Sett",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "7103",
+        "father": {
+          "name": "Cameron From Stirling Bridge",
+          "father": {
+            "name": "Laurelhach Legend",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance With Me of Shillay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue A Story"
+              }
+            },
+            "mother": {
+              "name": "Triseter Ebonie Zena with Laurelhach",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            }
+          },
+          "mother": {
+            "name": "Stirling Bridge Arwen",
+            "father": {
+              "name": "Nice Ryver Boby \"Báró\"",
+              "father": {
+                "name": "Lourdace Crispin"
+              },
+              "mother": {
+                "name": "Guinness Honeybee"
+              }
+            },
+            "mother": {
+              "name": "Gor-Csa Igrain \"Ira\"",
+              "father": {
+                "name": "Triomfante van Monte di Angeli"
+              },
+              "mother": {
+                "name": "Gor-Csa Midway"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "History OF Soul \"Murron\" Under Sett",
+          "father": {
+            "name": "Goango Black Booms",
+            "father": {
+              "name": "Kingpoint Contradiction",
+              "father": {
+                "name": "Rivermist Square Dancer"
+              },
+              "mother": {
+                "name": "Kingpoint Bagheera"
+              }
+            },
+            "mother": {
+              "name": "Ludstar Kriter",
+              "father": {
+                "name": "Triseter Ebonie Scot"
+              },
+              "mother": {
+                "name": "Ludstar Mrs. Pott"
+              }
+            }
+          },
+          "mother": {
+            "name": "Valencia Klan Basów",
+            "father": {
+              "name": "Ludstar Vincenzo",
+              "father": {
+                "name": "Ludstar Tamburello"
+              },
+              "mother": {
+                "name": "Liric Summer Liaison with Ludstar"
+              }
+            },
+            "mother": {
+              "name": "Barbara Of MacLeod",
+              "father": {
+                "name": "Lourdace Crispin "
+              },
+              "mother": {
+                "name": "Gloria v. Frohnhof"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "velmi dobrý",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Radislav a Jitka ",
+        "last_name": "Nemetovi",
+        "address": {
+          "street": "Komenského ",
+          "number": "33",
+          "city": "Šternberk",
+          "post_code": "78501"
+        },
+        "phone": "736292668",
+        "email": "nemet.radislav@gmail.com"
+      }
     }
   ]
 }
