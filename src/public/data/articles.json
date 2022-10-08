@@ -3,6 +3,18 @@
     {
       "visible": true,
       "articleId": 20220028,
+      "publishDate": "2022/10/08",
+      "title": "Klubové zkoušky vloh se přesouvají",
+      "paragraphs": [
+        "Zkoušky vloh naplánované na 9.10.2022 se přesouvají na jiný termín, děkujeme za pochopení."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220028,
       "publishDate": "2022/10/03",
       "title": "Klubové podzimní zkoušky se ruší",
       "paragraphs": [
