@@ -26,6 +26,27 @@
     },
     {
       "visible": true,
+      "articleId": 20220028,
+      "publishDate": "2022/08/23",
+      "title": "Výsledky Poháru MSKAO PZ + VP",
+      "paragraphs": [
+        "Přinášíme Vám výsledky Poháru MSKAO - podzimní zkoušky a vodní práce. Celkovým vítězem se stal <b>Akim z Divoženčiny náruče</b> pod vedením Lubomíra Prokopa.",
+        "<b class=\"red\">Gratulujeme!!!</b>",
+        "Kompletní výsledkovou listimu si můžete prohlédnout <a href=\"./public/pdf/2022/220813-pohar_mskao/vysledky.pdf\" target=\"_blank\">ZDE</a>."
+      ],
+      "images": [
+        "./public/pdf/2022/220813-pohar_mskao/vysledky.png"
+      ],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2022/220813-pohar_mskao/vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220027,
       "publishDate": "2022/08/12",
       "title": "Zápis z výborové schůze",
