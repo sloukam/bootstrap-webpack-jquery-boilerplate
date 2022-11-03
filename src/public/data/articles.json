@@ -2,6 +2,22 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20220031,
+      "publishDate": "2022/11/03",
+      "title": "Irský setr - štěňata",
+      "paragraphs": [
+        "Chovatelská stanice SCHERPY (Slovensko) zadá štěňata irského setra narozená 18.10.2022 ze spojení Aaron Arno Redweed x Alba Lorddog. Předpoklad kvalitního exteriéru, vyrovnaných povah i dobrých pracovních vlastností.",
+        "Kontakt:",
+        "Andrea Petrášová Adamčíková, Senica<br>e-mail: adullka3@gmail.com<br>tel.: +421 907 060 214",
+
+        "<a href=\"./public/inzerce/221103-Petrasova_Adamcikova_IS/01.jpg\" target=\"_blank\"><img src=\"../public/inzerce/221103-Petrasova_Adamcikova_IS/01.jpg\" height=\"170\" width=\"170\"></a>"
+      ],
+      "images": [
+        "./public/images/IS-bw.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220030,
       "publishDate": "2022/10/18",
       "title": "Štěňata gordonsetra",
