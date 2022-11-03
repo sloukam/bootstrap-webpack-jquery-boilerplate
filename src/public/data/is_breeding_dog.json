@@ -4916,7 +4916,7 @@
         "rcd4": "clear",
         "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
       },
-      "shows": "V, res.CAC, CAC, OV",
+      "shows": "V, res.CAC, CAC, OV, CACIB",
       "exams": "ZV I.cena",
       "owner": {
         "first_name": "Lucie",
@@ -5174,7 +5174,7 @@
         "other": "CLAD gen. N/N"
       },
       "championships": "JCH ČR, CH ČR, CH SLO",
-      "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB",
+      "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB, CACIB, BOB, BIG",
       "exams": "ZV I.cena - CACT, PZ I.cena",
       "owner": {
         "title": "Mgr.",
