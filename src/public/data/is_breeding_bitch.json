@@ -4491,6 +4491,276 @@
         "phone": "+420 721 161 987",
         "email": "verustechovska@gmail.com"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "GLORIA ESTATE MAHAGONY PAW",
+      "date_of_birth": "2020-04-02",
+      "clp": "16866",
+      "father": "Flannery Rick Mahagony Paw",
+      "mother": "Country Melody Mahagony Paw",
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "CLAD gen. N/N"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16866",
+        "father": {
+          "clp": "16576",
+          "name": "Flannery Rick Mahagony Paw",
+          "father": {
+            "name": "Paris Match Thendara",
+            "father": {
+              "name": "Gwendariff Pop The Question",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            },
+            "mother": {
+              "name": "Thendara Lenamore",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Thendara Capriati"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16166",
+            "name": "Electra Ruby Mahagony Paw",
+            "father": {
+              "name": "Garden Star´s Red Bull",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            },
+            "mother": {
+              "clp": "15043",
+              "name": "Assonance Mahagony Paw",
+              "father": {
+                "name": "Vicary´s Cobacabana"
+              },
+              "mother": {
+                "clp": "14401",
+                "name": "Country Melody Jenny´s Irsal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15852",
+          "name": "Country Melody Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Royal Legend",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15042",
+            "name": "Ashley Punk Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, CAC, VSV, BOS",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Romana Patricia",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem",
+          "number": "14",
+          "city": "Praha 10",
+          "post_code": "10700"
+        },
+        "phone": "+420 603 410 711",
+        "email": "romana@daneswucetnictvi.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "HONEY ROSE MAHAGONY PAW",
+      "date_of_birth": "2021-03-29",
+      "clp": "17139",
+      "father": "Oakdene Que Du Bonheur",
+      "mother": "Electra Ruby Mahagony Paw",
+      "body": {
+        "height": "57",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "CLAD gen. N/N"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17139",
+        "father": {
+          "name": "Oakdene Que Du Bonheur",
+          "father": {
+            "name": "Jonola Dr. Doolittle",
+            "father": {
+              "name": "Lochfrae Ralph Lauren",
+              "father": {
+                "name": "Jonola Adonis at Redchester"
+              },
+              "mother": {
+                "name": "Lochfrae Miss Saigon"
+              }
+            },
+            "mother": {
+              "name": "Jonola Bellstar",
+              "father": {
+                "name": "Jonola Southernconnection"
+              },
+              "mother": {
+                "name": "Jonola Libertybelle"
+              }
+            }
+          },
+          "mother": {
+            "name": "Oakdene Nothing Compares 2U",
+            "father": {
+              "name": "Thendara Satisfaction",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Thendara Vanilla Ice"
+              }
+            },
+            "mother": {
+              "name": "Oakdene Kilby",
+              "father": {
+                "name": "Thendara Frozen Asset"
+              },
+              "mother": {
+                "name": "Mayfred Mrs. Robinson"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, CAC, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Romana Patricia",
+        "last_name": "Kšírová",
+        "address": {
+          "street": "Za Hřbitovem ",
+          "number": "14",
+          "city": "Praha 10",
+          "post_code": "10700"
+        },
+        "phone": "+420 603 410 711",
+        "email": "romana@daneswucetnictvi.cz"
+      }
     }
   ]
 }
