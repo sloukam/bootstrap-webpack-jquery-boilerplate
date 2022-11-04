@@ -1486,7 +1486,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AUDREY Z MEŠINSKÉ HÁJOVNY",
       "date_of_birth": "2015-04-29",
       "clp": "11182",
@@ -3451,7 +3451,7 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AFFI ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2018-06-05",
       "clp": "11500",
