@@ -420,7 +420,7 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "AVON",
       "date_of_birth": "2014-04-01",
       "clp": "11537",
