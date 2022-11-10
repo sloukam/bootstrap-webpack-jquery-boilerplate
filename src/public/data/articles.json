@@ -2,6 +2,19 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20210039,
+      "publishDate": "2022/11/10",
+      "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
+      "paragraphs": [
+        "Zdravím všechny členy a příznivce našeho Moravskoslezského klubu anglických ohařů. Rádi bychom Vám, jako každoročně, dali příležitost stát se součástí klubové ročenky za tento kalendářní rok.",
+        "Na Vaše příspěvky, články, reportáže a inzerci netrpělivě čekáme na emailové adrese <a href=\"mailto:rocenka@mskao.cz?subject=Material%20do%20rocenky\">rocenka@mskao.cz</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20220031,
       "publishDate": "2022/11/03",
       "title": "Irský setr - štěňata",
