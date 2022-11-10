@@ -2,12 +2,26 @@
   "articles": [
     {
       "visible": true,
-      "articleId": 20210039,
+      "articleId": 20220039,
       "publishDate": "2022/11/10",
       "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
       "paragraphs": [
         "Zdravím všechny členy a příznivce našeho Moravskoslezského klubu anglických ohařů. Rádi bychom Vám, jako každoročně, dali příležitost stát se součástí klubové ročenky za tento kalendářní rok.",
-        "Na Vaše příspěvky, články, reportáže a inzerci netrpělivě čekáme na emailové adrese <a href=\"mailto:rocenka@mskao.cz?subject=Material%20do%20rocenky\">rocenka@mskao.cz</a>"
+        "Na Vaše příspěvky, články, reportáže a inzerci netrpělivě čekáme na emailové adrese <a href=\"mailto:rocenka@mskao.cz?subject=Material%20do%20rocenky\">rocenka@mskao.cz</a> do 15.12.2022.",
+        "V případě dotazů se obraťte na <i>tiskvého referenta</i> na emailu <b>web.mskao@gmail.com</b>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220039,
+      "publishDate": "2022/11/10",
+      "title": "Pes roku 2022 - exteriér a výkon",
+      "paragraphs": [
+        "Připomínáme možnost našich členů přihlásit svého psa/fenu do soutěží <b>\"Pes roku - exteriér\"</b> a <b>\"Pes roku - výkon\"</b>. Přihlášky zasílejte do 31.1.2023.",
+        "Všechny potřebné informace najdete na našich stránách v sekci <a href=\"./pes_roku.html\"><b>klubové akce -> pes roku</b></a>"
       ],
       "images": [
         "./public/images/logo.png"
