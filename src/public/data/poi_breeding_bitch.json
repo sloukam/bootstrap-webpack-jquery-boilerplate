@@ -3658,9 +3658,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "Dorka od Zeleného stolu",
       "date_of_birth": "2018-09-15",
+      "datum_vyrazeni": "2022-11-22",
       "clp": "11532",
       "father": "Car od Zeleného stolu",
       "mother": "Cilka z Borovinky",
