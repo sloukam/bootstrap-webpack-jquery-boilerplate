@@ -864,9 +864,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "POLI OD NEZDICKÉHO POTOKA",
       "date_of_birth": "2014-03-09",
+      "datum_vyrazeni": "2022-11-22",
       "clp": "11031",
       "father": "Hako z Mešinské hájovny",
       "mother": "Lili od Nezdického potoka",
@@ -2975,9 +2976,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "CEDRA Z MIROSLAVSKÉHO DVORA",
       "date_of_birth": "2016-01-09",
+      "date_vyrazeni": "2022-11-29",
       "clp": "11256",
       "father": "Bert Bohemia Frony",
       "mother": "Porta WK-SB",

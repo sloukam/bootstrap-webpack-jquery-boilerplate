@@ -988,9 +988,10 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "AMPIO DEL WINEPOINT",
       "date_of_birth": "2017-04-21",
+      "datum_vyrazeni": "2022-11-22",
       "clp": "11436",
       "father": "Dio Vom Kleebachtal",
       "mother": "Pawprint Flaming Soul",
