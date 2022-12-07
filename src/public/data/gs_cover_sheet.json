@@ -1,6 +1,74 @@
 {
   "years": [
     {
+      "year": "2022",
+      "items": [
+        {
+          "id": "I/22",
+          "publicationDate": "2022-01-23",
+          "breeder": "Dorcanell",
+          "bitch": "Smashing Pumpkin Revolution Breeze",
+          "dog": "",
+          "releaseDate": "2022-04-24",
+          "puppies": "4/4"
+        },
+        {
+          "id": "II/22",
+          "publicationDate": "2022-01-25",
+          "breeder": "z Holubické stráně",
+          "bitch": "Double Dream Loveset Tollers Cosa Nostra",
+          "dog": "",
+          "releaseDate": "2022-04-08",
+          "puppies": "5/8"
+        },
+        {
+          "id": "III/22",
+          "publicationDate": "2022-02-18",
+          "breeder": "Red Fern Hunters",
+          "bitch": "Famous Divine Idile Kochanej Emilki",
+          "dog": "",
+          "releaseDate": "2022-04-22",
+          "puppies": "2/2"
+        },
+        {
+          "id": "IV/22",
+          "publicationDate": "2022-02-22",
+          "breeder": "Pearl Moravia",
+          "bitch": "Carrie April Pearl Moravia",
+          "dog": "",
+          "releaseDate": "nevyužitý",
+          "puppies": ""
+        },
+        {
+          "id": "V/22",
+          "publicationDate": "2022-03-14",
+          "breeder": "Silesia setter",
+          "bitch": "Freya u Holubické stráně",
+          "dog": "",
+          "releaseDate": "2022-05-21",
+          "puppies": "6/3"
+        },
+        {
+          "id": "VI/22",
+          "publicationDate": "2022-04-28",
+          "breeder": "",
+          "bitch": "Darsy Pexeso",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VII/22",
+          "publicationDate": "2022-08-24",
+          "breeder": "z Dvorku Čamourku",
+          "bitch": "Elza z Dvorku Čamourku",
+          "dog": "",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2021",
       "items": [
         {
@@ -9,8 +77,8 @@
           "breeder": "Love My Chocolate Soul",
           "bitch": "Enjoy Victory z Holubické stráně",
           "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "releaseDate": "2021-07-01",
+          "puppies": "0/2"
         },
         {
           "id": "II/21",
@@ -18,8 +86,8 @@
           "breeder": "Red Fern Hunters",
           "bitch": "De La Chapelle Manon Lescaut",
           "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "releaseDate": "2021-05-29",
+          "puppies": "3/3"
         },
         {
           "id": "III/21",
@@ -27,7 +95,25 @@
           "breeder": "Manon Lescaut",
           "bitch": "Caffé Racer Manon Lescaut",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "2021-06-03",
+          "puppies": "2/5"
+        },
+        {
+          "id": "IV/21",
+          "publicationDate": "2021-11-09",
+          "breeder": "Sanybell",
+          "bitch": "Blaire Pearl Moravia",
+          "dog": "",
+          "releaseDate": "2022-03-15",
+          "puppies": "2/1"
+        },
+        {
+          "id": "V/21",
+          "publicationDate": "2021-12-13",
+          "breeder": "Neverending Grace",
+          "bitch": "Barracuda Neverending Grace",
+          "dog": "",
+          "releaseDate": "nevyužitý",
           "puppies": ""
         }
       ]
