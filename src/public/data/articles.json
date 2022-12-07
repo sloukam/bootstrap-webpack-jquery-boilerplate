@@ -20,11 +20,32 @@
       "publishDate": "2022/11/10",
       "title": "Pes roku 2022 - exteriér a výkon",
       "paragraphs": [
-        "Připomínáme možnost našich členů přihlásit svého psa/fenu do soutěží <b>\"Pes roku - exteriér\"</b> a <b>\"Pes roku - výkon\"</b>. Přihlášky zasílejte do 31.1.2023.",
+        "Připomínáme možnost našich členů přihlásit svého psa/fenu do soutěží <b>\"Pes roku - exteriér\"</b> a <b>\"Pes roku - výkon\"</b>. Přihlášky zasílejte do 15.1.2023.",
         "Všechny potřebné informace najdete na našich stránách v sekci <a href=\"./pes_roku.html\"><b>klubové akce -> pes roku</b></a>"
       ],
       "images": [
         "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220028,
+      "publishDate": "2022/08/23",
+      "title": "Výsledky klubových zkoušek vloh 29.10.2022",
+      "paragraphs": [
+        "Přinášíme Vám výsledky klubových zkoušek vloh. Vítězem se stal <b>Alrick od Pálavských vršků</b> pod vedením Víta Bravence.",
+        "<b class=\"red\">Gratulujeme!!!</b>",
+        "Kompletní výsledkovou listimu si můžete prohlédnout <a href=\"./public/pdf/2022/221009-kzv/vysledky.pdf\" target=\"_blank\">ZDE</a>."
+      ],
+      "images": [
+        "./public/pdf/2022/221009-kzv/vysledky.png"
+      ],
+      "attachments": [
+        {
+          "description": "výsledky",
+          "filePath": "./public/pdf/2022/220813-pohar_mskao/vysledky.pdf",
+          "type": "pdf"
+        }
       ]
     },
     {
