@@ -641,7 +641,43 @@
         "email": "sylva.vanzurova@centrum.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2022-12-08",
+      "visible": true,
+      "name": "Bridgette z Krásné doliny",
+      "date_of_birth": "2021-04-21",
+      "clp": "6540",
+      "father": "Slash Morrison",
+      "mother": "Riky z Krzáku",
+      "body": {
+        "height": "60",
+        "color": "modrý bělouš",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "JCH CZ",
+      "shows": "CAJC, CAC",
+      "exams": "ZV - I. cena",
+      "owner": {
+        "first_name": "Jaromír",
+        "last_name": "Kadeřávek",
+        "address": {
+          "street": "Kounice",
+          "number": "201",
+          "city": "Kounice",
+          "post_code": "28915"
+        },
+        "phone": "606 782 489",
+        "email": "jedunka@seznam.cz"
+      },
+      "co-owner": {
+        "first_name": "Jitka",
+        "last_name": "Kadeřávková"
+      },
+      "img_ext": "jpg"
     }
-
   ]
 }

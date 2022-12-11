@@ -929,6 +929,39 @@
         "email": "avalance2@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "male",
+      "datum_uchovneni": "2022-12-07",
+      "visible": true,
+      "name": "Benet z Krásné doliny",
+      "date_of_birth": "2021-04-21",
+      "clp": "6536",
+      "father": "Slash Morrison",
+      "mother": "Riky z Krzáku",
+      "body": {
+        "height": "65",
+        "color": "oranžový bělouš",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "JCH CZ",
+      "shows": "CAJC, BOJ, CAC",
+      "exams": "ZV - I. cena",
+      "owner": {
+        "first_name": "Jindřich",
+        "last_name": "Bláha",
+        "address": {
+          "street": "Jestřábí Lhota",
+          "number": "69",
+          "city": "Kolín",
+          "post_code": "28002"
+        },
+        "phone": "723981426",
+        "email": "jindrich.blaha@amrest.eu"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
