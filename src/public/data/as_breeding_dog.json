@@ -182,12 +182,13 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "AL PRIMO LORIDAM LYMARKOS",
       "championships": "CH ČR, SK, JCH ČR",
       "clp": "6017",
       "date_of_birth": "2012-06-17",
+      "date_vyrazeni": "2022-12-11",
       "sex": "male",
       "body": {
         "height": "65",

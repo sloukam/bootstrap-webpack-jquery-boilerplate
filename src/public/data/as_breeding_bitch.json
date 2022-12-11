@@ -190,10 +190,11 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "LOUISA MORRISON",
       "date_of_birth": "2014-10-14",
+      "date_vyrazeni": "2022-12-11",
       "clp": "6128",
       "father": "Raven White Magenta",
       "mother": "Beretta Morrison",
@@ -221,10 +222,11 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "BASTA FIDLI BAMBOLA LYMARKOS",
       "date_of_birth": "2015-02-24",
+      "date_vyrazeni": "2022-12-11",
       "clp": "6153",
       "father": "Fanchon Paints It Black Jack",
       "mother": "Latin Lover Snow On the Sahara",
