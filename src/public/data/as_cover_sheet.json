@@ -9,7 +9,7 @@
           "breeder": "Lymarkos",
           "bitch": "Latin Lover Vertigo",
           "dog": "",
-          "releaseDate": " nezabřezla",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
@@ -27,7 +27,7 @@
           "breeder": "DAMA Krkonoše",
           "bitch": "B Update DAMA Hunting Dog - nečlen",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
@@ -35,6 +35,24 @@
           "publicationDate": "2022-08-23",
           "breeder": "Moravská LeRůž",
           "bitch": "Tennessee Morrison",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "V/22",
+          "publicationDate": "2022-10-24",
+          "breeder": "Lymarkos",
+          "bitch": "Latin Lover Vertigo",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VI/22",
+          "publicationDate": "2022-12-01",
+          "breeder": "Davaroni",
+          "bitch": "Editions Pointing Davaroni Girl",
           "dog": "",
           "releaseDate": "",
           "puppies": ""
