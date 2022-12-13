@@ -19,24 +19,42 @@
           "bitch": "Delly Daisy Rain",
           "dog": "Aaron Arno Redweed",
           "releaseDate": "2022-04-02",
-          "puppies": ""
+          "puppies": "8/7"
         },
         {
           "id": "III/22",
           "publicationDate": "2022-03-07",
           "breeder": "REGAL BEAUTY",
           "bitch": "Fiona Eimear Mahagony Paw",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Oakdene Que du Bonheur (BEL)",
+          "releaseDate": "2022-05-14",
+          "puppies": "4/5"
         },
         {
           "id": "IV/22",
           "publicationDate": "2022-04-08",
-          "breeder": "Z ŘÍMOVSKÉ STRÁNĚ\n",
+          "breeder": "Z ŘÍMOVSKÉ STRÁNĚ",
           "bitch": "Binjara Mahagon Kenya",
-          "dog": "",
-          "releaseDate": "",
+          "dog": "Bruno Mars Daisy Rain",
+          "releaseDate": "2022-06-22",
+          "puppies": "4/4"
+        },
+        {
+          "id": "V/22",
+          "publicationDate": "2022-04-08",
+          "breeder": "VERSAENN",
+          "bitch": "Enny Bohemia Tátrum",
+          "dog": "Alvin z Lukovečského remízu",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        },
+        {
+          "id": "VI/22",
+          "publicationDate": "2022-04-08",
+          "breeder": "DAISY RAIN",
+          "bitch": "Daiquiri Daisy Rain",
+          "dog": "Fire Of Freedom Dragonborn (PL)",
+          "releaseDate": "nakryto",
           "puppies": ""
         }
       ]
@@ -121,8 +139,8 @@
           "publicationDate": "2021-11-05",
           "breeder": "MAHOGANY DREAM CATCHER",
           "bitch": "Adina Meda Mahogany Dream Catcher",
-          "dog": "",
-          "releaseDate": null,
+          "dog": "Universe of Never-Ending Adventure All Irish Gold",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
