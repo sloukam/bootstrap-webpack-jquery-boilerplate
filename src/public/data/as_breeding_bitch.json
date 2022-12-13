@@ -655,6 +655,7 @@
       "body": {
         "height": "60",
         "color": "modrý bělouš",
+        "BAER": true,
         "HD": "A",
         "ED": "0/0"
       },

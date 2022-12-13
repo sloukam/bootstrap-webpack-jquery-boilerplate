@@ -943,6 +943,7 @@
       "body": {
         "height": "65",
         "color": "oranžový bělouš",
+        "BAER": true,
         "HD": "A",
         "ED": "0/0"
       },
