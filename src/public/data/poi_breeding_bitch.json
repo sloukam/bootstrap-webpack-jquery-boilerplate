@@ -3146,9 +3146,10 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BETTY Z KUNČINY VSI",
       "date_of_birth": "2015-03-04",
+      "datum_vyrazeni": "2022-12-17",
       "clp": "11116",
       "father": "Argo od Zeleného stolu",
       "mother": "Iris z Oklikova",
