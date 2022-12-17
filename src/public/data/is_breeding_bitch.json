@@ -1781,7 +1781,7 @@
         "HD": "B",
         "ED": "0/0"
       },
-      "championships": "CH SK, CH CRO, CH HU",
+      "championships": "CH ČR, CH SK, CH CRO, CH HU, GRAND ŠAMPION SR",
       "shows": "CAC, NV, CACIB, BOS, BOB",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
@@ -1794,7 +1794,8 @@
           "post_code": "67522"
         },
         "phone": "+420 608 646 666"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
