@@ -3,6 +3,17 @@
     {
       "visible": true,
       "articleId": 20220039,
+      "publishDate": "2022/12/18",
+      "title": "Úhrada členských příspěvků",
+      "paragraphs": [
+        "Připomínáme všem našim členům, že členské příspěvky mohou být uhrazeny do konce roku převodem na spolkový účet nebo na výroční členské schůzi.",
+        "Pro pohodlnější možnost platby přikládáme QR kód. Při jeho použití prosím <span class=\"red\">doplňte</span> jako <b>variabilní symbol</b> vaše <b>členské číslo</b>.",
+        "<img src=\"./public/images/platby/qr_clenstvi.png\" width=\"200\" height=\"200\"/>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220039,
       "publishDate": "2022/12/14",
       "title": "Pochlubte se svými šampióny",
       "paragraphs": [
