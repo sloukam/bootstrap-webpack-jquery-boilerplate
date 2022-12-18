@@ -3,6 +3,18 @@
     {
       "visible": true,
       "articleId": 20220039,
+      "publishDate": "2022/12/14",
+      "title": "Pochlubte se svými šampióny",
+      "paragraphs": [
+        "Vyzýváme všechny členy MSKAO, jejichž jedinci získali v právě končícím roce 2022 jakýkoliv výstavní šampiónát, aby se tímto úspěchem pochlubili. Připravujeme <b>\"galerii šampiónů\"</b>, a proto nám zašlete fotografii a získaný titul/tituly Vašeho jedince na <b><a href=\"mailto:web.mskao@gmail.com?subject=Informace%20ke%20vlozeni%20do%20galerie%20sampionu\">tuto</a></b> emailovou adresu. <b>Uzávěrka je do 15.1.2023</b>."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220039,
       "publishDate": "2022/11/10",
       "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
       "paragraphs": [
