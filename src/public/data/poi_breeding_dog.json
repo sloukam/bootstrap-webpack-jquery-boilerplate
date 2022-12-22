@@ -3,9 +3,10 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ENDY Z HOVORAN",
       "date_of_birth": "2009-01-11",
+      "datum_vyrazeni": "2022-12-22",
       "clp": "10532",
       "father": "Best di Torre Brencola",
       "mother": "Bora z Hovoran",
@@ -34,9 +35,10 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "IR Z OKLIKOVA",
       "date_of_birth": "2009-02-16",
+      "datum_vyrazeni": "2022-12-22",
       "clp": "10547",
       "father": "Ajax z Knollovy školy",
       "mother": "Brenda Blahud",
