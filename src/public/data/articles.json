@@ -3,6 +3,15 @@
     {
       "visible": true,
       "articleId": 20220039,
+      "publishDate": "2022/12/30",
+      "title": "PF 2023",
+      "paragraphs": [
+        "<img src=\"./public/images/2022/pf_2023.jpg\" width=\"400\" height=\"400\"/>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20220039,
       "publishDate": "2022/12/18",
       "title": "Úhrada členských příspěvků",
       "paragraphs": [
