@@ -5582,6 +5582,142 @@
         "phone": "+420 721 161 987",
         "email": "verustechovska@gmail.com"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "ZEUS Z HRADISKA RÁJCE",
+      "date_of_birth": "2019-10-05",
+      "clp": "16798",
+      "father": "Charon z Jirouškova dvora",
+      "mother": "Y-Kentigerna z Hradiska Rájce",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16798",
+        "father": {
+          "clp": "16399",
+          "name": "Charon z Jirouškova dvora",
+          "father": {
+            "clp": "15990",
+            "name": "Almost Picasso Daisy Rain",
+            "father": {
+              "name": "Cordarragh Picasso",
+              "father": {
+                "name": "Scotselaw Detroit Spinner By Thendara"
+              },
+              "mother": {
+                "name": "Cordarragh Lady in Red"
+              }
+            },
+            "mother": {
+              "clp": "15446",
+              "name": "Artemis Elimar Doubrava",
+              "father": {
+                "name": "Garden Star´s Irish Vagabond"
+              },
+              "mother": {
+                "clp": "14834",
+                "name": "Wictoria Becham z Arislandu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russell"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "clp": "13077",
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16047",
+          "name": "Y-Kentigerna z Hradiska Rájce",
+          "father": {
+            "name": "Neiven Amor´s Arrow",
+            "father": {
+              "name": "Centre Point Zambi",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Born To Be Happy Zambi"
+              }
+            },
+            "mother": {
+              "name": "Hawana Rude Ziólko",
+              "father": {
+                "name": "Gin Tonic of The Hunter´s Home"
+              },
+              "mother": {
+                "name": "Annais Rauhbaard"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15153",
+            "name": "X-Apache Lady z Hradiska Rájce",
+            "father": {
+              "clp": "13566",
+              "name": "Blesk z Bučovských hájů",
+              "father": {
+                "clp": "11704",
+                "name": "Kid Jokran"
+              },
+              "mother": {
+                "clp": "12844",
+                "name": "Bona z Niv"
+              }
+            },
+            "mother": {
+              "clp": "13941",
+              "name": "Vanilka z Hradiska Rájce",
+              "father": {
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13195",
+                "name": "Usty z Hradiska Rájce"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "65",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "CAC",
+      "exams": "ZV I,cena, PZ I.cena. VP I.cena",
+      "owner": {
+        "first_name": "Jaroslav ",
+        "last_name": "Mádr",
+        "address": {
+          "number": "102",
+          "city": "Vřesovice",
+          "post_code": "79809"
+        }
+      }
     }
   ]
 }
