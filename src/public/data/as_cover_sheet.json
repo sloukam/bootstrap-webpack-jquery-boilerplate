@@ -45,7 +45,7 @@
           "breeder": "Lymarkos",
           "bitch": "Latin Lover Vertigo",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "náhradní KL za I/22",
           "puppies": ""
         },
         {
@@ -55,6 +55,15 @@
           "bitch": "Editions Pointing Davaroni Girl",
           "dog": "",
           "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VII/22",
+          "publicationDate": "2022-12-20",
+          "breeder": "DAMA Krkonoše",
+          "bitch": "Editions Pointing Davaroni Girl",
+          "dog": "B Update DAMA Hunting Dog - nečlen",
+          "releaseDate": "náhradní KL za III/22",
           "puppies": ""
         }
       ]
