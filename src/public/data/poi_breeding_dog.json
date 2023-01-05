@@ -1218,7 +1218,8 @@
         "color": "bílohnědá",
         "HD": "A"
       },
-      "shows": "V1, CAC, RES.CAC, V1, CAC vítěz speciální výstavy",
+      "championships": "CH CZ",
+      "shows": "V1, CAC, RES.CAC, V1, CAC vítěz speciální výstavy, res.CACIB, CACIB",
       "exams": "ZV I.c CACT",
       "owner": {
         "first_name": "Marek",
@@ -1397,7 +1398,8 @@
         "color": "ORANŽOVOBÍLÁ",
         "HD": "A"
       },
-      "shows": "KV tř.mladých V3,V1 CAC",
+      "championships": "GrandCH CZ",
+      "shows": "KV tř.mladých V3,V1 CAC, res.CACIB",
       "exams": "K-ZV-I.c  CACT",
       "owner": {
         "first_name": "Marek",
