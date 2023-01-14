@@ -4026,6 +4026,37 @@
         "email": "mara.viktor@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2022-12-30",
+      "visible": true,
+      "name": "Bibi Sulíkovská stráň",
+      "date_of_birth": "2021-05-27",
+      "clp": "11856",
+      "father": "Elyen z Mešinské hájovny",
+      "mother": "Fany z Helmu",
+      "body": {
+        "height": "64",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "Dorost-VN1,VD1",
+      "exams": "ZV-I.c,",
+      "owner": {
+        "first_name": "Karel",
+        "last_name": "Pokorný",
+        "address": {
+          "street": "Sulíkov ",
+          "number": "8",
+          "city": "Křetín",
+          "post_code": "67962"
+        },
+        "phone": "+420 723 276 897",
+        "email": "karel8pokorny@seznam.cz",
+        "web": "http://www.sulikovska-stran.webnode.cz/"
+      }
     }
   ]
 }
