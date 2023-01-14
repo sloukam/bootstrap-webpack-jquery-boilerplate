@@ -1,6 +1,83 @@
 {
   "years": [
     {
+      "year": "2022",
+      "items": [
+        {
+          "id": "I/22",
+          "publicationDate": "2022-02-05",
+          "breeder": "OD TEKLY",
+          "bitch": "Anděla z Černých blat",
+          "dog": "Anook ze Štípek",
+          "releaseDate": "2022-04-09",
+          "puppies": "3/3"
+        },
+        {
+          "id": "II/22",
+          "publicationDate": "2022-02-10",
+          "breeder": "OD SVATÉ VODY",
+          "bitch": "Jorika Blahut",
+          "dog": "Aslan z Bítýšských bažin",
+          "releaseDate": "2022-08-14",
+          "puppies": "3/1"
+        },
+        {
+          "id": "III/22",
+          "publicationDate": "2022-03-18",
+          "breeder": "Z VEČEŘOVA DVORA",
+          "bitch": "Citra od Hlubokého úvozu ",
+          "dog": "",
+          "releaseDate": "nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "IV/22",
+          "publicationDate": "2022-03-19",
+          "breeder": "Kamila Hopjáková ",
+          "bitch": "Daillen z Měnínského les",
+          "dog": "Sáregresi POINTERLAND Athos",
+          "releaseDate": "2022-05-31",
+          "puppies": "3/4"
+        },
+        {
+          "id": "V/22",
+          "publicationDate": "2022-05-05",
+          "breeder": "ZE ZAJEČÍCH POLÍ ",
+          "bitch": "Baileys ze Zaječích polí",
+          "dog": "Pawprint Hight Five",
+          "releaseDate": "NEVYUŽITO -ZMĚNA KLUBU",
+          "puppies": ""
+        },
+        {
+          "id": "VI/22",
+          "publicationDate": "2022-05-05",
+          "breeder": "Žaneta Živělová",
+          "bitch": "Dorka od Zeleného stolu",
+          "dog": "AVON",
+          "releaseDate": "NEZABŘEZLA",
+          "puppies": ""
+        },
+        {
+          "id": "VII/22",
+          "publicationDate": "2022-06-01",
+          "breeder": "Z ŽEŠOVSKÉHO VRŠKU",
+          "bitch": "Fera z Helmu",
+          "dog": "Cool ze Štípek ",
+          "releaseDate": "NEVYUŽITO",
+          "puppies": ""
+        },
+        {
+          "id": "VIII/22",
+          "publicationDate": "2022-10-21",
+          "breeder": "Z VEČEŘOVA DVORA",
+          "bitch": "Citra od Hlubokého úvozu",
+          "dog": "Black z Gašparíkovho dvora",
+          "releaseDate": "2022-12-28",
+          "puppies": "4/7"
+        }
+      ]
+    },
+    {
       "year": "2021",
       "items": [
         {
