@@ -735,9 +735,10 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "DAYA Z DVORKU ČAMOURKU",
       "date_of_birth": "2014-01-08",
+      "datum_vyrazeni": "2023-01-21",
       "clp": "6493",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
@@ -870,9 +871,10 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "DEINA Z DVORKU ČAMOURKU",
       "date_of_birth": "2014-01-08",
+      "datum_vyrazeni": "2023-01-21",
       "clp": "6489",
       "father": "Zoom z Holubické stráně",
       "mother": "Bora z Dvorku Čamourku",
