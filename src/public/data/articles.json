@@ -2,6 +2,25 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230002,
+      "publishDate": "2023/02/02",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Zápis z výborové schůze konané dne 25.1.2023 naleznete <a href=\"./public/pdf/2023/230125-vyborova_schuze/zapis.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2023/230125-vyborova_schuze/zapis.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230001,
       "publishDate": "2023/02/02",
       "title": "GORDONSETR - štěňata",
