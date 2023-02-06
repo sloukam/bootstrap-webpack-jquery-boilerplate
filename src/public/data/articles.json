@@ -2,6 +2,29 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230003,
+      "publishDate": "2023/02/06",
+      "title": "Pozvánka na výroční členskou schůzi",
+      "paragraphs": [
+        "<div class=\"red\">POZVÁNKA NA VÝROČNÍ ČLENSKOU SCHŮZI MORAVSKOSLEZSKÉHO KLUBU ANGLICKÝCH OHAŘŮ</div>",
+        "Výroční členská schůze MSKAO se bude konat v neděli 12. března 2023 od 10:00 hodin v Hostinci U Palánů na adrese Žďárská 1717, 580 01 Havlíčkův Brod (hostinec bude otevřen od 9:30 hodin)",
+        "Program výroční členské schůze MSKAO",
+        "<ol><li>Zahájení – předsedající a informace o účasti</li><li>Volba mandátové komise</li><li>Volba návrhové komise</li><li>Volba zapisovatele a ověřovatele zápisu</li><li>Schválení programu výroční členské schůze</li><li>Usnesení výroční členské schůze MSKAO 2022</li><li>Zpráva předsedkyně MSKAO, včetně zprávy o hospodaření v roce 2022, schválení výsledku hospodaření v roce 2022 a návrhu hospodaření v roce 2023</li><li>Kooptace nové členky výboru</li><li>Zpráva matrikářky a informace o nových členech MSKAO</li><li>Akce v roce 2022 a plán akcí na rok 2023</li><li>Zprávy členů chovatelské komise</li><li>Zpráva kontrolní komise</li><li>Vyhodnocení soutěží Pes roku 2022</li><li>Gratulace jubilantům</li><li>Různé a diskuse</li><li>Návrh usnesení a hlasování o schválení usnesení výroční členské schůze</li><li>Ukončení</li></ol>",
+        "Těšíme se na Vaši účast.<br>Výbor Moravskoslezského klubu anglických ohařů, z.s."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/pozvanka.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230002,
       "publishDate": "2023/02/02",
       "title": "Zápis z výborové schůze",
