@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  <meta name="description" content=""/>
+  <meta name="author" content=""/>
+
+  <title id="pageTitle">www.mskao.cz</title>
+
+  <script id="dogDetailDesktop" type="text/template">
+    <h1>Chovní jedinci - ročenka - {{dogs.0.breed}}</h1>
+    <div class="rows-hover rows-stripped">
+    {{#each dogs}}
+      {{#if visible}}
+      <div class="row">
+        <div class="col">
+          {{name}}
+          <br>
+          Datum narození: {{dateFormat date_of_birth}}
+          <br>
+          Otec: {{father}}
+          <br>
+          Matka: {{mother}}
+          <br>
+          Zdraví: {{#if body.HD}}HD {{body.HD}}{{/if}}{{#if body.ED}}, ED {{body.ED}}{{/if}}{{#if (isDefined body.BAER)}}, BAER: {{#if body.BAER}}norm.{{else}}abnorm.{{/if}}{{/if}}{{#if body.rcd4}}, PRA rcd4 {{body.rcd4}}{{/if}}{{#if body.other}}, {{body.other}}{{/if}}
+          <br>
+          Exteriér: {{championships}}{{#if championships}}, {{/if}}{{shows}}
+          <br>
+          Výkon: {{exams}}
+          <br>
+          Majitel: {{owner.title}} {{owner.first_name}} {{owner.last_name}}{{#if co-owner.last_name}} a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}{{/if}}{{#if owner.address.street}}, {{owner.address.street}} {{owner.address.number}}, {{owner.address.post_code}} {{owner.address.city}}{{/if}}{{#if owner.phone}}, Tel.: {{owner.phone}}{{/if}}{{#if owner.email}}, e-mail: {{owner.email}}{{/if}}{{#if owner.web}}, {{trimProtocol owner.web}}{{/if}}{{#if other}}, {{other}}{{/if}}
+
+        </div>
+<!--        <div class="col-4">-->
+<!--          <div class="row justify-content-center border-0 img-tumbnail-max-height">-->
+<!--            {{#if img_ext}}-->
+<!--            <div class="col centralize-content pop">-->
+<!--              <img src="./public/images/{{breed}}/{{clp}}.{{img_ext}}" alt="{{name}}"-->
+<!--                   class="img-thumbnail img-rounded img-responsive img-max-height">-->
+<!--            </div>-->
+<!--            {{else}}-->
+<!--            <div class="col centralize-content">-->
+<!--              <img src="./public/images/{{breed}}-bw.png" alt=""-->
+<!--                   class="img-thumbnail img-rounded img-responsive img-max-height">-->
+<!--            </div>-->
+<!--            {{/if}}-->
+<!--          </div>-->
+<!--          {{#if img_ext}}-->
+<!--          <div class="row">-->
+<!--            <div class="col centralize-content">-->
+<!--              download fotky - <a href="./public/images/{{breed}}/{{clp}}.{{img_ext}}" download="{{name}}-{{breed}}-{{clp}}.{{img_ext}}">{{breed}}-{{clp}}.{{img_ext}}.</a>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          {{/if}}-->
+<!--        </div>-->
+      </div>
+      {{/if}}
+    {{/each}}
+    </div>
+  </script>
+
+</head>
+
+<body class="main">
+<div>
+  <div class="header-container">
+    <div class="header-container-content">
+      <div id="menu">menu</div>
+    </div>
+  </div>
+  <div class="main-container">
+    <div id="dogList">
+
+    </div>
+  </div>
+  <div id="footer-container">
+    <div id="footer-container-content">
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="image-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <img src="" class="imagepreview" style="width: 100%;" >
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
