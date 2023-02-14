@@ -2,6 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230001,
+      "publishDate": "2023/02/14",
+      "title": "Štěňata irského setra",
+      "paragraphs": [
+        "Zadáme štěňata irského setra narozená 1.2.2023, k odběru budou koncem března. Oba rodiče jsou využíváni v lovecké praxi. Chovatelský servis samozřejmostí.",
+        "Matka: <b>Laky z Jirouškova dvora</b> - ZV - I. cena, 221/4 b., VP - II. cena, 76 b., BZ - II. cena, 69 b., PZ - I. cena, 285 b., V2, r.CAC - chrup úplný, výška 61cm, DKK: A/A",
+        "Otec: <b>Carry ze Svrateckých pláňav</b> - ZV I.c. (225/4), PZ I.c. (300/4), LZ I.c. (238/4), SVP I.c (476 b.), VZ I.c. (476 b.), V1, CAC chrup úplný, výška 64cm, DKK: A/A",
+        "<b>Kontakt</b>:<br>Lenka Špírková<br>tel.: +420 724 225 083<br>email: lenka.spirkova@gmail.com",
+        "",
+        "<a href=\"./public/inzerce/230214-Lenka_Spirkova_IS/01.jpg\" target=\"_blank\"><img src=\"../public/inzerce/230214-Lenka_Spirkova_IS/01.jpg\" height=\"250\" width=\"320\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230003,
       "publishDate": "2023/02/06",
       "title": "Pozvánka na výroční členskou schůzi",
