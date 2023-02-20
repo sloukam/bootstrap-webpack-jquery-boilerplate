@@ -4,6 +4,34 @@
       "visible": true,
       "articleId": 20230001,
       "publishDate": "2023/02/14",
+      "title": "Informace k výstavě v Náměšti na Hané",
+      "paragraphs": [
+        "Propozice naleznete <a href=\"./public/pdf/2023/230617-names_na_hane/propozice.pdf\" target=\"_blank\">ZDE</a>.",
+        "<a href=\"./public/pdf/2023/230617-names_na_hane/01.jpg\" target=\"_blank\"><img src=\"../public/pdf/2023/230617-names_na_hane/01.jpg\" height=\"240\" width=\"180\"></a>   &nbsp;&nbsp;&nbsp;  <a href=\"./public/pdf/2023/230617-names_na_hane/02.jpg\" target=\"_blank\"><img src=\"../public/pdf/2023/230617-names_na_hane/02.jpg\" height=\"240\" width=\"180\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230617-names_na_hane/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "info",
+          "filePath": "./public/pdf/2023/230617-names_na_hane/01.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "program",
+          "filePath": "./public/pdf/2023/230617-names_na_hane/02.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+
+    {
+      "visible": true,
+      "articleId": 20230001,
+      "publishDate": "2023/02/14",
       "title": "Pointer - štěňata",
       "paragraphs": [
         "Chovatelská stanice z Vlčích hor bude přijímat rezervace na štěňata vrhu E, která by si měla narodit začátkem dubna. Ve vrhu tohoto spojení se očekávají výborné lovecké i výstavní vlastnosti, ale mohou být i jen dobrým aktivním kamarádem.",
