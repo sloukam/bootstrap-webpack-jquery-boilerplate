@@ -1,6 +1,47 @@
 {
   "years": [
     {
+      "year": "2023",
+      "items": [
+        {
+          "id": "I/23",
+          "publicationDate": "2023-01-10",
+          "breeder": "OD CÍSAŘSKÉHO DUBU",
+          "bitch": "Jara z Jirouškova dvora",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "II/23",
+          "publicationDate": "2023-01-10",
+          "breeder": "Z ŘÍMOVSKÉ STRÁNĚ",
+          "bitch": "Binjara Mahagon Kenya",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "III/23",
+          "publicationDate": "2023-01-18",
+          "breeder": "MAHOGANY DREAM CATCHER",
+          "bitch": "Adina Meda Mahogany Dream Catcher",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/23",
+          "publicationDate": "2023-01-25",
+          "breeder": "MIRELIONNE",
+          "bitch": "Concentrate The Mind Glimmer Noblesse",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2022",
       "items": [
         {
@@ -54,8 +95,8 @@
           "breeder": "DAISY RAIN",
           "bitch": "Daiquiri Daisy Rain",
           "dog": "Fire Of Freedom Dragonborn (PL)",
-          "releaseDate": "nakryto",
-          "puppies": ""
+          "releaseDate": "2023-01-02",
+          "puppies": "8/7"
         }
       ]
     },
