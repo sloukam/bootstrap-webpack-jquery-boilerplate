@@ -5718,6 +5718,151 @@
           "post_code": "79809"
         }
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "FALCO ZE SRBICKEHO KOPCE",
+      "date_of_birth": "2021-04-29",
+      "clp": "17153",
+      "father": "Grif z Jirouškova dvora",
+      "mother": "Astra ze Svrateckých pláňav",
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "17153",
+        "father": {
+          "clp": "16083",
+          "name": "Grif z Jirouškova dvora",
+          "father": {
+            "clp": "14986",
+            "name": "Pad ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14313",
+              "name": "Kyty ze Srbeckých luhů",
+              "father": {
+                "clp": "13829",
+                "name": "Ikar z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russell"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16022",
+          "name": "Astra ze Svrateckých pláňav",
+          "father": {
+            "clp": "14654",
+            "name": "Eddy z Košumberka",
+            "father": {
+              "name": "Hubertus Zobel vom Söhrenberg",
+              "father": {
+                "name": "Hubertus Vulkan vom Sohrenberg"
+              },
+              "mother": {
+                "name": "Hubertus Umbra vom Söhrenberg"
+              }
+            },
+            "mother": {
+              "clp": "13609",
+              "name": "Georgina z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15495",
+            "name": "Arka ze Srbického kopce",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14415",
+              "name": "Sonny z Luhové seče",
+              "father": {
+                "clp": "12836",
+                "name": "Ort z Dubské"
+              },
+              "mother": {
+                "clp": "13342",
+                "name": "Ilen z Luhové seče"
+              }
+            }
+          }
+        }
+      },
+      "shows": "výborný",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Filip",
+        "address": {
+          "number": "327",
+          "city": "Staré Hamry",
+          "post_code": "73915"
+        },
+        "email": "honzafilip@yahoo.com"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
