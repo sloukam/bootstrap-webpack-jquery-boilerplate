@@ -2,6 +2,25 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230002,
+      "publishDate": "2023/03/11",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Zápis z výborové schůze konané dne 1.3.2023 naleznete <a href=\"./public/pdf/2023/230301-zapis_z_vyboru.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2023/230301-zapis_z_vyboru.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230001,
       "publishDate": "2023/02/27",
       "title": "Plán pracovních akcí MSKAO v roce 2023",
