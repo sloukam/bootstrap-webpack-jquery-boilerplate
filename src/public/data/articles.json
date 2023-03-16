@@ -2,6 +2,15 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230001,
+      "publishDate": "2023/03/16",
+      "title": "Pozvánka na výcvikový den",
+      "paragraphs": [
+        "<a href=\"./public/images/2023/230325-vycvikovy_den.jpg\" target=\"_blank\"><img src=\"../public/images/2023/230325-vycvikovy_den.jpg\" height=\"320\" width=\"240\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230002,
       "publishDate": "2023/03/11",
       "title": "Výstavy v roce 2023",
