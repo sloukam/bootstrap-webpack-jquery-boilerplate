@@ -2,6 +2,26 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230002,
+      "publishDate": "2023/03/21",
+      "title": "Nominační soutěž na Memoriál Richarda Knolla 6.-8.5.2023",
+      "paragraphs": [
+        "Nominační soutěž na Memoriál Richarda Knolla v honitbách Zeči spol. s.r.o. Boleradice a MS Šitbořice, zahájení každého dne Nominační soutěže na Memoriál Richarda Knolla bude v 8,00 v areálu KD Šitbořice.",
+        "Bližší informace najdete v přiložených propozicích."
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230504-08-nominace_na_knolla/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230001,
       "publishDate": "2023/03/18",
       "title": "CRUFTS 2022",
@@ -16,7 +36,6 @@
         "<a href=\"./public/images/2023/2023-crufts/05.jpg\" target=\"_blank\"><img src=\"../public/images/2023/2023-crufts/05.jpg\" height=\"240\" width=\"360\"></a>&nbsp;<a href=\"./public/images/2023/2023-crufts/06.jpg\" target=\"_blank\"><img src=\"../public/images/2023/2023-crufts/06.jpg\" height=\"240\" width=\"320\"></a>"
       ]
     },
-
     {
       "visible": true,
       "articleId": 20230001,
