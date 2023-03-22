@@ -3,6 +3,36 @@
     {
       "visible": true,
       "articleId": 20230002,
+      "publishDate": "2023/03/2ě",
+      "title": "Přihlášování na klubovou výstavu MSKAO v Jaroměřicích nad Rokytnou bylo spuštěno",
+      "paragraphs": [
+        "K dnešnímu dni byla otevřena možnost přihlašovat se na XXVI. Klubovou výstavu MSKAO, a to na <a href=\"www.dogoffice.cz\" target=\"_blank\">www.dogoffice.cz</a> – KVP s KV – MSKAO (setři a pointer), klub 3002, 6. května 2023, <a href=\"https://www.zamek-jaromerice.cz/cs\" target=\"_blank\">Jaroměřice nad Rokytnou</a>.",
+        "<b>Upozorňujeme</b>, že na rozdíl od publikovaných informací došlo ke změně jednoho rozhodčího. Anglické setry, irské setry a irské červenobílé setry bude posuzovat pan Jos De Cuyper z Belgie, který například posuzoval anglické setry a irské červenobílé setry na Světové výstavě v Madridu. Gordonsetry a pointery bude posuzovat pan Duško Šormaz se Srbska, jak bylo plánováno. <b>Uzávěrka přihlášek je v pondělí 17. dubna 2023</b>.",
+        "Všechny srdečně zveme a těšíme se na Vaši účast na výstavě s renomovanými rozhodčími a nově v krásném prostředí parku <a href=\"https://www.zamek-jaromerice.cz/cs\" target=\"_blank\">zámku Jaroměřice nad Rokytnou</a>.",
+        "<hr>",
+        "Registration for the XXVI. MSKAO Club Show was opened today at <a href=\"www.dogoffice.cz\" target=\"_blank\">www.dogoffice.cz</a> – KVP with KV – MSKAO (setři a pointer), club 3002, May 6, 2023, <a href=\"https://www.zamek-jaromerice.cz/en\" target=\"_blank\">Jaroměřice nad Rokytnou</a>.",
+        "<b>Please note</b> that, contrary to published information, one judge has changed. English Setters, Irish Setters and Irish Red and White Setters will be judged by Mr. Jos De Cuyper from Belgium, who for example judged English Setters and Irish Red and White Setters at the World Dog Show in Madrid. Gordon setters and English Pointers will be judged by Mr. Duško Šormaz from Serbia as planned. <b>The application deadline is Monday, April 17, 2023</b>.",
+        "We cordially invite everyone and look forward to your participation in the show with renowned judges and in the park of beautiful <a href=\"https://www.zamek-jaromerice.cz/en\" target=\"_blank\">Jaroměřice nad Rokytnou castle</a>, newly."
+      ],
+      "images": [
+        "./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/zamek_jaromerice.jpg"
+      ],
+      "attachments": [
+        {
+          "description": "propozice CZ",
+          "filePath": "./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "propozice EN",
+          "filePath": "./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/propozice-en.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20230002,
       "publishDate": "2023/03/21",
       "title": "Nominační soutěž na Memoriál Richarda Knolla 6.-8.5.2023",
       "paragraphs": [
@@ -64,7 +94,6 @@
         }
       ]
     },
-
     {
       "visible": true,
       "articleId": 20230002,
@@ -129,7 +158,6 @@
         "Chovatelská stanice z Vlčích hor bude přijímat rezervace na štěňata vrhu E, která by si měla narodit začátkem dubna. Ve vrhu tohoto spojení se očekávají výborné lovecké i výstavní vlastnosti, ale mohou být i jen dobrým aktivním kamarádem.",
         "Otec: <b>AKIM Z DIVOŽENČINY NÁRUČE</b> (Král z Dolnic x Dafné Luční květ-Adar z Hanáckých polí-Franzini Moris)<br>Zkoušky: ZV, VP, PZ, LZ, VZ vše I.cena, JP-ČPSK(ZV) I.cena res.CACT, Pohár MSKAO (PZ+VP)-vítěz CACT, Mem. Josefa Čeliše (VZ) I.cena-vítěz, Mem. Františka Horela (VZ) I.cena CACT<br>Výstavy: KV ČPSK-výborná",
         "Matka: <b>BONA Z VLČÍCH HOR</b> (Oliver ze Štípek-Indi Juta z Bolatic-Franzini Moris x Aira z Vlčích hor)<br>Zkoušky: ZV, PZ, LZ vše I.cena<br>Výstavy: KV MSKAO-výborná, KV ČPSK-výborná res.CAC",
-
         "<b>Kontakt</b>:<br>tel.: +420 606 351 498<br>email: chs.zvlcichhor@gmail.com",
         "",
         "<a href=\"./public/inzerce/230214-Frantisek_Tihelka_POI/01.jpg\" target=\"_blank\"><img src=\"../public/inzerce/230214-Frantisek_Tihelka_POI/01.jpg\" height=\"250\" width=\"350\"></a>"
@@ -335,7 +363,6 @@
         "Chovatelská stanice SCHERPY (Slovensko) zadá štěňata irského setra narozená 18.10.2022 ze spojení Aaron Arno Redweed x Alba Lorddog. Předpoklad kvalitního exteriéru, vyrovnaných povah i dobrých pracovních vlastností.",
         "Kontakt:",
         "Andrea Petrášová Adamčíková, Senica<br>e-mail: adullka3@gmail.com<br>tel.: +421 907 060 214",
-
         "<a href=\"./public/inzerce/221103-Petrasova_Adamcikova_IS/01.jpg\" target=\"_blank\"><img src=\"../public/inzerce/221103-Petrasova_Adamcikova_IS/01.jpg\" height=\"170\" width=\"170\"></a>"
       ],
       "images": [
@@ -354,7 +381,6 @@
         "U štěňat je vysoký předpoklad nejen vloh pro práci (oba rodiče předávají lovecké vlohy svým potomkům tzn. skvělé vrozené vlastnosti), výborného zdraví, správného exteriéru, ale hlavně vyrovnaných a milých povah. Vhodná pro chov, výstavy, canisterapii, agility nebo jen jako super parťák, milý a zábavný rodinný společník.\nNávykový mazel, který je s Vámi schopen jít na dlouhý výlet, pomáhat na zahradě, nebo klidně zevlovat na gauči u televize. Do nových rodin budou moci odcházet od 28.11.2022 řádně vymazlená, socializovaná,\nBudou odchovaná v domě, k dispozici mají samozřejmě i zahradu. Zvyklá na běžný domácí ruch. Při odběru budou očkování, označení mikročipem, vybavení euro passportem a budou pravidelně odčervována. Do začátku dostávají balíček. Naše certifikovaná, rodinná chovatelská stanice se řídí heslem-chov s láskou a respektem. Chovatelské a veterinární poradenství, chovatelský servis, písemná kupní smlouva a pomoc do budoucna z naší strany je samozřejmostí (pro nás i srdeční nutností).",
         "Návštěva po domluvě vítána, nejdříve však od 5 týdne věku miminek.",
         "Více informací na našich webových stránkách www.aressamarkan.com nebo po telefonu +420 702 035 672 či +420 724 137 959 , +420 775 608 861",
-
         "<a href=\"./public/inzerce/221018-Jarda_Seda_GS/01.jpg\" target=\"_blank\"><img src=\"../public/inzerce/221018-Jarda_Seda_GS/01.jpg\" height=\"140\" width=\"140\"></a>&nbsp;<a href=\"./public/inzerce/221018-Jarda_Seda_GS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/221018-Jarda_Seda_GS/02.jpg\" height=\"140\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/221018-Jarda_Seda_GS/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/221018-Jarda_Seda_GS/03.jpg\" height=\"140\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/221018-Jarda_Seda_GS/04.jpg\" target=\"_blank\"><img src=\"./public/inzerce/221018-Jarda_Seda_GS/04.jpg\" height=\"140\" width=\"110\"></a>"
       ],
       "images": [
@@ -438,7 +464,6 @@
         "</ul>",
         "Pejsci vyrůstají ve společnosti jiných psů na dvorku, kde mají spoustu i lidských návštěv. Jsou velice vyrovnaní a skvělí společníci.",
         "Více info na tel. 724 225 083 nebo chszjarne@gmail.com",
-
         "<a href=\"./public/inzerce/220803-Lenka_Spirkova_IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220803-Lenka_Spirkova_IS/01.jpg\" height=\"140\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/220803-Lenka_Spirkova_IS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220803-Lenka_Spirkova_IS/02.jpg\" height=\"140\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/220803-Lenka_Spirkova_IS/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220803-Lenka_Spirkova_IS/03.jpg\" height=\"140\" width=\"190\"></a>&nbsp;<a href=\"./public/inzerce/220803-Lenka_Spirkova_IS/04.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220803-Lenka_Spirkova_IS/04.jpg\" height=\"140\" width=\"190\"></a>"
       ],
       "images": [
@@ -582,7 +607,6 @@
         "Nejkrásnějším pracovním psem se stal anglický setr <b>Vancouver Gordon Hall</b> majitelky Marty Sčudlové",
         "Nejkrásnějším psem tříd čestných se stal gordonsetr <b>De La Chapelle Manon Lescaut</b> majitelky Ivy Mlejové.",
         "V soutěži párů získali třetí místo gordonsetři <b>Rock'n Roll De Colempce</b> a <b>Night Storm Secrets Áres Šamarkan</b> majitelek Jany Šedové a Jany Šmídové.",
-
         "<br>",
         "<h4>Kompletní výsledky....</h4>",
         "<h5>Anglický setr</h5>",
@@ -598,7 +622,6 @@
         "Kompletní výsledky na <a  href=\"https://dogoffice.cz/results/26041?fbclid=IwAR1jzwmQGKGSA6s4cxMYESPNZ74FSGhhd7j6mXMSl0ZnFKgz8SvJpUUKkIA\" target=\"_blank\">DogOfficu ZDE</a>"
       ]
     },
-
     {
       "visible": true,
       "articleId": 20220021,
@@ -620,8 +643,6 @@
         }
       ]
     },
-
-
     {
       "visible": true,
       "articleId": 20220021,
@@ -940,14 +961,12 @@
       "title": "Očekávaný vrh štěňat irských setrů",
       "paragraphs": [
         "Chovatelská stanice irských setrů ROYAL FOREST WIND oznamuje, že dne 11.3. se narodil vrh „A“ (5 fen a 2 pejsci) ze spojení:",
-
         "<ul>",
         "<li>Otec: <b>SHOW MUST GO ON Z ARISLANDU (Blake)</b><br>* 10. 2. 2018, res.CACIB & Vice World Winner FCI 2021, International Champion, European Jr. Winner & BOS 2019, Polisch Champion, Polisch Junior Champion, Champion of Lithuania, Champion of Bulgaria, Champion of Ukraine, Champion of Montenegro, HD: A, PRA – rcd1: N/N, PRA – rcd4: N/N, CLAD: N/N, vWD I: N/N, GLD: N/N.</li>",
         "<li>Matka: <b>ELLIE ELIMAR DOUBRAVA (Eli)</b><br> * 6. 2. 2018, Czech Champion, Slovak Champion, Czech Grand Champion – started, CACIB, BOS, HD: A/A, ED: 0/0, CLAD: clear, ZV – 1st prize. </li>",
         "</ul>",
         "Přijímáme rezervace na štěňátka.",
         "Předpokládaný odběr štěňat: květen 2022",
-
         "Kontakt:<br>ROYAL FOREST WIND – chovatelská stanice irských setrů<br>adresa: Ing. Aleš Borek, Skalička 170, 753 52 Skalička u Hranic<br>telefon: +420 725 257 586, +420 581 604 674<br>mail:  <a href=\"mailto:borek.a@seznam.cz\">borek.a@seznam.cz</a><br>web: <a href=\"http://www.royalforestwind.cz\" target=\"_blank\">www.royalforestwind.cz</a>",
         "<a href=\"./public/inzerce/220221-Borek_IS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/220221-Borek_IS/01.jpg\" height=\"150\" width=\"225\"></a>"
       ]
