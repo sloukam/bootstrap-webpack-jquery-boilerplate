@@ -17,9 +17,9 @@
   <script id="articleTemplate" type="text/template">
     {{#each articles}}
     {{#if visible}}
-    <div class="row">
+    <div class="row" id="{{articleId}}">
       <div class="col-md order-md-1">
-        <h2 class="red">{{title}}</h2>
+        <a href="#{{articleId}}"><h2 class="red">{{title}}</h2></a>
         {{#if publishDate}}
         <div class="date-of-publish">{{dateFormat publishDate}}</div>
         {{/if}}
