@@ -2,6 +2,47 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230017,
+      "publishDate": "2023/03/30",
+      "title": "Zápis z výroční členské schůze MSKAO",
+      "paragraphs": [
+        "Dne 12.3. se konala výroční členská schůze, která se konala v Hostinci u Palánů. Níže najdete zápis včetně všech příloh."
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/zapis.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "příloha - jubilanti",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/priloha_1_jubilanti.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "příloha - rozpočet 2022",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/priloha_2_rozpocet_2022.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "příloha - rozpočet 2023",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/priloha_2_rozpocet_2023.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "příloha - zpráva kontrolní komise",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/priloha_3_KK.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "příloha - usnesení",
+          "filePath": "./public/pdf/2023/230312-clenska_schuze/priloha_4_Usneseni.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230016,
       "publishDate": "2023/03/30",
       "title": "Výzva \"výcviková komise\"",
