@@ -2,6 +2,15 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230014,
+      "publishDate": "2023/03/29",
+      "title": "Pozvánka na dalsší výcvikový den",
+      "paragraphs": [
+        "<a href=\"./public/images/2023/230423-vycvikovy_den.jpg\" target=\"_blank\"><img src=\"../public/images/2023/230423-vycvikovy_den.jpg\" height=\"320\" width=\"440\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230013,
       "publishDate": "2023/03/22",
       "title": "Přihlášování na klubovou výstavu MSKAO v Jaroměřicích nad Rokytnou bylo spuštěno",
