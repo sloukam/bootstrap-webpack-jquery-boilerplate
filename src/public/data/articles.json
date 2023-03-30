@@ -2,11 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230015,
+      "publishDate": "2023/03/30",
+      "title": "Jaroměřice nad Rokytnou",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/letak.jpg\" height=\"300\" width=\"450\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230014,
       "publishDate": "2023/03/29",
       "title": "Pozvánka na dalsší výcvikový den",
       "paragraphs": [
-        "<a href=\"./public/images/2023/230423-vycvikovy_den.jpg\" target=\"_blank\"><img src=\"../public/images/2023/230423-vycvikovy_den.jpg\" height=\"320\" width=\"440\"></a>"
+        "<a href=\"./public/images/2023/230423-vycvikovy_den.jpg\" target=\"_blank\"><img src=\"./public/images/2023/230423-vycvikovy_den.jpg\" height=\"320\" width=\"440\"></a>"
       ]
     },
     {
