@@ -2,6 +2,31 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230016,
+      "publishDate": "2023/03/30",
+      "title": "Výzva \"výcviková komise\"",
+      "paragraphs": [
+        "Vážení členové Moravskoslezského klubu anglických ohařů,",
+        "výbor klubu vyzývá zkušené cvičitele a vůdce z řad členů klubu, aby se přihlásili k práce ve výcvikové komisi MSKAO. Děkujeme všem, kteří zváží své schopnosti a reálné možnosti k zapojení se do práce na klubových akcích. Prosíme o vyplnění přiloženého dotazníku a jeho odeslání na emailovou adresu <a href=\"mailto:info.mskao@gmail.com?subject=vyvcikova%20komise\">info.mskao@gmail.com</a> nebo poštou na adresu:",
+        "<div style=\"margin-left: 40px;\"><i>MSKAO<br>Sadová 315<br>251 64 Mnichovice</i></div>",
+        "a to <b>do 16. dubna 2023</b>. Těšíme se, že již brzy budeme mít možnost jmenovat novou výcvikovou komisi.",
+        "Výbor MSKAO"
+      ],
+      "attachments": [
+        {
+          "description": "dotaznik - PDF",
+          "filePath": "./public/pdf/2023/vycvikova_komise/dotaznik.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "dotaznik - DOC",
+          "filePath": "./public/pdf/2023/vycvikova_komise/dotaznik.docx",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230015,
       "publishDate": "2023/03/30",
       "title": "Jaroměřice nad Rokytnou",
