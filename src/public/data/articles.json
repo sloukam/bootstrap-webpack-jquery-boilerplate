@@ -2,6 +2,16 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230019,
+      "publishDate": "2023/04/05",
+      "title": "Přání k velikonocům",
+      "paragraphs": [
+        "<a href=\"./public/images/2023/2023-velikonoce.jpg\" target=\"_blank\"><img src=\"./public/images/2023/2023-velikonoce.jpg\" height=\"300\" width=\"500\"></a>"
+      ]
+    },
+
+    {
+      "visible": true,
       "articleId": 20230018,
       "publishDate": "2023/04/03",
       "title": "Ještě dva týdny...",
