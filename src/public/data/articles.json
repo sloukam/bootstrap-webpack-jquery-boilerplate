@@ -2,6 +2,68 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230022,
+      "publishDate": "2023/04/12",
+      "title": "Klubové zkoušky vloh ohařů - 14.5. v Těšanech",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/230514-kzv/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230514-kzv/letak.jpg\" height=\"350\" width=\"300\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "leták",
+          "filePath": "./public/pdf/2023/230514-kzv/letak.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230514-kzv/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.docx",
+          "type": "docx"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20230021,
+      "publishDate": "2023/04/12",
+      "title": "Podzimní zkoušky ohařů - 13.5. v Těšanech",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/230513-kpz/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/letak.jpg\" height=\"350\" width=\"300\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "leták",
+          "filePath": "./public/pdf/2023/230513-kpz/letak.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230513-kpz/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230513-kpz/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230513-kpz/prihlaska.docx",
+          "type": "docx"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230020,
       "publishDate": "2023/04/11",
       "title": "štěňata AS",
