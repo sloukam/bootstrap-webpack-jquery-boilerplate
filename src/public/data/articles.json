@@ -2,6 +2,19 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230025,
+      "publishDate": "2023/04/17",
+      "title": "Uzávěrka přihlášek byla prodloužena...",
+      "paragraphs": [
+        "<big style=\"color: #E51F0FFF;\"><b>Uzávěrka přihlášek byla prodloužena do pátku 21. dubna 2023. Těšíme se na viděnou v Jaroměřicích nad Rokytnou.</b></big>",
+        "<hr>",
+        "<big style=\"color: #E51F0FFF;\"><b>The entry deadline has been extended until Friday, April 21, 2023. We look forward to seeing you in Jaroměřice nad Rokytnou.</b></big>",
+
+        "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/posledni_uzaverka.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/posledni_uzaverka.jpg\" height=\"300\" width=\"450\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230022,
       "publishDate": "2023/04/12",
       "title": "Klubové zkoušky vloh ohařů - 14.5. v Těšanech",
