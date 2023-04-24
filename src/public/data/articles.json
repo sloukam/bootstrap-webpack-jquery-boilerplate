@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230026,
+      "publishDate": "2023/04/22",
+      "title": "KLUBOVKA V JAROMĚŘICÍCH UŽ ZA DVA TÝDNY SE 132 PŘIHLÁŠENÝMI PSY !",
+      "paragraphs": [
+        "O dnešní půlnoci skončila možnost přihlašovat na letošní XXVI. klubovou výstavu MSKAO v Jaroměřicích nad Rokytnou, která se uskuteční v sobotu 6. května 2023. Celkem je přihlášeno 132 psů. Prosíme majitele přihlášených psů, kteří ještě neuhradíli výstavní poplatky, aby tak okamžitě učinili. V týdnu před výstavou očekávejte vstupní na vašem profilu na Dogoffice . Děkujeme všem vystavovatelům za jejich zájem o výstavu a moc se těšíme za dva týdny na setkání s Vámi a Vašimi psy v Jaroměřicích. ",
+        "At today's midnight was closed the possibility to register for this year's XXVI. the MSKAO club show in Jaroměřice nad Rokytnou, which will take place on Saturday, May 6, 2023. A total of 132 dogs are registered. We ask owners of registered dogs who have not yet paid the fees to do so immediately (SWIFT-FIOBCZPPXXX  IBAN: CZ 3320 1000 0000 2600 5050 87). \nIn the week before the show, expect invitation letters in your box in Dogoffice. We thank all the exhibitors for their interest in the MSKAO club show and we are very much looking forward to meeting you and your dogs in Jaroměřice in two weeks.",
+        "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/statistiky.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/statistiky.jpg\" height=\"200\" width=\"450\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230025,
       "publishDate": "2023/04/17",
       "title": "Uzávěrka přihlášek byla prodloužena...",
