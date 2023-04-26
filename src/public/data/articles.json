@@ -2,6 +2,18 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230027,
+      "publishDate": "2023/04/25",
+      "title": "VSTUPNÍ LISTY na XXVI. klubovou výstavu MSKAO",
+      "paragraphs": [
+        "VSTUPNÍ LISTY na XXVI. klubovou výstavu MSKAO konanou 6. května 2023 v Jaroměřicích nad Rokytnou již nyní NAJDETE VE SVÝCH DOGOFFICE PROFILECH. Upozorňujeme, že irské červenobílé setry bude posuzovat srbský rozhodčí pan Duško Šormaz. Přejeme Vám šťastnou cestu do Jaroměřic nad Rokytnou a úspěchy ve výstavních kruzích. Těšíme se, že společně s Vámi a našimi skvělými setry a pointry prožijeme krásný jarní den.",
+        "Entry sheets for the MSKAO club show held on May 6, 2023 in Jaroměřice nad Rokytnou you can find in your DogOffice profiles. Please note that the Irish red and white setters will be judged by Serbian judge Mr. Duško Šormaz. We wish you a happy journey to Jaroměřice nad Rokytnou and success in show rings. We look forward to spending a beautiful spring day together with you and our great setters and pointers.",
+
+        "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/mapa.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/mapa.jpg\" height=\"280\" width=\"450\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230026,
       "publishDate": "2023/04/22",
       "title": "KLUBOVKA V JAROMĚŘICÍCH UŽ ZA DVA TÝDNY SE 132 PŘIHLÁŠENÝMI PSY !",
