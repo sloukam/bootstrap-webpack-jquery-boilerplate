@@ -2,6 +2,19 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230028,
+      "publishDate": "2023/05/01",
+      "title": "Focení KV MSKAO Jaroměřice nad Rokytnou",
+      "paragraphs": [
+        "V případě zájmu o fotky z kruhu (pokud to půjde, zaměřím se na vás) či možnost individuálního focení mě neváhejte kontaktovat na <a href=\"mailto:info@okemlucie.cz\">info@okemlucie.cz</a> nebo v SZ. Přeji všem hezky strávené chvíle na Klubové výstavě a těším se na případná setkání.",
+        "Lucie Skopalová<br><a href=\"https://www.facebook.com/Lucie.Skopalova.Design.and.Photography\" target=\"_blank\">FB - Lucie Skopalova Photography</a>",
+
+        "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/foceni.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/foceni.jpg\" height=\"280\" width=\"370\"></a>"
+      ]
+    },
+
+    {
+      "visible": true,
       "articleId": 20230027,
       "publishDate": "2023/04/25",
       "title": "VSTUPNÍ LISTY na XXVI. klubovou výstavu MSKAO",
