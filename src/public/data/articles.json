@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230029,
+      "publishDate": "2023/05/15",
+      "title": "Poslední uzávěrka na klubovou výstavu je již ZÍTRA!!!",
+      "paragraphs": [
+        "Již zítra o půlnoci se uzavře možnost přihlásit svého psa/fenu na klubovou výstavu v Náměšti na Hané. Neváhejte a přijďte své miláčky ukázat ostatním.",
+        "Aktuální statistiky",
+        "<a href=\"./public/pdf/2023/230617-names_na_hane/statistiky.png\" target=\"_blank\"><img src=\"./public/pdf/2023/230617-names_na_hane/statistiky.png\" height=\"100\" width=\"450\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230028,
       "publishDate": "2023/05/01",
       "title": "Focení KV MSKAO Jaroměřice nad Rokytnou",
@@ -12,7 +23,6 @@
         "<a href=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/foceni.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230506-klubovka_jaromerice_nad_rokytnou/foceni.jpg\" height=\"280\" width=\"370\"></a>"
       ]
     },
-
     {
       "visible": true,
       "articleId": 20230027,
