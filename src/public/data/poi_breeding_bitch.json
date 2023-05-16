@@ -3908,9 +3908,11 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BERNADETTE ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
+      "datum_vyrazeni": "2023-05-10",
+      "duvod_vyrazeni": "prechod do CPSK",
       "clp": "11612",
       "father": "AVON",
       "mother": "Audrey ze Zaječích polí",
