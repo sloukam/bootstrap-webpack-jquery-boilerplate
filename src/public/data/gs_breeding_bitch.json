@@ -3038,6 +3038,138 @@
     {
       "breed": "GS",
       "sex": "female",
+      "datum_uchovneni": "2023-03-05",
+      "visible": true,
+      "name": "CLOE APRIL PEARL MORAVIA",
+      "date_of_birth": "2019-04-01",
+      "clp": "6878",
+      "father": "Celtic Frost Kochanej Emilki",
+      "mother": "Beitris Pearl Moravia",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6878",
+        "father": {
+          "name": "Celtic Frost Kochanej Emilki",
+          "father": {
+            "name": "Fairray Black To the Future",
+            "father": {
+              "name": "Triseter Celtic Ice",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Trisetr Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Sunny Prides Mac Bess",
+              "father": {
+                "name": "Gongo Black Booms"
+              },
+              "mother": {
+                "name": "Sunny Prides Black Lotus"
+              }
+            }
+          },
+          "mother": {
+            "name": "Rosalie von den Wilden Horde",
+            "father": {
+              "name": "Laurelhach Legend",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zana with Laurelhach"
+              }
+            },
+            "mother": {
+              "name": "Päivi von der Wilden Horde",
+              "father": {
+                "name": "Lochtay the Legistator"
+              },
+              "mother": {
+                "name": "Beautiful -  Sky Magic of Elegance"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6648",
+          "name": "Beitris Pearl Moravia",
+          "father": {
+            "clp": "6286",
+            "name": "Zir z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "name": "Ashley Princess Pearl Moravia",
+            "father": {
+              "name": "Atrei z Tomanikvych vrskov",
+              "father": {
+                "clp": "5479",
+                "name": "Grand Bojandolí"
+              },
+              "mother": {
+                "name": "Cita z Nedvězí"
+              }
+            },
+            "mother": {
+              "clp": "6079",
+              "name": "Cinderella Carolain Áres Šamarkan",
+              "father": {
+                "name": "Dreamer Misialinka"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.c, PZ II.c.",
+      "owner": {
+        "first_name": "Josef",
+        "last_name": "Petráš",
+        "address": {
+          "street": "Pňovice",
+          "number": "58",
+          "city": "Litovel",
+          "post_code": "78401"
+        },
+        "phone": "773 999 934"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
       "visible": true,
       "name": "AISCHA SANYBELL",
       "date_of_birth": "2019-08-31",
@@ -3571,6 +3703,149 @@
         "phone": "+420 605 917 503",
         "email": "nedavaskovi@seznam.cz",
         "web": "http://www.manonlescaut.net"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "datum_uchovneni": "2023-04-24",
+      "visible": true,
+      "name": "CHARMING ZOE Z WENYTRY",
+      "date_of_birth": "2020-02-24",
+      "clp": "6972",
+      "father": "Brodey Pearl Moravia",
+      "mother": "Fanny z Wenytry",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "6972",
+        "father": {
+          "clp": "6646",
+          "name": "Brodey Pearl Moravia",
+          "father": {
+            "country": "Česk",
+            "clp": "6286",
+            "name": "Zir z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6429",
+            "name": "Ashley Princess Pearl Moravia",
+            "father": {
+              "name": "Atrei z Tomanikových vŕškov",
+              "father": {
+                "clp": "5479",
+                "name": "Grant Bojandolí"
+              },
+              "mother": {
+                "name": "Cita z Nedvězí"
+              }
+            },
+            "mother": {
+              "clp": "6079",
+              "name": "Cinderella Carolain Áres Šamarkan",
+              "father": {
+                "name": "Dreamer Misialinka"
+              },
+              "mother": {
+                "clp": "5570",
+                "name": "Frea z Želečky"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6589",
+          "name": "Fanny z Wenytry",
+          "father": {
+            "clp": "6179",
+            "name": "Arik z Podřipské Břízy",
+            "father": {
+              "name": "Cilgerran Flambeau",
+              "father": {
+                "name": "Orval du Crak Ouah Long"
+              },
+              "mother": {
+                "name": "Cilgerran Enchantress"
+              }
+            },
+            "mother": {
+              "name": "Xosa von Catenhorn",
+              "father": {
+                "name": "William-Walles von Catenhorn"
+              },
+              "mother": {
+                "name": "Sheila von Catenhorn"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6350",
+            "name": "Coleen Neli z Wenytry",
+            "father": {
+              "clp": "6008",
+              "name": "Basco Lovec z Gordonu",
+              "father": {
+                "name": "Flash von Pinnower Moor"
+              },
+              "mother": {
+                "clp": "5620",
+                "name": "Pegi z Podmaršovic"
+              }
+            },
+            "mother": {
+              "clp": "6177",
+              "name": "Anabell z Wenytry",
+              "father": {
+                "clp": "5633",
+                "name": "Terry Czech Pamir"
+              },
+              "mother": {
+                "clp": "5808",
+                "name": "Arwen z Muruprun"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.c ",
+      "owner": {
+        "first_name": "Daria",
+        "last_name": "Konečná",
+        "address": {
+          "street": "Městečko",
+          "number": "4",
+          "city": "Nosislav",
+          "post_code": "69164"
+        },
+        "email": "D.a.r.i.a@seznam.cz"
       },
       "img_ext": "jpg"
     }
