@@ -2,6 +2,30 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230031,
+      "publishDate": "2023/05/29",
+      "title": "Speciální klubová výstava - Zákupy",
+      "paragraphs": [
+        "Blíží se uzávěrka na speciální klubovou výstavu MSKAO se zadáváním titulu vítěz speciální výstavy a čekatelství CAJC, CAC a res.CAC v Zákupech u České Lípy. Výstava se uskuteční 12.8.2023 Uzávěrka přihlášek končí již 9.7.2023.",
+        "Vaše/naše setry a pointery posoudi španělská rozhodčí paní <b>Julia Bango</b>.",
+        "<a href=\"./public/pdf/2023/230812-zakupy/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/letak.jpg\" height=\"120\" width=\"160\"></a>&nbsp;<a href=\"./public/pdf/2023/230812-zakupy/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/01.jpg\" height=\"120\" width=\"90\"></a>&nbsp;<a href=\"./public/pdf/2023/230812-zakupy/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/02.jpg\" height=\"120\" width=\"90\"></a>&nbsp;<a href=\"./public/pdf/2023/230812-zakupy/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/03.jpg\" height=\"120\" width=\"90\"></a>&nbsp;<a href=\"./public/pdf/2023/230812-zakupy/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/04.jpg\" height=\"120\" width=\"90\"></a>&nbsp;"
+      ],
+      "attachments": [
+        {
+          "description": "leták",
+          "filePath": "./public/pdf/2023/230812-zakupy/letak.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230812-zakupy/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+
+    {
+      "visible": true,
       "articleId": 20230030,
       "publishDate": "2023/05/23",
       "title": "Smutná zpráva",
