@@ -2,6 +2,28 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230033,
+      "publishDate": "2023/06/04",
+      "title": "Výsledky klubových zkoušek vloh",
+      "paragraphs": [
+        "S mírným zpožděním Vám přinášíme výsledky klubových zkoušek vloh.",
+        "Vítězem zkoušek vloh se stala fena <b>Dixie z Večeřova dvora</b> pod vedením vůdkyně <b>Šárky Dědkové</b> s celkovým počtem 228 bodů. <big><b>Velká gratulace!!!</b></big>",
+        "<a href=\"./public/pdf/2023/230514-kzv/vysledky.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230514-kzv/vysledky.jpg\" height=\"120\" width=\"160\"></a>&nbsp;<a href=\"./public/pdf/2023/230513-kpz/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/01.jpg\" height=\"120\" width=\"160\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20230032,
+      "publishDate": "2023/06/04",
+      "title": "Výsledky klubových podzimních zkoušek",
+      "paragraphs": [
+        "S mírným zpožděním Vám přinášíme výsledky klubových podzimních zkoušek.",
+        "Vítězem podzimních zkoušek se stal pes <b>Ash z Hornopožárských lesů</b> pod vedením vůdkyně <b>Martiny Černé</b> s celkovým počtem 300 bodů. <big><b>Velká gratulace!!!</b></big>",
+        "<a href=\"./public/pdf/2023/230513-kpz/vysledky.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/vysledky.jpg\" height=\"120\" width=\"160\"></a>&nbsp;<a href=\"./public/pdf/2023/230513-kpz/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/01.jpg\" height=\"120\" width=\"160\"></a>&nbsp;<a href=\"./public/pdf/2023/230513-kpz/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/02.jpg\" height=\"120\" width=\"160\"></a>&nbsp;<a href=\"./public/pdf/2023/230513-kpz/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2023/230513-kpz/03.jpg\" height=\"120\" width=\"160\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230031,
       "publishDate": "2023/05/29",
       "title": "Speciální klubová výstava - Zákupy",
@@ -23,7 +45,6 @@
         }
       ]
     },
-
     {
       "visible": true,
       "articleId": 20230030,
