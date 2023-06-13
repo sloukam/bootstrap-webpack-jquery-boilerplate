@@ -2398,6 +2398,147 @@
         "email": "nemet.radislav@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "datum_uchovneni": "2023-05-21",
+      "visible": true,
+      "name": "Gordon Racer Manon Lescaut",
+      "date_of_birth": "2021-06-03",
+      "clp": "7078",
+      "father": "Revolution Breeze Let There Be Rock",
+      "mother": "Caffé Racer Manon Lescaut",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "7078",
+        "father": {
+          "country": "pl",
+          "name": "Revolution Breeze Let There Be Rock",
+          "father": {
+            "name": "Liric Fusilier With Shillay",
+            "father": {
+              "country": "it",
+              "name": "Ludstar Frederick Frankenstein",
+              "father": {
+                "name": "Triseter Celtic Ice"
+              },
+              "mother": {
+                "country": "it",
+                "name": "Ludstar Velsheda"
+              }
+            },
+            "mother": {
+              "name": "Liric As Good As It Gets",
+              "father": {
+                "name": "Laurelhach Limited Edition At Yohenoak"
+              },
+              "mother": {
+                "name": "Lochfain An Aus By Design To Liric"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill Way Ahed",
+            "father": {
+              "name": "Triseter Ebonie Nirvana",
+              "father": {
+                "name": "Triseter Black Vader"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Snow Queen",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "čr",
+          "clp": "6536",
+          "name": "Caffé Racer Manon Lescaut",
+          "father": {
+            "country": "pl",
+            "name": "Everywhere z Ojcowskiej Doliny",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "country": "pl",
+              "name": "Africa z Ojcowskiej Doliny",
+              "father": {
+                "name": "Kingpoint Everywhere"
+              },
+              "mother": {
+                "country": "pl",
+                "name": "Shanta Kaladan"
+              }
+            }
+          },
+          "mother": {
+            "country": "čr",
+            "clp": "6198",
+            "name": "Xsara z Holubické stráně",
+            "father": {
+              "name": "Yennadon Dynamic Dan",
+              "father": {
+                "name": "Dunfionn Inverkip"
+              },
+              "mother": {
+                "name": "Yennadon Time for Tavy"
+              }
+            },
+            "mother": {
+              "country": "čr",
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "country": "čr",
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "country": "čr",
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "67",
+        "color": "černá s pálením",
+        "HD": "A"
+      },
+      "shows": "výborný, CAJC, Vítěz třídy mladých, Res.CAC",
+      "exams": "ZV I.c., Klubové PZ I.c. CACT",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Němec",
+        "address": {
+          "street": "Újezd ",
+          "number": "956/8",
+          "city": "Podivín",
+          "post_code": "69145"
+        },
+        "phone": "778422835"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
