@@ -2,6 +2,16 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230034,
+      "publishDate": "2023/06/18",
+      "title": "Přihlašování na další klubovou výstavu stále beží...",
+      "paragraphs": [
+        "Přihlašování na další klubovou výstavu stále beží. Uskuteční se v <b>zámeském parku Zákupy u České Lípy</b>. Setry a pointry bude posuzovat španělská rozhodčí <b>Julia Bango</b>.",
+        "<a href=\"./public/pdf/2023/230812-zakupy/letak_2.png\" target=\"_blank\"><img src=\"./public/pdf/2023/230812-zakupy/letak_2.png\" height=\"120\" width=\"160\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230033,
       "publishDate": "2023/06/04",
       "title": "Výsledky klubových zkoušek vloh",
