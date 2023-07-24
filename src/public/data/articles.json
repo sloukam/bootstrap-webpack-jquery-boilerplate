@@ -2,6 +2,22 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230037,
+      "publishDate": "2023/07/24",
+      "title": "Propozice na pohár MSKAO",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_01.png\" target=\"_blank\"><img src=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_01.png\" height=\"120\" width=\"80\"></a>&nbsp;<a href=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_02.png\" target=\"_blank\"><img src=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_02.png\" height=\"120\" width=\"80\"></a>&nbsp;<a href=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_03.png\" target=\"_blank\"><img src=\"./public/pdf/2023/230823-pohar_MSKAO/propozice_03.png\" height=\"120\" width=\"80\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/230823-pohar_MSKAO/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230036,
       "publishDate": "2023/07/13",
       "title": "Posunutá uzávěrka na speciální výstavu v Zákupech u České Lípy",
