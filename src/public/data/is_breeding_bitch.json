@@ -3302,6 +3302,138 @@
       "breed": "IS",
       "sex": "female",
       "visible": true,
+      "name": "FAYLINN ELLIE MAHAGONY PAW",
+      "date_of_birth": "2018-05-11",
+      "clp": "16579",
+      "father": "Paris Match Thendara ",
+      "mother": "Electra Ruby Mahagony Paw",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16579",
+        "father": {
+          "name": "Paris Match Thendara",
+          "father": {
+            "name": "Gwendariff Pop The Question",
+            "father": {
+              "name": "Danaway Lancelot of Autumnwood",
+              "father": {
+                "name": "Danaway Michelangelo"
+              },
+              "mother": {
+                "name": "Danaway Demure"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Pop My Cork",
+              "father": {
+                "name": "Danaway Fortune Teller"
+              },
+              "mother": {
+                "name": "Clonageera Klassique Gwendariff"
+              }
+            }
+          },
+          "mother": {
+            "name": "Thendara Lenamore",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Thendara Capriati",
+              "father": {
+                "name": "Scotselaw Detroit Spinner by Thendara"
+              },
+              "mother": {
+                "name": "Thendara Miss Dior"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16166",
+          "name": "Electra Ruby Mahagony Paw",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Joghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15043",
+            "name": "Assonance Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "mahagon",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, CAC, BOS, res. CACIB",
+      "exams": "výjimka",
+      "owner": {
+        "title": "Ing. ",
+        "first_name": "Ludvík",
+        "last_name": "Šafránek",
+        "address": {
+          "street": "Soběslavská ",
+          "number": "2257/35",
+          "city": "Praha 3",
+          "post_code": "13000"
+        },
+        "email": "ludvik.safranek@natur.cuni.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
       "name": "FIONA EIMEAR MAHAGONY PAW",
       "date_of_birth": "2018-05-11",
       "clp": "16580",
@@ -3546,7 +3678,7 @@
         "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
       },
       "championships": "JCH ČR, CH ČR, GRANDCH ČR",
-      "shows": "CAJC, BOJ, CAC, NV, BOS",
+      "shows": "CAJC, BOJ, CAC, NV, BOS, BOB",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
         "first_name": "Šárka ",
@@ -3803,7 +3935,7 @@
         "rcd4": "clear",
         "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
       },
-      "championships": "CH ČR, CH RO",
+      "championships": "CH ČR, CH RO, CH PL",
       "shows": "CAJC, BOJ, CAC, NV, BOS, JBIG, CACIB, BOB, BIG 3",
       "exams": "ZV I.cena, KZV I.cena, PZ I.cena, SZVP I.cena",
       "owner": {
@@ -4495,6 +4627,156 @@
         "phone": "+420 721 161 987",
         "email": "verustechovska@gmail.com"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "visible": true,
+      "name": "BÁRA ZE SRBECKÝCH LUHŮ",
+      "date_of_birth": "2019-12-28",
+      "clp": "16818",
+      "father": "Ajax od Hlubocké skály",
+      "mother": "Wanda ze Srbeckých luhů",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16818",
+        "father": {
+          "clp": "15977",
+          "name": "Ajax od Hlubocké skály",
+          "father": {
+            "clp": "15359",
+            "name": "Colt Jelení záře",
+            "father": {
+              "clp": "14473",
+              "name": "Andy ze Šumavských hor",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13259",
+                "name": "Gina ze Šumavského kraje"
+              }
+            },
+            "mother": {
+              "clp": "14682",
+              "name": "Sara od Klapavce",
+              "father": {
+                "clp": "13459",
+                "name": "Tarn od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13955",
+                "name": "Lassi od Klapavce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15178",
+            "name": "Arka z Vykáňského dvora",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14606",
+              "name": "Karol od Rakovnické brány",
+              "father": {
+                "clp": "13036",
+                "name": "Dag z Bolešinské hůrky"
+              },
+              "mother": {
+                "clp": "13923",
+                "name": "Chiara od Rakovnické bráány"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16238",
+          "name": "Wanda ze Srbeckých luhů",
+          "father": {
+            "clp": "15037",
+            "name": "Atyla Warrior Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15700",
+            "name": "Vendy ze Srbeckých luhů",
+            "father": {
+              "clp": "14654",
+              "name": "Eddy z Košumberka",
+              "father": {
+                "name": "Hubertus Zobel vom Söhrenberg"
+              },
+              "mother": {
+                "clp": "13609",
+                "name": "Georgina z Dubanskéh kopce"
+              }
+            },
+            "mother": {
+              "clp": "14494",
+              "name": "Lexa ze Srbeckých luhů",
+              "father": {
+                "clp": "13830",
+                "name": "Irr z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.cena, PZ I.cena",
+      "owner": {
+        "first_name": "Leona ",
+        "last_name": "Jurásková",
+        "address": {
+          "street": "Mírová",
+          "number": "1162",
+          "city": "Dubňany",
+          "post_code": "69603"
+        },
+        "email": "juraskova@technoma.cz"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",

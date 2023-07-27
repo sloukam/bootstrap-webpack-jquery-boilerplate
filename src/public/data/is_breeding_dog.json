@@ -4917,8 +4917,8 @@
         "rcd4": "clear",
         "other": "PRA rcd1 gen. clear, CLAD gen.N/N"
       },
-      "shows": "V, res.CAC, CAC, OV, CACIB",
-      "exams": "ZV I.cena",
+      "shows": "V, res.CAC, CAC, OV, CACIB, BOB",
+      "exams": "ZV I.cena, PZ I.cena",
       "owner": {
         "first_name": "Lucie",
         "last_name": "Plašťáková",
@@ -5174,7 +5174,7 @@
         "rcd4": "clear",
         "other": "CLAD gen. N/N"
       },
-      "championships": "JCH ČR, CH ČR, CH SLO",
+      "championships": "JCH ČR, CH ČR, CH SLO, CH AT, C.I.E., C.I.B.",
       "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB, CACIB, BOB, BIG",
       "exams": "ZV I.cena - CACT, PZ I.cena",
       "owner": {
@@ -5861,6 +5861,143 @@
           "post_code": "73915"
         },
         "email": "honzafilip@yahoo.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "visible": true,
+      "name": "KORS KOBBI SCHERPY",
+      "date_of_birth": "2021-05-23",
+      "clp": "17550",
+      "father": "Amon z Malých Koloděj",
+      "mother": "Alba Lorddog",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "17550",
+        "father": {
+          "clp": "16336",
+          "name": "Amon z Malých Koloděj",
+          "father": {
+            "clp": "14986",
+            "name": "Pad ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14313",
+              "name": "Kyty ze Srbeckých luhů",
+              "father": {
+                "clp": "13829",
+                "name": "Ikar z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15405",
+            "name": "Brela Apoli Gwen",
+            "father": {
+              "name": "Russel´s Kismet",
+              "father": {
+                "name": "Saetereiva´s Russel"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "clp": "13077",
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Alba Lorddog",
+          "father": {
+            "name": "Sangarah Poser",
+            "father": {
+              "name": "Kerryfair Snow Fox",
+              "father": {
+                "name": "Reddins Oban"
+              },
+              "mother": {
+                "name": "Outfoxed by Kerryfair"
+              }
+            },
+            "mother": {
+              "name": "Sangarah Conspiration",
+              "father": {
+                "name": "Caskeys Concept at Aoibheanne"
+              },
+              "mother": {
+                "name": "Shandwick Obsession"
+              }
+            }
+          },
+          "mother": {
+            "name": "Maria Sharapova z Arislandu",
+            "father": {
+              "name": "Glennara Long Way Home",
+              "father": {
+                "name": "Scotselaw Jackson at Lynwood"
+              },
+              "mother": {
+                "name": "Glennara Fleur de Mai"
+              }
+            },
+            "mother": {
+              "name": "American Dream z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "výborný, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Klaudia",
+        "last_name": "Rosenbergová",
+        "address": {
+          "street": "Březinova",
+          "number": "4",
+          "city": "Břeclav",
+          "post_code": "69002"
+        },
+        "phone": "602587141",
+        "email": "klaudiarosenbergova69@gmail.com"
       },
       "img_ext": "jpg"
     }
