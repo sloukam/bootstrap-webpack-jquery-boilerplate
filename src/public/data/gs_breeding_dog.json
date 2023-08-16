@@ -2253,12 +2253,13 @@
         }
       },
       "body": {
-        "height": "63",
+        "height": "65",
         "color": "černá s pálením",
-        "HD": "A"
+        "HD": "A",
+        "rcd4": "carrier"
       },
-      "shows": "velmi dobrý",
-      "exams": "ZV I.c.",
+      "shows": "velmi dobrý, výborný 2",
+      "exams": "ZV I.c., PZ I.cena",
       "owner": {
         "first_name": "Helena ",
         "last_name": "Krejczy Andrejovská",
