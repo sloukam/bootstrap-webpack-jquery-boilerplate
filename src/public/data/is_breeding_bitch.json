@@ -3824,6 +3824,134 @@
     {
       "breed": "IS",
       "sex": "female",
+      "datum_uchovneni": "2023-08-02",
+      "visible": true,
+      "name": "AGONNY RUBIVERA",
+      "date_of_birth": "2018-08-21",
+      "clp": "16610",
+      "father": "Agar Akimbo Daisy Rain",
+      "mother": "Emotional Euphoria Everdene",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16610",
+        "father": {
+          "clp": "15989",
+          "name": "Agar Akimbo Daisy Rain",
+          "father": {
+            "name": "Cordarragh Picasso",
+            "father": {
+              "name": "Scotselaw Detroit Spinner By Thendara",
+              "father": {
+                "name": "Thendara The Tourist"
+              },
+              "mother": {
+                "name": "Scotselaw Choco Holic"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Lady in Red",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let it Be"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu "
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15812",
+          "name": "Emotional Euphoria Everdene",
+          "father": {
+            "name": "Salford Wizard z Arislandu",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "This Magic Moment z Arislandu",
+              "father": {
+                "name": "Erinade Extinguished"
+              },
+              "mother": {
+                "name": "Alma Dla Arislandu z Tobólki"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15309",
+            "name": "Neiven Arouse Admiration",
+            "father": {
+              "name": "Centre Point Zambi",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Born To Be Happy Zambi"
+              }
+            },
+            "mother": {
+              "name": "Hawana Rude Ziólko",
+              "father": {
+                "name": "Gin Tonic of The Hunter´s Home"
+              },
+              "mother": {
+                "name": "Annais Rauhbaard"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "výborná, CAC, res. CAC.",
+      "exams": "PZ I.cena, ZVP II.cena",
+      "owner": {
+        "first_name": "Věra",
+        "last_name": "Vajdíková",
+        "address": {
+          "number": "702",
+          "city": "Prušánky",
+          "post_code": "69621"
+        },
+        "phone": "704218928"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
       "visible": true,
       "name": "DAIQUIRI DAISY RAIN",
       "date_of_birth": "2019-01-20",
@@ -4914,6 +5042,283 @@
         "phone": "+420 603 410 711",
         "email": "romana@daneswucetnictvi.cz"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2023-09-01",
+      "visible": true,
+      "name": "ELIZABETH RED JOKER",
+      "date_of_birth": "2021-02-09",
+      "clp": "17086",
+      "father": "Fairhaven Zenith El Primero",
+      "mother": "Australian Red Joker z Arislandu",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17086",
+        "father": {
+          "name": "Fairhaven Zenith El Primero",
+          "father": {
+            "name": "Applegrove I Am The Dragon´s Aid",
+            "father": {
+              "name": "Seterlands Tamburello At Pendoric",
+              "father": {
+                "name": "Pendoric Perfect Thyming"
+              },
+              "mother": {
+                "name": "Eireannmada Royal Ascot"
+              }
+            },
+            "mother": {
+              "name": "Applegrove Look At Me I´m Natalie",
+              "father": {
+                "name": "Grove Creek´s Xtreme Quick Blow"
+              },
+              "mother": {
+                "name": "Fairhaven Brown Eyed Girl"
+              }
+            }
+          },
+          "mother": {
+            "name": "Fairhaven Rebecca",
+            "father": {
+              "name": "Dubliner Georgio Armani",
+              "father": {
+                "name": "Dubliner Mac Mio"
+              },
+              "mother": {
+                "name": "Kanelin Hurrah Dubliner"
+              }
+            },
+            "mother": {
+              "name": "Fairhaven Herbrightsky",
+              "father": {
+                "name": "Dubliner Tiger Woods"
+              },
+              "mother": {
+                "name": "Fairhaven Faye Firefly"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16512",
+          "name": "Australian Red Joker z Arislandu",
+          "father": {
+            "name": "Lanascol Smoke and Mirrors",
+            "father": {
+              "name": "Devlin Marco Polo At Eireannmada",
+              "father": {
+                "name": "Beaubriar Showtime At Devlin"
+              },
+              "mother": {
+                "name": "Devlin´s Savannah"
+              }
+            },
+            "mother": {
+              "name": "Lanascol Lost in The Fog",
+              "father": {
+                "name": "Lanascol Work Of Art"
+              },
+              "mother": {
+                "name": "Lanascol Hallucination"
+              }
+            }
+          },
+          "mother": {
+            "name": "Gardensett Gina Lolobrigida z Arislandu",
+            "father": {
+              "name": "American Dollar z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            },
+            "mother": {
+              "name": "Gipsy Flower z Arislandu",
+              "father": {
+                "name": "Shandwick Topaz"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "championships": "JCH ČR, CH ČR, GRAND CH ČR",
+      "shows": "CAJC, BOJ, CAC, CACIB, NV, KV, BOS, junior BIS",
+      "exams": "výjimka",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Houda",
+        "address": {
+          "street": "Lojovická",
+          "number": "364/61",
+          "city": "Praha 4",
+          "post_code": "14200"
+        },
+        "phone": "602482873",
+        "email": "yati.my@volny.cz",
+        "web": "http://www.redjoker.cz/"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2023-09-01",
+      "visible": true,
+      "name": "FRANCIS RED JOKER",
+      "date_of_birth": "2021-03-23",
+      "clp": "17126",
+      "father": "Flannery Rick Mahagony Paw",
+      "mother": "Clea Red Joker",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17126",
+        "father": {
+          "clp": "16576",
+          "name": "Flannerry Riick Mahagony Paw",
+          "father": {
+            "name": "Paris Match Thendara",
+            "father": {
+              "name": "Gwendariff Pop The Question",
+              "father": {
+                "name": "Danaway Lancelot of Autumnwood"
+              },
+              "mother": {
+                "name": "Gwendariff Pop My Cork"
+              }
+            },
+            "mother": {
+              "name": "Thendara Lenamore",
+              "father": {
+                "name": "Sumaric Shadow Of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Thendara Capriati"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16166",
+            "name": "Electra Ruby Mahagony Paw",
+            "father": {
+              "name": "Garden Star´s Red Bull",
+              "father": {
+                "name": "Sumaric Shadow Of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            },
+            "mother": {
+              "clp": "15043",
+              "name": "Assonance Mahagony Paw",
+              "father": {
+                "name": "Vicary´s Cobacabana"
+              },
+              "mother": {
+                "clp": "14401",
+                "name": "Country Melody Jenny´s Irsal"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16041",
+          "name": "Clea Red Joker",
+          "father": {
+            "clp": "15444",
+            "name": "Abandinus Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish-Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15252",
+            "name": "Beauty Red Joker",
+            "father": {
+              "clp": "15064",
+              "name": "Satlas Man Overboard",
+              "father": {
+                "name": "Satlas Waywardman"
+              },
+              "mother": {
+                "name": "Satlas Moody Blue"
+              }
+            },
+            "mother": {
+              "clp": "14484",
+              "name": "Aischa Red Joker",
+              "father": {
+                "clp": "12605",
+                "name": "Fabrizio Juglana"
+              },
+              "mother": {
+                "clp": "13918",
+                "name": "Andy Dianin Šíp"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "championships": "CH ČR",
+      "shows": "r.CAC, CAC, r.CACIB, CACIB ",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Houda",
+        "address": {
+          "street": "Lojovická",
+          "number": "364/61",
+          "city": "Praha 4",
+          "post_code": "14200"
+        },
+        "phone": "602482873",
+        "email": "yati.my@volny.cz",
+        "web": "http://www.redjoker.cz/"
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
