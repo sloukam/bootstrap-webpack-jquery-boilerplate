@@ -2,6 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230041,
+      "publishDate": "2023/09/14",
+      "title": "Scimed na MVP Klatovy- Reprodukční profil",
+      "paragraphs": [
+        "Dovolte mi Vás informovat, že laboratoř Scimed bude přítomna na MVP Klatovy ve dnech 16.-17. září.",
+        "Na místě bude k dispozici k dotazům ohledně diagnostiky reprodukčních problémů. Nebude na místě provádět odběry na reprodukční profil (patogeny způsobující potíže s reprodukcí)",
+        "Chovatelé si budou mít možnost zakoupit odběrové sady, pokud plánují své psy a feny nechat vyšetřit před krytím (v běžném prodeji jen po 100 ks).",
+        "Stánek Scimed najdete za kruhy 17 a 18 a poblíž občerstvení a zápisu do PP. Poblíž bude též stánek laboratoře Genomia.",
+        "",
+        "<a href=\"./public/pdf/2023/230914-scimed.pdf\" target=\"_blank\">informačníá leták ZDE</a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230040,
       "publishDate": "2023/08/29",
       "title": "Memoriál Richarda Knolla",
