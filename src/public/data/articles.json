@@ -2,6 +2,58 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230045,
+      "publishDate": "2023/09/26",
+      "title": "Propozice na klubové zkoušky vloh ve Slavicích 8.10.2023",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/231008-kzv/01.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231008-kzv/01.png\" height=\"300\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2023/231008-kzv/02.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231008-kzv/02.png\" height=\"300\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2023/231008-kzv/03.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231008-kzv/03.png\" height=\"300\" width=\"220\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/231008-kzv/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.docx",
+          "type": "docx"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20230044,
+      "publishDate": "2023/09/26",
+      "title": "Propozice na podzimní klubové zkoušky ve Slavicích 7.10.2023",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2023/231007-kpz/01.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231007-kpz/01.png\" height=\"300\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2023/231007-kpz/02.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231007-kpz/02.png\" height=\"300\" width=\"220\"></a>&nbsp;<a href=\"./public/pdf/2023/231007-kpz/03.png\" target=\"_blank\"><img src=\"./public/pdf/2023/231007-kpz/03.png\" height=\"300\" width=\"220\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2023/231007-kpz/propozice.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "přihláška",
+          "filePath": "./public/pdf/2023/230514-kzv/prihlaska.docx",
+          "type": "docx"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230043,
       "publishDate": "2023/09/17",
       "title": "Nabízíme štěňátka IS",
