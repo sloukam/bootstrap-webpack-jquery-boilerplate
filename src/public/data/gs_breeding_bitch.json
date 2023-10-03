@@ -3848,6 +3848,136 @@
         "email": "D.a.r.i.a@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
+      "datum_uchovneni": "2023-07-25",
+      "visible": true,
+      "name": "Genesis Racer Manon Lescaut",
+      "date_of_birth": "2021-06-03",
+      "clp": "7079",
+      "father": "Revolution Breeze Let There Be Rock",
+      "mother": "Caffé Racer Manon Lescaut",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "7079",
+        "father": {
+          "name": "Revolution Breeze Let There Be Rock",
+          "father": {
+            "name": "Liric Fusilier With Shillay",
+            "father": {
+              "name": "Ludstar Frederick Frankenstein ",
+              "father": {
+                "name": "Trisetr Celtic Ice"
+              },
+              "mother": {
+                "name": "Ludstar Velsheda"
+              }
+            },
+            "mother": {
+              "name": "Liric As Good As It Gets",
+              "father": {
+                "name": "Laurelhach Limited Edition At Yohenoak"
+              },
+              "mother": {
+                "name": "Lochfain An Aus By Design To Liric"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill Way Ahed",
+            "father": {
+              "name": "Trisetr Ebonie Nirvana",
+              "father": {
+                "name": "Trisetr Black Vader"
+              },
+              "mother": {
+                "name": "Trisetr Ebonie Lainie"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Snow Queen",
+              "father": {
+                "name": "Trisetr Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Caffé Racer Manon Lescaut",
+          "father": {
+            "name": "Dolce Link Everywhere z Ojcowskiej Doliny",
+            "father": {
+              "name": "Trisetr Celtic Link With Laurelhach",
+              "father": {
+                "name": "Trisetr Ebonie Zeus"
+              },
+              "mother": {
+                "name": "trisetr Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Africa z Ojcowskiej Doliny",
+              "father": {
+                "name": "Kingpoint Everywhere"
+              },
+              "mother": {
+                "name": "Shanta Kaladan"
+              }
+            }
+          },
+          "mother": {
+            "name": "Xsara z Holubiské stráně",
+            "father": {
+              "name": "Yennadon Dynamic Dan",
+              "father": {
+                "name": "Dunfionn Inverkip"
+              },
+              "mother": {
+                "name": "Yennadon Time for Tavy"
+              }
+            },
+            "mother": {
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "58",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR, JCH Bosny a Hercegoviny, JCH Chorvatska",
+      "shows": "výborná, CAJC, BOJ, CAC, CACIB, BOB",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Adéla ",
+        "last_name": "Smetanová",
+        "address": {
+          "street": "Křižanov",
+          "number": "62",
+          "city": "Hrob",
+          "post_code": "41704"
+        },
+        "phone": "720950414",
+        "email": "adela.smet@gmail.com"
+      },
+      "img_ext": "jpg"
     }
+
   ]
 }
