@@ -1357,8 +1357,10 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ARČÍ OD TÁBORSKÝCH DVOŘÁKŮ",
+      "date_of_exclusion": "2023-09-12",
+      "reason_of_exclusion": "prodej do zahraničí",
       "date_of_birth": "2019-07-09",
       "clp": "11649",
       "father": "Bix Bohemia Frony",
