@@ -2524,7 +2524,9 @@
       "body": {
         "height": "67",
         "color": "černá s pálením",
-        "HD": "A"
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "carrier"
       },
       "shows": "výborný, CAJC, Vítěz třídy mladých, Res.CAC",
       "exams": "ZV I.c., Klubové PZ I.c. CACT",
