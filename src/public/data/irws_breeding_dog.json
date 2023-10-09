@@ -691,12 +691,13 @@
     {
       "breed": "IRWS",
       "sex": "male",
+      "datum_uchovneni": "2022-02-19",
       "visible": true,
       "name": "Bojar z Drválovského revíru",
       "date_of_birth": "2019-12-18",
       "clp": "366",
       "father": "Celtic red and white Orson",
-      "mother": "Mc Gillicuddys Lucy",
+      "mother": "Mc Gillicuddy's Lucy",
       "pedigree": {
         "breed": "IRWS",
         "sex": "male",
@@ -800,8 +801,9 @@
         "HD": "A",
         "other": "plnochrupý"
       },
-      "shows": "CH CZ",
-      "exams": "ZV Ic",
+      "championships": "JCHCZ, CHCZ, GCHCZ, CHCMKU JCHSK, CHSK, World Winer 2021",
+      "shows": "CAJC, CAC BOJ BOB VSV",
+      "exams": "ZV Ic. PZ Ic.",
       "owner": {
         "first_name": "Jana",
         "last_name": "Sedláková",
@@ -811,7 +813,8 @@
           "city": "Vanovice",
           "post_code": "67936"
         },
-        "phone": "+420 737 815 574"
+        "phone": "+420 737 815 574",
+        "email": "sedlakova.jani@tiscali.cz"
       },
       "img_ext": "jpg"
     },
@@ -997,6 +1000,381 @@
         },
         "phone": "+420 603 475 301",
         "email": "lenkasedlakova1990@gmail.com"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "datum_uchovneni": "2023-08-19",
+      "visible": true,
+      "name": "Cider z Drválovského revíru",
+      "date_of_birth": "2021-05-23",
+      "clp": "403",
+      "father": "Lanamore Alpha Edition Angelo",
+      "mother": "Amálka z Drválovského revíru",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "male",
+        "clp": "403",
+        "father": {
+          "country": "čr",
+          "clp": "376",
+          "name": "Lanamore Alpha Edition Angelo",
+          "father": {
+            "country": "SHSB",
+            "clp": "721068",
+            "name": "Vistador Bohemian",
+            "father": {
+              "country": "shsb",
+              "clp": "696466",
+              "name": "Spyefire May Spring Rainbow",
+              "father": {
+                "country": "kcsb",
+                "clp": "1573",
+                "name": "Spyefire Priceless"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "2658",
+                "name": "Laoirebay  All That Jazz Among Spyefire"
+              }
+            },
+            "mother": {
+              "country": "SHSB",
+              "clp": "688822",
+              "name": "United Spots Quicksilver",
+              "father": {
+                "country": "ROi",
+                "clp": "84044",
+                "name": "United Spots Nightwish"
+              },
+              "mother": {
+                "country": "hr",
+                "clp": "10007",
+                "name": "Sinead Red NokomisBe"
+              }
+            }
+          },
+          "mother": {
+            "country": "Spkp",
+            "clp": "8",
+            "name": "Bellanice Artegerd",
+            "father": {
+              "country": "KC",
+              "clp": "03154603",
+              "name": "Casafelice Montadale",
+              "father": {
+                "country": "kgsb",
+                "clp": "0047",
+                "name": "Corranroo Connexion"
+              },
+              "mother": {
+                "country": "kgsb",
+                "clp": "3052",
+                "name": "Casafelice Charollais"
+              }
+            },
+            "mother": {
+              "country": "ČR",
+              "clp": "219",
+              "name": "Artemis Bohemia Thalset",
+              "father": {
+                "country": "Ćlp",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "ČR",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "člp",
+          "clp": "354",
+          "name": "Amálka z Drválovského revíru",
+          "father": {
+            "country": "Člp",
+            "clp": "273",
+            "name": "Rolf z Lukovských lánů",
+            "father": {
+              "country": "ČLP",
+              "clp": "258",
+              "name": "Lohmann's Bernstein",
+              "father": {
+                "country": "vdh",
+                "clp": "07",
+                "name": "History's of Highland Baloú"
+              },
+              "mother": {
+                "country": "vdh",
+                "clp": "02",
+                "name": "Deargban O'Faolain"
+              }
+            },
+            "mother": {
+              "country": "ČLP",
+              "clp": "257",
+              "name": "Dalriach Proud Mary",
+              "father": {
+                "country": "kcsb",
+                "clp": "3842",
+                "name": "Dalriach Auchindoun"
+              },
+              "mother": {
+                "country": "kc",
+                "clp": "0900102",
+                "name": "Pepperstown Polly"
+              }
+            }
+          },
+          "mother": {
+            "country": "ČLP",
+            "clp": "318",
+            "name": "Mc Gillicuddy's Lucy",
+            "father": {
+              "country": "lof",
+              "clp": "79",
+              "name": "Fanfan Du Val Des Mordorees",
+              "father": {
+                "country": "lof",
+                "clp": "75032",
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "country": "lof",
+                "clp": "7",
+                "name": "Swane Du Val Des Mordorees"
+              }
+            },
+            "mother": {
+              "country": "pkr",
+              "clp": "1837",
+              "name": "Abi Shadow Dog",
+              "father": {
+                "country": "pkr ",
+                "clp": "46329",
+                "name": "Dalriach Rolling Stone"
+              },
+              "mother": {
+                "country": "pkr",
+                "clp": "12827",
+                "name": "Secret Wish Shadow Dog"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "shows": "CAJC BOJ CACIB BOB",
+      "exams": "ZV Ic.  VP Ic, LZ Ic.",
+      "owner": {
+        "title": "ing",
+        "first_name": "Věra ",
+        "last_name": "Hrubešová",
+        "address": {
+          "street": "U Kapličky",
+          "number": "19/6",
+          "city": "Ivančice",
+          "post_code": "66491"
+        },
+        "phone": "603291648",
+        "email": "hrubesova@teplarny.cz"
+      }
+    },
+    {
+      "breed": "IRWS",
+      "sex": "male",
+      "datum_uchovneni": "2023-08-05",
+      "visible": true,
+      "name": "Dexter z Drválovského revíru",
+      "date_of_birth": "2021-08-29",
+      "clp": "424",
+      "father": "Lanamore Alpha Edition Angelo",
+      "mother": "Mc Gillicuddy's Lucy",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "male",
+        "clp": "424",
+        "father": {
+          "country": "ČLP",
+          "clp": "376",
+          "name": "Lanamore Alpha Edition Angelo",
+          "father": {
+            "country": "SHSB",
+            "clp": "721068",
+            "name": "Vistador Bohemian",
+            "father": {
+              "country": "shsb",
+              "clp": "699466",
+              "name": "Spyefire May Spring Rainbow",
+              "father": {
+                "country": "kcsb",
+                "clp": "1573",
+                "name": "Spyefire Priceless"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "2658",
+                "name": "Laoirebay  All That Jazz Among Spyefire"
+              }
+            },
+            "mother": {
+              "country": "SHSB",
+              "clp": "688872",
+              "name": "United Spots Quicksilver",
+              "father": {
+                "country": "roj",
+                "clp": "84044",
+                "name": "United Spots Nightwish"
+              },
+              "mother": {
+                "country": "hr",
+                "clp": "100007",
+                "name": "Sinead Red Nokomis"
+              }
+            }
+          },
+          "mother": {
+            "country": "Spkp",
+            "clp": "8",
+            "name": "Bellanice Artegerd",
+            "father": {
+              "country": "KC",
+              "clp": "03154603",
+              "name": "Casafelice Montadale",
+              "father": {
+                "country": "kcsb",
+                "clp": "0047",
+                "name": "Corranroo Connexion"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3052",
+                "name": "Casafelice Charollais"
+              }
+            },
+            "mother": {
+              "country": "Člp",
+              "clp": "219",
+              "name": "Artemis Bohemia Thalset",
+              "father": {
+                "country": "Ćlp",
+                "clp": "493",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "CLP",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Mc Gillicuddy's Lucy",
+          "father": {
+            "country": "lof",
+            "clp": "79",
+            "name": "Fanfan DU Val des Mordorees",
+            "father": {
+              "country": "lof",
+              "clp": "33",
+              "name": "Deargban Bianco",
+              "father": {
+                "country": "kc",
+                "clp": "74981",
+                "name": "Silent Seeker of Shannonbally"
+              },
+              "mother": {
+                "country": "kc",
+                "clp": "35182",
+                "name": "Bishopmill Bronze Quean"
+              }
+            },
+            "mother": {
+              "country": "kc",
+              "clp": "75032",
+              "name": "Swane Du Val Des Mordorees",
+              "father": {
+                "country": "kcsb",
+                "clp": "817675",
+                "name": "Exclusive's Viscount"
+              },
+              "mother": {
+                "country": "lof",
+                "clp": "279",
+                "name": "Du Val Des Mordorrees Penelope"
+              }
+            }
+          },
+          "mother": {
+            "country": "pkr",
+            "clp": "13837",
+            "name": "Abi Shadow Dog",
+            "father": {
+              "country": "pkr",
+              "clp": "12427",
+              "name": "Dalriach Rolling stone",
+              "father": {
+                "country": "kcbs",
+                "clp": "3782",
+                "name": "Tullamore Troubador"
+              },
+              "mother": {
+                "country": "kc",
+                "clp": "02491409",
+                "name": "Darliach Geraldine"
+              }
+            },
+            "mother": {
+              "country": "pkr",
+              "clp": "12827",
+              "name": "Secret Wish Shadow Dog",
+              "father": {
+                "country": "ČLP",
+                "clp": "113",
+                "name": "Dick ze Skřípů"
+              },
+              "mother": {
+                "country": "pkr",
+                "clp": "9193",
+                "name": "Jarda Rysi Wykrot"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "červenobílá",
+        "HD": "B"
+      },
+      "championships": "šampion štěnat SK, JCHSK ,JCHCZ ,CHCZ, CHCMKU, GCHCZ",
+      "shows": "CAJC, CAC, VSV, KV, BOJ, BOBJ-7x, BOB 9x  CACIB ",
+      "exams": "ZV Ic,",
+      "owner": {
+        "first_name": "Eva ",
+        "last_name": "Lepařová",
+        "address": {
+          "street": "Pod Skalkou ",
+          "number": "69/10",
+          "city": "Přerov -Předmostí",
+          "post_code": "75124"
+        },
+        "phone": "774384252",
+        "email": "eleparova@gmail.com"
+      },
+      "co-owner": {
+        "first_name": "Ružena",
+        "last_name": "Lepařová"
       },
       "img_ext": "jpg"
     }
