@@ -191,7 +191,7 @@
       "date_of_birth": "2012-07-28",
       "clp": "10940",
       "father": "ROBYN DREAMS ARE FRE",
-      "mother": "BANDHURA z Kaczewskiej Zagrody",
+      "mother": "Bandhura z Karczewskiej Zagrody",
       "body": {
         "height": "65",
         "color": "bílooranžová",
@@ -449,7 +449,7 @@
               "name": "Ara z LukavskÃ½ch lÃ¡nÅ¯",
               "father": {
                 "clp": "7874",
-                "name": "Blesk z RoÅ¡tejna"
+                "name": "Blesk z Roštejna"
               },
               "mother": {
                 "clp": "7417",
@@ -563,7 +563,7 @@
                 "name": "Branco"
               },
               "mother": {
-                "name": "Bice dell Inglesa"
+                "name": "Bice dell Inglese"
               }
             },
             "mother": {
@@ -977,7 +977,7 @@
                 "name": "Branco"
               },
               "mother": {
-                "name": "Bice del Inglese"
+                "name": "Bice dell Inglese"
               }
             },
             "mother": {
@@ -1243,7 +1243,7 @@
               "clp": "9676",
               "name": "Brick",
               "father": {
-                "name": "Brando"
+                "name": "Branco"
               },
               "mother": {
                 "name": "Bice dell Inglese"
@@ -1756,7 +1756,7 @@
               "name": "Gora z Dolnic",
               "father": {
                 "clp": "8560",
-                "name": "Brit z BudÃ­nskÃ½ch lesÅ¯"
+                "name": "Brit z Budínských lesů"
               },
               "mother": {
                 "clp": "8469",
@@ -1833,7 +1833,7 @@
           "father": {
             "name": "Forget Me Not of Szedresi",
             "father": {
-              "name": "Caradhras og Szedresi",
+              "name": "Caradhras of Szedresi",
               "father": {
                 "name": "Luj Buzahazi"
               },
@@ -1871,7 +1871,7 @@
                 "name": "Archie z Mešínské hájovny"
               },
               "mother": {
-                "name": "Bona z Kniel nad Browina"
+                "name": "Bona z Kniei nad Browina"
               }
             }
           }
@@ -1994,10 +1994,10 @@
               "name": "Frodo z Kaczewskiej Zagrody",
               "father": {
                 "clp": "9145",
-                "name": "Brel z KřiÅ¾anovské stráně"
+                "name": "Brel z Křižanovské stráně"
               },
               "mother": {
-                "name": "Bea Z Wiecborskich PÃ³l"
+                "name": "Bea Z Wiecborskich Pól"
               }
             },
             "mother": {
@@ -2059,7 +2059,7 @@
               "name": "Ajda z Knollovy školy",
               "father": {
                 "clp": "9271",
-                "name": "Ben z Jaskor"
+                "name": "Ben z Joskor"
               },
               "mother": {
                 "clp": "9098",
@@ -2130,10 +2130,10 @@
               "name": "Frodo z Kacewskiej Zagrody",
               "father": {
                 "clp": "9145",
-                "name": "Bret z KřiÅ¾anovské stráně"
+                "name": "Bret z Křižanovské stráně"
               },
               "mother": {
-                "name": "Bea z Wiecborskich PÃ³l"
+                "name": "Bea Z Wiecborskich Pól"
               }
             },
             "mother": {
@@ -2283,7 +2283,7 @@
         },
         "mother": {
           "clp": "10892",
-          "name": "Cita z Å½ehuÅˆské kovárny",
+          "name": "Cita z Žehuňské kovárny",
           "father": {
             "clp": "9541",
             "name": "Dak z Ouhelí",
@@ -2314,7 +2314,7 @@
           },
           "mother": {
             "clp": "10308",
-            "name": "Bigi z Å½ehuÅˆské kovárny",
+            "name": "Bigi z Žehuňské kovárny",
             "father": {
               "clp": "9353",
               "name": "Char z BeÅˆovské skály",
@@ -3768,7 +3768,7 @@
             "father": {
               "name": "Crookrise Monty's Thome",
               "father": {
-                "name": "Bookstar Robert Frost"
+                "name": "Bookstor Robert Frost"
               },
               "mother": {
                 "name": "Crookrise Gill"
@@ -3787,7 +3787,7 @@
           "mother": {
             "name": "Kapaszhegyi Furge Bella",
             "father": {
-              "name": "Caradhras od Szedresi",
+              "name": "Caradhras of Szedresi",
               "father": {
                 "name": "Luj Buzahazi"
               },
@@ -3815,7 +3815,7 @@
             "father": {
               "name": "Forgel Me Not of Szedresi",
               "father": {
-                "name": "Caradhras od Szedresi"
+                "name": "Caradhras of Szedresi"
               },
               "mother": {
                 "name": "Falkenbergi Deborah"

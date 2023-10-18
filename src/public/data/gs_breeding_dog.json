@@ -32,7 +32,7 @@
     {
       "visible": false,
       "breed": "GS",
-      "name": "BRITT Z DVORKU ČAMOURKU",
+      "name": "BRITT Z DVORKU ČAMOURKU",
       "date_of_birth": "2009-06-14",
       "date_of_death": "2021-06-03",
       "clp": "6122",
@@ -173,7 +173,7 @@
       "date_of_birth": "2010-05-07",
       "clp": "6254",
       "father": "Glen z Želečky",
-      "mother": "Bumble-Bee Áres Šamarkan",
+      "mother": "Bumble-Bee Áres Šamarkan",
       "sex": "male",
       "body": {
         "height": "67",
@@ -234,7 +234,7 @@
       "name": "KAIRO Z ŽELEČKY",
       "date_of_birth": "2011-09-09",
       "clp": "6324",
-      "father": "Britt z Dvorku Čamourku",
+      "father": "Britt z Dvorku Čamourku",
       "mother": "Happy z Želečky",
       "sex": "male",
       "pedigree": {
