@@ -93,7 +93,7 @@
             "name": "Dastin DAMA Krkonoše",
             "father": {
               "clp": "4870",
-              "name": "Tramp from Lady's Place",
+              "name": "TRAMP FROM LADY'S PLACE",
               "father": {
                 "name": "Forester's Blackfire"
               },
@@ -198,7 +198,7 @@
     {
       "visible": false,
       "breed": "GS",
-      "name": "ZIR Z HOLUBICKÉ STRÁNĚ",
+      "name": "Zir z Holubické stráně",
       "date_of_birth": "2011-01-14",
       "clp": "6286",
       "father": "Sangerfild Earldom",
@@ -270,7 +270,7 @@
               "name": "Dastin DAMA Krkonoše",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady's Place"
+                "name": "TRAMP FROM LADY'S PLACE"
               },
               "mother": {
                 "clp": "4532",
@@ -324,7 +324,7 @@
             "name": "Elza z Zelečky",
             "father": {
               "clp": "4870",
-              "name": "Tramp from Lady's Place",
+              "name": "TRAMP FROM LADY'S PLACE",
               "father": {
                 "name": "Forester's Blackfire"
               },
@@ -427,7 +427,7 @@
         },
         "mother": {
           "clp": "6198",
-          "name": "Xsara z Holubické stráně",
+          "name": "XSARA Z HOLUBISKÉ STRÁNĚ",
           "father": {
             "name": "Yennadon Dynamic Dan",
             "father": {
@@ -457,7 +457,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady's Place"
+                "name": "TRAMP FROM LADY'S PLACE"
               },
               "mother": {
                 "clp": "6820",
@@ -723,7 +723,7 @@
             "name": "Faro z Prostějovska",
             "father": {
               "clp": "4870",
-              "name": "Tramp from Lady's Place",
+              "name": "TRAMP FROM LADY'S PLACE",
               "father": {
                 "name": "Forester's Blackfire"
               },
@@ -927,7 +927,7 @@
       "date_of_birth": "2013-11-09",
       "clp": "6484",
       "father": "Glen z Želečky",
-      "mother": "Zira z Holubické stráně",
+      "mother": "ZIRA Z HOLUBICKÉ STRÁNĚ",
       "sex": "male",
       "body": {
         "height": "71",
@@ -957,7 +957,7 @@
       "name": "SCOT Z SCOTCH DAMA KRKONOŠE",
       "date_of_birth": "2014-05-09",
       "clp": "6525",
-      "father": "Zir z Holubické stráně",
+      "father": "Zir z Holubické stráně",
       "mother": "Sarmando Dream Erica",
       "sex": "male",
       "body": {
@@ -1018,7 +1018,7 @@
       "date_of_birth": "2015-07-03",
       "clp": "6603",
       "father": "Lamborghini Black Ivy",
-      "mother": "Zira z Holubické stráně",
+      "mother": "ZIRA Z HOLUBICKÉ STRÁNĚ",
       "sex": "male",
       "pedigree": {
         "breed": "GS",
@@ -1100,7 +1100,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady's place"
+                "name": "TRAMP FROM LADY'S PLACE"
               },
               "mother": {
                 "clp": "6820",
@@ -1152,7 +1152,7 @@
       "name": "BRODEY PEARL MORAVIA",
       "date_of_birth": "2016-02-09",
       "clp": "6646",
-      "father": "Zir z Holubické stráně",
+      "father": "Zir z Holubické stráně",
       "mother": "Ashley Princess Pearl Moravia",
       "sex": "male",
       "pedigree": {
@@ -1188,7 +1188,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady's Place"
+                "name": "TRAMP FROM LADY'S PLACE"
               },
               "mother": {
                 "clp": "4820",
@@ -1230,7 +1230,7 @@
               "name": "Cita z Nedvězí",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady's Place"
+                "name": "TRAMP FROM LADY'S PLACE"
               },
               "mother": {
                 "clp": "4665",
@@ -1303,7 +1303,7 @@
           "father": {
             "name": "Sun-Yan Spellbound Heaven Scent",
             "father": {
-              "name": "Spellbound's Notorious ",
+              "name": "Spellbound's Notorious",
               "father": {
                 "name": "Gordon Hill Hangfire"
               },
@@ -1312,7 +1312,7 @@
               }
             },
             "mother": {
-              "name": "Sun-Yak's Desert Echo",
+              "name": "SUN-YAK'S DESERT ECHO",
               "father": {
                 "name": "Macalder Formal Attire "
               },
@@ -1693,7 +1693,7 @@
                 "name": "Triseter Ebonie Nrvana"
               },
               "mother": {
-                "name": "Tahtan Blac Magic"
+                "name": "TAHTAN BLACK MAGIC"
               }
             },
             "mother": {
@@ -1889,7 +1889,7 @@
                 "name": "Spellbound's Natourious"
               },
               "mother": {
-                "name": "Sun-Yak's Desert Echo"
+                "name": "SUN-YAK'S DESERT ECHO"
               }
             },
             "mother": {
@@ -2022,12 +2022,12 @@
           "father": {
             "name": "Sunsetter's Sing ´O´ the Times",
             "father": {
-              "name": "Sun-Yak Spellbnd Heaven Scent",
+              "name": "SUN-YAN SPELLBOUND HEAVEN SCENT",
               "father": {
                 "name": "Spellbound's Notourious"
               },
               "mother": {
-                "name": "Sun-Yak's Desert Echo"
+                "name": "SUN-YAK'S DESERT ECHO"
               }
             },
             "mother": {
@@ -2493,7 +2493,7 @@
           "mother": {
             "country": "čr",
             "clp": "6198",
-            "name": "Xsara z Holubické stráně",
+            "name": "XSARA Z HOLUBISKÉ STRÁNĚ",
             "father": {
               "name": "Yennadon Dynamic Dan",
               "father": {
