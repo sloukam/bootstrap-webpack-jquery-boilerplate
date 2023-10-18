@@ -217,7 +217,7 @@
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "pedigree": {
         "father": {
-          "name": "Misty Lake´s Never Say Never",
+          "name": "Misty Lake's Never Say Never",
           "father": {
             "name": "Laurelhach Moviestar",
             "father": {
@@ -343,7 +343,7 @@
       "mother": "Maria Matilde Scotch DAMA Krkonoše",
       "pedigree": {
         "father": {
-          "name": "Misty Lake´s Never Say Never",
+          "name": "Misty Lake's Never Say Never",
           "father": {
             "name": "Laurelhach Moviestar",
             "father": {
@@ -471,7 +471,7 @@
         "father": {
           "name": "Hemingway Beauty of Gordon",
           "father": {
-            "name": "Forester´s Zampano of Darkmoor",
+            "name": "Forester's Zampano of Darkmoor",
             "father": {
               "name": "Ludstar Defender",
               "father": {
@@ -482,9 +482,9 @@
               }
             },
             "mother": {
-              "name": "Foroster´s Nora-Jane of Darkmoor",
+              "name": "Foroster's Nora-Jane of Darkmoor",
               "father": {
-                "name": "Forester´s Introduke of Darkmoor"
+                "name": "Forester's Introduke of Darkmoor"
               },
               "mother": {
                 "name": "Timberley van Monte di Angeli"
@@ -521,9 +521,9 @@
             "name": "Faro z Prostějovska",
             "father": {
               "clp": "4870",
-              "name": "Tramp from Lady´s Place",
+              "name": "Tramp from Lady's Place",
               "father": {
-                "name": "Forester´s Blackfire"
+                "name": "Forester's Blackfire"
               },
               "mother": {
                 "name": "Lady Admiration from Kings Castle"
@@ -611,10 +611,10 @@
             "father": {
               "name": "Black Devil's Joshua",
               "father": {
-                "name": "Black Devil´s Iron"
+                "name": "Black Devil's Iron"
               },
               "mother": {
-                "name": "Black Devil´s Qaiya"
+                "name": "Black Devil's Qaiya"
               }
             },
             "mother": {
@@ -633,9 +633,9 @@
             "name": "Elza z Želečky",
             "father": {
               "clp": "4870",
-              "name": "Tramp from Lady´s Place",
+              "name": "Tramp from Lady's Place",
               "father": {
-                "name": "Forester´s Blackfire"
+                "name": "Forester's Blackfire"
               },
               "mother": {
                 "name": "Lady Administration from Kings Castle"
@@ -687,7 +687,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "6820",
@@ -775,7 +775,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "4655",
@@ -800,7 +800,7 @@
           "clp": "6131",
           "name": "Bora z Dvorku Čamourku",
           "father": {
-            "name": "Forester´s Zampano of Darkmoor",
+            "name": "Forester's Zampano of Darkmoor",
             "father": {
               "name": "Ludstar Defender",
               "father": {
@@ -811,9 +811,9 @@
               }
             },
             "mother": {
-              "name": "Forester´s Nora-Jane of Darkmoor",
+              "name": "Forester's Nora-Jane of Darkmoor",
               "father": {
-                "name": "Forester´s Ironduke of Darkmoor"
+                "name": "Forester's Ironduke of Darkmoor"
               },
               "mother": {
                 "name": "Timberley van Monte di Angeli"
@@ -828,7 +828,7 @@
               "name": "Dastin DAMA Krkonoše",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "4532",
@@ -911,7 +911,7 @@
               "name": "Faro z Prostějovska",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "4655",
@@ -936,7 +936,7 @@
           "clp": "6131",
           "name": "Bora z Dvorku Čamourku",
           "father": {
-            "name": "Forester´s Zampano of Darkmoor",
+            "name": "Forester's Zampano of Darkmoor",
             "father": {
               "name": "Ludstar Defender",
               "father": {
@@ -947,9 +947,9 @@
               }
             },
             "mother": {
-              "name": "Forester´s Nora-Jane of Darkmoor",
+              "name": "Forester's Nora-Jane of Darkmoor",
               "father": {
-                "name": "Forester´s Ironduke of Darkmoor"
+                "name": "Forester's Ironduke of Darkmoor"
               },
               "mother": {
                 "name": "Timberley van Monte di Angeli"
@@ -964,7 +964,7 @@
               "name": "Dastin DAMA Krkonoše",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "4532",
@@ -2284,10 +2284,10 @@
             "father": {
               "name": "Sun-Yak Spellbond Heaven Scent",
               "father": {
-                "name": "Spellbound´s Notorious"
+                "name": "Spellbound's Notorious"
               },
               "mother": {
-                "name": "Sun-Yak´s Desetr Echo"
+                "name": "Sun-Yak's Desetr Echo"
               }
             },
             "mother": {
@@ -2434,7 +2434,7 @@
           "clp": "6469",
           "name": "Alice Scotch do pole",
           "father": {
-            "name": "Misty Lake´s Never Say Never",
+            "name": "Misty Lake's Never Say Never",
             "father": {
               "name": "Laurelhach Moviestar",
               "father": {
@@ -2703,7 +2703,7 @@
               "name": "Elza z Želečky",
               "father": {
                 "clp": "4870",
-                "name": "Tramp from Lady´s Place"
+                "name": "Tramp from Lady's Place"
               },
               "mother": {
                 "clp": "0000",
@@ -3188,10 +3188,10 @@
             "father": {
               "name": "Windcrest Once In A Blue Moon",
               "father": {
-                "name": "Woodsmoke´s Classic Alibi CD"
+                "name": "Woodsmoke's Classic Alibi CD"
               },
               "mother": {
-                "name": "Buteo´s Dixie of Windcrest"
+                "name": "Buteo's Dixie of Windcrest"
               }
             },
             "mother": {
@@ -3310,14 +3310,14 @@
       "name": "FIXA Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2019-11-27",
       "clp": "6954",
-      "father": "Sherwin´s Handsome Guy",
+      "father": "Sherwin's Handsome Guy",
       "mother": "Caren z Holubické stráně",
       "pedigree": {
         "breed": "GS",
         "sex": "female",
         "clp": "6954",
         "father": {
-          "name": "Sherwin´s Handsome Guy",
+          "name": "Sherwin's Handsome Guy",
           "father": {
             "name": "Yukki Hill Walk of Fame to Fairray",
             "father": {
@@ -3340,7 +3340,7 @@
             }
           },
           "mother": {
-            "name": "Sherwin´s  Camee",
+            "name": "Sherwin's  Camee",
             "father": {
               "name": "Liric None So Special",
               "father": {
@@ -3351,12 +3351,12 @@
               }
             },
             "mother": {
-              "name": "Tarock´s Romy",
+              "name": "Tarock's Romy",
               "father": {
-                "name": "Tarock´s Lycos"
+                "name": "Tarock's Lycos"
               },
               "mother": {
-                "name": "Tarock´s Imola"
+                "name": "Tarock's Imola"
               }
             }
           }
@@ -3443,14 +3443,14 @@
       "name": "FREYA Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2019-11-27",
       "clp": "6956",
-      "father": "Sherwin´s Handsome Guy",
+      "father": "Sherwin's Handsome Guy",
       "mother": "Caren z Holubické stráně",
       "pedigree": {
         "breed": "GS",
         "sex": "female",
         "clp": "6956",
         "father": {
-          "name": "Sherwin´s Handsome Guy",
+          "name": "Sherwin's Handsome Guy",
           "father": {
             "name": "Yukki Hill Walk of Fame to Fairray",
             "father": {
@@ -3473,7 +3473,7 @@
             }
           },
           "mother": {
-            "name": "Sherwin´s  Camee",
+            "name": "Sherwin's  Camee",
             "father": {
               "name": "Liric None So Special",
               "father": {
@@ -3484,12 +3484,12 @@
               }
             },
             "mother": {
-              "name": "Tarock´s Romy",
+              "name": "Tarock's Romy",
               "father": {
-                "name": "Tarock´s Lycos"
+                "name": "Tarock's Lycos"
               },
               "mother": {
-                "name": "Tarock´s Imola"
+                "name": "Tarock's Imola"
               }
             }
           }
@@ -3986,14 +3986,14 @@
       "name": "Ceridwen Silesia Setter",
       "date_of_birth": "2022-05-21",
       "clp": "7153",
-      "father": "Forester´s Devils Answer of Darkmoor",
+      "father": "Forester's Devils Answer of Darkmoor",
       "mother": "Freya z Holubické stráně",
       "pedigree": {
         "breed": "GS",
         "sex": "female",
         "clp": "7153",
         "father": {
-          "name": "Forester´s Devils Answer of Darkmoor",
+          "name": "Forester's Devils Answer of Darkmoor",
           "father": {
             "name": "Laurelhach Encrypt",
             "father": {
@@ -4016,7 +4016,7 @@
             }
           },
           "mother": {
-            "name": "Courtier´s Catch my Heart",
+            "name": "Courtier's Catch my Heart",
             "father": {
               "name": "Trisetr Ebonie Zeus",
               "father": {
@@ -4027,12 +4027,12 @@
               }
             },
             "mother": {
-              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "name": "Forester's Hot-Sensation of Darkmoor",
               "father": {
                 "name": "Warchant Twilight Bolero"
               },
               "mother": {
-                "name": "Forester´s Xinia of Darkmoor"
+                "name": "Forester's Xinia of Darkmoor"
               }
             }
           }
@@ -4041,7 +4041,7 @@
           "clp": "6956",
           "name": "Freya z Holubické stráně",
           "father": {
-            "name": "Sherwin´s Handsome Guy",
+            "name": "Sherwin's Handsome Guy",
             "father": {
               "name": "Yukki Hill Walk of Fame to Fairray",
               "father": {
@@ -4052,12 +4052,12 @@
               }
             },
             "mother": {
-              "name": "Sherwin´s Camee",
+              "name": "Sherwin's Camee",
               "father": {
                 "name": "Liric None So Special"
               },
               "mother": {
-                "name": "Tarock´s Romy"
+                "name": "Tarock's Romy"
               }
             }
           },
