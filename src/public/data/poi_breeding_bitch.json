@@ -544,7 +544,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": false,
-      "name": "DEBÝ Z BOROVINKY",
+      "name": "Deby z Borovinky",
       "date_of_birth": "2013-07-28",
       "datum_vyrazeni": "2023-07-19",
       "clp": "10990",
@@ -2999,7 +2999,7 @@
           "name": "Bert Bohemia Frony",
           "father": {
             "clp": "10336",
-            "name": "Cvik s Tismenic",
+            "name": "Cvik z Tismenic",
             "father": {
               "clp": "10204",
               "name": "Tor",
@@ -3199,7 +3199,7 @@
           "father": {
             "name": "Csillaghegyi Foltos Izidor",
             "father": {
-              "name": "Crookrise Monty'S Theme",
+              "name": "Crookrise Monty's Theme",
               "father": {
                 "name": "."
               },
@@ -3764,9 +3764,9 @@
         "father": {
           "name": "Sáregresi Pointerland Athos",
           "father": {
-            "name": "Csillaghegyi Foltos",
+            "name": "Csillaghegyi Foltos Izidor",
             "father": {
-              "name": "Crookrise Monty's Thome",
+              "name": "Crookrise Monty's Theme",
               "father": {
                 "name": "Bookstor Robert Frost"
               },

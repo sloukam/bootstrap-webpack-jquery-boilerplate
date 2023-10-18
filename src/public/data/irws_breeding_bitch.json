@@ -38,7 +38,7 @@
           "mother": {
             "name": "Deargban O'Faolain",
             "father": {
-              "name": "Deargban Blanco",
+              "name": "Deargban Bianco",
               "father": {
                 "name": "Silent Seeker of Shannonbally"
               },
@@ -139,7 +139,7 @@
           "clp": "273",
           "name": "Fanfan Du Val Des Mordorees",
           "father": {
-            "name": "Deargban Blanco",
+            "name": "Deargban Bianco",
             "father": {
               "name": "Sillent Seeker of Shannonbally",
               "father": {
@@ -320,7 +320,7 @@
           "mother": {
             "name": "Deargban O'Faolain",
             "father": {
-              "name": "Deargban Blanco",
+              "name": "Deargban Bianco",
               "father": {
                 "name": "Silent Seeker of Shannonbally"
               },
@@ -492,7 +492,7 @@
             "name": "Secret Wish Shadow Dog",
             "father": {
               "clp": "113",
-              "name": "Dick ze skřípu",
+              "name": "Dick ze Skřípů",
               "father": {
                 "name": "United Spots Justbe"
               },
@@ -723,7 +723,7 @@
           "father": {
             "name": "Fanfan Du Val Des Mordorees",
             "father": {
-              "name": "Dearban Blanco",
+              "name": "Deargban Bianco",
               "father": {
                 "name": "Sillent Seeker of Shannonbally"
               },
@@ -819,7 +819,7 @@
               "mother": {
                 "country": "VDH",
                 "clp": "02",
-                "name": "Deargban O Faolain"
+                "name": "Deargban O'Faolain"
               }
             },
             "mother": {
