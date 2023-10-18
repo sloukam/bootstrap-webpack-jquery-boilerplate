@@ -902,7 +902,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver‘s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "clp": "12057",
@@ -1298,7 +1298,7 @@
                 "name": "Clonageera Whisper"
               },
               "mother": {
-                "name": "Clonageera Fasination"
+                "name": "Clonageera Fascination"
               }
             },
             "mother": {
@@ -1568,7 +1568,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -1704,7 +1704,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -1840,7 +1840,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -2487,7 +2487,7 @@
       "mother": "Lasterfield Lucky Card Game z Arislandu",
       "pedigree": {
         "father": {
-          "name": "Chase Cinammon's",
+          "name": "Chase Cinnamon's",
           "father": {
             "name": "Cooper's Champagne on Ice at Aoibheanne",
             "father": {
@@ -2936,7 +2936,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s "
+                "name": "Cardinal Song Quinniver's "
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -3394,7 +3394,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -3523,7 +3523,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -3656,7 +3656,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -3704,11 +3704,11 @@
       "name": "GLIMMER NOBLESSE CONCENTRATE THE MIND",
       "date_of_birth": "2018-05-27",
       "clp": "16615",
-      "father": "Copper´s Riddarsporre",
-      "mother": "Copper´s Magic Glimmer",
+      "father": "Copper's Riddarsporre",
+      "mother": "Copper's Magic Glimmer",
       "pedigree": {
         "father": {
-          "name": "Copper´s Riddarsporre",
+          "name": "Copper's Riddarsporre",
           "father": {
             "name": "Entertaining Coopers",
             "father": {
@@ -3753,7 +3753,7 @@
           }
         },
         "mother": {
-          "name": "Copper´s Magic Glimmer",
+          "name": "Copper's Magic Glimmer",
           "father": {
             "name": "Cooper's Magiska Under",
             "father": {
@@ -3956,16 +3956,16 @@
       "name": "DAIQUIRI DAISY RAIN",
       "date_of_birth": "2019-01-20",
       "clp": "16625",
-      "father": "Copper´s Gypsy Rose",
+      "father": "Copper's Gypsy Rose",
       "mother": "Betty Barcley Daisy Rain",
       "pedigree": {
         "breed": "IS",
         "sex": "female",
         "clp": "16625",
         "father": {
-          "name": "Copper´s Gypsy Rose",
+          "name": "Copper's Gypsy Rose",
           "father": {
-            "name": "Copper´s Magiska Under",
+            "name": "Copper's Magiska Under",
             "father": {
               "name": "Dubliner Tiger Woods",
               "father": {
@@ -3976,7 +3976,7 @@
               }
             },
             "mother": {
-              "name": "Copper´s Magical Bubble",
+              "name": "Copper's Magical Bubble",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -3986,9 +3986,9 @@
             }
           },
           "mother": {
-            "name": "Copper´s Wine´n Roses",
+            "name": "Copper's Wine´n Roses",
             "father": {
-              "name": "Copper´s Bubble Power",
+              "name": "Copper's Bubble Power",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -3999,7 +3999,7 @@
             "mother": {
               "name": "Lynwood Kiss´n´tell Copper´s",
               "father": {
-                "name": "Copper´s Bubblande Glad"
+                "name": "Copper's Bubblande Glad"
               },
               "mother": {
                 "name": "Lynwood Sealed With A Kiss"
@@ -4087,16 +4087,16 @@
       "name": "DELLY DAISY RAIN",
       "date_of_birth": "2019-01-20",
       "clp": "16626",
-      "father": "Copper´s Gypsy Rose",
+      "father": "Copper's Gypsy Rose",
       "mother": "Betty Barcley Daisy Rain",
       "pedigree": {
         "breed": "IS",
         "sex": "female",
         "clp": "16626",
         "father": {
-          "name": "Copper´s Gypsy Rose",
+          "name": "Copper's Gypsy Rose",
           "father": {
-            "name": "Copper´s Magiska Under",
+            "name": "Copper's Magiska Under",
             "father": {
               "name": "Dubliner Tiger Woods",
               "father": {
@@ -4107,7 +4107,7 @@
               }
             },
             "mother": {
-              "name": "Copper´s Magical Bubble",
+              "name": "Copper's Magical Bubble",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4117,9 +4117,9 @@
             }
           },
           "mother": {
-            "name": "Copper´s Wine´n Roses",
+            "name": "Copper's Wine´n Roses",
             "father": {
-              "name": "Copper´s Bubble Power",
+              "name": "Copper's Bubble Power",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4130,7 +4130,7 @@
             "mother": {
               "name": "Lynwood Kiss´n´tell Copper´s",
               "father": {
-                "name": "Copper´s Bubblande Glad"
+                "name": "Copper's Bubblande Glad"
               },
               "mother": {
                 "name": "Lynwood Sealed With A Kiss"
@@ -4218,16 +4218,16 @@
       "date_of_birth": "2019-01-20",
       "datum_uchovneni": "2022-06-04",
       "clp": "16629",
-      "father": "Copper´s Gypsy Rose",
+      "father": "Copper's Gypsy Rose",
       "mother": "Betty Barcley Daisy Rain",
       "pedigree": {
         "breed": "IS",
         "sex": "female",
         "clp": "16629",
         "father": {
-          "name": "Copper´s Gypsy Rose",
+          "name": "Copper's Gypsy Rose",
           "father": {
-            "name": "Copper´s Magiska Under",
+            "name": "Copper's Magiska Under",
             "father": {
               "name": "Dubliner Tiger Woods",
               "father": {
@@ -4238,7 +4238,7 @@
               }
             },
             "mother": {
-              "name": "Copper´s Magical Bubble",
+              "name": "Copper's Magical Bubble",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4248,9 +4248,9 @@
             }
           },
           "mother": {
-            "name": "Copper´s Wine´n Roses",
+            "name": "Copper's Wine´n Roses",
             "father": {
-              "name": "Copper´s Bubble Power",
+              "name": "Copper's Bubble Power",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4261,7 +4261,7 @@
             "mother": {
               "name": "Lynwood Kiss´n´tell Copper´s",
               "father": {
-                "name": "Copper´s Bubblande Glad"
+                "name": "Copper's Bubblande Glad"
               },
               "mother": {
                 "name": "Lynwood Sealed With A Kiss"
@@ -4846,7 +4846,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -4971,7 +4971,7 @@
               },
               "mother": {
                 "clp": "14401",
-                "name": "Country Melody Jenny´s Irsal"
+                "name": "Country Melody Jenny's Irsal"
               }
             }
           }
@@ -5014,7 +5014,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -5234,7 +5234,7 @@
               },
               "mother": {
                 "clp": "14401",
-                "name": "Country Melody Jenny´s Irsal"
+                "name": "Country Melody Jenny's Irsal"
               }
             }
           }
@@ -5424,7 +5424,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"

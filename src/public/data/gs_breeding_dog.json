@@ -1291,7 +1291,7 @@
     {
       "visible": true,
       "breed": "GS",
-      "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
+      "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
       "date_of_birth": "2016-09-28",
       "clp": "6716",
       "father": "Sunsetter ́s Sing O The Times",
@@ -1872,7 +1872,7 @@
       "name": "Ganter z Dvorku Čamourku",
       "date_of_birth": "2019-09-16",
       "clp": "6932",
-      "father": "Charlie Chaplin Áres Šamarkan",
+      "father": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
       "mother": "Deina z Dvorku Čamourku",
       "pedigree": {
         "breed": "GS",
@@ -1880,7 +1880,7 @@
         "clp": "6932",
         "father": {
           "clp": "6716",
-          "name": "Charlie Chaplin Áres Šamarkan",
+          "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
           "father": {
             "name": "Sunsetter´s Sing ´O´ the Times",
             "father": {

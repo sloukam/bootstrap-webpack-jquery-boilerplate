@@ -756,7 +756,7 @@
             },
             "mother": {
               "clp": "12898",
-              "name": "Chelsea Nonstop ",
+              "name": "Chelsea Nonstop",
               "father": {
                 "clp": "11303",
                 "name": "Christian Irsal"
@@ -1766,7 +1766,7 @@
           },
           "mother": {
             "clp": "14401",
-            "name": "Country Melody Jenny´s Irsal",
+            "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
               "name": "Dorian Gray Jenny´s Irsal",
@@ -1856,7 +1856,7 @@
               "name": "Athos z Železných hor",
               "father": {
                 "clp": "9765",
-                "name": "Carlos Camilov"
+                "name": "Carlos Kamilov"
               },
               "mother": {
                 "clp": "10411",
@@ -2544,7 +2544,7 @@
           },
           "mother": {
             "clp": "14401",
-            "name": "Country Melody Jenny´s Irsal",
+            "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
               "name": "Dorian Grey Jenny´s Irsal",
@@ -2670,7 +2670,7 @@
           },
           "mother": {
             "clp": "14401",
-            "name": "Country Melody Jenny´s Irsal",
+            "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
               "name": "Dorian Grey Jenny´s Irsal",
@@ -2796,7 +2796,7 @@
           },
           "mother": {
             "clp": "14401",
-            "name": "Country Melody Jenny´s Irsal",
+            "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
               "name": "Dorian Grey Jenny´s Irsal",
@@ -2883,7 +2883,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -3591,7 +3591,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinniver´s "
+                "name": "Cardinal Song Quinniver's "
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -4135,7 +4135,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -4173,7 +4173,7 @@
           },
           "mother": {
             "clp": "14401",
-            "name": "Country Melody Jenny´s Irsal",
+            "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
               "name": "Dorian Grey Jenny´s Irsal",
@@ -4229,9 +4229,9 @@
         "father": {
           "name": "Dubliner Wellington",
           "father": {
-            "name": "Chase Cinammon´s",
+            "name": "Chase Cinnamon's",
             "father": {
-              "name": "Copper´s Champagne On Ice",
+              "name": "Copper's Champagne On Ice",
               "father": {
                 "name": "xxx xxx"
               },
@@ -4431,7 +4431,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -4560,7 +4560,7 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
                 "name": "Dorian Grey Jenny´s Irsal"
@@ -4631,7 +4631,7 @@
       "date_of_birth": "2007-12-26",
       "clp": "15037",
       "father": "Vicary ́s Cobacabana",
-      "mother": "Country Melody Jenny ́s Irsal",
+      "mother": "Country Melody Jenny's Irsal",
       "body": {
         "HD": "A",
         "other": "CLAD N/N"
@@ -4810,16 +4810,16 @@
       "name": "DAMIEN DAISY RAIN",
       "date_of_birth": "2019-01-20",
       "clp": "16622",
-      "father": "Copper´s Gypsy Rose",
+      "father": "Copper's Gypsy Rose",
       "mother": "Betty Barcley Daisy Rain",
       "pedigree": {
         "breed": "IS",
         "sex": "male",
         "clp": "16622",
         "father": {
-          "name": "Copper´s Gypsy Rose",
+          "name": "Copper's Gypsy Rose",
           "father": {
-            "name": "Copper´s Magiska Under",
+            "name": "Copper's Magiska Under",
             "father": {
               "name": "Dubliner Tiger Woods",
               "father": {
@@ -4830,7 +4830,7 @@
               }
             },
             "mother": {
-              "name": "Copper´s Magical Bubble",
+              "name": "Copper's Magical Bubble",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4840,9 +4840,9 @@
             }
           },
           "mother": {
-            "name": "Copper´s Wine´n Roses",
+            "name": "Copper's Wine´n Roses",
             "father": {
-              "name": "Copper´s Bubble Power",
+              "name": "Copper's Bubble Power",
               "father": {
                 "name": "Caskeys Concept at Aoibheanne"
               },
@@ -4853,7 +4853,7 @@
             "mother": {
               "name": "Lynwood Kiss´n´tell Copper´s",
               "father": {
-                "name": "Copper´s Bubblande Glad"
+                "name": "Copper's Bubblande Glad"
               },
               "mother": {
                 "name": "Lynwood Sealed With A Kiss"
