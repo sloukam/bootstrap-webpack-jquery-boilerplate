@@ -664,8 +664,10 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "Amálka z Drválovského revíru",
+      "datum_vyrazeni": "2023-10-20",
+      "duvod_vyrazeni": "ze zdravotnich duvovu",
       "date_of_birth": "2018-03-19",
       "clp": "354",
       "father": "Rolf z Lukovských Lánů",

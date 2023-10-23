@@ -821,8 +821,10 @@
     {
       "breed": "IRWS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "Lanamore HUGE HOPE HERRIOT",
+      "datum_vyrazeni": "2023-10-20",
+      "duvod_vyrazeni": "na zadost majitele",
       "date_of_birth": "2020-08-21",
       "clp": "396",
       "father": "Eshare Explorer Artegerd",
