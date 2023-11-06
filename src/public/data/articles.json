@@ -2,6 +2,22 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230047,
+      "publishDate": "2023/11/06",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Zápis z výborové schůze konané dne 26.10.2023 naleznete <a href=\"./public/pdf/2023/231026-zapis_z_vyboru.pdf\" target=\"_blank\">zde</a>."
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2023/231026-zapis_z_vyboru.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230046,
       "publishDate": "2023/10/02",
       "title": "Memoriál Karla Podhajského",
