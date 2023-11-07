@@ -4070,6 +4070,34 @@
         "web": "http://www.sulikovska-stran.webnode.cz/"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2023-11-07",
+      "visible": true,
+      "name": "Cuvée WinePoint Natyave Grove",
+      "date_of_birth": "2021-06-28",
+      "clp": "11886",
+      "father": "Adon del WinePoint",
+      "mother": "Agata from WinePoint Natyave Grove",
+      "body": {
+        "height": "60",
+        "color": "hnědá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, CAC, CACIB, BOS, BOB, KV-2023",
+      "exams": "ZV.MSKAO I.c, PZ-II.c,",
+      "owner": {
+        "first_name": "Adéla",
+        "last_name": "Cimbálová",
+        "address": {
+          "street": "Čapkova",
+          "number": "987",
+          "city": "Jaroměřice nad Rokytnou",
+          "post_code": "67551"
+        }
+      }
     }
   ]
 }
