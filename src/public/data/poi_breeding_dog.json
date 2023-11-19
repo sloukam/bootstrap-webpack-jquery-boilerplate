@@ -1451,6 +1451,38 @@
     {
       "breed": "POI",
       "sex": "male",
+      "datum_uchovneni": "2023-11-10",
+      "visible": true,
+      "name": "ARTUŠ SPEEDY ARROWS",
+      "date_of_birth": "2021-02-14",
+      "clp": "12069",
+      "father": "Gips Biely kostol",
+      "mother": "Xanna z Mešěinské hájovny",
+      "body": {
+        "height": "66",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "V1, CAC, CACIB, BOB, BOS, VT, OV",
+      "exams": "ZV.I.c,",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Šeligová",
+        "address": {
+          "street": "Sokolská",
+          "number": "1a/374",
+          "city": "HAVÍŘOV",
+          "post_code": "73601"
+        },
+        "phone": "737 553 367",
+        "email": "lenka.holesova@centrum.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
       "datum_uchovneni": "2022-09-05",
       "visible": false,
       "name": "Aron z Žešovského vršku",
