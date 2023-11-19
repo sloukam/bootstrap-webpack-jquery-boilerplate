@@ -2,6 +2,17 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230048,
+      "publishDate": "2023/11/19",
+      "title": "Pozvánka na webináře",
+      "paragraphs": [
+        "<a href=\"./public/images/2023/231119-webinare.png\" target=\"_blank\"><img src=\"./public/images/2023/231119-webinare.png\" height=\"270\" width=\"210\"></a>"
+      ],
+      "attachments": [
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230047,
       "publishDate": "2023/11/06",
       "title": "Zápis z výborové schůze",
