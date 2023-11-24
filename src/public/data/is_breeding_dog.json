@@ -4600,6 +4600,135 @@
     {
       "breed": "IS",
       "sex": "male",
+      "datum_uchovneni": "2023-10-08",
+      "visible": true,
+      "name": "ARWEN RUBIVERA",
+      "date_of_birth": "2018-08-21",
+      "clp": "16606",
+      "father": "Agar Akimbo Daisy Rain",
+      "mother": "Emotional Euphoria Everdene",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "16606",
+        "father": {
+          "clp": "15989",
+          "name": "Agar Akimbo Daisy Rain",
+          "father": {
+            "name": "Cordarragh Picasso",
+            "father": {
+              "name": "Scotselaw Detroit Spinner By Thendara",
+              "father": {
+                "name": "Thendara The Tourist"
+              },
+              "mother": {
+                "name": "Scotselaw Choco Holic"
+              }
+            },
+            "mother": {
+              "name": "Cordarragh Lady in Red",
+              "father": {
+                "name": "Cordarragh Huggie Bear"
+              },
+              "mother": {
+                "name": "Lunaline Let it Be"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu "
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15812",
+          "name": "Emotional Euphoria Everdene",
+          "father": {
+            "name": "Salford Wizard z Arislandu",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "This Magic Moment z Arislandu",
+              "father": {
+                "name": "Erinade Extinguished"
+              },
+              "mother": {
+                "name": "Alma Dla Arislandu z Tobólki"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15309",
+            "name": "Neiven Arouse Admiration",
+            "father": {
+              "name": "Centre Point Zambi",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Born To Be Happy Zambi"
+              }
+            },
+            "mother": {
+              "name": "Hawana Rude Ziólko",
+              "father": {
+                "name": "Gin Tonic of The Hunter´s Home"
+              },
+              "mother": {
+                "name": "Annais Rauhbaard"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "66",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "res. CAC. Krajský vítěz",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Michal",
+        "last_name": "Krátký",
+        "address": {
+          "street": "Kroftova ",
+          "number": "24",
+          "city": "Brno",
+          "post_code": "61600"
+        }
+      }
+    },
+
+    {
+      "breed": "IS",
+      "sex": "male",
       "visible": false,
       "name": "BARDOLF KING NONSTOP",
       "date_of_birth": "2007-01-18",
@@ -4679,6 +4808,7 @@
       },
       "img_ext": "jpg"
     },
+
     {
       "breed": "IS",
       "sex": "male",

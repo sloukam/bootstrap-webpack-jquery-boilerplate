@@ -3947,7 +3947,8 @@
           "post_code": "69621"
         },
         "phone": "704218928"
-      }
+      },
+      "img_ext": "jpg"
     },
     {
       "breed": "IS",
@@ -4759,6 +4760,148 @@
     {
       "breed": "IS",
       "sex": "female",
+      "datum_uchovneni": "2023-11-15",
+      "visible": true,
+      "name": "ANDY Z ŘÍMOVSKÉ STRÁNĚ",
+      "date_of_birth": "2019-08-20",
+      "clp": "16772",
+      "father": "Charon z Jirouškova dvora",
+      "mother": "Binjara Mahagon Kenya",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16772",
+        "father": {
+          "clp": "16399",
+          "name": "Charon z Jirouškova dvora",
+          "father": {
+            "clp": "15990",
+            "name": "Almost Picasso Daisy Rain",
+            "father": {
+              "name": "Cordarragh Picasso",
+              "father": {
+                "name": "Scotselaw Detroit Spinner By Thendara"
+              },
+              "mother": {
+                "name": "Cordarragh Lady in Red"
+              }
+            },
+            "mother": {
+              "clp": "15446",
+              "name": "Artemis Elimar Doubrava",
+              "father": {
+                "name": "Garden Star´s Irish Vagabond"
+              },
+              "mother": {
+                "clp": "14834",
+                "name": "Wictoria Becham z Arislandu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Rusell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russell"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16196",
+          "name": "Binjara Mahagon Kenya",
+          "father": {
+            "clp": "15444",
+            "name": "Abandinus Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15307",
+            "name": "Flea Červený vítr",
+            "father": {
+              "clp": "14717",
+              "name": "Dag z Křenovic",
+              "father": {
+                "clp": "13940",
+                "name": "Vesuv z Hradiska Rájce"
+              },
+              "mother": {
+                "clp": "14411",
+                "name": "Sandra z Luhové seče"
+              }
+            },
+            "mother": {
+              "clp": "14501",
+              "name": "Pera od Klapavce",
+              "father": {
+                "clp": "13459",
+                "name": "Tarn od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13955",
+                "name": "Lassi od Klapavce"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "CAC, r. CAC, CACIB, r.CACIB, NV, BOS, BOB",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Marcela",
+        "last_name": "Růžičková",
+        "address": {
+          "street": "Malenovice",
+          "number": "242",
+          "city": "Frýdlant n. Ostravicí",
+          "post_code": "73911"
+        },
+        "email": "8mar@seznam.cz"
+      },
+      "img_ext": "jpg"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
       "visible": true,
       "name": "BÁRA ZE SRBECKÝCH LUHŮ",
       "date_of_birth": "2019-12-28",
@@ -4902,7 +5045,7 @@
           "city": "Dubňany",
           "post_code": "69603"
         },
-        "email": "juraskova@technoma.cz"
+        "email": "leona.juraskova@seznam.cz"
       },
       "img_ext": "jpg"
     },
@@ -5451,6 +5594,156 @@
         },
         "phone": "+420 603 410 711",
         "email": "romana@daneswucetnictvi.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2023-11-15",
+      "visible": true,
+      "name": "ANGIE Z HORNOPOŽÁRSKÝCH LESŮ",
+      "date_of_birth": "2021-07-04",
+      "clp": "17210",
+      "father": "Gorby z Jirouškova dvora",
+      "mother": "Pixa ze Zápotockého",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17210",
+        "father": {
+          "clp": "16084",
+          "name": "Gorby z Jirouškova dvora",
+          "father": {
+            "clp": "14986",
+            "name": "Pad ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14313",
+              "name": "Kyty ze Srbeckých luhů",
+              "father": {
+                "clp": "13829",
+                "name": "Ikar z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Seaterelva´s Russel"
+              },
+              "mother": {
+                "name": "Highfeather Raise ´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16510",
+          "name": "Pixa ze Zápotockého",
+          "father": {
+            "clp": "15359",
+            "name": "Colt Jelení záře",
+            "father": {
+              "clp": "14473",
+              "name": "Andy ze Šumavských hor",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13259",
+                "name": "Gina ze Šumavského kraje"
+              }
+            },
+            "mother": {
+              "clp": "14682",
+              "name": "Sara od Klapavce",
+              "father": {
+                "clp": "13459",
+                "name": "Tarn od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13955",
+                "name": "Lassi od Klapavce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15709",
+            "name": "Merlin ze Zápotockého",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14871",
+              "name": "Baronesa Kitty Nonstop",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "14022",
+                "name": "Irish Destiny Nonstop"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, krajský vítěz",
+      "exams": "ZV I.cena, PZ I.cena, ZVP II.cena",
+      "owner": {
+        "title": "Mgr. ",
+        "first_name": "Marcela",
+        "last_name": "Streblová",
+        "address": {
+          "street": "Prostřední Bludovice ",
+          "number": "674",
+          "city": "Horní Bludovice",
+          "post_code": "73937"
+        }
       }
     }
   ]
