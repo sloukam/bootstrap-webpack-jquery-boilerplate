@@ -679,6 +679,40 @@
         "last_name": "Kadeřávková"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2023-06-17",
+      "visible": true,
+      "name": "Latin Lover Snow Ballet Bednar",
+      "date_of_birth": "2021-10-19",
+      "clp": "6603",
+      "father": "Achilles Toktarama’s",
+      "mother": "Latin Lover Secret Joy",
+      "body": {
+        "height": "59",
+        "color": "orange belton",
+        "HD": "B",
+        "ED": "0/0",
+        "BAER": true,
+        "rcd4": "clear",
+        "other": "OCD clear"
+      },
+      "championships": "JCH CZ, CH PL",
+      "exams": "ZV 223/4 I cena",
+      "owner": {
+        "first_name": "Taťána",
+        "last_name": "Bednářová Wilczková",
+        "address": {
+          "street": "Jižní",
+          "number": "718",
+          "city": "Rychvald"
+        },
+        "phone": "+420 724 474 360",
+        "email": "Tatana.bednarova@gmail.com"
+      },
+      "img_ext": "jpg"
     }
   ]
 }
