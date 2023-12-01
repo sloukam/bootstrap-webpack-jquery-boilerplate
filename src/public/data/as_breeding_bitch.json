@@ -699,6 +699,130 @@
         "rcd4": "clear",
         "other": "OCD clear"
       },
+      "pedigree": {
+        "breed": "AS",
+        "sex": "female",
+        "clp": "6603",
+        "father": {
+          "country": "CZ",
+          "name": "Achilles Toklrama's",
+          "father": {
+            "country": "AT",
+            "name": "Blue Baltic's Lawrence of Arabia",
+            "father": {
+              "country": "Fin",
+              "name": "Blue Baltic's Crystal Mountain",
+              "father": {
+                "country": "USA",
+                "name": "Esthete's The Mountain King"
+              },
+              "mother": {
+                "country": "FIN",
+                "name": "Blue Baltic's Ice Crystal"
+              }
+            },
+            "mother": {
+              "country": "FIN",
+              "name": "Blue Baltic's I'ma Legend",
+              "father": {
+                "country": "USA",
+                "name": "Legends Clear and Present Danger "
+              },
+              "mother": {
+                "country": "FIN",
+                "name": "Blue Baltic's Ice Pearl"
+              }
+            }
+          },
+          "mother": {
+            "country": "IT",
+            "name": "Latin Lover Miss Marple at Toklarama's",
+            "father": {
+              "country": "SRB",
+              "name": "Camellia Come Fly With My",
+              "father": {
+                "country": "SRB",
+                "name": "Lochlomod's Wrapped UP N You"
+              },
+              "mother": {
+                "country": "IT",
+                "name": "Latin Lover Night and DAY"
+              }
+            },
+            "mother": {
+              "country": "IT",
+              "name": "Latin Lover Celebration",
+              "father": {
+                "country": "USA",
+                "name": "Lorien July Sunburst"
+              },
+              "mother": {
+                "country": "FIN",
+                "name": "Blue Baltic's Surfn'Catalina"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "IT",
+          "name": "Latin Lover Secret Joy",
+          "father": {
+            "country": "IT",
+            "name": "Latin Lover New Years Day",
+            "father": {
+              "country": "IT",
+              "name": "Wyndswept's Reflection Of a Legacy",
+              "father": {
+                "country": "IT",
+                "name": "Wyndswept's Encore"
+              },
+              "mother": {
+                "name": "Stagedoor Firecracker"
+              }
+            },
+            "mother": {
+              "country": "IT",
+              "name": "Latin Lover High Hopes",
+              "father": {
+                "country": "USA",
+                "name": "Lorien July Sunburst"
+              },
+              "mother": {
+                "country": "FIN",
+                "name": "Blue Baltic's Surfn'Catalina"
+              }
+            }
+          },
+          "mother": {
+            "country": "IT",
+            "name": " Latin Lover The Rebel",
+            "father": {
+              "country": "IT",
+              "name": "Latin Lover The Boss",
+              "father": {
+                "country": "USA",
+                "name": "Lorien July Sunburst"
+              },
+              "mother": {
+                "country": "IT",
+                "name": " Blue Baltic's Surfn'Catalina"
+              }
+            },
+            "mother": {
+              "country": "IT",
+              "name": "Latin Lover The Black Dhalia",
+              "father": {
+                "country": "AT",
+                "name": "Fieldplay's Yankee Doodle at Silvanus"
+              },
+              "mother": {
+                "country": "IT",
+                "name": " Blue Baltic's Surfn'Catalina"
+              }
+            }
+          }
+        }
+      },
       "championships": "JCH CZ, CH PL",
       "exams": "ZV 223/4 I cena",
       "owner": {
