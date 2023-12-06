@@ -3574,11 +3574,11 @@
     },
     {
       "breed": "GS",
-      "sex": "female",
       "visible": true,
       "name": "FAZER MANON LESCAUT",
       "date_of_birth": "2020-02-03",
       "clp": "6961",
+      "sex": "female",
       "father": "Yennadon Lochan At Rubymoon",
       "mother": "Caffé Racer Manon Lescaut",
       "pedigree": {
