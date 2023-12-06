@@ -2,6 +2,23 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230049,
+      "publishDate": "2023/12/06",
+      "title": "STR profilování - cena",
+      "paragraphs": [
+        "Vážení zákazníci.",
+        "S předstihem vás chceme informovat, že od 1.1.2024 dojde ke zdražení testu STR DNA profilu psů a koček na cenu 1350 Kč. Cena po klubové slevě bude 1215 Kč včetně DPH. Děkujeme za pochopení.",
+        "Testy objednané a uhrazené před 1.1.2024 budou zpracovány v příštím roce bez doplatku.",
+        "Cena testu stanovení SNP profilu se pro rok 2024 nemění.",
+        "Dále nám dovolte pozvat vás k našemu stánku na výstavě Trio Cacib v Praze od 8.12. do 10.12.",
+        "Přejeme vám hezký adventní čas a těšíme se na další spolupráci s vámi.",
+        "Tereza Vovesová <br>Genomia, s.r.o.<br>Republikánská 6<br>312 00 Pilsen<br>Czech Republic"
+      ],
+      "attachments": [
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230048,
       "publishDate": "2023/11/19",
       "title": "Pozvánka na webináře",
