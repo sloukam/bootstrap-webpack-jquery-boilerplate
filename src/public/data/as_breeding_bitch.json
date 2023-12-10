@@ -56,10 +56,12 @@
       "owner": {
         "title": "Ing.",
         "first_name": "Lucie",
-        "last_name": "Studýnková",
+        "last_name": "Brožová",
         "address": {
-          "street": "Brambory",
-          "number": "9"
+          "street": "Komenského",
+          "number": "68",
+          "city": "Čelákovice - Sedlčánky",
+          "post_code": "25088"
         },
         "phone": "+420 737 413 598",
         "email": "davaroni@davaroni.com"
@@ -310,12 +312,14 @@
       "owner": {
         "last_name": "Ing. Lucie Studýnková & Ing. Ondřej Novák",
         "address": {
-          "street": "Brambory",
-          "number": "9",
-          "phone": "+420 737 413 598",
-          "email": "davaroni@davaroni.com",
-          "web": "http://www.davaroni.com"
-        }
+          "street": "Komenského",
+          "number": "68",
+          "city": "Čelákovice - Sedlčánky",
+          "post_code": "25088"
+        },
+        "phone": "+420 737 413 598",
+        "email": "davaroni@davaroni.com",
+        "web": "http://www.davaroni.com"
       },
       "img_ext": "jpg"
     },
