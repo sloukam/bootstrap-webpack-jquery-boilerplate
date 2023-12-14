@@ -2,6 +2,27 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230052,
+      "publishDate": "2023/12/14",
+      "title": "Výzva - staňte se členem výboru klubu",
+      "paragraphs": [
+        "<b>",
+        "Vzhledem k tomu, že se blíží termín výroční členské schůze MSKAO, která bude v roce 2024 volební, vyzývá výbor MSKAO všechny členy, kteří mají zájem aktivně se zapojit do práce ve prospěch klubu, aby se hlásili ke kandidatuře do výboru MSKAO.  ",
+        "</b><br>",
+        "Ze Stanov MSKAO:",
+        "<ul><li>Člen má právo volit, být volen a navrhovat kandidáty do orgánů klubu – toto právo přísluší osobám, kteří jsou starší 18 let</li>",
+        "<li>Návrh na volbu členů výboru předkládají členové klubu písemnou formou k rukám předsedy klubu do 28. února, před řádnou členskou schůzí, svolávanou na měsíc březen každého roku nebo přímo na volební schůzi návrhem z pléna</li></ul>",
+        "<br>",
+        "Návrhy prosím směrujte na e-mailové adresy <a href=\"mailto:predseda.mskao@gmail.com\">predseda.mskao@gmail.com</a>, případně <a href=\"mailto:info.mskao@gmail.com\">info.mskao@gmail.com</a> nebo poštou na kontaktní adresu MSKAO, <b>Sadová 315, 251 64 Mnichovice</b>.",
+        "Pozvánka s termínem, místem konání a programem volební výroční členské schůze bude včas zveřejněna na webových stránkách klubu a rozeslána na e-mailové adresy členů klubu. Předpokládaný termín volební výroční členské schůze je <b>neděle 3. března 2024</b>.",
+        "</b>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230051,
       "publishDate": "2023/12/06",
       "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
