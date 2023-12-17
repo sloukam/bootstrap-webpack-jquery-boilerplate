@@ -8,5 +8,6 @@ package-lock.json
 # OS generated files
 .DS_Store
 .Trashes
+.idea
 Thumbs.db
 ____NA-POUZITI_____
