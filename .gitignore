@@ -1,6 +1,8 @@
 # Node.js related files
 node_modules/
-dist/
+
+dist/public
+
 package-lock.json
 
 # OS generated files
