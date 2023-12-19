@@ -1758,7 +1758,7 @@
     {
       "visible": true,
       "articleId": 20210037,
-      "publishDate": null,
+      "publishDate": "2021/11/05",
       "title": "Zápis z výroční členské schůze",
       "paragraphs": [
         ""
@@ -2298,7 +2298,7 @@
     {
       "visible": true,
       "articleId": 20210010,
-      "publishDate": "2021-04-16",
+      "publishDate": "2021/04/16",
       "title": "Klubové zkoušky vloh ohařů",
       "paragraphs": [
         "Také máme v plánu uspořádat klubové zkoušky vloh ohařů, které se uskuteční 16. května v Těšanech. Bude zadáváno čekatelství CACT, RES. CACT.",
@@ -2330,7 +2330,7 @@
     {
       "visible": true,
       "articleId": 20210009,
-      "publishDate": "2021-04-16",
+      "publishDate": "2021/04/16",
       "title": "Klubové podzimní zkoušky ohařů",
       "paragraphs": [
         "Letos se budou konat klubové podzimní zkoušky ohařů 15. května v Těšanech. Bude zadáváno čekatelství CACT, RES. CACT.",
@@ -2362,7 +2362,7 @@
     {
       "visible": true,
       "articleId": 20210008,
-      "publishDate": "4/8/2021",
+      "publishDate": "2021/04/08",
       "title": "Klubová výstava ve Slavkově",
       "paragraphs": [
         "Letos opět v netradičním termínu. Věřme ale, že se ve Slavkově potkáme ve zdraví a v dobré náladě."
@@ -2387,7 +2387,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "4/8/2021",
+      "publishDate": "2021/04/08",
       "title": "Kalendář klubových akcí",
       "paragraphs": [
         "Vážení návštěvníci,",
@@ -2398,7 +2398,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/23/2021",
+      "publishDate": "2021/03/23",
       "title": "Přihlašování na Světovou Výstavu Psů v Brně",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -2415,7 +2415,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/16/2021",
+      "publishDate": "2021/03/16",
       "title": "Členské příspěvky",
       "paragraphs": [
         "Vážení členové klubu, dovoluji si tímto upozornit na splatnost členských příspěvků na rok 2021.",
@@ -2427,7 +2427,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/16/2021",
+      "publishDate": "2021/03/16",
       "title": "WDS BRNO",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -2444,7 +2444,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/16/2021",
+      "publishDate": "2021/03/16",
       "title": "MVP PRAHA",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -2459,7 +2459,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/16/2021",
+      "publishDate": "2021/03/16",
       "title": "NVP OSTRAVA",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -2475,7 +2475,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "3/16/2021",
+      "publishDate": "2021/03/16",
       "title": "NVP BRNO + MVP ŠPILBERKA + MVP DUOCACIB",
       "paragraphs": [
         "Vážení vystavovatelé,",
@@ -2501,7 +2501,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "12/13/2020",
+      "publishDate": "2020/12/13",
       "title": "Ročenka",
       "paragraphs": [
         "Vážení členové,",
@@ -2512,7 +2512,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "12/22/2020",
+      "publishDate": "2020/12/22",
       "title": "PF 2021",
       "paragraphs": [
         "<a href=\"./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg\" target=\"_blank\"><img src=\"./public/pdf/2020/201220-pf_mskao/pf-mskao.jpg\" height=\"280\" width=\"370\"></a>"
@@ -2521,7 +2521,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "12/13/2020",
+      "publishDate": "2020/12/13",
       "title": "Inzerce v ročence MSKAO",
       "paragraphs": [
         "Upozorňujeme na možnost uveřejnění inzerce v připravované Ročence MSKAO 2019. Inzeráty prosím posílejte ve formátu tiskového PDF na adresu <a href=\"mailto:rocenka@mskao.cz?subject=Inzerce%20v%20rocence%202020\">rocenka@mskao.cz</a> do 15.1.2020.",
@@ -2532,7 +2532,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "12/12/2020",
+      "publishDate": "2020/12/12",
       "title": "Nová pravidla pro Evropský pohár britských ohařů",
       "paragraphs": [
         "<ul><li><a href=\"./public/pdf/2020/201212-evropska_pravidla_pro_pohary_britskych_oharu/obeznik_FCI_pravidla_evropsky_pohar.pdf\"target=\"_blank\">oběžník s pravidly pro Evropský pohár (cz, fr, de, es) <img src=\"./public/images/pdf.png\"height=\"20\" width=\"20\"></a></li><li><a href=\"./public/pdf/2020/201212-evropska_pravidla_pro_pohary_britskych_oharu/obeznik_FCI_pravidla_evropsky_pohar-en.pdf\"target=\"_blank\">oběžník s pravidly pro Evropský pohár (en, fr, de, es) <img src=\"./public/images/pdf.png\"height=\"20\" width=\"20\"></a></li></ul>",
@@ -2542,7 +2542,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "10/12/2020",
+      "publishDate": "2020/10/12",
       "title": "Informace k Memoriálu Aloise Sklenáře-NFT:",
       "paragraphs": [
         "Vážení,",
@@ -2553,7 +2553,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "10/5/2020",
+      "publishDate": "2020/10/05",
       "title": "Informace k podzimním zkouškám ohařů a zkouškám vloh",
       "paragraphs": [
         "Vážení členové a příznivci lovecké kynologie,",
@@ -2565,7 +2565,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "10/5/2020",
+      "publishDate": "2020/10/05",
       "title": "Memoriál Karla Podhajského",
       "paragraphs": [
         "Vítězem 82. Memoriálu Karla Podhajského se stal pointer <b>Aston z Raklesu</b> vedený <b>Petrem Glozou</b>.",
@@ -2580,7 +2580,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "9/23/2020",
+      "publishDate": "2020/09/23",
       "title": "Výsledky klubové výstavy v Náměšti na Hané",
       "paragraphs": [
         "Přinášíme výsledky a fotografie z Klubové výstavy z Náměště.",
@@ -2595,7 +2595,7 @@
     {
       "visible": true,
       "articleId": 9999999999999,
-      "publishDate": "9/23/2020",
+      "publishDate": "2020/09/23",
       "title": "Aktuality ke klubové výstavě v Náměšti na Hané",
       "paragraphs": [
         "INFO pro ty z vás, kteří se chystají na klubovku do Náměště !!!!!!",
