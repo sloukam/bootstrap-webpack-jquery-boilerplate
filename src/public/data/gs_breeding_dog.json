@@ -2542,6 +2542,137 @@
         "phone": "778422835"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "GS",
+      "sex": "male",
+      "datum_uchovneni": "2023-12-20",
+      "visible": true,
+      "name": "Cobain Silesia Setter",
+      "date_of_birth": "2022-05-21",
+      "clp": "7150",
+      "father": "Forester´s Devils Answer of Darkmoor",
+      "mother": "Freya z Holubické stráně",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "7150",
+        "father": {
+          "name": "Forester´s Devils Answer of Darkmoor",
+          "father": {
+            "name": "Laurelhach Encrypt",
+            "father": {
+              "name": "Trisetr Celtic Link With Laurelhach",
+              "father": {
+                "name": "Trisetr Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Trisetr Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Legacy",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Trisetr Ebonie ZenaWith Laurelhach"
+              }
+            }
+          },
+          "mother": {
+            "name": "Courtier´s Catch my Heart",
+            "father": {
+              "name": "Trisetr Ebonie Zeus",
+              "father": {
+                "name": "Brudruggan Black Knight"
+              },
+              "mother": {
+                "name": "Trisetr Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "father": {
+                "name": "Warchant Twilight Bolero"
+              },
+              "mother": {
+                "name": "Forester´s Xinia of Darkmoor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6956",
+          "name": "Freya z Holubické stráně",
+          "father": {
+            "name": "Sherwin´s Handsome Guy",
+            "father": {
+              "name": "Yukki Hill Walk of Fame to Fairray",
+              "father": {
+                "name": "Trisetr Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Yukki Hill Snow Queen"
+              }
+            },
+            "mother": {
+              "name": "Sherwin´s Camee",
+              "father": {
+                "name": "Liric None So Special"
+              },
+              "mother": {
+                "name": "Tarock´s Romy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6608",
+            "name": "Caren z Holubické stráně",
+            "father": {
+              "name": "Lamborghini Black Ivy",
+              "father": {
+                "name": "Triseter Celtic Link With Laurelhach"
+              },
+              "mother": {
+                "name": "Yukki Hill Shadow Of The Moon"
+              }
+            },
+            "mother": {
+              "clp": "6292",
+              "name": "Zira z Holubické stráně",
+              "father": {
+                "name": "Sangerfild Earldom"
+              },
+              "mother": {
+                "clp": "5778",
+                "name": "Quina z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "71",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR",
+      "shows": "výborný, CAJC, CAC, BOJ, CACIB-J",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Blanka",
+        "last_name": "Kubátková",
+        "address": {
+          "street": "U koupaliště",
+          "number": "539",
+          "city": "Dolní Lutyně",
+          "post_code": "73553"
+        },
+        "phone": "737828384",
+        "email": "KubatkovaB@seznam.cz"
+      }
     }
   ]
 }
