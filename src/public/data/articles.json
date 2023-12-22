@@ -2,6 +2,15 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230053,
+      "publishDate": "2023/12/14",
+      "title": "PF 2024",
+      "paragraphs": [
+        "<a href=\"./public/images/2023/pf_2024.jpg\" target=\"_blank\"><img src=\"./public/images/2023/pf_2024.jpg\" width=\"550\" height=\"300\"/></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230052,
       "publishDate": "2023/12/14",
       "title": "Výzva - staňte se členem výboru klubu",
