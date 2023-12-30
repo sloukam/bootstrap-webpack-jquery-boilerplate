@@ -670,7 +670,217 @@
         "color": "orange belton",
         "HD": "A",
         "ED": "0/0",
+        "BAER": true,
         "other": "OCD clear"
+      },
+      "pedigree": {
+        "father": {
+          "name": "LATIN LOVER LUCIFERO",
+          "father": {
+            "clp": 111,
+            "name": "LATIN LOVER THE BOSS",
+            "father": {
+              "clp": 333,
+              "name": "LORIEN JULY SUNBURST",
+              "father": {
+                "clp": 777,
+                "name": "ARTIZOE HIGH CALIBER",
+                "father": {
+                  "clp": 777,
+                  "name": "HONEYGAIT LIMITED EDITION"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "ARTIZOE ROSEWOOD CORA"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "LORIEN TRI LANA",
+                "father": {
+                  "clp": 777,
+                  "name": "EDWARDIAN THREE STAR GENERAL"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "KHYCZAR'S SILvER BELLS"
+                }
+              }
+            },
+            "mother": {
+              "clp": 333,
+              "name": "BLUE BALTIC'S SURFN' CATALINA",
+              "father": {
+                "clp": 777,
+                "name": "HEATHROW'S FIVE O'CLOCK SHADOW AMCH",
+                "father": {
+                  "clp": 777,
+                  "name": "WYNDSWEPT'S FLASH 'O HEMLOCK"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "HEATHROW'S BIRDS EYE VIEW"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "TULIKETUN RUNOTAR",
+                "father": {
+                  "clp": 777,
+                  "name": "DUNLEY BRAWLEY ON HARDWIN GENTLE CHINT"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "TULIKETUN UTU-KEIJU"
+                }
+              }
+            }
+          },
+          "mother": {
+            "name": "BLUE BALTIC'S PLYMOUTH DUSTER",
+            "father": {
+              "name": "BLUE BALTIC'S POKER FACE",
+              "father": {
+                "name": "SILVER FOG VERNISAZH"
+              },
+              "mother": {
+                "name": "BLUE BALTIC'S LEGEND RETURNS"
+              }
+            },
+            "mother": {
+              "name": "LEGENDS BREAKFAST AT TIFFANNYS",
+              "father": {
+                "name": "DESERT'S SEDONA SUNSHINE"
+              },
+              "mother": {
+                "name": "LEGENDS MADISON AVENUE"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "LATIN LOVER THE REBEL",
+          "father": {
+            "clp": 111,
+            "name": "LATIN LOVER THE BOSS",
+            "father": {
+              "clp": 333,
+              "name": "LORIEN JULY SUNBURST",
+              "father": {
+                "clp": 777,
+                "name": "ARTIZOE HIGH CALIBER",
+                "father": {
+                  "clp": 777,
+                  "name": "HONEYGAIT LIMITED EDITION"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "ARTIZOE ROSEWOOD CORA"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "LORIEN TRI LANA",
+                "father": {
+                  "clp": 777,
+                  "name": "EDWARDIAN THREE STAR GENERAL"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "KHYCZAR'S SILvER BELLS"
+                }
+              }
+            },
+            "mother": {
+              "clp": 333,
+              "name": "BLUE BALTIC'S SURFN' CATALINA",
+              "father": {
+                "clp": 777,
+                "name": "HEATHROW'S FIVE O'CLOCK SHADOW AMCH",
+                "father": {
+                  "clp": 777,
+                  "name": "WYNDSWEPT'S FLASH 'O HEMLOCK"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "HEATHROW'S BIRDS EYE VIEW"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "TULIKETUN RUNOTAR",
+                "father": {
+                  "clp": 777,
+                  "name": "DUNLEY BRAWLEY ON HARDWIN GENTLE CHINT"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "TULIKETUN UTU-KEIJU"
+                }
+              }
+            }
+          },
+          "mother": {
+            "clp": 111,
+            "name": "LATIN LOVER THE BLACK DHALIA",
+            "father": {
+              "clp": 333,
+              "name": "FIELDPLAY'S YANKEE DOODLE AT SILVANUS",
+              "father": {
+                "clp": 777,
+                "name": "FIELDPLAY'S SETI OF THE NILE",
+                "father": {
+                  "clp": 777,
+                  "name": "REIDWOOD CALL TO THE POST"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "FIELDPLAY'S QUEEN OF DENIAL"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "FIELDPLAY'S HOPECHEST",
+                "father": {
+                  "clp": 777,
+                  "name": "FIELDPLAY'S MAC OF SCANPOINT"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "FIELDPLAY'S MAIDEN VOYAGE"
+                }
+              }
+            },
+            "mother": {
+              "clp": 333,
+              "name": "BLUE BALTIC'S SURFN' CATALINA",
+              "father": {
+                "clp": 777,
+                "name": "HEATHROW'S FIVE O'CLOCK SHADOW AMCH",
+                "father": {
+                  "clp": 777,
+                  "name": "WYNDSWEPT'S FLASH 'O HEMLOCK"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "HEATHROW'S BIRDS EYE VIEW"
+                }
+              },
+              "mother": {
+                "clp": 888,
+                "name": "TULIKETUN RUNOTAR",
+                "father": {
+                  "clp": 777,
+                  "name": "DUNLEY BRAWLEY ON HARDWIN GENTLE CHINT"
+                },
+                "mother": {
+                  "clp": 888,
+                  "name": "TULIKETUN UTU-KEIJU"
+                }
+              }
+            }
+          }
+        }
       },
       "championships": "JCH CZ, CH SK, CH CZ, CH AT",
       "shows": "BOB, BOS, CACIB, CAC",
