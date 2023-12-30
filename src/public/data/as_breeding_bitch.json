@@ -655,6 +655,41 @@
       "other": "Import HU."
     },
     {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2023-06-13",
+      "visible": true,
+      "name": "Latin Lover Time Switch",
+      "date_of_birth": "2021-01-25",
+      "clp": "6542",
+      "father": "Latin Lover Lucifero",
+      "mother": "Latin Lover The Rebel",
+      "body": {
+        "height": "59",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0",
+        "other": "OCD clear"
+      },
+      "championships": "JCH CZ, SK, CH CZ",
+      "shows": "BOB, BOS, CACIB, CAC",
+      "exams": "ZV - I. cena, KZV - I. cena",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Slouka",
+        "address": {
+          "street": "Kateřinice",
+          "number": "222",
+          "city": "Kateřinice",
+          "post_code": "74258"
+        },
+        "phone": "608978073",
+        "email": "sloukam@gmail.com"
+      },
+      "other": "Import IT."
+    },
+    {
       "breed": "AS",
       "sex": "female",
       "visible": true,
