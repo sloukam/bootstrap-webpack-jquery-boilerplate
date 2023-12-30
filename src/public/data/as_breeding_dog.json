@@ -963,6 +963,45 @@
         "email": "jindrich.blaha@amrest.eu"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "male",
+      "datum_uchovneni": "2023-10-23",
+      "visible": true,
+      "name": "Penkivil That's Classified",
+      "date_of_birth": "2022-03-12",
+      "clp": "6666",
+      "father": "Sheradin's Star MANHATTAN",
+      "mother": "Princess Pride Follow Your Heart",
+      "body": {
+        "height": "62",
+        "color": "orange belton",
+        "HD": "A",
+        "BAER": true
+      },
+      "championships": "Jch. SK, Švýcarsko",
+      "shows": "Junior World Winner 2023, Junior BIS 3 SV MSKAO Zákupy, Junior BIS 1 MSKAO Jaroměřice",
+      "exams": "ZV - I. cena",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Buryan",
+        "address": {
+          "street": "Rajmanova",
+          "number": "426",
+          "city": "Rožďalovice",
+          "post_code": "28934"
+        },
+        "phone": "+421915381950",
+        "email": "j.melicher258@gmail.com"
+      },
+      "co-owner": {
+        "first_name": "Ján",
+        "last_name": "Melicher"
+      },
+      "other": "Import PL. Chybí P2 vlevo dole."
     }
+
   ]
 }
