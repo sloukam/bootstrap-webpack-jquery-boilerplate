@@ -1006,6 +1006,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IRWS",
       "sex": "male",
       "datum_uchovneni": "2023-08-19",
@@ -1179,7 +1180,7 @@
       "exams": "ZV Ic.  VP Ic, LZ Ic.",
       "owner": {
         "title": "ing",
-        "first_name": "Věra ",
+        "first_name": "Věra",
         "last_name": "Hrubešová",
         "address": {
           "street": "U Kapličky",
