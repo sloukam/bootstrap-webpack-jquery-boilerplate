@@ -615,6 +615,46 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2023-10-23",
+      "visible": true,
+      "name": "Expensive Stone Achát",
+      "date_of_birth": "2019-07-06",
+      "clp": "6667",
+      "father": "Fairray Give Me Five",
+      "mother": "Fairray Keep On Dancing",
+      "body": {
+        "height": "61",
+        "color": "tricolor",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true,
+        "other": "thyroid normal"
+      },
+      "championships": "Ch. RO, CZ",
+      "shows": "BIS 1 KV MSKAO Slavkov u Brna\nSetter derby Rakousko - BOB 2022",
+      "exams": "ZV - I. cena",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Buryan",
+        "address": {
+          "street": "Rajmanova",
+          "number": "426",
+          "city": "Rožďalovice",
+          "post_code": "28934"
+        },
+        "phone": "+421915381950",
+        "email": "j.melicher258@gmail.com"
+      },
+      "co-owner": {
+        "first_name": "Ján",
+        "last_name": "Melicher"
+      },
+      "other": "Import HU."
+    },
+    {
       "breed": "AS",
       "sex": "female",
       "visible": true,
