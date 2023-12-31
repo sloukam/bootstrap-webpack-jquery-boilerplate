@@ -367,12 +367,13 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "JETHRO MORRISON",
       "championships": "JCH ČR",
       "clp": "6058",
       "date_of_birth": "2013-04-20",
+      "datum_vyrazeni": "2023-12-30",
       "sex": "male",
       "body": {
         "height": "64",

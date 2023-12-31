@@ -1,0 +1,60 @@
+{
+  "dogs": [
+    {
+      "visible": true,
+      "breed": "AS",
+      "name": "Donald Duck Džetýrek Lymarkos",
+      "championships": "",
+      "clp": "6",
+      "date_of_birth": "2020-07-12",
+      "sex": "male",
+      "pedigree": {
+        "father": {
+          "name": "Aiden Mister of Settercity",
+          "father": {
+            "name": "Lorien July Sunburst"
+          },
+          "mother": {
+            "name": "Fanchon Return To Sender Gigi"
+          }
+        },
+        "mother": {
+          "name": "Lymarkos Brigitte Bardot",
+          "father": {
+            "name": "Fanchon Paints It Black Jack"
+          },
+          "mother": {
+            "name": "Latin Lover Snow on Sahara "
+            }
+          }
+      },
+      "body": {
+        "height": 64,
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true,
+        "other": ""
+      },
+      "shows": "CAC, CACIB, BOB",
+      "exams": "pracovní zkouška v Itálii",
+      "father": "Artizoe High Caliber",
+      "mother": "Lorien Tri Lana",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Kostelník",
+        "address": {
+          "street": "Sadová",
+          "number": "315/7",
+          "city": "Mnichovice",
+          "post_code": ""
+        },
+        "phone": "+420 602 212 634",
+        "email": "martin@nip.cz"
+      },
+      "other": "Import Itálie",
+      "img_ext": "jpg"
+    }
+  ]
+}

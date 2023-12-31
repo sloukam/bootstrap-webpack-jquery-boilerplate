@@ -1,6 +1,56 @@
 {
   "years": [
     {
+      "year": "2023",
+      "items": [
+        {
+          "id": "I/23",
+          "publicationDate": "2023-06-21",
+          "breeder": "Lymarkos",
+          "bitch": "Latin Lover Vertigo",
+          "dog": "",
+          "releaseDate": "náhradní KL za V/22 - nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "II/23",
+          "publicationDate": "2023-10-06",
+          "breeder": "Lymarkos",
+          "bitch": "Latin Lover Time Switch",
+          "dog": "",
+          "releaseDate": "zabřezla, vrh očekáván v lednu 2024",
+          "puppies": ""
+        },
+        {
+          "id": "III/23",
+          "publicationDate": "2023-10-18",
+          "breeder": "Moravská LeRůž",
+          "bitch": "Tennessee Morrison",
+          "dog": "",
+          "releaseDate": "prozatím nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "IV/23",
+          "publicationDate": "2023-10-18",
+          "breeder": "Sylwaan",
+          "bitch": "Clova od Duvanjskog Polja",
+          "dog": "",
+          "releaseDate": "prozatím nevyužito",
+          "puppies": ""
+        },
+        {
+          "id": "V/23",
+          "publicationDate": "2023-10-30",
+          "breeder": "de Dame Cerise",
+          "bitch": "Expensive Stone Achát",
+          "dog": "",
+          "releaseDate": "nezabřezla",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2022",
       "items": [
         {
@@ -36,7 +86,7 @@
           "breeder": "Moravská LeRůž",
           "bitch": "Tennessee Morrison",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
@@ -45,7 +95,7 @@
           "breeder": "Lymarkos",
           "bitch": "Latin Lover Vertigo",
           "dog": "",
-          "releaseDate": "náhradní KL za I/22",
+          "releaseDate": "náhradní KL za I/22 - nezabřezla",
           "puppies": ""
         },
         {
@@ -54,8 +104,8 @@
           "breeder": "Davaroni",
           "bitch": "Editions Pointing Davaroni Girl",
           "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "releaseDate": "2023-03-20",
+          "puppies": "2/2"
         },
         {
           "id": "VII/22",
@@ -63,8 +113,8 @@
           "breeder": "DAMA Krkonoše",
           "bitch": "B Update DAMA Hunting Dog - nečlen",
           "dog": "",
-          "releaseDate": "náhradní KL za III/22",
-          "puppies": ""
+          "releaseDate": "náhradní KL za III/22 - 6.5.2023",
+          "puppies": "4/2"
         }
       ]
     },

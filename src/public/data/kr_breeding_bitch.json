@@ -1,0 +1,60 @@
+{
+  "dogs": [
+    {
+      "visible": true,
+      "breed": "AS",
+      "name": "Latin Lover Time Switch",
+      "championships": "",
+      "clp": "61",
+      "date_of_birth": "2020-07-12",
+      "sex": "female",
+      "pedigree": {
+        "father": {
+          "name": "Latin Lover Lucifero",
+          "father": {
+            "name": "Latin Lover The Boss"
+          },
+          "mother": {
+            "name": "Blue Baltic's Plymouth Duster"
+          }
+        },
+        "mother": {
+          "name": "Latin Lover The Rebel",
+          "father": {
+            "name": "Latin Lover The Boss"
+          },
+          "mother": {
+            "name": "Latin Lover The Black Dhalia"
+          }
+        }
+      },
+      "body": {
+        "height": 64,
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0",
+        "BAER": true,
+        "other": ""
+      },
+      "shows": "CAC, CACIB, BOB",
+      "exams": "pracovní zkouška v Itálii",
+      "father": "Artizoe High Caliber",
+      "mother": "Lorien Tri Lana",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Martin",
+        "last_name": "Kostelník",
+        "address": {
+          "street": "Sadová",
+          "number": "315/7",
+          "city": "Mnichovice",
+          "post_code": ""
+        },
+        "phone": "+420 602 212 634",
+        "email": "martin@nip.cz"
+      },
+      "other": "Import Itálie",
+      "img_ext": "jpg"
+    }
+  ]
+}

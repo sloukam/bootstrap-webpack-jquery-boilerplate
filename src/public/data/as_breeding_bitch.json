@@ -259,9 +259,10 @@
     {
       "breed": "AS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "BRIGITTE BARDOT LYMARKOS",
       "date_of_birth": "2015-02-24",
+      "datum_vyrazeni": "2023-12-30",
       "clp": "6151",
       "father": "Fanchon Paints It Black Jack",
       "mother": "Latin Lover Snow On the Sahara",
@@ -292,10 +293,11 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "ESCA BRILLARE DAVARONI",
       "date_of_birth": "2015-09-09",
+      "datum_vyrazeni": "2023-12-30",
       "clp": "6213",
       "father": "Wyndswept’s Reflection of A Legacy",
       "mother": "Editions Secret for Davaroni",
@@ -326,9 +328,10 @@
     {
       "breed": "AS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "AURELIA THE WARRIOR ROYAL SETTER",
       "date_of_birth": "2016-01-19",
+      "datum_vyrazeni": "2023-12-30",
       "clp": "6242",
       "father": "Artush Mandygold",
       "mother": "Latin Lover Madeleine",
