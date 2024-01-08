@@ -2,6 +2,20 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230054,
+      "publishDate": "2024/01/08",
+      "title": "Kalendář klubových akcí na rok 2024",
+      "paragraphs": [
+        "Přinášíme přehledný kalendář klubových akcí na rok 2024, tak jak byl odsouhlasen a zveřejněn v zápisu z výborové schůze MSKAO konané 26.10.2023. Pozvánky na akce, místa konání, informace k přihlašování, propozice… budou průběžně a včas zveřejňovány na webových stránkách a facebookovém profilu MSKAO.",
+        "Těšíme se na hojnou účast a všem členům klubu a příznivcům britských stavěcích psů přejeme pěkné zimní období.",
+        "<a href=\"./public/images/2024/240108-kalendar_akci.jpg\" target=\"_blank\"><img src=\"./public/images/2024/240108-kalendar_akci.jpg\" width=\"550\" height=\"300\"/></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230053,
       "publishDate": "2023/12/14",
       "title": "PF 2024",
