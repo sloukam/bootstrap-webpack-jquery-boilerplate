@@ -1,6 +1,47 @@
 {
   "years": [
     {
+      "year": "2023",
+      "items": [
+        {
+          "id": "I/23",
+          "publicationDate": "2023-01-01",
+          "breeder": "AGEL MORAVIA",
+          "bitch": "Agata form WinePoint Natyave Grove",
+          "dog": "Sáregresi Mistic Chase",
+          "releaseDate": "2023-03-31",
+          "puppies": "4/5"
+        },
+        {
+          "id": "II/23",
+          "publicationDate": "2023-01-19",
+          "breeder": "ZE ŠTÍPEK",
+          "bitch": "Clarysa Ze Štípek",
+          "dog": "Diablo Del WinePoint",
+          "releaseDate": "2023-04-02",
+          "puppies": "1/5"
+        },
+        {
+          "id": "III/23",
+          "publicationDate": "2023-01-29",
+          "breeder": "OD SVATÉ VODY",
+          "bitch": "Jorika Blahud",
+          "dog": "Gips  Biely kostol",
+          "releaseDate": "2023-11-04",
+          "puppies": "0/1"
+        },
+        {
+          "id": "IV/23",
+          "publicationDate": "2023-03-01",
+          "breeder": "SULÍKOVSKÁ STRÁN",
+          "bitch": "Fany z Helmu",
+          "dog": "Elyen z Mešinské hájovny",
+          "releaseDate": "2023-08-16",
+          "puppies": "3/4"
+        }
+      ]
+    },
+    {
       "year": "2022",
       "items": [
         {
