@@ -565,7 +565,7 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "AS",
       "name": "NOELL MORRISON",
       "championships": "CH SR, JCH ČR, SR",
