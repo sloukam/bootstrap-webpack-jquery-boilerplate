@@ -1,6 +1,74 @@
 {
   "years": [
     {
+      "year": "2023",
+      "items": [
+        {
+          "id": "I/23",
+          "publicationDate": "2022-10-01",
+          "breeder": "Pearn Moravia",
+          "bitch": "Carrie April Pearl Moravia",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "II/23",
+          "publicationDate": "2022-01-21",
+          "breeder": "z Liškova gruntu",
+          "bitch": "Ari Kralupská zahrádka",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "III/23",
+          "publicationDate": "2022-03-09",
+          "breeder": "z Pňovských luhů",
+          "bitch": "Cloe April Pearl Moravia",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "IV/23",
+          "publicationDate": "2022-07-27",
+          "breeder": "Neverending Grace",
+          "bitch": "Barracuda Neverending Grace",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "V/23",
+          "publicationDate": "2022-08-27",
+          "breeder": "z Holubické stráně",
+          "bitch": "Fixa z Holubické stráně",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VI/23",
+          "publicationDate": "2022-09-01",
+          "breeder": "Fiorchára",
+          "bitch": "Sangerfild Jiji",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VII/23",
+          "publicationDate": "2022-10-09",
+          "breeder": "Manon Lescaut",
+          "bitch": "Fazer Manon Lescaut",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2022",
       "items": [
         {
