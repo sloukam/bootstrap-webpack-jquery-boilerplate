@@ -973,6 +973,370 @@
         "email": "cestmir.sramek@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IRWS",
+      "sex": "female",
+      "datum_uchovneni": "2023-12-20",
+      "visible": true,
+      "name": "Vája z Lukovských Lánů",
+      "date_of_birth": "2021-05-18",
+      "clp": "400",
+      "father": "Lanamore Alpha Edition Angelo",
+      "mother": "Tera z Lukovských Lánů",
+      "body": {
+        "height": "60",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "400",
+        "father": {
+          "country": "čr",
+          "clp": "376",
+          "name": "Lanamore Alpha Edition Angelo",
+          "father": {
+            "country": "SHSB",
+            "clp": "721068",
+            "name": "Vistador Bohemian",
+            "father": {
+              "country": "shsb",
+              "clp": "696466",
+              "name": "Spyefire May Spring Rainbow",
+              "father": {
+                "country": "kcsb",
+                "clp": "1573",
+                "name": "Spyefire Priceless"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3658",
+                "name": "Laoirebay All that Jazz Among Spyefire"
+              }
+            },
+            "mother": {
+              "country": "SHSB",
+              "clp": "688822",
+              "name": "United Spots Quicksilver",
+              "father": {
+                "country": "ROi",
+                "clp": "84044",
+                "name": "United Spots Nightwish"
+              },
+              "mother": {
+                "country": "Hr",
+                "clp": "10007",
+                "name": "Sinehad Red Nokomis"
+              }
+            }
+          },
+          "mother": {
+            "country": "SK",
+            "clp": "8",
+            "name": "Bellanice Artegerd",
+            "father": {
+              "country": "KCAL",
+              "clp": "03154600",
+              "name": "Casafelice Montadale",
+              "father": {
+                "country": "kcsb",
+                "clp": "0047",
+                "name": "Conranroo Conexion"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3052",
+                "name": "Casafelice Charolains"
+              }
+            },
+            "mother": {
+              "country": "ČR",
+              "clp": "219",
+              "name": "Artemis Bohemian Thalset",
+              "father": {
+                "country": "čr",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "čř",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "čř",
+          "clp": "316",
+          "name": "Tera z Lukovských lánů",
+          "father": {
+            "country": "čr",
+            "clp": "258",
+            "name": "Lohmann's Bernsteln",
+            "father": {
+              "country": "dpsz",
+              "clp": "07",
+              "name": "History's of Eighland Baloú",
+              "father": {
+                "country": "dpsz",
+                "clp": "4",
+                "name": "Cevin Vom Daveneer Moor"
+              },
+              "mother": {
+                "country": "dpsz",
+                "clp": "14",
+                "name": "History's of Higland Audrey"
+              }
+            },
+            "mother": {
+              "country": "dpsz",
+              "clp": "02",
+              "name": "Deargban O 'Faolain",
+              "father": {
+                "country": "ikc",
+                "clp": "75032",
+                "name": "Deorgban Blanco"
+              },
+              "mother": {
+                "country": "ikc",
+                "clp": "27893",
+                "name": "Sheebkin Orla"
+              }
+            }
+          },
+          "mother": {
+            "country": "čř",
+            "clp": "257",
+            "name": "Dalriach Proud Mary",
+            "father": {
+              "country": "kcsb",
+              "clp": "3482",
+              "name": "Dalriach Auchindoun",
+              "father": {
+                "name": "Kastrel of Cherryfield"
+              },
+              "mother": {
+                "name": "Arrubraccan Firecrest"
+              }
+            },
+            "mother": {
+              "country": "KC",
+              "clp": "0900102",
+              "name": "Pepperstown Polly",
+              "father": {
+                "country": "KC",
+                "clp": "2127",
+                "name": "Rushfield Rascal"
+              },
+              "mother": {
+                "country": "pkr",
+                "name": "Lusmagh Polly"
+              }
+            }
+          }
+        }
+      },
+      "shows": "CAC CACIB",
+      "exams": "ZV I c.",
+      "owner": {
+        "title": "MVDr.",
+        "first_name": "Čestmír",
+        "last_name": "Šrámek CSc",
+        "address": {
+          "street": "Údolní",
+          "number": "470/1",
+          "city": "Klobouky u Brna",
+          "post_code": "69172"
+        },
+        "phone": "777944933",
+        "email": "cestmir.sramek@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IRWS",
+      "sex": "female",
+      "datum_uchovneni": "2023-12-20",
+      "visible": true,
+      "name": "Vica z Lukovských Lánů",
+      "date_of_birth": "2021-05-18",
+      "clp": "401",
+      "father": "Lanamore Alpha Edition Angelo",
+      "mother": "Tera z Lukovských Lánů",
+      "body": {
+        "height": "60",
+        "color": "Ä ervenobÃ­lÃ¡",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "400",
+        "father": {
+          "country": "čr",
+          "clp": "376",
+          "name": "Lanamore Alpha Edition Angelo",
+          "father": {
+            "country": "SHSB",
+            "clp": "721068",
+            "name": "Vistador Bohemian",
+            "father": {
+              "country": "shsb",
+              "clp": "696466",
+              "name": "Spyefire May Spring Rainbow",
+              "father": {
+                "country": "kcsb",
+                "clp": "1573",
+                "name": "Spyefire Priceless"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3658",
+                "name": "Laoirebay All that Jazz Among Spyefire"
+              }
+            },
+            "mother": {
+              "country": "SHSB",
+              "clp": "688822",
+              "name": "United Spots Quicksilver",
+              "father": {
+                "country": "ROi",
+                "clp": "84044",
+                "name": "United Spots Nightwish"
+              },
+              "mother": {
+                "country": "Hr",
+                "clp": "10007",
+                "name": "Sinehad Red Nokomis"
+              }
+            }
+          },
+          "mother": {
+            "country": "SK",
+            "clp": "8",
+            "name": "Bellanice Artegerd",
+            "father": {
+              "country": "KCAL",
+              "clp": "03154600",
+              "name": "Casafelice Montadale",
+              "father": {
+                "country": "kcsb",
+                "clp": "0047",
+                "name": "Conranroo Conexion"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3052",
+                "name": "Casafelice Charolains"
+              }
+            },
+            "mother": {
+              "country": "ČR",
+              "clp": "219",
+              "name": "Artemis Bohemian Thalset",
+              "father": {
+                "country": "čr",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "čř",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "čř",
+          "clp": "316",
+          "name": "Tera z Lukovských lánů",
+          "father": {
+            "country": "čr",
+            "clp": "258",
+            "name": "Lohmann's Bernsteln",
+            "father": {
+              "country": "dpsz",
+              "clp": "07",
+              "name": "History's of Eighland Baloú",
+              "father": {
+                "country": "dpsz",
+                "clp": "4",
+                "name": "Cevin Vom Daveneer Moor"
+              },
+              "mother": {
+                "country": "dpsz",
+                "clp": "14",
+                "name": "History's of Higland Audrey"
+              }
+            },
+            "mother": {
+              "country": "dpsz",
+              "clp": "02",
+              "name": "Deargban O 'Faolain",
+              "father": {
+                "country": "ikc",
+                "clp": "75032",
+                "name": "Deorgban Blanco"
+              },
+              "mother": {
+                "country": "ikc",
+                "clp": "27893",
+                "name": "Sheebkin Orla"
+              }
+            }
+          },
+          "mother": {
+            "country": "čř",
+            "clp": "257",
+            "name": "Dalriach Proud Mary",
+            "father": {
+              "country": "kcsb",
+              "clp": "3482",
+              "name": "Dalriach Auchindoun",
+              "father": {
+                "name": "Kastrel of Cherryfield"
+              },
+              "mother": {
+                "name": "Arrubraccan Firecrest"
+              }
+            },
+            "mother": {
+              "country": "KC",
+              "clp": "0900102",
+              "name": "Pepperstown Polly",
+              "father": {
+                "country": "KC",
+                "clp": "2127",
+                "name": "Rushfield Rascal"
+              },
+              "mother": {
+                "country": "pkr",
+                "name": "Lusmagh Polly"
+              }
+            }
+          }
+        }
+      },
+      "shows": "CAJC,CAC NV ,BOB r.CACIB",
+      "exams": "ZV I c.",
+      "owner": {
+        "title": "MVDr. CSCc",
+        "first_name": "Čestmír",
+        "last_name": "Šrámek CSc",
+        "address": {
+          "street": "Údolní",
+          "number": "470/1",
+          "city": "Klobouky u Brna",
+          "post_code": "69172"
+        },
+        "phone": "777944933",
+        "email": "cestmir.sramek@seznam.cz"
+      }
     }
   ]
 }

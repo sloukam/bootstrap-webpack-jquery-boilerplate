@@ -1380,6 +1380,193 @@
         "last_name": "Lepařová"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IRWS",
+      "sex": "male",
+      "datum_uchovneni": "2023-12-22",
+      "visible": true,
+      "name": "Elis z Drválovského revíru",
+      "date_of_birth": "2022-06-19",
+      "clp": "457",
+      "father": "Lanamore Huge Hope Herriot",
+      "mother": "Amálka z Drválovského revíru",
+      "body": {
+        "height": "57",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "457",
+        "father": {
+          "country": "čr",
+          "clp": "396",
+          "name": "Lanamore Huge Hope Herriot",
+          "father": {
+            "country": "OHZB",
+            "clp": "306",
+            "name": "Eshare Explorer Artegerd",
+            "father": {
+              "country": "OZB",
+              "clp": "14",
+              "name": "Cuddy of Bruichladdich",
+              "father": {
+                "country": "OHZB",
+                "clp": "170",
+                "name": "Ruby Topaz"
+              },
+              "mother": {
+                "country": "OHZB",
+                "clp": "107",
+                "name": "Abigail of Bruichladdich"
+              }
+            },
+            "mother": {
+              "country": "čr",
+              "clp": "286",
+              "name": "Caispem Tuscanora",
+              "father": {
+                "country": "AL",
+                "clp": "03154603",
+                "name": "Casafelice Montadale"
+              },
+              "mother": {
+                "country": "kcsb",
+                "clp": "3427",
+                "name": "Caispem Maid in Ireland"
+              }
+            }
+          },
+          "mother": {
+            "country": "spkp",
+            "clp": "32",
+            "name": "Debbie Redmore",
+            "father": {
+              "country": "ohzb",
+              "clp": "166",
+              "name": "Kearney -Kea Red Nokomis",
+              "father": {
+                "country": "SLR",
+                "clp": "2",
+                "name": "United Spots Nightflame"
+              },
+              "mother": {
+                "country": "slr",
+                "clp": "9",
+                "name": "Red Nokomis Mirta"
+              }
+            },
+            "mother": {
+              "country": "ohzb",
+              "clp": "118",
+              "name": "Amy Sunny Moments",
+              "father": {
+                "country": "KCRC",
+                "clp": "04216602",
+                "name": "Cormallen Moonlight Silver"
+              },
+              "mother": {
+                "country": "ohzb",
+                "clp": "53",
+                "name": "Gigi Conqurerer of Hidden Irland"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "čř",
+          "clp": "354",
+          "name": "Amálka z Drválovského revíru",
+          "father": {
+            "country": "čr",
+            "clp": "273",
+            "name": "Rolf z Lukovských lánů",
+            "father": {
+              "country": "čr",
+              "clp": "258",
+              "name": "Lohmann's Bernstein",
+              "father": {
+                "country": "vdh",
+                "clp": "07",
+                "name": "History of Highland Baloú"
+              },
+              "mother": {
+                "country": "vdh",
+                "clp": "02",
+                "name": "Deargban O´Faolain"
+              }
+            },
+            "mother": {
+              "country": "čr",
+              "clp": "257",
+              "name": "Dalriach Proud Mary",
+              "father": {
+                "country": "kcsb",
+                "clp": "3482",
+                "name": "Dalriach Auchindoun"
+              },
+              "mother": {
+                "country": "kc",
+                "clp": "900102",
+                "name": "Pepperstown Polly"
+              }
+            }
+          },
+          "mother": {
+            "country": "čr",
+            "clp": "318",
+            "name": "Mc Gillicuddy's Lucy",
+            "father": {
+              "country": "lof",
+              "clp": "79",
+              "name": "Fanfan Du Vlofal Des Mordorees",
+              "father": {
+                "country": "lof",
+                "clp": "33",
+                "name": "Deargban Bianco"
+              },
+              "mother": {
+                "country": "lof",
+                "clp": "7",
+                "name": "Swane  Du Val Des Mordorees"
+              }
+            },
+            "mother": {
+              "country": "pkr",
+              "clp": "13837",
+              "name": "Abi Shadow Dog",
+              "father": {
+                "country": "KC",
+                "clp": "46329",
+                "name": "Dalriach Rolling Stone"
+              },
+              "mother": {
+                "country": "pkr",
+                "clp": "46329",
+                "name": "Secret Wish Shadow Dog"
+              }
+            }
+          }
+        }
+      },
+      "championships": "JCHCZ",
+      "shows": "CAJC,CAC",
+      "exams": "ZV Ic , PZ Ic.,VP II c.",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Hájek",
+        "address": {
+          "street": "Žešov",
+          "number": "115",
+          "city": "Prostějov",
+          "post_code": "79601"
+        },
+        "phone": "777884043",
+        "email": "Kourilova.R@seznam.cz"
+      }
     }
   ]
 }
