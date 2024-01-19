@@ -2,6 +2,19 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230055,
+      "publishDate": "2024/01/19",
+      "title": "Termíny pracovních kynologických akcí MSKAO 2024",
+      "paragraphs": [
+        "Termíny pracovních kynologických akcí MSKAO 2024",
+        "<a href=\"./public/images/2024/240119-plan_pracovnich_akci.jpg\" target=\"_blank\"><img src=\"./public/images/2024/240119-plan_pracovnich_akci.jpg\" width=\"500\" height=\"300\"/></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230054,
       "publishDate": "2024/01/08",
       "title": "Kalendář klubových akcí na rok 2024",
