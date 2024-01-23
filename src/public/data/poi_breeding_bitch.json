@@ -4040,6 +4040,36 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2023-12-04",
+      "visible": true,
+      "name": "ERIKA OD ZELENÉHO STOLU",
+      "date_of_birth": "2021-05-19",
+      "clp": "11864",
+      "father": "AVON",
+      "mother": "CILKA Z BOROVINKY",
+      "body": {
+        "height": "64",
+        "color": "hnědá s náprsenkou",
+        "HD": "A"
+      },
+      "shows": "VD1",
+      "exams": "ZV-Ic,PZ-I.c, MFT -r.CACT,r.CACIT ,ZV-I.c, LZ-I.c,",
+      "owner": {
+        "first_name": "Lumír ",
+        "last_name": "Bárta ",
+        "address": {
+          "street": "Kuřimská",
+          "number": "133",
+          "city": "Moravské Knínice ",
+          "post_code": "664"
+        },
+        "email": "Srnec.Franta@seznam.c"
+      }
+    },
+    {
       "breed": "POI",
       "sex": "female",
       "datum_uchovneni": "2022-12-30",

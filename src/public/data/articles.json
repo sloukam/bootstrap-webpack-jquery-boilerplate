@@ -2,6 +2,18 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230056,
+      "publishDate": "2024/01/08",
+      "title": "Testovací verze",
+      "paragraphs": [
+        "Po dlouhé době byla spuštěna první verze stránek s možností přihlášení. Najdete ho <a href=\"./new.html\" target=\"_blank\">ZDE</a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230055,
       "publishDate": "2024/01/19",
       "title": "Termíny pracovních kynologických akcí MSKAO 2024",

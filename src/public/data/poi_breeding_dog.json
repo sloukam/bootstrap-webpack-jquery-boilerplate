@@ -1573,6 +1573,36 @@
         "email": "andrysek.zdenek@seznam.cz"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2023-12-04",
+      "visible": true,
+      "name": "ERNO OD ZELENÉHO STOLU",
+      "date_of_birth": "2021-05-19",
+      "clp": "11859",
+      "father": "AVON",
+      "mother": "CILKA Z BOROVINKY",
+      "body": {
+        "height": "66",
+        "color": "HNĚDÁ",
+        "HD": "A"
+      },
+      "shows": "VD3",
+      "exams": "ZV-I.c, MFT -VD,PZ-I.c, VP I.c,",
+      "owner": {
+        "first_name": "František ",
+        "last_name": "Srnec",
+        "address": {
+          "street": "Dlouhá",
+          "number": "42",
+          "city": "Veverská Bítýška"
+        },
+        "phone": "+420777014724",
+        "email": "Srnec.Franta@seznam.c"
+      }
     }
   ]
 }
