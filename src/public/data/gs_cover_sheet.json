@@ -8,18 +8,18 @@
           "publicationDate": "2022-01-10",
           "breeder": "Pearl Moravia",
           "bitch": "Carrie April Pearl Moravia",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Ludstar Linbergh",
+          "releaseDate": "2023-05-08",
+          "puppies": "5/2"
         },
         {
           "id": "II/23",
           "publicationDate": "2022-01-21",
           "breeder": "z Liškova gruntu",
           "bitch": "Ari Kralupská zahrádka",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Egon z Podmaršovic",
+          "releaseDate": "2023-05-14",
+          "puppies": "2/4"
         },
         {
           "id": "III/23",
@@ -27,7 +27,7 @@
           "breeder": "z Pňovských luhů",
           "bitch": "Cloe April Pearl Moravia",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužitý",
           "puppies": ""
         },
         {
@@ -36,7 +36,7 @@
           "breeder": "Neverending Grace",
           "bitch": "Barracuda Neverending Grace",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
@@ -44,27 +44,27 @@
           "publicationDate": "2022-08-27",
           "breeder": "z Holubické stráně",
           "bitch": "Fixa z Holubické stráně",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Borec z Fílovy smečky",
+          "releaseDate": "2023-11-07",
+          "puppies": "5/5"
         },
         {
           "id": "VI/23",
           "publicationDate": "2022-09-01",
           "breeder": "Fiorchára",
           "bitch": "Sangerfild Jiji",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Cooper Dolce Manon Lescaut",
+          "releaseDate": "2023-11-01",
+          "puppies": "3/5"
         },
         {
           "id": "VII/23",
           "publicationDate": "2022-10-09",
           "breeder": "Manon Lescaut",
           "bitch": "Fazer Manon Lescaut",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Madmax Mad Medicine",
+          "releaseDate": "2023-12-09",
+          "puppies": "5/2"
         }
       ]
     },
@@ -119,11 +119,11 @@
         {
           "id": "VI/22",
           "publicationDate": "2022-04-28",
-          "breeder": "",
+          "breeder": "Red Fern Hunters",
           "bitch": "Darsy Pexeso",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Cedric z Holubické stráně",
+          "releaseDate": "2023-01-06",
+          "puppies": "6/4"
         },
         {
           "id": "VII/22",
