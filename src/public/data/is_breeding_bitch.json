@@ -5177,9 +5177,9 @@
           }
         }
       },
-      "championships": "JCH ČR",
+      "championships": "JCH ČR, CH ČR",
       "shows": "CAJC, BOJ, CAC, VSV, BOS",
-      "exams": "ZV I.cena, PZ I.cena",
+      "exams": "ZV I.cena, PZ I.cena, ZVP I.cena",
       "owner": {
         "first_name": "Romana",
         "last_name": "Kšírová",
@@ -5342,7 +5342,7 @@
         "clp": "17126",
         "father": {
           "clp": "16576",
-          "name": "Flannerry Riick Mahagony Paw",
+          "name": "Flannerry Rick Mahagony Paw",
           "father": {
             "name": "Paris Match Thendara",
             "father": {
@@ -5587,8 +5587,8 @@
           }
         }
       },
-      "championships": "JCH ČR",
-      "shows": "CAJC, BOJ, CAC, BOS",
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, BOJ, CAC, BOS, CACIB",
       "exams": "ZV I.cena",
       "owner": {
         "first_name": "Romana",
@@ -5751,6 +5751,155 @@
           "city": "Horní Bludovice",
           "post_code": "73937"
         }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2023-12-15",
+      "visible": true,
+      "name": "OLIVIE ZE ŠUMAVSKÉHO KRAJE",
+      "date_of_birth": "2022-02-16",
+      "clp": "17298",
+      "father": "Lir ze Šumavského kraje",
+      "mother": "Frona od Rakovské tůně",
+      "body": {
+        "height": "60",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17298",
+        "father": {
+          "clp": "16227",
+          "name": "Lir ze Šumavského kraje",
+          "father": {
+            "clp": "14869",
+            "name": "Benjamin Bingo Nonstop",
+            "father": {
+              "clp": "14067",
+              "name": "Dorian Grey Jenny´s Irsal",
+              "father": {
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "clp": "13335",
+                "name": "Tiffany Jenny´s Irsal"
+              }
+            },
+            "mother": {
+              "clp": "14022",
+              "name": "Irish Destiny Nonstop",
+              "father": {
+                "name": "Grysko of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12898",
+                "name": "Chelsea Nonstop"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15711",
+            "name": "Kora ze Šumavského kraje",
+            "father": {
+              "clp": "14986",
+              "name": "Pad ze Srbeckých luhů",
+              "father": {
+                "clp": "14209",
+                "name": "Cit z Hosteckých vrchů"
+              },
+              "mother": {
+                "clp": "14313",
+                "name": "Kyty ze Srbeckých luhů"
+              }
+            },
+            "mother": {
+              "clp": "14477",
+              "name": "Ara ze Šumavských hor",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13259",
+                "name": "Gina ze Šumavského kraje"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16155",
+          "name": "Frona od Rakovské tůně",
+          "father": {
+            "clp": "15037",
+            "name": "Atyla Warrior Mahagony Paw",
+            "father": {
+              "name": "Vicary´s Cobacabana",
+              "father": {
+                "name": "Clonageera Limited Edition"
+              },
+              "mother": {
+                "name": "Vicary´s Yassmine"
+              }
+            },
+            "mother": {
+              "clp": "14401",
+              "name": "Country Melody Jenny´s Irsal",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12831",
+                "name": "Ruby Jenny´s Irsal"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15110",
+            "name": "Airin od Rakovské tůně",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13152",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14133",
+              "name": "Inera od Rakovnické brány",
+              "father": {
+                "clp": "13724",
+                "name": "Valmont JJenny´s Irsal"
+              },
+              "mother": {
+                "clp": "12823",
+                "name": "Flér od Rakovnické brány"
+              }
+            }
+          }
+        }
+      },
+      "shows": "V",
+      "exams": "ZV I.cena, PZ I.cena, VP I.cena",
+      "owner": {
+        "first_name": "David",
+        "last_name": "Rachůnek",
+        "address": {
+          "street": "Bánov ",
+          "number": "736",
+          "city": "Bánov",
+          "post_code": "68754"
+        },
+        "email": "rachunekd@seznam.cz"
       }
     }
   ]

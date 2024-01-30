@@ -4583,9 +4583,9 @@
         "rcd4": "clear",
         "other": "CLAD gen. free"
       },
-      "championships": "CH ČR, JCH ČR",
+      "championships": "CH ČR, JCH ČR, GRAND CH ČR",
       "shows": "CAJC, BOJ, CAC, BOB",
-      "exams": "ZV I.cena, PZ I.cena CACT",
+      "exams": "ZV I.cena, PZ I.cena CACT, ZVP I.cena",
       "owner": {
         "first_name": "Romana",
         "last_name": "Kšírová",
@@ -5307,7 +5307,7 @@
         "rcd4": "clear",
         "other": "CLAD gen. N/N"
       },
-      "championships": "JCH ČR, CH ČR, CH SLO, CH AT, C.I.E., C.I.B.",
+      "championships": "JCH ČR, CH ČR, CH SK, CH SLO, CH AT, C.I.E., C.I.B.",
       "shows": "CAJC, BOJ, KV mladých, JBIS, KV ČPSK, KV MSKAO, CAC, res. CACIB, CACIB, BOB, BIG",
       "exams": "ZV I.cena - CACT, PZ I.cena",
       "owner": {
@@ -5856,7 +5856,7 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
-      "name": "FALCO ZE SRBICKEHO KOPCE",
+      "name": "FALCO ZE SRBICKÉHO KOPCE",
       "date_of_birth": "2021-04-29",
       "clp": "17153",
       "father": "Grif z Jirouškova dvora",
@@ -5984,7 +5984,7 @@
         }
       },
       "shows": "výborný",
-      "exams": "ZV I.cena",
+      "exams": "ZV I.cena, PZ I.cena (vítěz), ZVP I.cena",
       "owner": {
         "first_name": "Jan",
         "last_name": "Filip",
