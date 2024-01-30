@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "visible": true,
+      "visible": false,
       "articleId": 20230056,
       "publishDate": "2024/01/08",
       "title": "Testovací verze",
