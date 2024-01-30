@@ -1180,9 +1180,10 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "EXCELLENT ENTERTAINER EVERDENE",
       "date_of_birth": "2013-01-02",
+      "datum_vyrazeni": "2024-01-15",
       "clp": "15808",
       "father": "Salford Wizard z Arislandu",
       "mother": "Neiven Arouse Admiration",
@@ -1814,9 +1815,10 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ATHOS OD NÁPLAVKY",
       "date_of_birth": "2014-03-08",
+      "datum_vyrazeni": "2024-01-15",
       "clp": "16007",
       "father": "Lary ze Srbeckých luhů",
       "mother": "Brela Apoli Gwen",
@@ -2200,10 +2202,10 @@
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
         "first_name": "Zdeňka",
-        "last_name": "Kořínková",
+        "last_name": "Zapletalová",
         "address": {
-          "street": "Hnanice",
-          "number": "3",
+          "street": "Březová",
+          "number": "130",
           "city": "Znojmo",
           "post_code": "66902"
         },
@@ -2592,9 +2594,10 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "EDENDERRY MAHAGONY PAW",
       "date_of_birth": "2015-04-25",
+      "datum_vyrazeni": "2024-01-15",
       "clp": "16159",
       "father": "Garden Star ́s Red Bull",
       "mother": "Assonance Mahagony Paw",
@@ -5438,7 +5441,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, BZ I.cena",
+      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, BZ I.cena, SZVP I.cena",
       "owner": {
         "first_name": "Václav",
         "last_name": "Říha",
