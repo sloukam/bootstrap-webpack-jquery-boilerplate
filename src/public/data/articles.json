@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "visible": true,
+      "articleId": 20230057,
+      "publishDate": "2024/01/31",
+      "title": "Nabídka genetické laboratoře Genomia",
+      "paragraphs": [
+        "<blockquote cite=\"\" style=\"border: 1px solid black; padding: 20px\"><div>Vážení chovatelé,<br><br>Dovolte, abych Vás informovala o nadcházejících genetických seminářích.<br>Odkazy pro přihlášení na semináře a další informace najdete zde<br>https://www.genomia.cz/cz/akce/<br><br>Seminář o SNP genetických profilech psů<br>- termín konání 7.2.2024, online od 18:30 hod, seminář je zdarma<br>- informace o novém SNP genetickém profilu dle ISAG2020 - srovnání se starším STR genetickým profilem dle ISAG2006, přechod na nový<br>profilovací standard<br>- seminář potrvá cca 60 min<br><br>V souvislosti s přechodem na ISAG2020 jsme připravili akci na<br>přetestování psů z STR na SNP profil - viz leták v příloze.<br><br>Seminář o merle zbarvení psů<br>- termín konání 12.3.2024, online od 18:30 hod<br>- seminář je určen široké veřejnosti, rozsah cca 45 min, po semináři bude následovat prostor pro dotazy<br>- cena semináře je 250 Kč<br><br>Budeme se těšit na shledanou.<br><br>S pozdravem a přáním pěkného dne,<br><br>Jana Kůsová<br>Genomia s.r.o.<br>Republikánská 6<br>312 00 Plzeň<br></div></blockquote>"
+      ]
+    },
+    {
       "visible": false,
       "articleId": 20230056,
       "publishDate": "2024/01/08",
