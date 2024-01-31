@@ -5717,6 +5717,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "male",
       "visible": true,
