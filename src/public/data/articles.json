@@ -2,6 +2,27 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230058,
+      "publishDate": "2024/02/02",
+      "title": "Pozvánka a program na výroční členskou schůzi MSKAO",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2024/240202-vyrocni_clenska_schuze/pozvanka.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240202-vyrocni_clenska_schuze/pozvanka.jpg\" height=\"150\" width=\"300\"/></a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2024/240202-vyrocni_clenska_schuze/program.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240202-vyrocni_clenska_schuze/program.jpg\" height=\"150\" width=\"110\"/></a>"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2024/240202-vyrocni_clenska_schuze/pozvnaka.jpg",
+          "type": "jpg"
+        },
+        {
+          "description": "program",
+          "filePath": "./public/pdf/2024/240202-vyrocni_clenska_schuze/program.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230057,
       "publishDate": "2024/01/31",
       "title": "Nabídka genetické laboratoře Genomia",
