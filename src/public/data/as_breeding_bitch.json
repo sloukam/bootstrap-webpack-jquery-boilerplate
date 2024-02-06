@@ -918,6 +918,161 @@
         "ED": "0/0",
         "BAER": true
       },
+      "pedigree": {
+        "breed": "AS",
+        "sex": "female",
+        "clp": "6582",
+        "father": {
+          "country": "HR",
+          "clp": "23400",
+          "name": "Cairo",
+          "father": {
+            "country": "HR",
+            "clp": "20352",
+            "name": "Lopez Gradinska, IPO",
+            "father": {
+              "country": "ROI",
+              "clp": "1164264",
+              "name": "Mexiko od Karaotoka, CH TR, ASS CH",
+              "father": {
+                "country": "LOI",
+                "clp": "0439835",
+                "name": "Kapo´"
+              },
+              "mother": {
+                "country": "HR",
+                "clp": "16970",
+                "name": "Bolivija Kd Karaotoka"
+              }
+            },
+            "mother": {
+              "country": "HR",
+              "clp": "18110",
+              "name": "Fleka Gradinska, IPO",
+              "father": {
+                "country": "HR",
+                "clp": "12876",
+                "name": "Amor"
+              },
+              "mother": {
+                "country": "Hr",
+                "clp": "15581",
+                "name": "Ada Gradinska"
+              }
+            }
+          },
+          "mother": {
+            "country": "HR",
+            "clp": "21758",
+            "name": "Sjena",
+            "father": {
+              "country": "HR",
+              "clp": "20632",
+              "name": "Becham od Krstulovica, IPO",
+              "father": {
+                "country": "HR",
+                "clp": "16773",
+                "name": "Ari od Benčica"
+              },
+              "mother": {
+                "country": "HR",
+                "clp": "17284",
+                "name": "Gunda od Benčica"
+              }
+            },
+            "mother": {
+              "country": "HR",
+              "clp": "19533",
+              "name": "Mita od Ravnih Kotara, IPO",
+              "father": {
+                "country": "HR",
+                "clp": "10107",
+                "name": "Feniks Gradinska"
+              },
+              "mother": {
+                "country": "Hr",
+                "clp": "17044",
+                "name": "Alla"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "JR",
+          "clp": "706297",
+          "name": "Luna",
+          "father": {
+            "country": "HR",
+            "clp": "17915",
+            "name": "Giovinco, 5x CACIB, CACT, resCACT",
+            "father": {
+              "country": "LOI",
+              "clp": "05132320",
+              "name": "Nencini´s Monet, CHI",
+              "father": {
+                "country": "LOI",
+                "clp": "008031",
+                "name": "Nencini´s Zico"
+              },
+              "mother": {
+                "country": "LOI",
+                "clp": "0131746",
+                "name": "Nenicini´s Mora"
+              }
+            },
+            "mother": {
+              "country": "LOI",
+              "clp": "0492804",
+              "name": "Emy, CHI",
+              "father": {
+                "country": "ST",
+                "clp": "557497",
+                "name": "Mack"
+              },
+              "mother": {
+                "country": "LOI",
+                "clp": "01197585",
+                "name": "Cina di val Cervo"
+              }
+            }
+          },
+          "mother": {
+            "country": "JR",
+            "clp": "703484",
+            "name": "Kana, IPO",
+            "father": {
+              "country": "JR",
+              "clp": "702153",
+              "name": "Dyablo Bretovačka Eli, CACIB, BOB,BIS",
+              "father": {
+                "country": "LOI",
+                "clp": "02130303",
+                "name": "Kim Della Bassana"
+              },
+              "mother": {
+                "country": "JR",
+                "clp": "79997",
+                "name": "Laura od Brestovačke Eli"
+              }
+            },
+            "mother": {
+              "country": "JR",
+              "clp": "702377",
+              "name": "Leydi, IPO",
+              "father": {
+                "country": "JR",
+                "clp": "700683",
+                "name": "Wonderful Pichoni"
+              },
+              "mother": {
+                "country": "JR",
+                "clp": "701290",
+                "name": "Parti"
+              }
+            }
+          }
+        }
+      },
       "shows": "V4",
       "exams": "Derby SKPS - 8 b., TAN, KZV KCHHMO - I. c.",
       "owner": {
