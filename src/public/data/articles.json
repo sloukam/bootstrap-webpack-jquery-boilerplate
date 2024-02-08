@@ -2,6 +2,21 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20240001,
+      "publishDate": "2024/02/08",
+      "title": "Pejsek gordonsetra",
+      "paragraphs": [
+        "Chovatelská stanice <b>z Holubické stráně</b> zadá posledního pejska ze spojení <b>Fixa z Holubické stráně</b> x <b>Borec z Fílovy smečky</b>. Pejsek je narozený 7. 11. 2023, pravidelně odčervený, očkovaný, tetovaný i čipovaný s Petpasem a dokonce už i vystaveným PP.",
+        "Předpoklady pro výstavy či výcvik a nebo jako věrný společník.",
+        "Kontakt:",
+        "<ul><li>722 931 443</li></ul>",
+        "",
+        "",
+        "<a href=\"./public/inzerce/240208-kaja_GS/01.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/01.jpg\" height=\"120\" width=\"100\"></a>&nbsp;<a href=\"./public/inzerce/240208-kaja_GS/02.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/02.jpg\" height=\"120\" width=\"180\"></a>&nbsp;<a href=\"./public/inzerce/240208-kaja_GS/03.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/03.jpg\" height=\"120\" width=\"180\"></a>&nbsp;<a href=\"./public/inzerce/240208-kaja_GS/04.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/04.jpg\" height=\"120\" width=\"180\"></a>&nbsp;<a href=\"./public/inzerce/240208-kaja_GS/05.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/05.jpg\" height=\"120\" width=\"180\"></a>&nbsp;<a href=\"./public/inzerce/240208-kaja_GS/06.jpg\" target=\"_blank\"><img src=\"./public/inzerce/240208-kaja_GS/06.jpg\" height=\"120\" width=\"180\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230058,
       "publishDate": "2024/02/02",
       "title": "Pozvánka a program na výroční členskou schůzi MSKAO",
