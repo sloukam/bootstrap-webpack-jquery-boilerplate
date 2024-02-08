@@ -4,7 +4,7 @@ import moment from 'moment';
 Handlebars.registerHelper('dateFormat', function(date, options) {
   const formatToUse =
     (arguments[1] && arguments[1].hash && arguments[1].hash.format) ||
-    'D.M.YYYY';
+    'D. M. YYYY';
   let momentDate = moment(date);
 
   if (momentDate.isValid()) return momentDate.format(formatToUse);
@@ -22,5 +22,9 @@ Handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
 
 Handlebars.registerHelper('trimProtocol', function(url) {
   return url.replace(/(^\w+:|^)\/\//, '');
+});
+
+Handlebars.registerHelper('upper', function(aString) {
+  return aString.toUpperCase();
 });
 
