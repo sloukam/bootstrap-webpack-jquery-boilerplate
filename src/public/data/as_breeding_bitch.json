@@ -1099,6 +1099,161 @@
       "clp": "6540",
       "father": "Slash Morrison",
       "mother": "Riky z Krzáku",
+      "pedigree": {
+        "breed": "AS",
+        "sex": "female",
+        "clp": "6540",
+        "father": {
+          "country": "Česk",
+          "clp": "6389",
+          "name": "Slash Morrison",
+          "father": {
+            "country": "pkr",
+            "clp": "15840",
+            "name": "Lego Amazes Me Simarilion",
+            "father": {
+              "country": "AKC",
+              "clp": "57053107",
+              "name": "Stagedoor It Amazes Me ",
+              "father": {
+                "country": "SR",
+                "clp": "43812901",
+                "name": "Country Squire Rock Star"
+              },
+              "mother": {
+                "country": "SR",
+                "clp": "24147204",
+                "name": "Hemlock Lane Jem To Stagedoor"
+              }
+            },
+            "mother": {
+              "country": "PKR",
+              "clp": "13329",
+              "name": "Tilia Simarilion",
+              "father": {
+                "country": "ROI",
+                "clp": "24508",
+                "name": "Latin Lover The Boss"
+              },
+              "mother": {
+                "country": "prk",
+                "clp": "10930",
+                "name": "Silvanius Penelope"
+              }
+            }
+          },
+          "mother": {
+            "country": "PRK",
+            "clp": "13195",
+            "name": "Sophia Loren Magenta-In-Blue",
+            "father": {
+              "country": "PRK",
+              "clp": "12851",
+              "name": "King Magenta-In-Blue",
+              "father": {
+                "country": "FIN",
+                "clp": "21916",
+                "name": "Tuliketun Runo-Ratsu"
+              },
+              "mother": {
+                "country": "kc",
+                "clp": "04249408",
+                "name": "Valsett Srarlite Angel Dust"
+              }
+            },
+            "mother": {
+              "country": "prk",
+              "clp": "10780",
+              "name": "Tichuana Magenta-In-Blue",
+              "father": {
+                "country": "fin",
+                "clp": "21916",
+                "name": "Tuliketun Runo,Ratsu"
+              },
+              "mother": {
+                "country": "pkr",
+                "clp": "9211",
+                "name": "Queenie of Magenta"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "Česk",
+          "clp": "604817",
+          "name": "Riky z Krzáku",
+          "father": {
+            "country": "Česk",
+            "clp": "556309",
+            "name": "Chuck Vis Tranquilla",
+            "father": {
+              "country": "LOI",
+              "clp": "96835",
+              "name": "Arno Aless. Setter",
+              "father": {
+                "country": "loi",
+                "clp": "133353",
+                "name": "Radentis Nomar"
+              },
+              "mother": {
+                "country": "loi",
+                "clp": "58162",
+                "name": "Dora Aless. Setter"
+              }
+            },
+            "mother": {
+              "country": "HR",
+              "clp": "12334",
+              "name": "Livia od Benčiča",
+              "father": {
+                "country": "hr",
+                "clp": "11805",
+                "name": "Blic od Pastorčica"
+              },
+              "mother": {
+                "country": "hr",
+                "clp": "11623",
+                "name": "Baika od Benčiča"
+              }
+            }
+          },
+          "mother": {
+            "country": "Česk",
+            "clp": "5489",
+            "name": "Konkubína ze Srnína",
+            "father": {
+              "country": "Česk",
+              "clp": "5181",
+              "name": "Žalko z Krzáku",
+              "father": {
+                "country": "Česk",
+                "clp": "4538",
+                "name": "Alf"
+              },
+              "mother": {
+                "country": "Česk",
+                "clp": "5006",
+                "name": "Tara z Krzáku"
+              }
+            },
+            "mother": {
+              "country": "Česk",
+              "clp": "5198",
+              "name": "Brela z Mešinského hájemství",
+              "father": {
+                "country": "Česk",
+                "clp": "4499",
+                "name": "Largo z Kunštátských lesů"
+              },
+              "mother": {
+                "country": "spk",
+                "clp": "523",
+                "name": "Tika zo Zrínskej hory"
+              }
+            }
+          }
+        }
+      },
       "body": {
         "height": "60",
         "color": "modrý bělouš",
@@ -1107,7 +1262,7 @@
         "ED": "0/0"
       },
       "championships": "JCH CZ",
-      "shows": "CAJC, CAC",
+      "shows": "CAJC, CAC, Krajský vítěz, Vítěz třídy",
       "exams": "ZV - I. cena",
       "owner": {
         "first_name": "Jaromír",
