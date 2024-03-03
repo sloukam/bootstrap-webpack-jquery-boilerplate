@@ -1404,7 +1404,9 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
+      "datum_vyrazeni": "2024-03-03",
+      "duvod_vyrazeni": "úhyn",
       "name": "ARI KRALUPSKÁ ZAHRÁDKA",
       "date_of_birth": "2015-08-05",
       "clp": "6617",
