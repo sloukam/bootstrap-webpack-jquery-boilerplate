@@ -3,6 +3,28 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2024/03/15",
+      "title": "Klubová výstava MSKAO v Náměšti na Hané",
+      "paragraphs": [
+        "Zveme Vás na klubovou výstavu MSKAO 15. června 2024 do Náměště na Hané. Registrace je spuštěna na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a> (Náměšťská výstava - klubové výstavy).",
+        "We invite you to the MSKAO club show on June 15, 2024 in Náměšt na Hané. Registration is open at <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a> (Náměšťská výstava - klubové výstavy).",
+        "<a href=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" height=\"250\" width=\"350\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/03/15",
+      "title": "Klubová výstava MSKAO v Jaroměřicích nad Rokytnou",
+      "paragraphs": [
+        "Zveme Vás na klubovou výstavu MSKAO 4. května 2024 v Jaroměřicích nad Rokytnou. Přihlašování otevřeno na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a>.",
+        "We invite you to the MSKAO club show on May 4, 2024 in Jaroměřice nad Rokytnou. Registration open at <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a>.",
+        "<a href=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/letak.jpg\" height=\"250\" width=\"350\"></a>&nbsp;<a href=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/di_matteo.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/di_matteo.jpg\" height=\"200\" width=\"350\"></a>&nbsp;<a href=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/berchtold.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240504-Jaromerice_nad_Rokytnou/berchtold.jpg\" height=\"200\" width=\"350\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2024/02/28",
       "title": "Výcvikový víkend",
       "paragraphs": [
