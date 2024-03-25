@@ -3,6 +3,37 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2024/03/25",
+      "title": "Zápis a usnesení z výroční členské schůze",
+      "paragraphs": [
+        "Přinášíme zápis z výroční členské schuze a usnesení z ní."
+      ],
+      "attachments": [
+        {
+          "description": "zápis",
+          "filePath": "./public/pdf/2024/240303-vyrocni_clenska_schuze/zapis.pdf",
+          "type": "pdf"
+        },
+        {
+          "description": "usnesení",
+          "filePath": "./public/pdf/2024/240303-vyrocni_clenska_schuze/usneseni.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/03/25",
+      "title": "Klobouk",
+      "paragraphs": [
+        "Na výroční členské schůzi někdo z Vás zapomněl klobouk. Ať se mi majitel oyve na email web.mskao@gmail.com a domluvíme se na předání.",
+        "<a href=\"./public/images/2024/klobouk.jpg\" target=\"_blank\"><img src=\"./public/images/2024/klobouk.jpg\" height=\"250\" width=\"+íé\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2024/03/19",
       "title": "Pes roku 2023",
       "paragraphs": [
