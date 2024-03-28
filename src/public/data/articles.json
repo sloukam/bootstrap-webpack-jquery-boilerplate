@@ -4,6 +4,15 @@
       "visible": true,
       "articleId": 20240050,
       "publishDate": "2024/03/25",
+      "title": "Krásné velikonoce",
+      "paragraphs": [
+        "<a href=\"./public/images/2024/velikonoce.jpg\" target=\"_blank\"><img src=\"./public/images/2024/velikonoce.jpg\" height=\"300\" width=\"500\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/03/25",
       "title": "Zápis a usnesení z výroční členské schůze",
       "paragraphs": [
         "Přinášíme zápis z výroční členské schuze a usnesení z ní."
@@ -22,7 +31,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "articleId": 20240050,
       "publishDate": "2024/03/25",
       "title": "Klobouk",
