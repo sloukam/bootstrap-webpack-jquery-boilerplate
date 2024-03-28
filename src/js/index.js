@@ -51,6 +51,9 @@ $(document).ready(function() {
   // fetch all articles
   getArticles();
 
+  // fetch all inzerce
+  getInzerce();
+
   // $('#summernote').summernote();
   // $('#summernote').summernote({
   //   height: 250, // set editor height
@@ -225,6 +228,16 @@ function getCoverSheets(breed) {
     }
   });
 }
+function getInzerce() {
+  $.getJSON('../public/data/inzerce.json', function(data) {
+    var template = $('#inzerceTemplate').html();
+    if (template !== undefined) {
+      var compiledTemplate = Handlebars.compile(template);
+      $('#inzerceContainer').html(compiledTemplate(data));
+    }
+  });
+}
+
 
 function getArticles() {
   $.getJSON('../public/data/articles.json', function(data) {
