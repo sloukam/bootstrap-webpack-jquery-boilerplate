@@ -695,6 +695,38 @@
       "img_ext": "jpg",
       "breed": "AS",
       "sex": "female",
+      "datum_uchovneni": "2024-03-28",
+      "visible": true,
+      "name": "Whitney Morrison",
+      "date_of_birth": "2020-09-21",
+      "clp": "6496",
+      "father": "Lego Amazes Me Simarilion",
+      "mother": "Princess Elizabeth Morrison",
+      "body": {
+        "height": "61",
+        "color": "orange belton",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "CAC",
+      "exams": "ZV - I. cena",
+      "owner": {
+        "first_name": "Marta",
+        "last_name": "Šnajdarová",
+        "address": {
+          "street": "Březolupy",
+          "number": "500",
+          "city": "Březolupy",
+          "post_code": "68713"
+        },
+        "phone": "777303731",
+        "email": "martasnajdarova73@gmail.com"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "female",
       "datum_uchovneni": "2023-06-13",
       "visible": true,
       "name": "Latin Lover Time Switch",
