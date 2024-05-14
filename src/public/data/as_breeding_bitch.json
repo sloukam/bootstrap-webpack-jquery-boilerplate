@@ -661,6 +661,40 @@
       "img_ext": "jpg",
       "breed": "AS",
       "sex": "female",
+      "datum_uchovneni": "2024-02-19",
+      "visible": true,
+      "name": "Raphia Starring in Simarilion",
+      "date_of_birth": "2020-07-25",
+      "clp": "6520",
+      "father": "Sheradin's Star MANHATTAN",
+      "mother": "Limba Amazes Me Simarilion",
+      "body": {
+        "height": "62",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "championships": "GCH CZ, SK, CH CZ, SK, JCH CZ, SK",
+      "shows": "BOB BOS, CACIB, Res. CACIB, CAC, CWC, CAJC",
+      "exams": "ZV - II. cena",
+      "owner": {
+        "first_name": "Růžena",
+        "last_name": "Lepařová",
+        "address": {
+          "street": "Pod Skalkou",
+          "number": "69/10",
+          "city": "Přerov",
+          "post_code": "75124"
+        },
+        "phone": "776 658 147",
+        "email": "Ruzena.Leparova@seznam.cz"
+      },
+      "other": "Import PL"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "female",
       "datum_uchovneni": "2023-06-13",
       "visible": true,
       "name": "Latin Lover Time Switch",
