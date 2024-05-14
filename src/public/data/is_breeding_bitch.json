@@ -2484,6 +2484,137 @@
       }
     },
     {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-01-02",
+      "visible": true,
+      "name": "AUSTRALIAN RED JOKER Z ARISLANDU",
+      "date_of_birth": "2017-04-10",
+      "clp": "16512",
+      "father": "Lanascol Smoke and Mirrors",
+      "mother": "Gardensett Gina Lolobrigida z Arislandu",
+      "body": {
+        "height": "60",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16512",
+        "father": {
+          "name": "Lanascol Smoke and Mirrors",
+          "father": {
+            "name": "Devlin Marcopolo Ateireannmada",
+            "father": {
+              "name": "Beaubriar Showtime at Devlin JH",
+              "father": {
+                "name": "Saxonys Snow in August"
+              },
+              "mother": {
+                "name": "Beaubriars Electrifying JH"
+              }
+            },
+            "mother": {
+              "name": "Devlin´s Savannah",
+              "father": {
+                "name": "Meadowlark´s Irish Monarch"
+              },
+              "mother": {
+                "name": "Devlin´s Jezebel"
+              }
+            }
+          },
+          "mother": {
+            "name": "Lanascol Lost in the Fog",
+            "father": {
+              "name": "Lanascol Work of Art",
+              "father": {
+                "name": "Meadowlarks Energizer"
+              },
+              "mother": {
+                "name": "Lanascol Glad Rags"
+              }
+            },
+            "mother": {
+              "name": "Lanascol Hallucination",
+              "father": {
+                "name": "Lanascol Errant Piper"
+              },
+              "mother": {
+                "name": "Quailmoor Mary Quant"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Gardensett Gina Lolobrigida z Arislandu",
+          "father": {
+            "name": "Americal Dollar z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinnever´s"
+              },
+              "mother": {
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          },
+          "mother": {
+            "name": "Gipsy Flower z Arislandu",
+            "father": {
+              "name": "Shandwick Topaz",
+              "father": {
+                "name": "Caspain Intrepid"
+              },
+              "mother": {
+                "name": "Whithersdale Crystal Maze at Shandwick"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          }
+        }
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "CAJC, CAC, CACIB, BOS",
+      "exams": "výjimka",
+      "owner": {
+        "first_name": "Simona",
+        "last_name": "Pekárková",
+        "address": {
+          "street": "Na Výsluní ",
+          "number": "1162/13",
+          "city": "Rudná u Prahy",
+          "post_code": "25219"
+        },
+        "phone": "+420 739 297 83",
+        "email": "j.peky@seznam.c"
+      },
+      "other": "import Polsko"
+    },
+    {
       "breed": "IS",
       "sex": "female",
       "visible": true,
@@ -4909,6 +5040,145 @@
     {
       "breed": "IS",
       "sex": "female",
+      "datum_uchovneni": "2024-03-01",
+      "visible": true,
+      "name": "ZORA Z HRADISKA RÁJCE",
+      "date_of_birth": "2019-10-05",
+      "clp": "16801",
+      "father": "Charon z Jirouškova dvora",
+      "mother": "Y-Kentingerna z Hradiska Rájce",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16801",
+        "father": {
+          "clp": "16399",
+          "name": "Charon z Jirouškova dvora",
+          "father": {
+            "clp": "15990",
+            "name": "Almost Picasso Daisy Rain",
+            "father": {
+              "name": "Cordarragh Picasso",
+              "father": {
+                "name": "Scotselaw Detroit Spinner By Thendara"
+              },
+              "mother": {
+                "name": "Cordarragh Lady In Red"
+              }
+            },
+            "mother": {
+              "clp": "15446",
+              "name": "Artemis Elimar Doubrava",
+              "father": {
+                "name": "Garden Star´s Irish Vagabond"
+              },
+              "mother": {
+                "clp": "14834",
+                "name": "Wictoria Becham z Arislandu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russell"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16047",
+          "name": "Y-Kentingerna z Hradiska rájce",
+          "father": {
+            "name": "Neiven Amor´s Arrow",
+            "father": {
+              "name": "Centre Point Zambi",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Born To Be Happy Zambi"
+              }
+            },
+            "mother": {
+              "name": "Hawana Rude Ziólko",
+              "father": {
+                "name": "Gin Tonic of the Hunter´s Home"
+              },
+              "mother": {
+                "name": "Annais Rauhbaard"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15153",
+            "name": "X-Apache Lady z Hradiska rájce",
+            "father": {
+              "clp": "13566",
+              "name": "Blesk z Bučovských hájů",
+              "father": {
+                "clp": "11704",
+                "name": "Kid Jokran"
+              },
+              "mother": {
+                "clp": "12844",
+                "name": "Bona z Niv"
+              }
+            },
+            "mother": {
+              "clp": "13941",
+              "name": "Vanilka z Hradiska rájce",
+              "father": {
+                "name": "Kris Wonderstar von der Igalffy-Igaly"
+              },
+              "mother": {
+                "name": "Usty z Hradiska rájce"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "58",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, CAC, res.CAC",
+      "exams": "KPZ I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Aleš ",
+        "last_name": "Pernica",
+        "address": {
+          "street": "Plotky ",
+          "number": "52",
+          "city": "Doubravice nad Svitavou",
+          "post_code": "67911"
+        },
+        "phone": "+420 731 185 906",
+        "email": "pernica.a@tiscali.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
       "visible": true,
       "name": "BÁRA ZE SRBECKÝCH LUHŮ",
       "date_of_birth": "2019-12-28",
@@ -5604,6 +5874,133 @@
       }
     },
     {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-01-29",
+      "visible": true,
+      "name": "BE MY BUBBLE MAHOGANY DREAM CATCHER",
+      "date_of_birth": "2021-06-15",
+      "clp": "17185",
+      "father": "Universe of Never-Ending Adventure All Irish Gold",
+      "mother": "Eternal Flame Goldset",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17185",
+        "father": {
+          "clp": "16711",
+          "name": "Universe of Never-Endiing Adventure All Irish Gold",
+          "father": {
+            "name": "Oakdene Que Du Bonheur",
+            "father": {
+              "name": "Jonola Dr. Doolittle",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jonola Bellestar"
+              }
+            },
+            "mother": {
+              "name": "OakdeneNothing Compares 2U",
+              "father": {
+                "name": "Thendara Satisfaction"
+              },
+              "mother": {
+                "name": "Oakdene Kilby"
+              }
+            }
+          },
+          "mother": {
+            "name": "Oakdene Puzzles´n Crisps",
+            "father": {
+              "name": "Paris Match Thendara",
+              "father": {
+                "name": "Gwendariff Pop The Question"
+              },
+              "mother": {
+                "name": "Thendara Lenamore"
+              }
+            },
+            "mother": {
+              "name": "Oakdene Kilby",
+              "father": {
+                "name": "Thendara Frozen Asset"
+              },
+              "mother": {
+                "name": "Mayfred Mrs Robinson"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16325",
+          "name": "Eternal Flame Goldset",
+          "father": {
+            "name": "Garden Star´s Irish Tequila",
+            "father": {
+              "name": "Garden Star´s Royal Legend",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Youghurt"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Ferrero Rocher",
+              "father": {
+                "name": "Garden Star´s Billion Dolar"
+              },
+              "mother": {
+                "name": "Garden Star´s Amber Light"
+              }
+            }
+          },
+          "mother": {
+            "name": "Autumn Legend Goldset",
+            "father": {
+              "name": "Applegrove Bechamel",
+              "father": {
+                "name": "Pendoric Poggy Perfection"
+              },
+              "mother": {
+                "name": "Applegrove Look At Me I´m Natalie"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Irish Utopia",
+              "father": {
+                "name": "Garden Star´s Gentleman"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, CAC, CACIB, BOS",
+      "exams": "ZV III.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "Želivec",
+          "number": "8",
+          "city": "Zruč nad Sázavou"
+        },
+        "phone": "+420 721 161 987",
+        "email": "verustechovska@gmail.com"
+      }
+    },
+    {
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2023-11-15",
@@ -5754,6 +6151,132 @@
       }
     },
     {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-01-29",
+      "visible": true,
+      "name": "GWENDARIFF HANDBAGS AND HI HEELS",
+      "date_of_birth": "2021-08-28",
+      "clp": "17303",
+      "father": "Gwendariff Smart Red Jacket",
+      "mother": "Gwendariff Hands Off Ur Mine",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17303",
+        "father": {
+          "name": "Gwendariff Smart Red Jacket",
+          "father": {
+            "name": "Gwendariff Unknown Soldier",
+            "father": {
+              "name": "Copper´s Magiska Under",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff The Catz Wiskers",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            }
+          },
+          "mother": {
+            "name": "Aoibheanne´s Smart Move Gwendariff",
+            "father": {
+              "name": "Gwendariff Whippersnapper",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            },
+            "mother": {
+              "name": "Copper´s Champagne Bubble At Aoibheanne",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Gwendariff Hands Off Ur Mine",
+          "father": {
+            "name": "Gwendariff Weekend Warrior",
+            "father": {
+              "name": "Northamber Just Cause For Glenavna",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Walnut Whip",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            }
+          },
+          "mother": {
+            "name": "Gwendariff Carrys It Off",
+            "father": {
+              "name": "Bardonhill Tom Foolery",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            },
+            "mother": {
+              "name": "Gwendariff Rock Diva",
+              "father": {
+                "name": "xxx"
+              },
+              "mother": {
+                "name": "xxx"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, CAJC, BOJ, BOS, CAC, CACIB, BOB, JBIS, Světový vítěz 2023",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Veronika",
+        "last_name": "Štěchovská",
+        "address": {
+          "street": "Želivec",
+          "number": "8",
+          "city": "Zruč nad Sázavou"
+        },
+        "phone": "+420 721 161 987",
+        "email": "verustechovska@gmail.com"
+      },
+      "other": "import Irsko"
+    },
+    {
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2023-12-15",
@@ -5901,6 +6424,149 @@
         },
         "email": "rachunekd@seznam.cz"
       }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-03-01",
+      "visible": true,
+      "name": "FARIDA CHESTNUT MIRELIONNE",
+      "date_of_birth": "2022-03-12",
+      "clp": "17322",
+      "father": "Aaron Arno Redweed",
+      "mother": "Amazing Red Girl Mirelionne",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17322",
+        "father": {
+          "clp": "16661",
+          "name": "Aaron Arno Redweeed",
+          "father": {
+            "name": "Riverwood Pleased as Punch",
+            "father": {
+              "name": "Wynjill Well I Am",
+              "father": {
+                "name": "Sametsuz Scriptwriter"
+              },
+              "mother": {
+                "name": "Gwendariff Whata Wynjill"
+              }
+            },
+            "mother": {
+              "name": "Riverwood Kumbayah",
+              "father": {
+                "name": "Houston of the Trav´Lin Star"
+              },
+              "mother": {
+                "name": "Girlygirl of McBirdy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16174",
+            "name": "Zephyre Maya Redweed",
+            "father": {
+              "clp": "13965",
+              "name": "Stamboek Redweed",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "12893",
+                "name": "Oriflame Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16525",
+          "name": "Amazing Red Girl Mirelionne",
+          "father": {
+            "clp": "15778",
+            "name": "Whisky Mr. Perfect Redweed",
+            "father": {
+              "name": "Garden Star´s Royal Legend",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Youghurt"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16186",
+            "name": "Ebony Mahagony Beauty",
+            "father": {
+              "name": "Neiven Amor´s Arrow",
+              "father": {
+                "name": "Centre  Point Zambi"
+              },
+              "mother": {
+                "name": "Hawana Rude Ziólko"
+              }
+            },
+            "mother": {
+              "clp": "14952",
+              "name": "Rita z Dubské",
+              "father": {
+                "clp": "13566",
+                "name": "Blesk z Bučovských hájů"
+              },
+              "mother": {
+                "clp": "14281",
+                "name": "Rona z Luhové seče"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "59",
+        "color": "mahagon",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N, SOD1 N/N, vWD N/N"
+      },
+      "championships": "JCH ČR, JCH SK, CH ČR, CH SK",
+      "shows": "CAJC, BOJ, CAC, res.CACIB, CACIB, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Miroslava ",
+        "last_name": "Němcová",
+        "address": {
+          "street": "Heroltovice",
+          "number": "1512",
+          "city": "Libavá",
+          "post_code": "78307"
+        },
+        "phone": "+420 739 406 622",
+        "email": "nemcova_m@centrum.cz",
+        "web": "https://mirelionne.webnode.cz/"
+      }
     }
+
   ]
 }
