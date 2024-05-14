@@ -3,7 +3,7 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ŠELLY Z LUKOVSKÝCH LÁNU",
       "date_of_birth": "2014-10-23",
       "datum_vyrazeni": "2022-12-17",
