@@ -1355,6 +1355,36 @@
       }
     },
     {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "0024-02-13",
+      "visible": true,
+      "name": "Brok z Vlčích hor",
+      "date_of_birth": "2019-03-20",
+      "clp": "11596",
+      "father": "Oliver ze Štípek",
+      "mother": "Aira z Vlčích hor",
+      "body": {
+        "height": "64",
+        "color": "černobílá",
+        "HD": "A"
+      },
+      "shows": "V1,CAC,KV,BOB",
+      "exams": "ZV-.I.c, PZ-Ic.c, LZ- I.c, SVP- I.c, VZ -I.c, ZVP -I.c, MKS II.c/440 b, MRK-CACT 338 b, NSMRK -IIc., 268/nos4",
+      "owner": {
+        "first_name": "Roman",
+        "last_name": "Hobza",
+        "address": {
+          "street": "Oleksovice",
+          "number": "44",
+          "city": "Znojmo",
+          "post_code": "471 62"
+        },
+        "email": "hobzaroman@seznam.cz"
+      }
+    },
+    {
       "breed": "POI",
       "sex": "male",
       "visible": false,
