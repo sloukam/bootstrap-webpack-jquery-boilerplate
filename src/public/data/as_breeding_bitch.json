@@ -1505,6 +1505,40 @@
         "email": "Tatana.bednarova@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2024-05-06",
+      "visible": true,
+      "name": "Gidea Reina Davaroni",
+      "date_of_birth": "2023-03-20",
+      "clp": "6636",
+      "father": "Gordon Hall Bourbon Whiskey",
+      "mother": "Editions Pointing Davaroni Girl",
+      "body": {
+        "height": "61",
+        "color": "blue belton",
+        "HD": "A",
+        "ED": "0/0",
+        "other": "OCD clear"
+      },
+      "shows": "V1, CAJC, CACIB - Junior, BOJ, BOS",
+      "exams": "ZV - I. cena, MVV (CACT) - I. cena, TAN",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Lucie",
+        "last_name": "Brožová",
+        "address": {
+          "street": "Komenského",
+          "number": "68",
+          "city": "Čelákovice - Sedlčánky",
+          "post_code": "25088"
+        },
+        "phone": "737413598",
+        "email": "davaroni@davaroni.com",
+        "web": "http://www.davaroni.com/"
+      }
     }
   ]
 }
