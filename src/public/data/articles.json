@@ -3,6 +3,40 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2024/05/15",
+      "title": "Výsledky klubových zkoušek vloh",
+      "paragraphs": [
+        "\uD83C\uDF3F12.5.2024 Klubové zkoušky vloh Moravskoslezského klubu anglických ohařů ve spolupráci s OMS Třebíč a MS Slavice \uD83C\uDF3F\nChtěli bychom touto cestou poděkovat Mysliveckému spolku Slavice za propůjčení skvěle zazvěřené honitby, Zemědělskému družstvu Slavice za skvělé zázemí, členům MS Slavice za servis, který všem účastníkům po celý den poskytli,  Jiřímu Stočesovi a jeho tatínkovi za výborné občerstvení. Dále děkujeme firmě Autoservis Jiří Jurka, firmě Čokle a Foxyfoxy_brand za věcné ceny pro vůdce ",
+        "<a href=\"./public/pdf/2024/240512-kzv/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240512-kzv/04.jpg\" height=\"240\" width=\"320\"></a>&nbsp;<a href=\"./public/pdf/2024/240512-kzv/vysledky.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240512-kzv/vysledky.jpg\" height=\"240\" width=\"320\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "vysledky - PDF",
+          "filePath": "./public/pdf/2024/240512-kzv/vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/05/15",
+      "title": "Výsledky klubových podzimních zkoušek",
+      "paragraphs": [
+        "\uD83C\uDF3F11.5.2024 Klubové podzimní zkoušky Moravskoslezského klubu anglických ohařů ve spolupráci s OMS Třebíč a MS Slavice \uD83C\uDF3F\nChtěli bychom touto cestou poděkovat Mysliveckému spolku Slavice za propůjčení skvěle zazvěřené honitby, Zemědělskému družstvu Slavice za skvělé zázemí, členům MS Slavice za servis, který všem účastníkům po celý den poskytli,  Jiřímu Stočesovi a jeho tatínkovi za výborné občerstvení. Dále děkujeme firmě Autoservis Jiří Jurka, firmě Čokle a Foxyfoxy_brand za věcné ceny pro vůdce ",
+        "<a href=\"./public/pdf/2024/240511-kpz/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240511-kpz/04.jpg\" height=\"240\" width=\"320\"></a>&nbsp;<a href=\"./public/pdf/2024/240511-kpz/vysledky.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240511-kpz/vysledky.jpg\" height=\"240\" width=\"320\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "vysledky - PDF",
+          "filePath": "./public/pdf/2024/240511-kpz/vysledky.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2024/05/05",
       "title": "Výsledky klubové výstavy v Jaroměřicích nad Rokytnou",
       "paragraphs": [
