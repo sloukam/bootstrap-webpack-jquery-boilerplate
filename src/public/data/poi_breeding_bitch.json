@@ -2093,7 +2093,8 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
+      "datum_vyrazeni": "2024-05-28",
       "name": "BEZZUBKA Z BÍTÝŠSKÝCH BAŽIN",
       "date_of_birth": "2015-08-30",
       "clp": "11230",

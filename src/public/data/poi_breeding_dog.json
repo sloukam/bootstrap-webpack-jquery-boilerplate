@@ -730,7 +730,9 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
+      "datum_vyrazeni": "2024-05-28",
+      "duvod_vyrazeni": "úraz",
       "name": "ANOOK ZE ŠTÍPEK",
       "date_of_birth": "2015-06-25",
       "clp": "11205",
