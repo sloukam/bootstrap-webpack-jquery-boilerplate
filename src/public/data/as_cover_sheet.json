@@ -18,7 +18,25 @@
           "breeder": "The Golden Bracken",
           "bitch": "Whitney Morrison",
           "dog": "",
-          "releaseDate": "prozatím nevyužito",
+          "releaseDate": "nahrazen KL III/24",
+          "puppies": ""
+        },
+        {
+          "id": "III/24",
+          "publicationDate": "2024-05-29",
+          "breeder": "The Golden Bracken",
+          "bitch": "Whitney Morrison",
+          "dog": "",
+          "releaseDate": "náhrada za KL II/24",
+          "puppies": ""
+        },
+        {
+          "id": "IV/24",
+          "publicationDate": "2024-05-29",
+          "breeder": "Moravská LeRůž",
+          "bitch": "Tennessee Morrison",
+          "dog": "",
+          "releaseDate": "náhradní KL za III/23 - nezabřezla/24",
           "puppies": ""
         }
       ]
