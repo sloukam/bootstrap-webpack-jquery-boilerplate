@@ -53,8 +53,8 @@
           "publicationDate": "2023-05-01",
           "breeder": "VERSAENN",
           "bitch": "Enny Bohemia Tátrum",
-          "dog": "",
-          "releaseDate": "",
+          "dog": "Aramis Apolly Moravia",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
@@ -63,7 +63,7 @@
           "breeder": "OF MAHAGONLINE",
           "bitch": "Faylinn Ellie Mahagony Paw",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
@@ -74,6 +74,33 @@
           "dog": "Oakdene Que Du Bonheur (BEL)",
           "releaseDate": "2023-07-17",
           "puppies": "3/5"
+        },
+        {
+          "id": "IX/23",
+          "publicationDate": "2023-10-09",
+          "breeder": "RUBIVERA",
+          "bitch": "Agonny Rubivera",
+          "dog": "Treasure Island from Crawford Land (HU)",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "X/23",
+          "publicationDate": "2023-11-06",
+          "breeder": "DREAMFILLA´S",
+          "bitch": "Bára ze Srbeckých luhů",
+          "dog": "Agar Akimbo Daisy Rain",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "XI/23",
+          "publicationDate": "2023-11-06",
+          "breeder": "ZE STAROVIČEK",
+          "bitch": "Inge z Luhové seče",
+          "dog": "Charon z Jirouškova dvora",
+          "releaseDate": "",
+          "puppies": ""
         }
       ]
     },
