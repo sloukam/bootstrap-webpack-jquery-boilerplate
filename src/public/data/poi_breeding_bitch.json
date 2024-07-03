@@ -4035,7 +4035,7 @@
           "city": "VITICE",
           "post_code": "28106"
         },
-        "phone": "+420775 785 087",
+        "phone": "+420 775 785 087",
         "email": "mara.viktor@gmail.com"
       },
       "img_ext": "jpg"
@@ -4059,15 +4059,16 @@
       "shows": "VD1",
       "exams": "ZV-Ic,PZ-I.c, MFT -r.CACT,r.CACIT ,ZV-I.c, LZ-I.c,",
       "owner": {
-        "first_name": "Lumír ",
-        "last_name": "Bárta ",
+        "first_name": "František",
+        "last_name": "Srnec",
         "address": {
-          "street": "Kuřimská",
-          "number": "133",
-          "city": "Moravské Knínice ",
-          "post_code": "664"
+          "street": "Dlouhá",
+          "number": "42",
+          "city": "Veverská Bítýška",
+          "post_code": "664 71"
         },
-        "email": "Srnec.Franta@seznam.c"
+        "email": "srnec.franta@seznam.cz",
+        "phone": "+420 777 014 724"
       }
     },
     {
