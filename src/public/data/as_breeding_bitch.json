@@ -1510,6 +1510,39 @@
       "img_ext": "jpg",
       "breed": "AS",
       "sex": "female",
+      "datum_uchovneni": "2024-06-24",
+      "visible": true,
+      "name": "Keisy od Mlázovické tvrze",
+      "date_of_birth": "2022-03-27",
+      "clp": "6601",
+      "father": "Dia",
+      "mother": "Ifai od Mlázovické tvrze",
+      "body": {
+        "height": "56",
+        "color": "tricolor",
+        "HD": "A",
+        "ED": "0/0"
+      },
+      "shows": "V1, Vítěz třídy",
+      "exams": "ZV - I. cena, PZ - I. cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Stanislav",
+        "last_name": "Halámka",
+        "address": {
+          "street": "Branná",
+          "number": "120",
+          "city": "Třeboň",
+          "post_code": "37901"
+        },
+        "phone": "721767578",
+        "email": "StanislavHalamka@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "AS",
+      "sex": "female",
       "datum_uchovneni": "2024-05-06",
       "visible": true,
       "name": "Gidea Reina Davaroni",
