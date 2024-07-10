@@ -3,6 +3,24 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2024/07/09",
+      "title": "Pohár MSKAO",
+      "paragraphs": [
+        "MSKAO pořádá ve dnech 10.8.-11.8. 2024 Pohár MSKAO (PZ+VP) v honitbě Honebního společenstva Hostákov",
+        "Přihlášky on-line - <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSf0jNrAENbvZRW6IEdsdOWVG7Rprot6-bBHjn6ZBezcOdEBNg/viewform\" target=\"_blank\">ZDE</a>",
+        "<a href=\"./public/pdf/2024/240810-pohar_mskao/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240810-pohar_mskao/01.jpg\" height=\"210\" width=\"280\"></a>&nbsp;<a href=\"./public/pdf/2024/240810-pohar_mskao/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240810-pohar_mskao/02.jpg\" height=\"210\" width=\"280\"></a>&nbsp;<a href=\"./public/pdf/2024/240810-pohar_mskao/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240810-pohar_mskao/03.jpg\" height=\"210\" width=\"280\"></a>&nbsp;<a href=\"./public/pdf/2024/240810-pohar_mskao/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240810-pohar_mskao/04.jpg\" height=\"210\" width=\"280\"></a><br>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice - PDF",
+          "filePath": "./public/pdf/2024/240810-pohar_mskao/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2024/04/09",
       "title": "Zápis z výborové schůze",
       "paragraphs": [
@@ -79,20 +97,20 @@
       "publishDate": "2024/04/24",
       "title": "Propozice na klubovou výstavu MSKAO v Náměšti na Hané",
       "paragraphs": [
-        "Přinášíme Vám propozice na klubovou výstavu MSKAO, která se koná 15. června 2024 v Náměšti na Hané - <a href=\"./public/pdf/2024/250615-names_na_hane/propozice.pdf\" target=\"_blank\">PDF</a> nebo &nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/propozice.doc\" target=\"_blank\">MS Word</a>",
+        "Přinášíme Vám propozice na klubovou výstavu MSKAO, která se koná 15. června 2024 v Náměšti na Hané - <a href=\"./public/pdf/2024/240615-names_na_hane/propozice.pdf\" target=\"_blank\">PDF</a> nebo &nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/propozice.doc\" target=\"_blank\">MS Word</a>",
         "Přihlásit se stále můžete na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a> (Náměšťská výstava - klubové výstavy).",
-        "<a href=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" height=\"250\" width=\"350\"></a>",
-        "<a href=\"./public/pdf/2024/250615-names_na_hane/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/01.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/02.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/03.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/04.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/05.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/05.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/06.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/06.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/07.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/07.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/250615-names_na_hane/08.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/08.jpg\" height=\"250\" width=\"180\"></a>"
+        "<a href=\"./public/pdf/2024/240615-names_na_hane/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/letak.jpg\" height=\"250\" width=\"350\"></a>",
+        "<a href=\"./public/pdf/2024/240615-names_na_hane/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/01.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/02.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/03.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/04.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/04.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/05.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/05.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/06.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/06.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/07.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/07.jpg\" height=\"250\" width=\"180\"></a>&nbsp;<a href=\"./public/pdf/2024/240615-names_na_hane/08.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/08.jpg\" height=\"250\" width=\"180\"></a>"
       ],
       "attachments": [
         {
           "description": "propozice - PDF",
-          "filePath": "./public/pdf/2024/250615-names_na_hane/propozice.pdf",
+          "filePath": "./public/pdf/2024/240615-names_na_hane/propozice.pdf",
           "type": "pdf"
         },
         {
           "description": "propozice - MS WORD",
-          "filePath": "./public/pdf/2024/250615-names_na_hane/propozice.doc",
+          "filePath": "./public/pdf/2024/240615-names_na_hane/propozice.doc",
           "type": "doc"
         }
       ]
@@ -229,7 +247,7 @@
       "paragraphs": [
         "Zveme Vás na klubovou výstavu MSKAO 15. června 2024 do Náměště na Hané. Registrace je spuštěna na <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a> (Náměšťská výstava - klubové výstavy).",
         "We invite you to the MSKAO club show on June 15, 2024 in Náměšt na Hané. Registration is open at <a href=\"http://www.dogoffice.cz\" target=\"_blank\">www.DogOffice.cz</a> (Náměšťská výstava - klubové výstavy).",
-        "<a href=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/250615-names_na_hane/letak.jpg\" height=\"250\" width=\"350\"></a>"
+        "<a href=\"./public/pdf/2024/240615-names_na_hane/letak.jpg\" target=\"_blank\"><img src=\"./public/pdf/2024/240615-names_na_hane/letak.jpg\" height=\"250\" width=\"350\"></a>"
       ]
     },
     {
