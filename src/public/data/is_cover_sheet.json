@@ -1,6 +1,83 @@
 {
   "years": [
     {
+      "year": "2024",
+      "items": [
+        {
+          "id": "I/24",
+          "publicationDate": "2024-01-02",
+          "breeder": "RED JOKER",
+          "bitch": "Australian Red Joker z Arislandu",
+          "dog": "Gwendariff Dutch Invander (PL)",
+          "releaseDate": "2024-03-05",
+          "puppies": "7/8"
+        },
+        {
+          "id": "II/24",
+          "publicationDate": "2024-01-04",
+          "breeder": "MAHAGONY PAW",
+          "bitch": "Gloria Estate Mahagony Paw",
+          "dog": "Caught Red Handed Redweed",
+          "releaseDate": "2024-03-05",
+          "puppies": "3/5"
+        },
+        {
+          "id": "III/24",
+          "publicationDate": "2024-02-01",
+          "breeder": "MAHOGANY DREAM CATCHER",
+          "bitch": "Be My Bubble Mahogany Dream Catcher",
+          "dog": "Aaron Arno Redweed",
+          "releaseDate": "2024-04-04",
+          "puppies": "5/4"
+        },
+        {
+          "id": "IV/24",
+          "publicationDate": "2024-02-19",
+          "breeder": "OD CÍSAŘSKÉHO DUBU",
+          "bitch": "Jara z Jirouškova dvora",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "V/24",
+          "publicationDate": "2024-02-27",
+          "breeder": "MAHOGANY DREAM CATCHER",
+          "bitch": "Gwendariff Handbags and Hi Heels",
+          "dog": "Copper´s Riddarsporre (SE)",
+          "releaseDate": "2024-05-03",
+          "puppies": "2/5"
+        },
+        {
+          "id": "VI/24",
+          "publicationDate": "2024-02-28",
+          "breeder": "MIRELIONNE",
+          "bitch": "Amazing Red Girl Mirelionne",
+          "dog": "",
+          "releaseDate": "nakryto",
+          "puppies": ""
+        },
+        {
+          "id": "VII/24",
+          "publicationDate": "2024-03-15",
+          "breeder": "Z ŘÍMOVSKÉ STRÁNĚ",
+          "bitch": "Binjara Mahagon Kenya",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "id": "VIII/24",
+          "publicationDate": "2024-04-10",
+          "breeder": "MAHAGONY ROSE",
+          "bitch": "Andy z Římovské stráně",
+          "dog": "",
+          "releaseDate": "nakryto",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2023",
       "items": [
         {
