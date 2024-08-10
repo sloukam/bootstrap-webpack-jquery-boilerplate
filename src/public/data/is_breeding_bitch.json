@@ -6151,6 +6151,141 @@
       }
     },
     {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-08-01",
+      "visible": true,
+      "name": "DJEMA MAHAGON KENYA",
+      "date_of_birth": "2021-08-17",
+      "clp": "17293",
+      "father": "Yahoo Lofty",
+      "mother": "Bwindi Mahagon Kenya",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17293",
+        "father": {
+          "name": "Yahoo Lofty",
+          "father": {
+            "name": "Riverwood Kaamelot",
+            "father": {
+              "name": "Houston of the Trav´Lin Star",
+              "father": {
+                "name": "Aston Limited Edition"
+              },
+              "mother": {
+                "name": "Charmain of the Trav´Lin Star"
+              }
+            },
+            "mother": {
+              "name": "Girlygirl of McBirdy",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Chickadee of McBirdy"
+              }
+            }
+          },
+          "mother": {
+            "name": "Lady Godiva Lofty",
+            "father": {
+              "name": "Desperado Lofty",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Tequila Special Sour Mahoniowa Bryza"
+              }
+            },
+            "mother": {
+              "name": "Copper´s It´s A Kind Of Magic",
+              "father": {
+                "name": "Dubliner Tiger Woods"
+              },
+              "mother": {
+                "name": "Copper´s Magical Bubble"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16197",
+          "name": "Bwindi Mahagon Kenya",
+          "father": {
+            "clp": "15444",
+            "name": "Abandinus Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish-Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15307",
+            "name": "Flea Červený vítr",
+            "father": {
+              "clp": "14717",
+              "name": "Dag z Křenovic",
+              "father": {
+                "clp": "13940",
+                "name": "Vesuv z Hradiska Rájce"
+              },
+              "mother": {
+                "clp": "14411",
+                "name": "Sandra z Luhové seče"
+              }
+            },
+            "mother": {
+              "clp": "14501",
+              "name": "Pera od Klapavce",
+              "father": {
+                "clp": "13459",
+                "name": "Tarn od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13955",
+                "name": "Lassi od Klapavce"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, Krajský vítěz",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Filip ",
+        "last_name": "Zeman",
+        "address": {
+          "street": "Zahradní",
+          "number": "205",
+          "city": "Opatovice",
+          "post_code": "75356"
+        },
+        "phone": "+420607268913",
+        "email": "kveta.jambo@seznam.cz"
+      }
+    },
+    {
       "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
@@ -6568,6 +6703,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2024-05-31",
@@ -6693,6 +6829,5 @@
         "email": "hankajarov@seznam.cz"
       }
     }
-
   ]
 }

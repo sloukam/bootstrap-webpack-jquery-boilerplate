@@ -4728,7 +4728,6 @@
         }
       }
     },
-
     {
       "breed": "IS",
       "sex": "male",
@@ -4811,7 +4810,6 @@
       },
       "img_ext": "jpg"
     },
-
     {
       "breed": "IS",
       "sex": "male",
@@ -6280,6 +6278,159 @@
         "email": "klaudiarosenbergova69@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "male",
+      "datum_uchovneni": "2024-07-23",
+      "visible": true,
+      "name": "AMON Z HORNOPOŽÁRSKÝCH LESŮ",
+      "date_of_birth": "2021-07-04",
+      "clp": "17203",
+      "father": "Gorby z Jirouškova dvora",
+      "mother": "Pixa ze Zápotockého",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "17203",
+        "father": {
+          "clp": "16084",
+          "name": "Gorby z Jirouškova dvora",
+          "father": {
+            "clp": "14986",
+            "name": "Pad ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14313",
+              "name": "Kyty ze Srbeckých luhů",
+              "father": {
+                "clp": "13829",
+                "name": "Ikar z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russell"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16510",
+          "name": "Pixa ze Zápotockého",
+          "father": {
+            "clp": "15359",
+            "name": "Colt Jelení záře",
+            "father": {
+              "clp": "14473",
+              "name": "Andy ze Šumavských hor",
+              "father": {
+                "clp": "13631",
+                "name": "Ussure od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13259",
+                "name": "Gina ze Šumavského kraje"
+              }
+            },
+            "mother": {
+              "clp": "14682",
+              "name": "Sara od Klapavce",
+              "father": {
+                "clp": "13459",
+                "name": "Tarn od Velkého dubu"
+              },
+              "mother": {
+                "clp": "13955",
+                "name": "Lassi od Klapavce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15709",
+            "name": "Merlin ze Zápotockého",
+            "father": {
+              "clp": "14505",
+              "name": "Dor z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14871",
+              "name": "Baronessa Kitty Nonstop",
+              "father": {
+                "clp": "14067",
+                "name": "Dorian Grey Jenny´s Irsal"
+              },
+              "mother": {
+                "clp": "11000",
+                "name": "Irish Destiny Nonstop"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "V, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Martin",
+        "last_name": "Krečmer",
+        "address": {
+          "street": "Bernerova ",
+          "number": "1806/6",
+          "city": "Ostrava",
+          "post_code": "71000"
+        },
+        "phone": "+420722061870",
+        "email": "krecmer.martin@email.cz"
+      }
     }
   ]
 }
