@@ -6141,7 +6141,7 @@
       "owner": {
         "title": "Mgr. ",
         "first_name": "Marcela",
-        "last_name": "Streblová",
+        "last_name": "Steblová",
         "address": {
           "street": "Prostřední Bludovice ",
           "number": "674",
@@ -6565,6 +6565,132 @@
         "phone": "+420 739 406 622",
         "email": "nemcova_m@centrum.cz",
         "web": "https://mirelionne.webnode.cz/"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-05-31",
+      "visible": true,
+      "name": "GIULIA QUEEN RED JOKER",
+      "date_of_birth": "2022-05-11",
+      "clp": "17376",
+      "father": "Show Must Go On z Arislandu",
+      "mother": "Australian Red Joker z Arislandu",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17376",
+        "father": {
+          "name": "Show Must Go On z Arislandu",
+          "father": {
+            "name": "Fairhaven Zenith El Primero",
+            "father": {
+              "name": "Applegrove I am The Dragon´s Aid",
+              "father": {
+                "name": "Setterlands Tamburello At Pendoric"
+              },
+              "mother": {
+                "name": "Applegrove Look At Me I´am Natalie"
+              }
+            },
+            "mother": {
+              "name": "Fairhaven Rocket Rebecca",
+              "father": {
+                "name": "Dubliner Georgio Armani"
+              },
+              "mother": {
+                "name": "Fairhaven Herbrightsky"
+              }
+            }
+          },
+          "mother": {
+            "name": "Silver Bells z Arislandu",
+            "father": {
+              "name": "Dubliner Mac Cloud",
+              "father": {
+                "name": "Jonola Dr. Doolittle"
+              },
+              "mother": {
+                "name": "Honeygardens Imitation"
+              }
+            },
+            "mother": {
+              "name": "Salford Princess z Arislandu",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "This Magic Moment z Arislandu"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16512",
+          "name": "Australian Red Joker z Arislandu",
+          "father": {
+            "name": "Lanascol Smoke and Mirrors",
+            "father": {
+              "name": "Devlin Marcopolo Ateireannmada",
+              "father": {
+                "name": "Beaubriar Showtime At Devlin"
+              },
+              "mother": {
+                "name": "Devlin´s Savannah"
+              }
+            },
+            "mother": {
+              "name": "Lanascol Lost in the Fog",
+              "father": {
+                "name": "Lanascol Work Of Art"
+              },
+              "mother": {
+                "name": "Lanascol Hallucination"
+              }
+            }
+          },
+          "mother": {
+            "name": "Gardensett Gina Lolobrigida z Arislandu",
+            "father": {
+              "name": "American Dollar z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            },
+            "mother": {
+              "name": "Gipsy Flower z Arislandu",
+              "father": {
+                "name": "Shandwick Topaz"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "championships": "CH ČR",
+      "shows": "V, CAC",
+      "exams": "ZV I,cena",
+      "owner": {
+        "first_name": "Hana",
+        "last_name": "Dvořáková",
+        "address": {
+          "street": "Ohrobecké údolí ",
+          "number": "8e",
+          "city": "OHROBEC",
+          "post_code": "25246"
+        },
+        "email": "hankajarov@seznam.cz"
       }
     }
 
