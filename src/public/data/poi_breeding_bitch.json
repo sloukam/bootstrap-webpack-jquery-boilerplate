@@ -4131,6 +4131,38 @@
         }
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2023-12-24",
+      "visible": true,
+      "name": "DESTINY OF SPARK NATYAVE GROVE",
+      "date_of_birth": "2021-09-22",
+      "clp": "11956",
+      "father": "WHIPSPAN GOLDEN LEGACY ",
+      "mother": "FYDAL Crystal  del WinePoint",
+      "body": {
+        "height": "62",
+        "color": "bílooranžová",
+        "HD": "A"
+      },
+      "shows": "KV -MSKAO 2023 CAC, V1, VT KRAJ.V, KV-MSKAO 2024 CAC,",
+      "exams": "ZV-I.c, -1 místo ",
+      "owner": {
+        "first_name": "Lenka",
+        "last_name": "Horáková",
+        "address": {
+          "street": "Nádražní ",
+          "number": "1738",
+          "city": "Dubnany",
+          "post_code": "69603"
+        },
+        "phone": "+420607067931",
+        "email": "info@natyavegrove.com",
+        "web": "http://www.natyavegrove.com"
+      }
     }
   ]
 }
