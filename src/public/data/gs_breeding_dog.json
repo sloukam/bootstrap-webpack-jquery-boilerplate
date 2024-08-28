@@ -7,7 +7,7 @@
       "date_of_birth": "2008-05-24",
       "clp": "6029",
       "father": "Prim z Podmaršovic",
-      "mother": "Elza z Želečky",
+      "mother": "Elza z Želečky",
       "sex": "male",
       "body": {
         "height": "64",
@@ -321,7 +321,7 @@
           },
           "mother": {
             "clp": "5350",
-            "name": "Elza z Zelečky",
+            "name": "Elza z Želečky",
             "father": {
               "clp": "4870",
               "name": "TRAMP FROM LADY'S PLACE",
@@ -431,12 +431,12 @@
           "father": {
             "name": "Yennadon Dynamic Dan",
             "father": {
-              "name": "Dunfion Inverkip",
+              "name": "Dunfionn Inverkip",
               "father": {
                 "name": "Liric The Jolly Swagman"
               },
               "mother": {
-                "name": "Dunfion Gigha"
+                "name": "Dunfionn Gigha"
               }
             },
             "mother": {
@@ -1576,7 +1576,7 @@
               },
               "mother": {
                 "clp": "5073",
-                "name": "Elza z Pohnánských vrchů"
+                "name": "Elza z Pohnanských vrchů"
               }
             }
           }
@@ -1820,7 +1820,7 @@
             "clp": "6429",
             "name": "Ashley Princess Pearl Moravia",
             "father": {
-              "name": "Atrei z Tomanikových vŕškov",
+              "name": "Atrei z Tomanikových vrškov",
               "father": {
                 "clp": "5479",
                 "name": "Grand Bojandolí"
@@ -2581,7 +2581,7 @@
             }
           },
           "mother": {
-            "name": "Courtier´s Catch my Heart",
+            "name": "Courtier's Catch my Heart",
             "father": {
               "name": "Trisetr Ebonie Zeus",
               "father": {

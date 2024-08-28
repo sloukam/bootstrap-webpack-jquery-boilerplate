@@ -308,7 +308,7 @@
           },
           "mother": {
             "clp": "9555",
-            "name": "Ajda z Kollovy školy",
+            "name": "Ajda z Knollovy školy",
             "father": {
               "clp": "9271",
               "name": "Ben z Joskor",
@@ -409,7 +409,7 @@
               "name": "Iran z Cechu",
               "father": {
                 "clp": "8186",
-                "name": "Flik od DÅ™evnickÃ© studÃ¡nky"
+                "name": "Flik od Dřenické studánky"
               },
               "mother": {
                 "clp": "8177",
@@ -437,7 +437,7 @@
               "name": "Hak z Cechu",
               "father": {
                 "clp": "7374",
-                "name": "Am ze ZÃ¡koutÃ­ pasek"
+                "name": "Am ze Zákoutí Pasek"
               },
               "mother": {
                 "clp": "8177",
@@ -446,7 +446,7 @@
             },
             "mother": {
               "clp": "8416",
-              "name": "Ara z LukavskÃ½ch lÃ¡nÅ¯",
+              "name": "Ara z Lukavských lánů",
               "father": {
                 "clp": "7874",
                 "name": "Blesk z Roštejna"
@@ -469,7 +469,7 @@
               "name": "Dart Talmberk",
               "father": {
                 "clp": "7316",
-                "name": "Argo z PolÅˆÃ¡ku"
+                "name": "ARGO Z POLŇÁKU"
               },
               "mother": {
                 "clp": "6804",
@@ -497,7 +497,7 @@
               "name": "Filip z Dolnic",
               "father": {
                 "clp": "8424",
-                "name": "Aron z KoÅ¡Ã¡ku"
+                "name": "ARON Z KOŠÁKU"
               },
               "mother": {
                 "clp": "8469",
@@ -513,7 +513,7 @@
               },
               "mother": {
                 "clp": "7822",
-                "name": "Any od ZbrodskÃ©ho dubu"
+                "name": "Any od Zbradského Dubu"
               }
             }
           }
@@ -1060,7 +1060,7 @@
               },
               "mother": {
                 "clp": "8416",
-                "name": "Ara z Lukavsých lánů"
+                "name": "Ara z Lukavských lánů"
               }
             }
           },
@@ -1098,7 +1098,7 @@
             "name": "Panter Wilczy Raj",
             "father": {
               "clp": "9083",
-              "name": "Archie z Mešínské hájovny",
+              "name": "ARCHIE Z MEŠINSKÉ HÁJOVNY",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -1727,7 +1727,7 @@
               "name": "Karin z Tismenic",
               "father": {
                 "clp": "8164",
-                "name": "Dyk ze ZÃ¡koutÃ­ pasek"
+                "name": "Dyk ze Zákoutí pasek"
               },
               "mother": {
                 "clp": "8422",
@@ -1743,7 +1743,7 @@
               "name": "Max z Cechu",
               "father": {
                 "clp": "8164",
-                "name": "Dyk ze ZÃ¡koutÃ­ pasek"
+                "name": "Dyk ze Zákoutí pasek"
               },
               "mother": {
                 "clp": "8609",
@@ -1867,7 +1867,7 @@
               "name": "Persa Wilczy raj",
               "father": {
                 "clp": "9083",
-                "name": "Archie z Mešínské hájovny"
+                "name": "ARCHIE Z MEŠINSKÉ HÁJOVNY"
               },
               "mother": {
                 "name": "Bona z Kniei nad Browina"
@@ -1883,7 +1883,7 @@
             "name": "Diablo ze Štípek",
             "father": {
               "clp": "9083",
-              "name": "Archie z Mešínské hájovny",
+              "name": "ARCHIE Z MEŠINSKÉ HÁJOVNY",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -1977,7 +1977,7 @@
               }
             },
             "mother": {
-              "name": "Falkengergi Deborah",
+              "name": "Falkenbergi Deborah",
               "father": {
                 "clp": "9253",
                 "name": "GrÃ³f z Dolnic"
@@ -2013,7 +2013,7 @@
         },
         "mother": {
           "clp": "10920",
-          "name": "Amy z Bítyšských baÅ¾in",
+          "name": "Amy z Bítýšských Bažin",
           "father": {
             "clp": "10532",
             "name": "Endy z Hovoran",
@@ -2150,7 +2150,7 @@
         },
         "mother": {
           "clp": "10920",
-          "name": "Amy z Bítyšských BaÅ¾in",
+          "name": "Amy z Bítýšských Bažin",
           "father": {
             "clp": "10532",
             "name": "Endy z Hovoran",
@@ -2979,7 +2979,7 @@
             },
             "mother": {
               "clp": "9644",
-              "name": "Brenda Blahu",
+              "name": "Brenda Blahud",
               "father": {
                 "clp": "8978",
                 "name": "Flak z Vranovského údolí"
@@ -3481,7 +3481,7 @@
             "name": "Diablo ze Štípek",
             "father": {
               "clp": "9083",
-              "name": "Archie z Mešínské hájovny",
+              "name": "ARCHIE Z MEŠINSKÉ HÁJOVNY",
               "father": {
                 "clp": "8691",
                 "name": "Hak z Cechu"
@@ -3706,7 +3706,7 @@
       "name": "GAYA Z HELMU",
       "date_of_birth": "2019-01-09",
       "clp": "11559",
-      "father": "Alvin z Bukovinského vršku",
+      "father": "Alvin z Bukovského Vršku",
       "mother": "Daisy Luční květ",
       "body": {
         "height": "64",
@@ -3729,7 +3729,7 @@
       "name": "Anděla z Černých blat",
       "date_of_birth": "2019-02-05",
       "clp": "11570",
-      "father": "Alvin z Bukovinského vršku",
+      "father": "Alvin z Bukovského Vršku",
       "mother": "Aura z Vlčích hor",
       "body": {
         "height": "58",
@@ -3780,7 +3780,7 @@
                 "name": "Sáregresi Speedy Snowman"
               },
               "mother": {
-                "name": "Bea Aquila Bojsine"
+                "name": "Bea Aquila Bojnise"
               }
             }
           },
@@ -3839,7 +3839,7 @@
               "name": "Diablo ze Štípek",
               "father": {
                 "clp": "9083",
-                "name": "Archie z Mešínské hájovny"
+                "name": "ARCHIE Z MEŠINSKÉ HÁJOVNY"
               },
               "mother": {
                 "name": "Klasa Editor"

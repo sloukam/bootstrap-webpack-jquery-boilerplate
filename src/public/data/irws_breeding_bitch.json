@@ -162,7 +162,7 @@
           "mother": {
             "name": "Swane Du Val Des Mordorees",
             "father": {
-              "name": "Exclusive's Viscount",
+              "name": "Exclusive'' Viscount",
               "father": {
                 "name": "O'Gilli Adam"
               },
@@ -173,7 +173,7 @@
             "mother": {
               "name": "Penelope Du Val Des Mordorees",
               "father": {
-                "name": "Exclusive's Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "name": "O'Gilly Ballynoe"
@@ -588,7 +588,7 @@
                 "name": "Rushfield Smudge"
               },
               "mother": {
-                "name": "Exlusive's Velvet"
+                "name": "Exclusive's Velvet"
               }
             }
           }
@@ -736,7 +736,7 @@
             "mother": {
               "name": "Swane Du Val Des Mordorees",
               "father": {
-                "name": "Exclusive's Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "name": "Du Val Des Mordorees Penelope"
@@ -906,7 +906,7 @@
               "father": {
                 "country": "OHZB",
                 "clp": "34",
-                "name": "Exclusive s Vincenz"
+                "name": "Exclusive's Vincenz"
               },
               "mother": {
                 "country": "ČLP",
@@ -1049,13 +1049,13 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "3052",
-                "name": "Casafelice Charolains"
+                "name": "Casafelice Charollais"
               }
             },
             "mother": {
               "country": "ČR",
               "clp": "219",
-              "name": "Artemis Bohemian Thalset",
+              "name": "ARTEMIS BOHEMIA THALSET",
               "father": {
                 "country": "čr",
                 "clp": "53",
@@ -1084,7 +1084,7 @@
               "father": {
                 "country": "dpsz",
                 "clp": "4",
-                "name": "Cevin Vom Daveneer Moor"
+                "name": "Cevin vom Duvenseer Moor"
               },
               "mother": {
                 "country": "dpsz",
@@ -1095,7 +1095,7 @@
             "mother": {
               "country": "dpsz",
               "clp": "02",
-              "name": "Deargban O 'Faolain",
+              "name": "Deargban O'Faolain",
               "father": {
                 "country": "ikc",
                 "clp": "75032",
@@ -1231,13 +1231,13 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "3052",
-                "name": "Casafelice Charolains"
+                "name": "Casafelice Charollais"
               }
             },
             "mother": {
               "country": "ČR",
               "clp": "219",
-              "name": "Artemis Bohemian Thalset",
+              "name": "ARTEMIS BOHEMIA THALSET",
               "father": {
                 "country": "čr",
                 "clp": "53",
@@ -1266,7 +1266,7 @@
               "father": {
                 "country": "dpsz",
                 "clp": "4",
-                "name": "Cevin Vom Daveneer Moor"
+                "name": "Cevin vom Duvenseer Moor"
               },
               "mother": {
                 "country": "dpsz",
@@ -1277,7 +1277,7 @@
             "mother": {
               "country": "dpsz",
               "clp": "02",
-              "name": "Deargban O 'Faolain",
+              "name": "Deargban O'Faolain",
               "father": {
                 "country": "ikc",
                 "clp": "75032",
@@ -1453,7 +1453,7 @@
               "mother": {
                 "country": "vdh",
                 "clp": "02",
-                "name": "Deargban O´Faolain"
+                "name": "Deargban O'Faolain"
               }
             },
             "mother": {
@@ -1479,7 +1479,7 @@
             "father": {
               "country": "lof",
               "clp": "79",
-              "name": "Fanfan Du Vlofal Des Mordorees",
+              "name": "Fanfan Du Val Des Mordorees",
               "father": {
                 "country": "lof",
                 "clp": "33",

@@ -76,7 +76,7 @@
             "father": {
               "name": "Scirocco's Norton The Red Destiny",
               "father": {
-                "name": "Arcus vom Torksfeld"
+                "name": "ARCUS VOM TORSFELD"
               },
               "mother": {
                 "name": "Scirocco's Fairness"
@@ -723,7 +723,7 @@
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Kokino Arisz"
@@ -825,7 +825,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touch of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "Your Wish of the Hunter's Home"
@@ -959,7 +959,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touch of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "Your Wish of the Hunter's Home"
@@ -1140,7 +1140,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touch of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "Your Wish of the Hunter's Home"
@@ -1262,7 +1262,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touch of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "Your Wish of the Hunter's Home"
@@ -1334,7 +1334,7 @@
             }
           },
           "mother": {
-            "name": "Applegrove Look At Me I´am Natalie",
+            "name": "Applegrove Look At Me I'm Natalie",
             "father": {
               "name": "Grove Creek's Xtreme Quick Blow",
               "father": {
@@ -1509,7 +1509,7 @@
             "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
-              "name": "Dorian Gray Jenny's Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -1611,7 +1611,7 @@
           "name": "Adelaide z Břevnovského vrchu",
           "father": {
             "clp": "14067",
-            "name": "Dorian Gray Jenny's Irsal",
+            "name": "Dorian Grey Jenny's Irsal",
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
@@ -1770,7 +1770,7 @@
             "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
-              "name": "Dorian Gray Jenny's Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -1832,7 +1832,7 @@
             "father": {
               "name": "Scirrocco's Norton The Red Destiny",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Scirocco's fairness"
@@ -1967,7 +1967,7 @@
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Kokino Arisz"
@@ -2375,7 +2375,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touch of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "your Wish of the Hunter's Home"
@@ -2428,7 +2428,7 @@
             "father": {
               "name": "Kris Wonderstar von der Igallfy-Igaly",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Kokino Arisz"
@@ -3255,14 +3255,14 @@
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Kokina Arisz"
               }
             },
             "mother": {
-              "name": "Aja Bezákov dvor",
+              "name": "Ája Bezákov dvor",
               "father": {
                 "clp": "11388",
                 "name": "Jerry z Dubské"
@@ -3533,7 +3533,7 @@
               }
             },
             "mother": {
-              "name": "Applegrove Look At Me I´ m Natalie",
+              "name": "Applegrove Look At Me I'm Natalie",
               "father": {
                 "name": "Grove Creek's Xtreme Quick Blow"
               },
@@ -4735,7 +4735,7 @@
       "name": "BARDOLF KING NONSTOP",
       "date_of_birth": "2007-01-18",
       "clp": "14866",
-      "father": "Dorian Gray Jenny's Irsal",
+      "father": "Dorian Grey Jenny's Irsal",
       "mother": "Irish Destiny Nonstop",
       "body": {
         "HD": "A"
@@ -5885,7 +5885,7 @@
               "clp": "13609",
               "name": "Georgina z Dubanského kopce",
               "father": {
-                "name": "Dunmore of Future´s Dream"
+                "name": "Dunmore of Future's Dream"
               },
               "mother": {
                 "name": "Elis z Dubanského kopce"
@@ -6401,7 +6401,7 @@
               "name": "Baronessa Kitty Nonstop",
               "father": {
                 "clp": "14067",
-                "name": "Dorian Grey Jenny´s Irsal"
+                "name": "Dorian Grey Jenny's Irsal"
               },
               "mother": {
                 "clp": "11000",

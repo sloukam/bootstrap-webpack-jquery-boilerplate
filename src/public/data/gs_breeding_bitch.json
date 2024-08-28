@@ -166,7 +166,7 @@
             },
             "mother": {
               "clp": "5073",
-              "name": "Elza z Pohnánských vrchů",
+              "name": "Elza z Pohnanských vrchů",
               "father": {
                 "clp": "4624",
                 "name": "Bor z Náměště na Hané"
@@ -1067,12 +1067,12 @@
           "father": {
             "name": "Yennadon Dynamic Dan",
             "father": {
-              "name": "Dunfion Inverkip",
+              "name": "Dunfionn Inverkip",
               "father": {
                 "name": "Liric The Jolly Swagman"
               },
               "mother": {
-                "name": "Dunfion Gigha"
+                "name": "Dunfionn Gigha"
               }
             },
             "mother": {
@@ -1460,7 +1460,7 @@
             },
             "mother": {
               "clp": "5350",
-              "name": "Elza z Zelečky",
+              "name": "Elza z Želečky",
               "father": {
                 "name": "Cento Bojandolí"
               },
@@ -2105,7 +2105,7 @@
           "father": {
             "name": "Spring Run and Gilnockie Feast Your Eyes",
             "father": {
-              "name": "Firethorn ans Sandpiper and   Easy on the Eyes",
+              "name": "Firethorn ans Sandpiper and Easy on the Eyes",
               "father": {
                 "name": "Spring Run's Take it Easy "
               },
@@ -2864,7 +2864,7 @@
               },
               "mother": {
                 "clp": "5073",
-                "name": "Elza z Pohnánských vrchů"
+                "name": "Elza z Pohnanských vrchů"
               }
             }
           }
@@ -3128,7 +3128,7 @@
           "mother": {
             "name": "Ashley Princess Pearl Moravia",
             "father": {
-              "name": "Atrei z Tomanikvych vrskov",
+              "name": "Atrei z Tomanikových vrškov",
               "father": {
                 "clp": "5479",
                 "name": "Grand Bojandolí"
@@ -3261,7 +3261,7 @@
             "clp": "6429",
             "name": "Ashley Princess Pearl Moravia",
             "father": {
-              "name": "Atrei z Tomanikových vŕškov",
+              "name": "Atrei z Tomanikových vrškov",
               "father": {
                 "clp": "5479",
                 "name": "Grand Bojandolí"
@@ -3755,7 +3755,7 @@
             "clp": "6429",
             "name": "Ashley Princess Pearl Moravia",
             "father": {
-              "name": "Atrei z Tomanikových vŕškov",
+              "name": "Atrei z Tomanikových vrškov",
               "father": {
                 "clp": "5479",
                 "name": "Grant Bojandolí"
@@ -3825,7 +3825,7 @@
               },
               "mother": {
                 "clp": "5808",
-                "name": "Arwen z Muruprun"
+                "name": "Arwen z Mukuprun"
               }
             }
           }

@@ -246,7 +246,7 @@
           }
         },
         "mother": {
-          "name": "Belanice Artegerd",
+          "name": "Bellanice Artegerd",
           "father": {
             "name": "Casafelice Montadale",
             "father": {
@@ -285,7 +285,7 @@
                 "name": "Rushfield Smudge"
               },
               "mother": {
-                "name": "Exclusive°s Velvet"
+                "name": "Exclusive's Velvet"
               }
             }
           }
@@ -388,7 +388,7 @@
             "mother": {
               "name": "Swane Du Val Des Mordorees",
               "father": {
-                "name": "Exclusive's Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "name": "Du Val Des Mordorees Penelope"
@@ -483,7 +483,7 @@
                 "name": "Craigrua Dylan"
               },
               "mother": {
-                "name": "Dalriah Gone With The Wind"
+                "name": "Dalriach Gone With The Wind"
               }
             },
             "mother": {
@@ -638,7 +638,7 @@
             "mother": {
               "name": "Swane Du Val Des Mordorees",
               "father": {
-                "name": "Exclusive's Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "name": "Du Val Des Mordorees Penelope"
@@ -764,7 +764,7 @@
             "mother": {
               "name": "Swone Du Val Des Mordorees",
               "father": {
-                "name": "Exclusives Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "name": "Du Val Des Mordorees Penelope"
@@ -1309,12 +1309,12 @@
               "father": {
                 "country": "kcsb",
                 "clp": "817675",
-                "name": "Exclusive's Viscount"
+                "name": "Exclusive'' Viscount"
               },
               "mother": {
                 "country": "lof",
                 "clp": "279",
-                "name": "Du Val Des Mordorrees Penelope"
+                "name": "Du Val Des Mordorees Penelope"
               }
             }
           },

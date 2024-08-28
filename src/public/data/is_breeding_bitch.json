@@ -93,7 +93,7 @@
                 "name": "Connemara's Patric"
               },
               "mother": {
-                "name": "O'Reilly's  Nosca"
+                "name": "O'Reilly's Nosca"
               }
             },
             "mother": {
@@ -239,7 +239,7 @@
             "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
-              "name": "Dorian Gray Jenny's Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -343,7 +343,7 @@
           "name": "Adelaide z Břevnovského vrchu",
           "father": {
             "clp": "14067",
-            "name": "Dorian Gray Jenny's Irsal",
+            "name": "Dorian Grey Jenny's Irsal",
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
@@ -473,7 +473,7 @@
           "name": "Adelaide z Břevnovského vrchu",
           "father": {
             "clp": "14067",
-            "name": "Dorian Gray Jenny's Irsal",
+            "name": "Dorian Grey Jenny's Irsal",
             "father": {
               "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
@@ -718,7 +718,7 @@
           },
           "mother": {
             "clp": "13394",
-            "name": "Agra von Klinhab",
+            "name": "Agra Von Kínhab",
             "father": {
               "clp": "11250",
               "name": "Athos z Železných hor",
@@ -1111,7 +1111,7 @@
             "father": {
               "name": "Gin Tonic of the Hunter's Home",
               "father": {
-                "name": "Endless Touche of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "Your Wish of the Hunter's Home"
@@ -1123,7 +1123,7 @@
                 "name": "Vicary's Xgamble"
               },
               "mother": {
-                "name": "Articcastle's Vaileta"
+                "name": "Articcastle's Valleta"
               }
             }
           }
@@ -1317,7 +1317,7 @@
             "name": "Country Melody Jenny's Irsal",
             "father": {
               "clp": "14067",
-              "name": "Dorian Gray Jenny's Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -1391,7 +1391,7 @@
                 "name": "Chandwick Topaz"
               },
               "mother": {
-                "name": "Ally Chocolate Queene Zambi"
+                "name": "Ally Chocolate Queen Zambi"
               }
             }
           },
@@ -1400,7 +1400,7 @@
             "father": {
               "name": "Gin Tonic of The Hunter's Home",
               "father": {
-                "name": "Endless Touche of the Hunter's Home"
+                "name": "Endless Touch of the Hunter§s Home"
               },
               "mother": {
                 "name": "YOUR WISH OF THE HUNTER'S HOME"
@@ -2304,7 +2304,7 @@
             "name": "Adelaide z Břevnovského vrchu",
             "father": {
               "clp": "14067",
-              "name": "Dorian Gray Jenny's Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -2386,7 +2386,7 @@
             "father": {
               "name": "Dunmore of Future's Dream",
               "father": {
-                "name": "Connemara's Patrick"
+                "name": "Connemara's Patric"
               },
               "mother": {
                 "name": "O'Reily's Nosca"
@@ -2511,7 +2511,7 @@
           "father": {
             "name": "Devlin Marcopolo Ateireannmada",
             "father": {
-              "name": "Beaubriar Showtime at Devlin JH",
+              "name": "Beaubriar Showtime at Devlin",
               "father": {
                 "name": "Saxonys Snow in August"
               },
@@ -2520,12 +2520,12 @@
               }
             },
             "mother": {
-              "name": "Devlin´s Savannah",
+              "name": "Devlin'sSavannah",
               "father": {
                 "name": "Meadowlark´s Irish Monarch"
               },
               "mother": {
-                "name": "Devlin´s Jezebel"
+                "name": "Devlin'sJezebel"
               }
             }
           },
@@ -2558,7 +2558,7 @@
             "father": {
               "name": "Zapach Jasminu z Arislandu",
               "father": {
-                "name": "Cardinal Song Quinnever´s"
+                "name": "Cardinal Song Quinniver's"
               },
               "mother": {
                 "name": "Morena Mahagon Moravia"
@@ -2579,7 +2579,7 @@
             "father": {
               "name": "Shandwick Topaz",
               "father": {
-                "name": "Caspain Intrepid"
+                "name": "Caspians Intrepid"
               },
               "mother": {
                 "name": "Whithersdale Crystal Maze at Shandwick"
@@ -3326,7 +3326,7 @@
             "father": {
               "name": "Kris-WonderStar von der Igalffy-Igaly",
               "father": {
-                "name": "Arkus vom Torksfeld"
+                "name": "Arkus vom TORSFELD"
               },
               "mother": {
                 "name": "Kokino Arisz"
@@ -5612,7 +5612,7 @@
         "clp": "17126",
         "father": {
           "clp": "16576",
-          "name": "Flannerry Rick Mahagony Paw",
+          "name": "Flannery Rick Mahagony Paw",
           "father": {
             "name": "Paris Match Thendara",
             "father": {
@@ -6118,10 +6118,10 @@
             },
             "mother": {
               "clp": "14871",
-              "name": "Baronesa Kitty Nonstop",
+              "name": "Baronessa Kitty Nonstop",
               "father": {
                 "clp": "14067",
-                "name": "Dorian Grey Jenny´s Irsal"
+                "name": "Dorian Grey Jenny's Irsal"
               },
               "mother": {
                 "clp": "14022",
@@ -6204,7 +6204,7 @@
                 "name": "Dubliner Tiger Woods"
               },
               "mother": {
-                "name": "Copper´s Magical Bubble"
+                "name": "Copper's Magical Bubble"
               }
             }
           }
@@ -6305,7 +6305,7 @@
           "father": {
             "name": "Gwendariff Unknown Soldier",
             "father": {
-              "name": "Copper´s Magiska Under",
+              "name": "Copper's Magiska Under",
               "father": {
                 "name": "xxx"
               },
@@ -6438,7 +6438,7 @@
             "name": "Benjamin Bingo Nonstop",
             "father": {
               "clp": "14067",
-              "name": "Dorian Grey Jenny´s Irsal",
+              "name": "Dorian Grey Jenny's Irsal",
               "father": {
                 "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
@@ -6505,10 +6505,10 @@
             },
             "mother": {
               "clp": "14401",
-              "name": "Country Melody Jenny´s Irsal",
+              "name": "Country Melody Jenny's Irsal",
               "father": {
                 "clp": "14067",
-                "name": "Dorian Grey Jenny´s Irsal"
+                "name": "Dorian Grey Jenny's Irsal"
               },
               "mother": {
                 "clp": "12831",
@@ -6577,7 +6577,7 @@
         "clp": "17322",
         "father": {
           "clp": "16661",
-          "name": "Aaron Arno Redweeed",
+          "name": "Aaron Arno Redweed",
           "father": {
             "name": "Riverwood Pleased as Punch",
             "father": {
@@ -6657,7 +6657,7 @@
             "father": {
               "name": "Neiven Amor´s Arrow",
               "father": {
-                "name": "Centre  Point Zambi"
+                "name": "Centre Point Zambi"
               },
               "mother": {
                 "name": "Hawana Rude Ziólko"
@@ -6722,12 +6722,12 @@
           "father": {
             "name": "Fairhaven Zenith El Primero",
             "father": {
-              "name": "Applegrove I am The Dragon´s Aid",
+              "name": "Applegrove I am The Dragon's Aid",
               "father": {
                 "name": "Setterlands Tamburello At Pendoric"
               },
               "mother": {
-                "name": "Applegrove Look At Me I´am Natalie"
+                "name": "Applegrove Look At Me I'm Natalie"
               }
             },
             "mother": {
@@ -6773,7 +6773,7 @@
                 "name": "Beaubriar Showtime At Devlin"
               },
               "mother": {
-                "name": "Devlin´s Savannah"
+                "name": "Devlin'sSavannah"
               }
             },
             "mother": {
