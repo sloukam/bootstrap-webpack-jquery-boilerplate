@@ -2229,142 +2229,6 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
-      "name": "AURA Z VLČÍCH HOR",
-      "date_of_birth": "2016-06-06",
-      "clp": "11294",
-      "father": "JOJO ALADEMMA",
-      "mother": "CITA Z ŽEHUNSKÉ KOVÁRNY",
-      "pedigree": {
-        "father": {
-          "name": "JojÃ³ Alademma",
-          "father": {
-            "name": "Nobel of Hunter's Arrow",
-            "father": {
-              "name": "Asso",
-              "father": {
-                "name": "Hardy du Bois des Perches"
-              },
-              "mother": {
-                "name": "Dolly"
-              }
-            },
-            "mother": {
-              "name": "Atena of Hunter's Arrow",
-              "father": {
-                "name": "Ducati del Biondo"
-              },
-              "mother": {
-                "name": "Etna"
-              }
-            }
-          },
-          "mother": {
-            "name": "Pawprint Celebration",
-            "father": {
-              "name": "Sáregresi Unicum",
-              "father": {
-                "name": "Sáregresi Imperiál"
-              },
-              "mother": {
-                "name": "Sáregresi Pretty Promise"
-              }
-            },
-            "mother": {
-              "name": "Sáregresi Snowy Victory",
-              "father": {
-                "name": "Sáregresi Onset"
-              },
-              "mother": {
-                "name": "Caroline of Zamunda"
-              }
-            }
-          }
-        },
-        "mother": {
-          "clp": "10892",
-          "name": "Cita z Žehuňské kovárny",
-          "father": {
-            "clp": "9541",
-            "name": "Dak z Ouhelí",
-            "father": {
-              "clp": "9050",
-              "name": "Tor z Kunštátských lesů",
-              "father": {
-                "clp": "8691",
-                "name": "Hak z Cechu"
-              },
-              "mother": {
-                "clp": "8688",
-                "name": "Moly z Kunštátských lesů"
-              }
-            },
-            "mother": {
-              "clp": "9034",
-              "name": "Fina od Průši",
-              "father": {
-                "clp": "8186",
-                "name": "Flik od Dřenické studánky"
-              },
-              "mother": {
-                "clp": "8176",
-                "name": "Dája z Cechu"
-              }
-            }
-          },
-          "mother": {
-            "clp": "10308",
-            "name": "Bigi z Žehuňské kovárny",
-            "father": {
-              "clp": "9353",
-              "name": "Char z BeÅˆovské skály",
-              "father": {
-                "clp": "8534",
-                "name": "Argo z Kryštofova dvora"
-              },
-              "mother": {
-                "clp": "9070",
-                "name": "Zona z Fančali"
-              }
-            },
-            "mother": {
-              "clp": "9539",
-              "name": "Gloris z Mešinské Hájovny",
-              "father": {
-                "clp": "9271",
-                "name": "Ben z Joskor"
-              },
-              "mother": {
-                "clp": "9084",
-                "name": "Aris z Mešinské Hájovny"
-              }
-            }
-          }
-        }
-      },
-      "body": {
-        "height": "61",
-        "color": "žlutobílá",
-        "HD": "A"
-      },
-      "shows": "V",
-      "exams": "ZV I.c, PZ I.c",
-      "owner": {
-        "first_name": "Jan",
-        "last_name": "Grygar",
-        "address": {
-          "street": "Věrovany",
-          "number": "68",
-          "city": "Věrovany",
-          "post_code": "78375"
-        },
-        "phone": "+420 737 766 134",
-        "email": "hogr1@seznam.cz"
-      }
-    },
-    {
-      "breed": "POI",
-      "sex": "female",
       "visible": false,
       "name": "HOLLY Z KARCZEWSKIEJ ZAGRODY",
       "date_of_birth": "2016-01-25",
@@ -2521,6 +2385,35 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
+      "name": "JORIKA BLAHUD",
+      "date_of_birth": "2016-01-14",
+      "clp": "11262",
+      "father": "Artex Cabalia",
+      "mother": "Bonnie Zadní lesy",
+      "body": {
+        "height": "58",
+        "color": "bíločerná",
+        "HD": "B"
+      },
+      "shows": "V1, VT, KV",
+      "exams": "ZV I.c",
+      "owner": {
+        "first_name": "Zdeněk",
+        "last_name": "Valenta",
+        "address": {
+          "street": "Vkoš",
+          "number": "229",
+          "city": "Vkoš",
+          "post_code": "69641"
+        },
+        "phone": "+420 725 464 857"
+      },
+      "img_ext": "jfif"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
       "name": "CITRA OD HLUBOKÉHO ÚVOZU",
       "date_of_birth": "2016-04-24",
       "clp": "11277",
@@ -2660,6 +2553,142 @@
       },
       "other": "CHS Z Večeřova dvora",
       "img_ext": "jpg"
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "visible": true,
+      "name": "AURA Z VLČÍCH HOR",
+      "date_of_birth": "2016-06-06",
+      "clp": "11294",
+      "father": "JOJO ALADEMMA",
+      "mother": "CITA Z ŽEHUNSKÉ KOVÁRNY",
+      "pedigree": {
+        "father": {
+          "name": "JojÃ³ Alademma",
+          "father": {
+            "name": "Nobel of Hunter's Arrow",
+            "father": {
+              "name": "Asso",
+              "father": {
+                "name": "Hardy du Bois des Perches"
+              },
+              "mother": {
+                "name": "Dolly"
+              }
+            },
+            "mother": {
+              "name": "Atena of Hunter's Arrow",
+              "father": {
+                "name": "Ducati del Biondo"
+              },
+              "mother": {
+                "name": "Etna"
+              }
+            }
+          },
+          "mother": {
+            "name": "Pawprint Celebration",
+            "father": {
+              "name": "Sáregresi Unicum",
+              "father": {
+                "name": "Sáregresi Imperiál"
+              },
+              "mother": {
+                "name": "Sáregresi Pretty Promise"
+              }
+            },
+            "mother": {
+              "name": "Sáregresi Snowy Victory",
+              "father": {
+                "name": "Sáregresi Onset"
+              },
+              "mother": {
+                "name": "Caroline of Zamunda"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "10892",
+          "name": "Cita z Žehuňské kovárny",
+          "father": {
+            "clp": "9541",
+            "name": "Dak z Ouhelí",
+            "father": {
+              "clp": "9050",
+              "name": "Tor z Kunštátských lesů",
+              "father": {
+                "clp": "8691",
+                "name": "Hak z Cechu"
+              },
+              "mother": {
+                "clp": "8688",
+                "name": "Moly z Kunštátských lesů"
+              }
+            },
+            "mother": {
+              "clp": "9034",
+              "name": "Fina od Průši",
+              "father": {
+                "clp": "8186",
+                "name": "Flik od Dřenické studánky"
+              },
+              "mother": {
+                "clp": "8176",
+                "name": "Dája z Cechu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "10308",
+            "name": "Bigi z Žehuňské kovárny",
+            "father": {
+              "clp": "9353",
+              "name": "Char z BeÅˆovské skály",
+              "father": {
+                "clp": "8534",
+                "name": "Argo z Kryštofova dvora"
+              },
+              "mother": {
+                "clp": "9070",
+                "name": "Zona z Fančali"
+              }
+            },
+            "mother": {
+              "clp": "9539",
+              "name": "Gloris z Mešinské Hájovny",
+              "father": {
+                "clp": "9271",
+                "name": "Ben z Joskor"
+              },
+              "mother": {
+                "clp": "9084",
+                "name": "Aris z Mešinské Hájovny"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "žlutobílá",
+        "HD": "A"
+      },
+      "shows": "V",
+      "exams": "ZV I.c, PZ I.c",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Grygar",
+        "address": {
+          "street": "Věrovany",
+          "number": "68",
+          "city": "Věrovany",
+          "post_code": "78375"
+        },
+        "phone": "+420 737 766 134",
+        "email": "hogr1@seznam.cz"
+      }
     },
     {
       "breed": "POI",
@@ -3123,35 +3152,6 @@
         "email": "zuzana.nycova@seznam.cz"
       },
       "img_ext": "jpg"
-    },
-    {
-      "breed": "POI",
-      "sex": "female",
-      "visible": true,
-      "name": "JORIKA BLAHUD",
-      "date_of_birth": "2016-01-14",
-      "clp": "11262",
-      "father": "Artex Cabalia",
-      "mother": "Bonnie Zadní lesy",
-      "body": {
-        "height": "58",
-        "color": "bíločerná",
-        "HD": "B"
-      },
-      "shows": "V1, VT, KV",
-      "exams": "ZV I.c",
-      "owner": {
-        "first_name": "Zdeněk",
-        "last_name": "Valenta",
-        "address": {
-          "street": "Vkoš",
-          "number": "229",
-          "city": "Vkoš",
-          "post_code": "69641"
-        },
-        "phone": "+420 725 464 857"
-      },
-      "img_ext": "jfif"
     },
     {
       "breed": "POI",
