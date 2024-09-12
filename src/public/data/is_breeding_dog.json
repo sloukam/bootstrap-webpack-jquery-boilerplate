@@ -1801,14 +1801,20 @@
       "shows": "CAC",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
-        "title": "Ondřej Novosad",
-        "first_name": "Naďa Ingrová",
+        "title": "",
+        "first_name": "Naďa",
+        "last_name": "Ingrová",
         "address": {
           "street": "Řebříčkova",
           "number": "130",
           "city": "Květnice",
           "post_code": "25084"
         }
+      },
+      "co-owner": {
+        "title": "",
+        "first_name": "Ondřej",
+        "last_name": "Novosad"
       },
       "img_ext": "jpg"
     },
