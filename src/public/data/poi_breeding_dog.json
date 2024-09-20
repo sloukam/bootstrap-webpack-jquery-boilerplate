@@ -1519,7 +1519,7 @@
       "sex": "male",
       "datum_uchovneni": "2022-04-07",
       "visible": true,
-      "name": "Alfréd z Blanských luk",
+      "name": "ALFRÉD Z BLANSKÝCH LUK",
       "date_of_birth": "2020-08-01",
       "clp": "11740",
       "father": "Ardy del WinePoint",
@@ -1640,11 +1640,8 @@
         "email": "Srnec.Franta@seznam.c"
       }
     },
-
-
-
-
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
       "datum_uchovneni": "2022-11-10",
@@ -1677,6 +1674,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
       "datum_uchovneni": "2024-09-02",
@@ -1709,11 +1707,12 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
       "datum_uchovneni": "2024-09-02",
       "visible": true,
-      "name": "Houdini ze Zaječích polí",
+      "name": "HOUDINI ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2023-02-17",
       "clp": "12099",
       "father": "Ampio del Winepoint",
@@ -1739,11 +1738,12 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
       "datum_uchovneni": "2024-09-02",
       "visible": true,
-      "name": "Honey ze Zaječích polí",
+      "name": "HONEY ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2023-02-17",
       "clp": "12101",
       "father": "Ampio del Winepoint",

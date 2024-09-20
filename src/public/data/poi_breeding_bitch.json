@@ -3886,7 +3886,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": false,
-      "name": "Baileys ze Zaječích polí",
+      "name": "BAILEYS ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
       "datum_vyrazeni": "2022-09-19",
       "clp": "11616",
@@ -4164,6 +4164,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "female",
       "datum_uchovneni": "2024-09-02",
