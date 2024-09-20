@@ -3984,6 +3984,141 @@
     {
       "breed": "GS",
       "sex": "female",
+      "datum_uchovneni": "2024-06-22",
+      "visible": true,
+      "name": "Ayra Dorcanell",
+      "date_of_birth": "2022-04-24",
+      "clp": "7140",
+      "father": "Forester´s Xactly my boy of Darkmoor",
+      "mother": "Revolution Breeze Smashing Pumpkin",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "7140",
+        "father": {
+          "name": "Forester´s Xactly my boy of Darkmoor",
+          "father": {
+            "name": "Earth Fire from Fire´Sons Garden",
+            "father": {
+              "name": "Boyers Shillow",
+              "father": {
+                "name": "Liric The Jolly Swagman"
+              },
+              "mother": {
+                "name": "Boyers Shuttle"
+              }
+            },
+            "mother": {
+              "name": "Benagin Going Places",
+              "father": {
+                "name": "Yennadon Prime Time"
+              },
+              "mother": {
+                "name": "Benagin Killbride Bay"
+              }
+            }
+          },
+          "mother": {
+            "name": "Courtier´s Charming Sweet Angel",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "father": {
+                "name": "Warchant Twilight Bolero"
+              },
+              "mother": {
+                "name": "Forester´s Xinia of Darkmoor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Revolution Breeze Smashing Pumpkin",
+          "father": {
+            "name": "Silent North Eye Con ",
+            "father": {
+              "name": "Spring Run and Glinockie Feast Your Eyes Jh",
+              "father": {
+                "name": "Firethorn and Sandpiper Easy On The Eyes"
+              },
+              "mother": {
+                "name": "Valley Viev´s Xmas Cookie"
+              }
+            },
+            "mother": {
+              "name": "Showpoint Do It Again",
+              "father": {
+                "name": "Raggededge Red Label"
+              },
+              "mother": {
+                "name": "Kingpoint Celebrity"
+              }
+            }
+          },
+          "mother": {
+            "name": "Yukki Hill To Kiss And To Hug",
+            "father": {
+              "name": "Yukki Hill Wizard Of Gordon Castle",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Yukki Hill Snow Queen"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill My Fair Lady",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Showpoint Be Pop A Lula"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "OCD clear"
+      },
+      "championships": "Slovenský junior šampion, Český junior šampion, Český šamipon, Polský šampion",
+      "shows": "výborná, CAJC, CACIB-J, BOS, CAC, NV, CACIB, res.CACIB, BOB, ",
+      "exams": "T.A.N., ZV I.c.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Klára",
+        "last_name": "Horáková",
+        "address": {
+          "street": "Havlíčkova",
+          "number": "255",
+          "city": "Rájec-Jestřebí",
+          "post_code": "67902"
+        },
+        "phone": "721957394",
+        "email": "KlaraHora@seznam.cz",
+        "web": "http://www.dorcanell.com"
+      },
+      "co-owner": {
+        "first_name": "Jan",
+        "last_name": "Štrof"
+      }
+    },
+    {
+      "breed": "GS",
+      "sex": "female",
       "datum_uchovneni": "2023-09-09",
       "visible": true,
       "name": "Ceridwen Silesia Setter",
