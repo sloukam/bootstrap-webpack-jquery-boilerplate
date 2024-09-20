@@ -2545,6 +2545,140 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
+      "breed": "GS",
+      "sex": "male",
+      "datum_uchovneni": "2024-08-30",
+      "visible": true,
+      "name": "Cerberus Silesia Setter",
+      "date_of_birth": "2022-05-21",
+      "clp": "7148",
+      "father": "Forester´s Devils Answer of Darkmoor",
+      "mother": "Freya z Holubické stráně",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "male",
+        "clp": "7148",
+        "father": {
+          "name": "Forester´s Answer of Darkmoor",
+          "father": {
+            "name": "Laurelhach Encrypt",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Laurelhach Legacy",
+              "father": {
+                "name": "Laurelhach Moviestar"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Zena With Laurelhach"
+              }
+            }
+          },
+          "mother": {
+            "name": "Courtier´s Catch my Heart",
+            "father": {
+              "name": "Triseter Ebonie Zeus",
+              "father": {
+                "name": "Brodruggan Black Knight"
+              },
+              "mother": {
+                "name": "Triseter Ebonie Page"
+              }
+            },
+            "mother": {
+              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "father": {
+                "name": "Warchant Twilight Bolero"
+              },
+              "mother": {
+                "name": "Forester´s Xinia of Darkmoor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "6956",
+          "name": "Freay z Holubické stráně",
+          "father": {
+            "name": "Sherwin´s Handsome Guy",
+            "father": {
+              "name": "Yukki Hill Walk of Fame to Fairray",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Yukki Hill Snow Queen"
+              }
+            },
+            "mother": {
+              "name": "Sherwin´s Camee",
+              "father": {
+                "name": "Liric None So Special"
+              },
+              "mother": {
+                "name": "Tarock´s Romy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6608",
+            "name": "Caren z Holubické stráně",
+            "father": {
+              "name": "Lamborghini Black Ivy",
+              "father": {
+                "name": "Triseter Celtic Link With Laurelhach"
+              },
+              "mother": {
+                "name": "Yukki Hill Shadow Of The Moon"
+              }
+            },
+            "mother": {
+              "clp": "6292",
+              "name": "Zira z Holubické stráně",
+              "father": {
+                "name": "Sangerfild Earldom"
+              },
+              "mother": {
+                "clp": "5778",
+                "name": "Quina z Holubické stráně"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "67",
+        "color": "černá s pálením",
+        "HD": "A",
+        "rcd4": "clear"
+      },
+      "championships": "C.I.B.-J,  JCH PL, JCH CZ",
+      "shows": "BIS Baby Jubilejní vítěz dorostu 2022, CAJC, CACIB-J, res. CAC, CAC, Národní Vítěz, res. CACIB, CACIB, BOJ,  BOS, BOB, Grand Prix Slovakia Winner 2024",
+      "exams": "ZV I.c.",
+      "owner": {
+        "first_name": "Petr ",
+        "last_name": "Malohlava",
+        "address": {
+          "street": "Skřipov",
+          "number": "3",
+          "city": "Skřipov",
+          "post_code": "74745"
+        },
+        "phone": "724296737",
+        "email": "petr.kleinkopf@seznam.cz",
+        "web": "https://silesiasetter.weebly.com/"
+      },
+      "other": "uchovněn na vyjimku"
+    },
+    {
       "breed": "GS",
       "sex": "male",
       "datum_uchovneni": "2023-12-20",
