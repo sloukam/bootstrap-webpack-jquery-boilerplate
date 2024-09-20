@@ -3629,7 +3629,7 @@
       "shows": "res. CACIB, CAJC, CAC",
       "exams": "ZV I.cena, PZ I.cena, VP I.cena",
       "owner": {
-        "first_name": "Jaromír ",
+        "first_name": "Jaromír",
         "last_name": "Coufal",
         "address": {
           "street": "Chořelice",
@@ -4216,7 +4216,7 @@
         "first_name": "Veronika",
         "last_name": "Šmídová",
         "address": {
-          "street": "Václavské náměstí ",
+          "street": "Václavské náměstí",
           "number": "39/821",
           "city": "Praha 1",
           "post_code": "11000"
@@ -4727,7 +4727,7 @@
         "first_name": "Michal",
         "last_name": "Krátký",
         "address": {
-          "street": "Kroftova ",
+          "street": "Kroftova",
           "number": "24",
           "city": "Brno",
           "post_code": "61600"
@@ -5004,7 +5004,7 @@
           "father": {
             "name": "Garden Star's Red Bull",
             "father": {
-              "name": "Sumaric Shadow of Mr. Jingles ",
+              "name": "Sumaric Shadow of Mr. Jingles",
               "father": {
                 "name": "Thendara Don Corleone"
               },
@@ -5060,7 +5060,7 @@
         "first_name": "Lucie",
         "last_name": "Plašťáková",
         "address": {
-          "street": "U Jana ",
+          "street": "U Jana",
           "number": "323",
           "city": "Ostrava",
           "post_code": "72529"
@@ -5581,7 +5581,7 @@
         "first_name": "Simona",
         "last_name": "Lengál",
         "address": {
-          "street": "Masarykovo náměstí ",
+          "street": "Masarykovo náměstí",
           "number": "12",
           "city": "Hodonín",
           "post_code": "69501"
@@ -5689,7 +5689,7 @@
               }
             },
             "mother": {
-              "name": "Garden Star's Irish Utopia ",
+              "name": "Garden Star's Irish Utopia",
               "father": {
                 "name": "Garden Star's Gentleman"
               },
@@ -5711,8 +5711,8 @@
         "first_name": "Veronika",
         "last_name": "Štěchovská",
         "address": {
-          "street": "Vidoulská ",
-          "number": "3 ",
+          "street": "Vidoulská",
+          "number": "3",
           "city": "Praha",
           "post_code": "15800"
         },
@@ -5848,7 +5848,7 @@
       "shows": "CAC",
       "exams": "ZV I,cena, PZ I.cena. VP I.cena",
       "owner": {
-        "first_name": "Jaroslav ",
+        "first_name": "Jaroslav",
         "last_name": "Mádr",
         "address": {
           "number": "102",
@@ -5993,7 +5993,7 @@
       "exams": "ZV I.cena, PZ I.cena, VP I.cena",
       "owner": {
         "title": "Ing.",
-        "first_name": "Jiří ",
+        "first_name": "Jiří",
         "last_name": "Mižďoch",
         "address": {
           "number": "851",
@@ -6429,7 +6429,7 @@
         "first_name": "Martin",
         "last_name": "Krečmer",
         "address": {
-          "street": "Bernerova ",
+          "street": "Bernerova",
           "number": "1806/6",
           "city": "Ostrava",
           "post_code": "71000"

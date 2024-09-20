@@ -1713,8 +1713,8 @@
         "color": "černá s pálením",
         "HD": "A"
       },
-      "championships": "Slovenský šampion štěňat, JCH SK, Chorvatský JCH, CH SK, CH ČR, CH Makedonie, Grand CH Makedonie, CH Bosny a Hercegoviny, Grand CH Bosny a Hercegoviny, CH HU,  C.I.E., C.I.B.",
-      "shows": "Výborný, CAC, CACIB, BOB, ",
+      "championships": "Slovenský šampion štěňat, JCH SK, Chorvatský JCH, CH SK, CH ČR, CH Makedonie, Grand CH Makedonie, CH Bosny a Hercegoviny, Grand CH Bosny a Hercegoviny, CH HU, C.I.E., C.I.B.",
+      "shows": "Výborný, CAC, CACIB, BOB,",
       "exams": "KLubové ZV I.c. CACT",
       "owner": {
         "first_name": "Iveta",
@@ -1988,7 +1988,7 @@
         "first_name": "Veronika",
         "last_name": "Piskačová",
         "address": {
-          "street": "Lažany ",
+          "street": "Lažany",
           "number": "96",
           "post_code": "67922"
         },
@@ -2115,7 +2115,7 @@
       "shows": "CAJC, CAC, res.CACIB, CACIB, BOJ, BOS, BOB",
       "exams": "ZV I.c.",
       "owner": {
-        "first_name": "Romana ",
+        "first_name": "Romana",
         "last_name": "Rychlá",
         "address": {
           "street": "Pražská",
@@ -2261,7 +2261,7 @@
       "shows": "velmi dobrý, výborný 2",
       "exams": "ZV I.c., PZ I.cena",
       "owner": {
-        "first_name": "Helena ",
+        "first_name": "Helena",
         "last_name": "Krejczy Andrejovská",
         "address": {
           "street": "Kuldova",
@@ -2387,10 +2387,10 @@
       "shows": "výborný 1, V2 res.CAC",
       "exams": "ZV I.c., PZ ll.c",
       "owner": {
-        "first_name": "Radislav a Jitka ",
+        "first_name": "Radislav a Jitka",
         "last_name": "Nemetovi",
         "address": {
-          "street": "Komenského ",
+          "street": "Komenského",
           "number": "33",
           "city": "Šternberk",
           "post_code": "78501"
@@ -2535,7 +2535,7 @@
         "first_name": "Zdeněk",
         "last_name": "Němec",
         "address": {
-          "street": "Újezd ",
+          "street": "Újezd",
           "number": "956/8",
           "city": "Podivín",
           "post_code": "69145"
@@ -2660,11 +2660,11 @@
         "HD": "A",
         "rcd4": "clear"
       },
-      "championships": "C.I.B.-J,  JCH PL, JCH CZ",
-      "shows": "BIS Baby Jubilejní vítěz dorostu 2022, CAJC, CACIB-J, res. CAC, CAC, Národní Vítěz, res. CACIB, CACIB, BOJ,  BOS, BOB, Grand Prix Slovakia Winner 2024",
+      "championships": "C.I.B.-J, JCH PL, JCH CZ",
+      "shows": "BIS Baby Jubilejní vítěz dorostu 2022, CAJC, CACIB-J, res. CAC, CAC, Národní Vítěz, res. CACIB, CACIB, BOJ, BOS, BOB, Grand Prix Slovakia Winner 2024",
       "exams": "ZV I.c.",
       "owner": {
-        "first_name": "Petr ",
+        "first_name": "Petr",
         "last_name": "Malohlava",
         "address": {
           "street": "Skřipov",

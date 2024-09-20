@@ -1419,7 +1419,7 @@
         },
         "mother": {
           "clp": "14952",
-          "name": "Rita z Dubské ",
+          "name": "Rita z Dubské",
           "father": {
             "clp": "13566",
             "name": "Blesk z Bučovských hájů",
@@ -2604,7 +2604,7 @@
         "first_name": "Simona",
         "last_name": "Pekárková",
         "address": {
-          "street": "Na Výsluní ",
+          "street": "Na Výsluní",
           "number": "1162/13",
           "city": "Rudná u Prahy",
           "post_code": "25219"
@@ -3148,7 +3148,7 @@
       "shows": "V, CAC, CACIB",
       "exams": "ZV I.cena",
       "owner": {
-        "title": "Ing. ",
+        "title": "Ing.",
         "first_name": "Aleš",
         "last_name": "Borek",
         "address": {
@@ -3443,7 +3443,7 @@
       "name": "FAYLINN ELLIE MAHAGONY PAW",
       "date_of_birth": "2018-05-11",
       "clp": "16579",
-      "father": "Paris Match Thendara ",
+      "father": "Paris Match Thendara",
       "mother": "Electra Ruby Mahagony Paw",
       "pedigree": {
         "breed": "IS",
@@ -3556,11 +3556,11 @@
       "shows": "CAJC, BOJ, CAC, BOS, res. CACIB",
       "exams": "výjimka",
       "owner": {
-        "title": "Ing. ",
+        "title": "Ing.",
         "first_name": "Ludvík",
         "last_name": "Šafránek",
         "address": {
-          "street": "Soběslavská ",
+          "street": "Soběslavská",
           "number": "2257/35",
           "city": "Praha 3",
           "post_code": "13000"
@@ -3705,7 +3705,7 @@
       "date_of_birth": "2018-05-11",
       "datum_uchovneni": "2022-06-04",
       "clp": "16582",
-      "father": "Paris Match Thendara ",
+      "father": "Paris Match Thendara",
       "mother": "Electra Ruby Mahagony Paw",
       "pedigree": {
         "breed": "IS",
@@ -3819,7 +3819,7 @@
       "shows": "CAJC, BOJ, CAC, NV, BOS, BOB",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
-        "first_name": "Šárka ",
+        "first_name": "Šárka",
         "last_name": "Gašparová",
         "address": {
           "street": "Brandlova",
@@ -4152,7 +4152,7 @@
           "father": {
             "name": "Garden Star's Red Bull",
             "father": {
-              "name": "Sumaric Shadow of Mr. Jingles ",
+              "name": "Sumaric Shadow of Mr. Jingles",
               "father": {
                 "name": "Thendara Don Corleone"
               },
@@ -4283,7 +4283,7 @@
           "father": {
             "name": "Garden Star's Red Bull",
             "father": {
-              "name": "Sumaric Shadow of Mr. Jingles ",
+              "name": "Sumaric Shadow of Mr. Jingles",
               "father": {
                 "name": "Thendara Don Corleone"
               },
@@ -4414,7 +4414,7 @@
           "father": {
             "name": "Garden Star's Red Bull",
             "father": {
-              "name": "Sumaric Shadow of Mr. Jingles ",
+              "name": "Sumaric Shadow of Mr. Jingles",
               "father": {
                 "name": "Thendara Don Corleone"
               },
@@ -4468,8 +4468,8 @@
       "shows": "V",
       "exams": "ZV II.cena",
       "owner": {
-        "title": "Ing. ",
-        "first_name": "Antonín ",
+        "title": "Ing.",
+        "first_name": "Antonín",
         "last_name": "Halla",
         "address": {
           "street": "Novinky",
@@ -4620,11 +4620,11 @@
       "shows": "V",
       "exams": "ZV I.cena",
       "owner": {
-        "title": "Ing. ",
+        "title": "Ing.",
         "first_name": "Martina",
         "last_name": "Krchňáková",
         "address": {
-          "street": "Vendryně ",
+          "street": "Vendryně",
           "number": "1173",
           "city": "Vendryně",
           "post_code": "73994"
@@ -4761,7 +4761,7 @@
         "first_name": "Josef",
         "last_name": "Mazůrek",
         "address": {
-          "street": "Starovičky ",
+          "street": "Starovičky",
           "number": "63",
           "city": "Starovičky",
           "post_code": "69168"
@@ -4863,7 +4863,7 @@
               }
             },
             "mother": {
-              "name": "Garden Star's Irish Utopia ",
+              "name": "Garden Star's Irish Utopia",
               "father": {
                 "name": "Garden Star's Gentleman"
               },
@@ -4886,7 +4886,7 @@
         "first_name": "Veronika",
         "last_name": "Štěchovská",
         "address": {
-          "street": "Vidoulská ",
+          "street": "Vidoulská",
           "number": "3",
           "city": "Praha",
           "post_code": "15800"
@@ -5164,10 +5164,10 @@
       "exams": "KPZ I.cena",
       "owner": {
         "title": "Ing.",
-        "first_name": "Aleš ",
+        "first_name": "Aleš",
         "last_name": "Pernica",
         "address": {
-          "street": "Plotky ",
+          "street": "Plotky",
           "number": "52",
           "city": "Doubravice nad Svitavou",
           "post_code": "67911"
@@ -5314,7 +5314,7 @@
       "shows": "velmi dobrá",
       "exams": "ZV I.cena, PZ I.cena",
       "owner": {
-        "first_name": "Leona ",
+        "first_name": "Leona",
         "last_name": "Jurásková",
         "address": {
           "street": "Mírová",
@@ -5722,7 +5722,7 @@
         "other": "PRA rcd1 clear, CLAD N/N"
       },
       "championships": "CH ČR",
-      "shows": "r.CAC, CAC, r.CACIB, CACIB ",
+      "shows": "r.CAC, CAC, r.CACIB, CACIB",
       "exams": "ZV I.cena",
       "owner": {
         "title": "Ing.",
@@ -5864,7 +5864,7 @@
         "first_name": "Romana",
         "last_name": "Kšírová",
         "address": {
-          "street": "Za Hřbitovem ",
+          "street": "Za Hřbitovem",
           "number": "14",
           "city": "Praha 10",
           "post_code": "10700"
@@ -6139,11 +6139,11 @@
       "shows": "V, krajský vítěz",
       "exams": "ZV I.cena, PZ I.cena, ZVP II.cena",
       "owner": {
-        "title": "Mgr. ",
+        "title": "Mgr.",
         "first_name": "Marcela",
         "last_name": "Steblová",
         "address": {
-          "street": "Prostřední Bludovice ",
+          "street": "Prostřední Bludovice",
           "number": "674",
           "city": "Horní Bludovice",
           "post_code": "73937"
@@ -6273,7 +6273,7 @@
       "shows": "V, Krajský vítěz",
       "exams": "ZV I.cena",
       "owner": {
-        "first_name": "Filip ",
+        "first_name": "Filip",
         "last_name": "Zeman",
         "address": {
           "street": "Zahradní",
@@ -6552,7 +6552,7 @@
         "first_name": "David",
         "last_name": "Rachůnek",
         "address": {
-          "street": "Bánov ",
+          "street": "Bánov",
           "number": "736",
           "city": "Bánov",
           "post_code": "68754"
@@ -6689,7 +6689,7 @@
       "shows": "CAJC, BOJ, CAC, res.CACIB, CACIB, BOS",
       "exams": "ZV I.cena",
       "owner": {
-        "first_name": "Miroslava ",
+        "first_name": "Miroslava",
         "last_name": "Němcová",
         "address": {
           "street": "Heroltovice",
@@ -6821,7 +6821,7 @@
         "first_name": "Hana",
         "last_name": "Dvořáková",
         "address": {
-          "street": "Ohrobecké údolí ",
+          "street": "Ohrobecké údolí",
           "number": "8e",
           "city": "OHROBEC",
           "post_code": "25246"

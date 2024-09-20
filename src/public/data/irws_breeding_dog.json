@@ -910,7 +910,7 @@
         "mother": {
           "country": "sPKP",
           "clp": "32",
-          "name": "Redmore Debbie ",
+          "name": "Redmore Debbie",
           "father": {
             "country": "OHZB",
             "clp": "166",
@@ -1158,7 +1158,7 @@
               "clp": "1837",
               "name": "Abi Shadow Dog",
               "father": {
-                "country": "pkr ",
+                "country": "pkr",
                 "clp": "46329",
                 "name": "Dalriach Rolling Stone"
               },
@@ -1367,7 +1367,7 @@
         "first_name": "Eva",
         "last_name": "Lepařová",
         "address": {
-          "street": "Pod Skalkou ",
+          "street": "Pod Skalkou",
           "number": "69/10",
           "city": "Přerov -Předmostí",
           "post_code": "75124"
