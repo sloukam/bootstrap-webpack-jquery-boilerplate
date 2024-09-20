@@ -3904,9 +3904,9 @@
         "first_name": "Zlata",
         "last_name": "Zajícová",
         "address": {
-          "street": " Dobromilice",
+          "street": "Dobromilice",
           "number": "258",
-          "city": " Dobromilice",
+          "city": "Dobromilice",
           "post_code": "79825"
         },
         "phone": "+420 608 964 289",
@@ -4029,7 +4029,7 @@
         "first_name": "VIKTOR",
         "last_name": "MÁRA",
         "address": {
-          "street": "HŘIBY ",
+          "street": "HŘIBY",
           "number": "54",
           "city": "VITICE",
           "post_code": "28106"
@@ -4091,7 +4091,7 @@
         "first_name": "Karel",
         "last_name": "Pokorný",
         "address": {
-          "street": "Sulíkov ",
+          "street": "Sulíkov",
           "number": "8",
           "city": "Křetín",
           "post_code": "67962"
@@ -4140,7 +4140,7 @@
       "name": "DESTINY OF SPARK NATYAVE GROVE",
       "date_of_birth": "2021-09-22",
       "clp": "11956",
-      "father": "WHIPSPAN GOLDEN LEGACY ",
+      "father": "WHIPSPAN GOLDEN LEGACY",
       "mother": "FYDAL Crystal  del WinePoint",
       "body": {
         "height": "62",
@@ -4148,12 +4148,12 @@
         "HD": "A"
       },
       "shows": "KV -MSKAO 2023 CAC, V1, VT KRAJ.V, KV-MSKAO 2024 CAC,",
-      "exams": "ZV-I.c, -1 místo ",
+      "exams": "ZV-I.c, -1 místo",
       "owner": {
         "first_name": "Lenka",
         "last_name": "Horáková",
         "address": {
-          "street": "Nádražní ",
+          "street": "Nádražní",
           "number": "1738",
           "city": "Dubnany",
           "post_code": "69603"
@@ -4161,6 +4161,42 @@
         "phone": "+420607067931",
         "email": "info@natyavegrove.com",
         "web": "http://www.natyavegrove.com"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2024-09-02",
+      "visible": true,
+      "name": "Gracie ze Zaječích polí",
+      "date_of_birth": "2022-07-28",
+      "clp": "12037",
+      "father": "Pawprint High Five",
+      "mother": "Baileys ze Zaječích polí",
+      "body": {
+        "height": "61",
+        "color": "hnědobílá",
+        "HD": "A"
+      },
+      "championships": "Český junior šampion, Český šampion",
+      "shows": "Jubilejní vítěz štěně, V1, CAJC, CACIB-J, BOJ, res. CAC, CAC, res. CACIB, CACIB, BOJ, BOS, BOB, Národní vítěz, JBIG I., BIG III.",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "Zlatka.z@seznam.cz"
+      },
+      "co-owner": {
+        "first_name": "Kristýna",
+        "last_name": "Šejnohová"
       }
     }
   ]

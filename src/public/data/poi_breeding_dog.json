@@ -525,8 +525,8 @@
         "color": "černobílá",
         "HD": "B"
       },
-      "shows": " V1, CAC, res. CACIB, BOB",
-      "exams": " I.U.O. Srbsko, ZV I.c,",
+      "shows": "V1, CAC, res. CACIB, BOB",
+      "exams": "I.U.O. Srbsko, ZV I.c,",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -1503,12 +1503,12 @@
       "exams": "ZVI.c,KPZ I.c,",
       "owner": {
         "title": "Ing.",
-        "first_name": "David ",
+        "first_name": "David",
         "last_name": "Obračaj",
         "address": {
           "street": "Určická",
           "number": "1284/39",
-          "city": "Prostějov ",
+          "city": "Prostějov",
           "post_code": "79601"
         },
         "email": "david.obracaj@post.cz"
@@ -1535,7 +1535,7 @@
         "first_name": "VIKTOR",
         "last_name": "MÁRA",
         "address": {
-          "street": "HŘIBY ",
+          "street": "HŘIBY",
           "number": "54",
           "city": "VITICE",
           "post_code": "28106"
@@ -1629,7 +1629,7 @@
       "shows": "VD3",
       "exams": "ZV-I.c, MFT -VD,PZ-I.c, VP I.c,",
       "owner": {
-        "first_name": "František ",
+        "first_name": "František",
         "last_name": "Srnec",
         "address": {
           "street": "Dlouhá",
@@ -1639,7 +1639,142 @@
         "phone": "+420777014724",
         "email": "Srnec.Franta@seznam.c"
       }
+    },
+
+
+
+
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2022-11-10",
+      "visible": true,
+      "name": "DIABLO ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2021-06-11",
+      "clp": "11945",
+      "father": "Aslan z Bítýšských bažin",
+      "mother": "Affi ze Zaječích polí",
+      "body": {
+        "height": "66",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "championships": "Český šampion",
+      "shows": "Národní vítěz, ACIB, BOS, 2x CAC, 2x CAJC, 2x BOJ, výborná",
+      "exams": "ZV - I. cena, 211/4 b.",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-09-02",
+      "visible": true,
+      "name": "FARAON ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2021-12-13",
+      "clp": "11965",
+      "father": "Pawpring High Five",
+      "mother": "Audrey z Mešinské hájovny",
+      "body": {
+        "height": "68",
+        "color": "černá",
+        "HD": "A"
+      },
+      "championships": "Český šampion",
+      "shows": "BOB, 2x BOS 3x CACIB, 4x CAC CACIB-J, CAJC výborný",
+      "exams": "KZV - I. cena, 225/4 bodů, CACT",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "Zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-09-02",
+      "visible": true,
+      "name": "Houdini ze Zaječích polí",
+      "date_of_birth": "2023-02-17",
+      "clp": "12099",
+      "father": "Ampio del Winepoint",
+      "mother": "Cleopatra ze Zaječích polí",
+      "body": {
+        "height": "66",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, Junior CACA, Res. CAC, CAC, CACA, BOJ, BOS, BOB, Jugendbester, Beste Rüde",
+      "exams": "KZV I.cena, ZV I.cena",
+      "owner": {
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "+420608964289",
+        "email": "Zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-09-02",
+      "visible": true,
+      "name": "Honey ze Zaječích polí",
+      "date_of_birth": "2023-02-17",
+      "clp": "12101",
+      "father": "Ampio del Winepoint",
+      "mother": "Cleopatra ze Zaječích polí",
+      "body": {
+        "height": "65",
+        "color": "černobílá",
+        "HD": "A"
+      },
+      "championships": "Český junior šampion, Slovenský junior šampion, mezinárodní junioršampion",
+      "shows": "V1, CAJC, CACIB-J, CAC, res. CACIB, BOJ",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "Zlatka.z@seznam.cz"
+      },
+      "co-owner": {
+        "first_name": "Kateřina",
+        "last_name": "Cífková"
+      }
     }
+
   ]
 }
 
