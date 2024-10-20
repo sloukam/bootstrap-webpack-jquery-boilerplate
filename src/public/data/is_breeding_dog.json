@@ -924,9 +924,11 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ARAMIS APOLLY MORAVIA",
       "date_of_birth": "2012-09-09",
+      "datum_vyrazeni": "2024-09-24",
+      "duvod_vyrazeni": "úhyn",
       "clp": "15762",
       "father": "Neiven Amor ́s Arrow",
       "mother": "Mira z Bolešínské hůrky",
@@ -5445,7 +5447,7 @@
         "HD": "A"
       },
       "shows": "V",
-      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, BZ I.cena, SZVP I.cena",
+      "exams": "ZV I.cena, PZ I.cena, LZ I.cena, BZ I.cena, SZVP I.cena, PZ I.cena - CACT, VZ I.cena - CACT",
       "owner": {
         "first_name": "Václav",
         "last_name": "Říha",

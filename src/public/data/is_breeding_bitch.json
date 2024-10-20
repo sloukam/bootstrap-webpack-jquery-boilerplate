@@ -6151,6 +6151,146 @@
       }
     },
     {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2024-09-22",
+      "visible": true,
+      "name": "ETERNITY DAISY RAIN",
+      "date_of_birth": "2021-07-16",
+      "clp": "17240",
+      "father": "Aaron Arno Redweed",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17240",
+        "father": {
+          "clp": "16661",
+          "name": "Aaron Arno Redweed",
+          "father": {
+            "name": "Riverwood Pleased as Punch",
+            "father": {
+              "name": "Wynjill Well I Am",
+              "father": {
+                "name": "Sametsuz Scriptwriter"
+              },
+              "mother": {
+                "name": "Gwendariff Whata Wynjill"
+              }
+            },
+            "mother": {
+              "name": "Riverwood Kumbayah",
+              "father": {
+                "name": "Houston of the Trav´Lin Star"
+              },
+              "mother": {
+                "name": "GirlyGirl of McBirdy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16174",
+            "name": "Zephyre Maya Redweed",
+            "father": {
+              "clp": "13965",
+              "name": "Stamboek Redweed",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "12893",
+                "name": "Oriflame Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "championships": "JCH ČR, JCH SLO, CH ČR, CH SLO, CH AT, CH SK",
+      "shows": "CAJC, BOJ, CAC, CACA, CACIB, BOS, BOB, JBIG3",
+      "exams": "ZV I.cena",
+      "owner": {
+        "title": "Mgr. ",
+        "first_name": "Hana",
+        "last_name": "Bočková",
+        "address": {
+          "street": "Klostermannova ",
+          "number": "87",
+          "city": "Zliv",
+          "post_code": "37344"
+        },
+        "phone": "776171298",
+        "email": "daisy.rain@seznam.cz",
+        "web": "http://www.irsky-setr.cz"
+      }
+    },
+    {
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2024-08-01",
