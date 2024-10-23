@@ -1339,8 +1339,9 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "IRWS",
-      "sex": "male",
+      "sex": "female",
       "datum_uchovneni": "2024-09-01",
       "visible": true,
       "name": "Caramela z Drválovského revíru",
@@ -1691,14 +1692,14 @@
       },
       "body": {
         "height": "62",
-        "color": "Ä ervenobÃ­lÃ¡",
+        "color": "červenobílá",
         "HD": "A"
       },
       "championships": "JCHCZ, SKCH,",
       "shows": "CAC,CACIB",
       "exams": "ZV Ic. BZ IIc.",
       "owner": {
-        "first_name": "Lucie ",
+        "first_name": "Lucie",
         "last_name": "FaltÃ½nkovÃ¡",
         "address": {
           "street": "Å emÃ­kovice",
