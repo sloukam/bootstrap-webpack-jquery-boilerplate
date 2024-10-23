@@ -670,9 +670,11 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "visible": false,
       "name": "ALVIN Z BUKOVSKÉHO VRŠKU",
       "date_of_birth": "2014-08-29",
+      "datum_vyrazeni": "2024-10-23",
+      "duvod_vyrazeni": "stri",
       "clp": "11088",
       "father": "Kord z Měšínské hájovny,",
       "mother": "Orka z Krzáku",
