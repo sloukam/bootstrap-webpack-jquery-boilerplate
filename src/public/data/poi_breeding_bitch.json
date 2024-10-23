@@ -3465,10 +3465,9 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": false,
+      "visible": true,
       "name": "AFFI ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2018-06-05",
-      "datum_vyrazeni": "2022-11-04",
       "clp": "11500",
       "father": "Oliver ze Štípek",
       "mother": "Audrey z Mešinské hájovny",
@@ -3885,10 +3884,9 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": false,
+      "visible": true,
       "name": "BAILEYS ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
-      "datum_vyrazeni": "2022-09-19",
       "clp": "11616",
       "father": "AVON",
       "mother": "Audrey ze Zaječích polí",
