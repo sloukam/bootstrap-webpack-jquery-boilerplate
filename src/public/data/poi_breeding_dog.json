@@ -1612,6 +1612,36 @@
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
+      "datum_uchovneni": "2024-05-04",
+      "visible": true,
+      "name": "Elan od Zeleného stolu",
+      "date_of_birth": "2021-05-19",
+      "clp": "11861",
+      "father": "AVON",
+      "mother": "CILKA Z BOROVINKY",
+      "body": {
+        "height": "68",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V2,V1,CAJC,BOJ",
+      "exams": "ZV.I.c, PZ-II.c, KPZ I.c CACT , VP I.c, KPZr.CACT -Ic,, VP-I.c,",
+      "owner": {
+        "title": "MUDr.",
+        "first_name": "Josef ",
+        "last_name": "Sklenář",
+        "address": {
+          "street": "Benešovo nám.",
+          "number": "123",
+          "city": "Křižanov",
+          "post_code": "59451"
+        }
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
       "datum_uchovneni": "2023-12-04",
       "datum_vyrazeni": "2024-06-24",
       "duvod_vyrazeni": "na zadost majitele",
