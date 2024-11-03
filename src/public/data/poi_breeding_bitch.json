@@ -4041,6 +4041,36 @@
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "female",
+      "datum_uchovneni": "2024-10-10",
+      "visible": true,
+      "name": "Bea Beskydy Pointer Village",
+      "date_of_birth": "2020-09-29",
+      "clp": "11757",
+      "father": "Ampio del Winepoint",
+      "mother": "Poli od Nezdického potoka",
+      "body": {
+        "height": "59",
+        "color": "bíločerná",
+        "HD": "A"
+      },
+      "shows": "V1,CAC,NV,BOB",
+      "exams": "ZV.I.c, PZ-I.c CACT MSKAO",
+      "owner": {
+        "first_name": "Viktor ",
+        "last_name": "Zíma",
+        "address": {
+          "street": "Pod Košířem ",
+          "number": "342",
+          "city": "Čelechovice na Hané ",
+          "post_code": "79816"
+        },
+        "email": "wiki.winter@gmail.com"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "female",
       "datum_uchovneni": "2023-12-04",
       "visible": true,
       "name": "ERIKA OD ZELENÉHO STOLU",
