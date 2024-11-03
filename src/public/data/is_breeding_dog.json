@@ -2205,9 +2205,9 @@
         "rcd4": "carrier",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
-      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK, CH AT",
+      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK, CH AT, Veterán CH ČR",
       "shows": "CAC, CACA, CWC, CACIB, NV, BOB, BIG",
-      "exams": "ZV I.cena, PZ I.cena",
+      "exams": "ZV I.cena, PZ I.cena, VP II.cena",
       "owner": {
         "first_name": "Zdeňka",
         "last_name": "Zapletalová",
@@ -5598,6 +5598,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "male",
       "visible": true,
@@ -5848,7 +5849,7 @@
         "HD": "A"
       },
       "shows": "CAC",
-      "exams": "ZV I,cena, PZ I.cena. VP I.cena",
+      "exams": "ZV I,cena, PZ I.cena. VP I.cena, LZ II.cena",
       "owner": {
         "first_name": "Jaroslav",
         "last_name": "Mádr",

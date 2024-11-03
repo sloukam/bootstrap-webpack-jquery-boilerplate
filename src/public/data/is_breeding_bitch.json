@@ -4220,6 +4220,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "visible": true,
@@ -6272,7 +6273,7 @@
         "rcd4": "clear",
         "other": "PRA rcd1 clear, CLAD N/N"
       },
-      "championships": "JCH ČR, JCH SLO, CH ČR, CH SLO, CH AT, CH SK",
+      "championships": "JCH ČR, JCH SLO, CH ČR, CH SLO, CH AT, CH SK, CH HR, Interšampion C.I.E",
       "shows": "CAJC, BOJ, CAC, CACA, CACIB, BOS, BOB, JBIG3",
       "exams": "ZV I.cena",
       "owner": {
@@ -6291,6 +6292,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2024-08-01",
