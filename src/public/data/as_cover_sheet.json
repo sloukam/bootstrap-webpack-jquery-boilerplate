@@ -9,8 +9,8 @@
           "breeder": "Badecri",
           "bitch": "Latin Lover Snow Ballet Bednar",
           "dog": "Cricket Jumbo Bednar Lymarkos",
-          "releaseDate": "nakryto, potvrzena březost",
-          "puppies": ""
+          "releaseDate": "2024-06-06",
+          "puppies": "2/6"
         },
         {
           "id": "II/24",
@@ -27,7 +27,7 @@
           "breeder": "The Golden Bracken",
           "bitch": "Whitney Morrison",
           "dog": "",
-          "releaseDate": "náhrada za KL II/24",
+          "releaseDate": "náhrada za KL II/24\nnakryto",
           "puppies": ""
         },
         {
@@ -37,6 +37,24 @@
           "bitch": "Tennessee Morrison",
           "dog": "",
           "releaseDate": "náhradní KL za III/23 - nezabřezla/24",
+          "puppies": ""
+        },
+        {
+          "id": "V/24",
+          "publicationDate": "2024-06-14",
+          "breeder": "Bloom for you",
+          "bitch": "Expensive Stone Achát",
+          "dog": "",
+          "releaseDate": "2024-08-24",
+          "puppies": "7/1"
+        },
+        {
+          "id": "VI/24",
+          "publicationDate": "2024-09-24",
+          "breeder": "z Nového remízu",
+          "bitch": "Nera  z Mešinské hájovny",
+          "dog": "",
+          "releaseDate": "prozatím nevyužito",
           "puppies": ""
         }
       ]
@@ -68,7 +86,7 @@
           "breeder": "Moravská LeRůž",
           "bitch": "Tennessee Morrison",
           "dog": "",
-          "releaseDate": "prozatím nevyužito",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
