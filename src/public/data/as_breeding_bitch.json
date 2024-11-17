@@ -658,6 +658,36 @@
       "other": "Import HU."
     },
     {
+      "breed": "AS",
+      "sex": "female",
+      "datum_uchovneni": "2024-09-24",
+      "visible": true,
+      "name": "Nera z Mešinské hájovny",
+      "date_of_birth": "2020-05-12",
+      "clp": "6473",
+      "father": "Arny z Nového remízu",
+      "mother": "Minnie z Mešinské hájovny",
+      "body": {
+        "height": "57",
+        "color": "tricolor",
+        "HD": "A"
+      },
+      "shows": "VD",
+      "exams": "KZV - I. cena, PZ - II. cena",
+      "owner": {
+        "first_name": "Přemysl",
+        "last_name": "Bouška",
+        "address": {
+          "street": "Hromádkova",
+          "number": "12",
+          "city": "Brno",
+          "post_code": "63600"
+        },
+        "phone": "723953406",
+        "email": "prembouska@seznam.cz"
+      }
+    },
+    {
       "img_ext": "jpg",
       "breed": "AS",
       "sex": "female",
