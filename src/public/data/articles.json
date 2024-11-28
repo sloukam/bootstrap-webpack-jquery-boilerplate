@@ -1,12 +1,32 @@
 {
   "articles": [
     {
+      "visible": false,
+      "articleId": 20240071,
+      "publishDate": "2024/11/28",
+      "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
+      "paragraphs": [
+        "<b>",
+        "Zdravím všechny členy a příznivce našeho Moravskoslezského klubu anglických ohařů. Rádi bychom Vám, jako každoročně, dali příležitost stát se součástí klubové ročenky za tento kalendářní rok.",
+        "Na Vaše příspěvky, články, reportáže a inzerci netrpělivě čekáme na emailové adrese <a href=\"mailto:rocenka@mskao.cz?subject=Material%20do%20rocenky\">rocenka@mskao.cz</a> do 15.1.2025.",
+        "Pokud se rozhodnete pro inzerci v nadcházející ročence, tak svůj návrh zašlete na adresu <a href=\"mailto:inzerce@mskao.cz?subject=Inzerce%20do%20ročenky%202023\">inzerce@mskao.cz</a> nejpozději do 15.1.2025",
+        "Podmínky jsou následující: <ul> <li>celá strana A4 (chovatelský inzerát člen MSKAO 800 Kč/nečlen 1.600 Kč/komerční inzerát 4.000 Kč) </li> <li>½ strany A4 (člen MSKAO 500 Kč/nečlen 1.000 Kč/komerční inzerát 2.000 Kč)</li> <li>¼ strany A4 (člen MSKAO 300 Kč/nečlen 600 Kč/komerční inzerát 1.000 Kč)</li> </ul>",
+        "<b><big>Číslo bankovního účtu: 2600505087 / 2010 (FIO banka)</big></b>",
+        "V případě dotazů se obraťte na <i>tiskového referenta</i> na emailu <b>web.mskao@gmail.com</b>",
+        "</b>",
+        "<img src=\"./public/images/platby/qr_inzerce.png\" width=\"200\" height=\"200\"/>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
       "visible": true,
       "articleId": 20240050,
       "publishDate": "2024/11/28",
       "title": "Aktualizace fotek chovných jedinců",
       "paragraphs": [
-        "Rádi bychom poprosili všechny majitele chovných psů a fen, aby se překontrolovali jejich fotky a v případě, že již nejsou aktuální nebo dostatečně kvalitní nebo je jen prostě chcete vymenít, aby jste je zaslali s informaci o jakeho psa/fenu se jedna na emailovou adresu: <big><a href=\"mailto:fotky@mskao.cz?subject=Aktualizace%20fotky\" target=\"_blank\">fotky@mskao.cz</a></big>"
+        "<b>Rádi bychom poprosili všechny majitele chovných psů a fen, aby překontrolovali jejich fotky a v případě, že již nejsou aktuální nebo dostatečně kvalitní nebo je jen prostě chcete vyměnít, aby jste je zaslali s informací o jakého psa/fenu se jedná na emailovou adresu: <big><a href=\"mailto:fotky@mskao.cz?subject=Aktualizace%20fotky\" target=\"_blank\">fotky@mskao.cz</a></big></b>"
       ],
       "images": [
         "./public/images/logo.png"
