@@ -6002,6 +6002,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2023-11-15",
@@ -6138,7 +6139,7 @@
         "HD": "A"
       },
       "shows": "V, krajský vítěz",
-      "exams": "ZV I.cena, PZ I.cena, ZVP II.cena",
+      "exams": "ZV I.cena, PZ I.cena, ZVP I.cena, pohár MSKAO I.cena",
       "owner": {
         "title": "Mgr.",
         "first_name": "Marcela",
