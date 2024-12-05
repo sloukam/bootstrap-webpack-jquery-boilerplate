@@ -1676,6 +1676,37 @@
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
+      "datum_uchovneni": "2024-09-01",
+      "visible": true,
+      "name": "Cabernet Natyave Grove",
+      "date_of_birth": "2021-06-18",
+      "clp": "11885",
+      "father": "Adon del WinePoint",
+      "mother": "Agata from WinePoint  Natyave Grove",
+      "body": {
+        "height": "66",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "V1,CAC,R-CACIB,KV.MSKAO- CAC,",
+      "exams": "ZV-I.c",
+      "owner": {
+        "first_name": "Barbora",
+        "last_name": "Opekarová",
+        "address": {
+          "street": "Újezd",
+          "number": "13",
+          "city": "Albrechtice nad Vltavou",
+          "post_code": "37501"
+        },
+        "email": "BarbaraHorth@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
       "datum_uchovneni": "2022-11-10",
       "visible": true,
       "name": "DIABLO ZE ZAJEČÍCH POLÍ",
