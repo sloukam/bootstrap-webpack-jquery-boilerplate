@@ -3,6 +3,18 @@
     {
       "visible": true,
       "articleId": 20240071,
+      "publishDate": "2024/12/17",
+      "title": "PF 2025",
+      "paragraphs": [
+        "<a href=\"./public/images/2024/pf_2025.jpg\" target=\"_blank\"><img src=\"./public/images/2024/pf_2025.jpg\" width=\"400\" height=\"300\"/></a>"
+      ],
+      "images": [
+        "./public/images/logo.png"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240071,
       "publishDate": "2024/11/28",
       "title": "Výzva - staňte se spoluautory či inzerenty v ročence",
       "paragraphs": [
