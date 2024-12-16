@@ -3982,6 +3982,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "GS",
       "sex": "female",
       "datum_uchovneni": "2024-06-22",
@@ -4094,8 +4095,8 @@
         "rcd4": "clear",
         "other": "OCD clear"
       },
-      "championships": "Slovenský junior šampion, Český junior šampion, Český šamipon, Polský šampion",
-      "shows": "výborná, CAJC, CACIB-J, BOS, CAC, NV, CACIB, res.CACIB, BOB,",
+      "championships": "JCH SK, JCH ČR, JCH HU, CIB-J, CH ČR, CH PL",
+      "shows": "výborná, CAJC, CACIB-J, BOS, CAC, NV, CACIB, res.CACIB, BOB, BOJ, ",
       "exams": "T.A.N., ZV I.c.",
       "owner": {
         "title": "Ing.",
