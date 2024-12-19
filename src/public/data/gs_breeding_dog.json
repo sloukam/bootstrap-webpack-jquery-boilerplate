@@ -371,10 +371,11 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "BANDIT MANON LESCAUT",
       "date_of_birth": "2012-05-14",
+      "date_vyrazeni": "2024-12-19",
       "clp": "6373",
       "father": "Sundower's Amaretto-Kiss",
       "mother": "Xsara z Holubické stráně",

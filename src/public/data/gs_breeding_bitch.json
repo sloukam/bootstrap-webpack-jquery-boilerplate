@@ -1139,9 +1139,10 @@
     {
       "breed": "GS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "ELZA Z DVORKU ČAMOURKU",
       "date_of_birth": "2015-05-22",
+      "date_vyrazeni": "2024-12-19",
       "clp": "6600",
       "father": "Lochfain An Aus Approach To Glenmaurangl",
       "mother": "Bora z Dvorku Čamourku",
@@ -3980,6 +3981,141 @@
         "email": "adela.smet@gmail.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "GS",
+      "sex": "female",
+      "datum_uchovneni": "2024-12-17",
+      "visible": true,
+      "name": "Glorie z Holubické stráně",
+      "date_of_birth": "2022-04-08",
+      "clp": "7132",
+      "father": "Cedric z Holubické stráně",
+      "mother": "Double Dream Loveset Tollers Cosa Nostra",
+      "body": {
+        "height": "62",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "7132",
+        "father": {
+          "clp": "6603",
+          "name": "Cedric z Holubické stráně",
+          "father": {
+            "name": "Lamborghini Black Ivy",
+            "father": {
+              "name": "Triseter Celtic Link With Laurelhach",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Triseter Celtic Dusk"
+              }
+            },
+            "mother": {
+              "name": "Yukki Hill Shadow Of The Moon",
+              "father": {
+                "name": "Triseter Ebonie Yarra"
+              },
+              "mother": {
+                "name": "Showpoint Be Pup A Lula"
+              }
+            }
+          },
+          "mother": {
+            "clp": "6292",
+            "name": "Zira z Holubické stráně",
+            "father": {
+              "name": "Sangerfild Earldom",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Sangerfild Creme de la Creme"
+              }
+            },
+            "mother": {
+              "clp": "5778",
+              "name": "Quina z Holubické stráně",
+              "father": {
+                "clp": "5053",
+                "name": "Faro z Prostějovska"
+              },
+              "mother": {
+                "clp": "5380",
+                "name": "Kora z Holubické stráně"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Double Dream Loveset Tollers Cosa Nostra",
+          "father": {
+            "name": "Carnoustie Hercules",
+            "father": {
+              "name": "Brodruggan Black Knight",
+              "father": {
+                "name": "Triseter Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Tahtan Black Magic"
+              }
+            },
+            "mother": {
+              "name": "Jamanelph Pallas Athena",
+              "father": {
+                "name": "Triseter Ebonie Zeus"
+              },
+              "mother": {
+                "name": "Carnoustie What A Vision"
+              }
+            }
+          },
+          "mother": {
+            "name": "Double Dream Loveset Stylish Cindy",
+            "father": {
+              "name": "Goango Black Hakuna Matata",
+              "father": {
+                "name": "Triseter Celtic Ice"
+              },
+              "mother": {
+                "name": "Goango Black Ebony"
+              }
+            },
+            "mother": {
+              "name": "Double Dream Loveset Bliss Fate",
+              "father": {
+                "name": "Yukki Hill Santana Blues"
+              },
+              "mother": {
+                "name": "Double Dream Loveset Magic Night"
+              }
+            }
+          }
+        }
+      },
+      "championships": "CH ČR",
+      "shows": "výborná, Vítěz tř.mladých, 3x CAC, CACIB, BOS",
+      "exams": "PZ I.c.",
+      "owner": {
+        "title": "Bc.",
+        "first_name": "Kateřina",
+        "last_name": "Manišová",
+        "address": {
+          "street": "Podlesí",
+          "number": "364",
+          "city": "Valašské Meziříčí",
+          "post_code": "75701"
+        },
+        "phone": "777130137",
+        "email": "k.manisova@centrum.cz"
+      }
     },
     {
       "img_ext": "jpg",
