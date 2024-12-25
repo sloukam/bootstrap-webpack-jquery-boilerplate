@@ -1472,7 +1472,7 @@
               }
             },
             "mother": {
-              "name": "Garden Star's Ferero Rocher",
+              "name": "Garden Star's Ferrero Rocher",
               "father": {
                 "name": "Garden Star's Billion Dolar"
               },
@@ -2647,10 +2647,10 @@
             "mother": {
               "name": "Garden Star's Ferrero Rocher",
               "father": {
-                "name": "Garden Star's Billion Dollar"
+                "name": "Garden Star's Billion Dolar"
               },
               "mother": {
-                "name": "Garden Star's Amberlight"
+                "name": "Garden Star's Amber Light"
               }
             }
           }
@@ -2773,10 +2773,10 @@
             "mother": {
               "name": "Garden Star's Ferrero Rocher",
               "father": {
-                "name": "Garden Star's Billion Dollar"
+                "name": "Garden Star's Billion Dolar"
               },
               "mother": {
-                "name": "Garden Star's Amberlight"
+                "name": "Garden Star's Amber Light"
               }
             }
           }
@@ -3041,7 +3041,7 @@
                 "name": "Garden Star's Billion Dolar"
               },
               "mother": {
-                "name": "Garden Star's Amberlight"
+                "name": "Garden Star's Amber Light"
               }
             }
           }
@@ -3169,7 +3169,7 @@
                 "name": "Garden Star's Billion Dolar"
               },
               "mother": {
-                "name": "Garden Star's Amberlight"
+                "name": "Garden Star's Amber Light"
               }
             }
           }
@@ -4251,7 +4251,7 @@
               }
             },
             "mother": {
-              "name": "Banthi Cinammon´s",
+              "name": "Banthi Cinammon's",
               "father": {
                 "name": "xxx xxx"
               },
@@ -4308,7 +4308,7 @@
           "mother": {
             "name": "Caemgen's Dark´N Dashing",
             "father": {
-              "name": "Garden Star's Billion Dollar",
+              "name": "Garden Star's Billion Dolar",
               "father": {
                 "name": "xxx xxx"
               },
@@ -4650,12 +4650,12 @@
             "clp": "15446",
             "name": "Artemis Elimar Doubrava",
             "father": {
-              "name": "Garden Star´s Irish Vagabond",
+              "name": "Garden Star's Irish Vagabond",
               "father": {
                 "name": "Xtullyowen of the Golden Vale"
               },
               "mother": {
-                "name": "Garden Star´s Bonnie Tyler"
+                "name": "Garden Star's Bonnie Tyler"
               }
             },
             "mother": {
@@ -4665,7 +4665,7 @@
                 "name": "Zapach Jasminu z Arislandu "
               },
               "mother": {
-                "name": "Vicary´s Xuni"
+                "name": "Vicary's Xuni"
               }
             }
           }
@@ -4709,7 +4709,7 @@
             "mother": {
               "name": "Hawana Rude Ziólko",
               "father": {
-                "name": "Gin Tonic of The Hunter´s Home"
+                "name": "Gin Tonic of The Hunter's Home"
               },
               "mother": {
                 "name": "Annais Rauhbaard"
@@ -4990,7 +4990,7 @@
               }
             },
             "mother": {
-              "name": "Lynwood Kiss´n´tell Copper´s",
+              "name": "Lynwood Kiss´n´tell Copper's",
               "father": {
                 "name": "Copper's Bubblande Glad"
               },
@@ -5673,7 +5673,7 @@
             "mother": {
               "name": "Garden Star's Ferrero Rocher",
               "father": {
-                "name": "Garden Star's Billion Dollar"
+                "name": "Garden Star's Billion Dolar"
               },
               "mother": {
                 "name": "Garden Star's Amber Light"
@@ -5965,9 +5965,9 @@
             "clp": "15404",
             "name": "Bereta Apoli Gwen",
             "father": {
-              "name": "Russell´s Kismet",
+              "name": "Russell's Kismet",
               "father": {
-                "name": "Saeterelva´s Russell"
+                "name": "Saeterelva's Russell"
               },
               "mother": {
                 "name": "Highfeather Raise´n a Ruckus"
@@ -6338,9 +6338,9 @@
             "clp": "15404",
             "name": "Bereta Apoli Gwen",
             "father": {
-              "name": "Russell´s Kismet",
+              "name": "Russell's Kismet",
               "father": {
-                "name": "Saeterelva´s Russell"
+                "name": "Saeterelva's Russell"
               },
               "mother": {
                 "name": "Highfeather Raise´n a Ruckus"
