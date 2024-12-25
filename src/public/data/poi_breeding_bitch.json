@@ -3200,42 +3200,18 @@
             "name": "Csillaghegyi Foltos Izidor",
             "father": {
               "name": "Crookrise Monty's Theme",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "Ammily Europos Mitas",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           },
           "mother": {
             "name": "Kopaszhegyi Furge Bella",
             "father": {
               "name": "Caradhras of Szedresi",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "Sáregresi Xéna",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           }
         },
@@ -3245,42 +3221,18 @@
             "name": "Sáregresi Classic Point",
             "father": {
               "name": "Sáregresi Unicum",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "Sáregresi Sally Gold",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           },
           "mother": {
             "name": "Raigmore Dawn Chorus Over Fydal",
             "father": {
               "name": "Wherathy Walter at Calderside",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "Raigmore Quest",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           }
         }

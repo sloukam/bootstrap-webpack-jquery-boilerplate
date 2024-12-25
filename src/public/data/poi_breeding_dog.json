@@ -559,42 +559,18 @@
             "name": "FUGELERE ICE KOVET SAREGRES",
             "father": {
               "name": "SAREGRESI SPEEDY SNOWMANN",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "HYBORN  HIDDEN GEM OF FUGELERE ET",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           },
           "mother": {
             "name": "ROBWYN DARE TO DREAM ET",
             "father": {
               "name": "CHESTERHOPE CATCH THE DREAM AT ROBWYN",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "CHESTERHOPE TAKN LIBERTYS WITH ROBWYN",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           }
         },
@@ -604,42 +580,18 @@
             "name": "WHIPSPAN THE WIZARD FROM OZ",
             "father": {
               "name": "ATSIRA SECOND EDITION",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "WHIPSPAN COOBER PEDY",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           },
           "mother": {
             "name": "WHIPSPAN KALGOORLIE",
             "father": {
               "name": "JESTERLY DESERT RAIDER OF WYNDSMOOR",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             },
             "mother": {
               "name": "WHIPSPAN ALICE SPRINGS",
-              "father": {
-                "name": "."
-              },
-              "mother": {
-                "name": "."
-              }
             }
           }
         }
