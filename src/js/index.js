@@ -337,7 +337,7 @@ const isValidElement = element => {
 };
 
 /**
- * Checks if an element’s value can be saved (e.g. not an unselected checkbox).
+ * Checks if an element's value can be saved (e.g. not an unselected checkbox).
  * @param  {Element} element  the element to check
  * @return {Boolean}          true if the value should be added, false if not
  */
@@ -388,7 +388,7 @@ const getSelectValues = options =>
 //     // Add the current field to the object.
 //     data[element.name] = element.value;
 //
-//     // For the demo only: show each step in the reducer’s progress.
+//     // For the demo only: show each step in the reducer's progress.
 //     console.log(JSON.stringify(data));
 //
 //     return data;
