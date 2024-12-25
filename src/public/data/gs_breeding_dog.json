@@ -172,7 +172,7 @@
       "name": "Dark Devil Áres Šamarkan",
       "date_of_birth": "2010-05-07",
       "clp": "6254",
-      "father": "Glen z Želečky",
+      "father": "Glen z Ž̌elečky",
       "mother": "Bumble-Bee Áres Šamarkan",
       "sex": "male",
       "body": {
@@ -202,7 +202,7 @@
       "date_of_birth": "2011-01-14",
       "clp": "6286",
       "father": "Sangerfild Earldom",
-      "mother": "Quina z Holubické stráně",
+      "mother": "Quina z Holubické stráně",
       "sex": "male",
       "body": {
         "height": "66",
@@ -293,7 +293,7 @@
         },
         "mother": {
           "clp": "5733",
-          "name": "Happy z Zelečky",
+          "name": "Happy z Želečky",
           "father": {
             "clp": "5515",
             "name": "Bogey Jinonický dvůr",
@@ -409,7 +409,7 @@
             "father": {
               "name": "Laurelhach Illustrious",
               "father": {
-                "name": "Liric The Jolly Swangman"
+                "name": "Liric The Jolly Swagman"
               },
               "mother": {
                 "name": "Laurelhach Forget-Me-Not"
@@ -510,8 +510,8 @@
       "name": "ABARO OD ZÁMECKÉHO KOPCE",
       "date_of_birth": "2012-01-11",
       "clp": "6340",
-      "father": "Laurelhach Moviestrar",
-      "mother": "Sundowner ́s Cuba-Libre",
+      "father": "Laurelhach Moviestar",
+      "mother": "Sundowner's Cuba-Libre",
       "sex": "male",
       "body": {
         "height": "64",
@@ -604,12 +604,12 @@
               }
             },
             "mother": {
-              "name": "Ludstar Mrspott",
+              "name": "Ludstar Mrs. Pott",
               "father": {
                 "name": "Glynderys High'n Mighty with Liric"
               },
               "mother": {
-                "name": "Liric a Star as Born"
+                "name": "Liric A Star Is Born"
               }
             }
           },
@@ -668,7 +668,7 @@
       "date_of_birth": "2013-04-16",
       "clp": "6475",
       "father": "Hemingway Beauty of Gordon",
-      "mother": "Quina z Holubické stráně",
+      "mother": "Quina z Holubické stráně",
       "sex": "male",
       "pedigree": {
         "father": {
@@ -852,7 +852,7 @@
           }
         },
         "mother": {
-          "name": "Rosalie von der Wilden Hörde",
+          "name": "Rosalie Von Der Wilden Horde",
           "father": {
             "name": "Laurelhach Legend",
             "father": {
@@ -927,7 +927,7 @@
       "name": "BRIX Z HOLUBICKÉ STRÁNĚ",
       "date_of_birth": "2013-11-09",
       "clp": "6484",
-      "father": "Glen z Želečky",
+      "father": "Glen z Ž̌elečky",
       "mother": "ZIRA Z HOLUBICKÉ STRÁNĚ",
       "sex": "male",
       "body": {
@@ -1035,16 +1035,16 @@
                 "name": "Brodruggan Black Knight"
               },
               "mother": {
-                "name": "Trisetr Ebony Page"
+                "name": "Triseter Ebonie Page"
               }
             },
             "mother": {
               "name": "Triseter Celtic Dusk",
               "father": {
-                "name": "Trisetr Ebony Yarra"
+                "name": "Triseter Ebonie Yarra"
               },
               "mother": {
-                "name": "Trisetr Ebony Urania"
+                "name": "Triseter Ebonie Urania"
               }
             }
           },
@@ -1056,13 +1056,13 @@
                 "name": "Triseter Black Vader"
               },
               "mother": {
-                "name": "Trisetr Ebony Page"
+                "name": "Triseter Ebonie Page"
               }
             },
             "mother": {
               "name": "Showpoint be Pop a Lula",
               "father": {
-                "name": "Trisetr Ebony Nirvana"
+                "name": "Triseter Ebonie Nirvana"
               },
               "mother": {
                 "name": "Kingpoint Celebrity"
@@ -1080,13 +1080,13 @@
                 "name": "Brodruggan Black Knight"
               },
               "mother": {
-                "name": "Trisetr Ebony Page"
+                "name": "Triseter Ebonie Page"
               }
             },
             "mother": {
               "name": "Sangerfild Creme de la Creme",
               "father": {
-                "name": "Trisetr Ebony Scot"
+                "name": "Triseter Ebonie Scot"
               },
               "mother": {
                 "name": "Free Minds Cleopatra"
@@ -1168,7 +1168,7 @@
                 "name": "Brodruggan Black Knight"
               },
               "mother": {
-                "name": "Triseter Ebony Page"
+                "name": "Triseter Ebonie Page"
               }
             },
             "mother": {
@@ -1217,7 +1217,7 @@
             "name": "Atrei z Tomanikových vrškov",
             "father": {
               "clp": "5479",
-              "name": "Grant Bojandolí",
+              "name": "Grand Bojandolí",
               "father": {
                 "name": "Black Devil's Joshua"
               },
@@ -1300,7 +1300,7 @@
       "sex": "male",
       "pedigree": {
         "father": {
-          "name": "Sunsetter's Sign o The Times",
+          "name": "Sunsetter's Sing 'O' the Times",
           "father": {
             "name": "Sun-Yan Spellbound Heaven Scent",
             "father": {
@@ -1334,7 +1334,7 @@
               }
             },
             "mother": {
-              "name": "Sunsetter's Take a Chance O",
+              "name": "Sunsetter's Take a Chance on Me",
               "father": {
                 "name": "Stilmeadow Black'n tan Fantasy"
               },
@@ -1369,7 +1369,7 @@
             }
           },
           "mother": {
-            "name": "Rosalie von der Wilden Hörde",
+            "name": "Rosalie Von Der Wilden Horde",
             "father": {
               "name": "Laurelhach Legend",
               "father": {
@@ -1738,14 +1738,14 @@
       "name": "Ares Sanybell",
       "date_of_birth": "2019-08-31",
       "clp": "6923",
-      "father": "Passion Fild Pay No Mind",
+      "father": "Passion Find Pay No Mind",
       "mother": "Blaire Pearl Moravia",
       "pedigree": {
         "breed": "GS",
         "sex": "male",
         "clp": "6923",
         "father": {
-          "name": "Passion Fild Pay No Mind",
+          "name": "Passion Find Pay No Mind",
           "father": {
             "name": "Kingpoint Everywhere",
             "father": {
@@ -1758,7 +1758,7 @@
               }
             },
             "mother": {
-              "name": "Kingpoint Afterhought",
+              "name": "Kingpoint After Hought",
               "father": {
                 "name": "Rivermist Square Dancer"
               },
@@ -1883,9 +1883,9 @@
           "clp": "6716",
           "name": "CHARLIE CHAPLIN ÁRES ŠAMARKAN",
           "father": {
-            "name": "Sunsetter's Sing ´O´ the Times",
+            "name": "Sunsetter's Sing 'O' the Times",
             "father": {
-              "name": "Sun-Yak Spelland Heaven Scent",
+              "name": "Sun-Yan Spellbound Heaven Scent",
               "father": {
                 "name": "SPELLBOUND'S NOTOURIOUS"
               },
@@ -1920,7 +1920,7 @@
                 "name": "Laurelhach Legend"
               },
               "mother": {
-                "name": "Paivi von der Wilden Horde"
+                "name": "Päivi von der Wilden Horde"
               }
             }
           }
@@ -1932,7 +1932,7 @@
             "clp": "6287",
             "name": "Zoom z Holubické stráně",
             "father": {
-              "name": "Sangerfield Earldon",
+              "name": "Sangerfild Earldom",
               "father": {
                 "name": "Triseter Ebonie Zeus"
               },
@@ -2021,7 +2021,7 @@
         "father": {
           "name": "Fieldtalk's Juri 'S´ Joker",
           "father": {
-            "name": "Sunsetter's Sing ´O´ the Times",
+            "name": "Sunsetter's Sing 'O' the Times",
             "father": {
               "name": "SUN-YAN SPELLBOUND HEAVEN SCENT",
               "father": {
@@ -2096,7 +2096,7 @@
                 "name": "Triseter Ebonie Scot"
               },
               "mother": {
-                "name": "Ludstar Mrspott"
+                "name": "Ludstar Mrs. Pott"
               }
             },
             "mother": {
@@ -2203,7 +2203,7 @@
             "name": "Dark Devil Áres Šamarkan",
             "father": {
               "clp": "5649",
-              "name": "Glen z Želečky",
+              "name": "Glen z Ž̌elečky",
               "father": {
                 "clp": "5479",
                 "name": "Grand Bojandolí"
@@ -2315,16 +2315,16 @@
           "mother": {
             "name": "Stirling Bridge Arwen",
             "father": {
-              "name": "Nice Ryver Boby \"Báró\"",
+              "name": "Nice River Boby",
               "father": {
                 "name": "Lourdace Crispin"
               },
               "mother": {
-                "name": "Guinness Honeybee"
+                "name": "Guiness Honeybee"
               }
             },
             "mother": {
-              "name": "Gor-Csa Igrain \"Ira\"",
+              "name": "Gor-Csa Igrain",
               "father": {
                 "name": "Triomfante van Monte di Angeli"
               },
@@ -2698,12 +2698,12 @@
           "father": {
             "name": "Laurelhach Encrypt",
             "father": {
-              "name": "Trisetr Celtic Link With Laurelhach",
+              "name": "Triseter Celtic Link With Laurelhach",
               "father": {
-                "name": "Trisetr Ebonie Zeus"
+                "name": "Triseter Ebonie Zeus"
               },
               "mother": {
-                "name": "Trisetr Celtic Dusk"
+                "name": "Triseter Celtic Dusk"
               }
             },
             "mother": {
@@ -2712,19 +2712,19 @@
                 "name": "Laurelhach Moviestar"
               },
               "mother": {
-                "name": "Trisetr Ebonie ZenaWith Laurelhach"
+                "name": "Triseter Ebonie Zena With Laurelhach"
               }
             }
           },
           "mother": {
             "name": "Courtier's Catch my Heart",
             "father": {
-              "name": "Trisetr Ebonie Zeus",
+              "name": "Triseter Ebonie Zeus",
               "father": {
                 "name": "Brudruggan Black Knight"
               },
               "mother": {
-                "name": "Trisetr Ebonie Page"
+                "name": "Triseter Ebonie Page"
               }
             },
             "mother": {
@@ -2746,7 +2746,7 @@
             "father": {
               "name": "Yukki Hill Walk of Fame to Fairray",
               "father": {
-                "name": "Trisetr Ebonie Nirvana"
+                "name": "Triseter Ebonie Nirvana"
               },
               "mother": {
                 "name": "Yukki Hill Snow Queen"
