@@ -1494,7 +1494,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": false,
-      "name": "AUDREY Z MEŠINSKÉ HÁJOVNY",
+      "name": "Audrey z Mešinské hájovny",
       "date_of_birth": "2015-04-29",
       "datum_vyrazeni": "2022-11-04",
       "clp": "11182",
@@ -2103,7 +2103,7 @@
         "father": {
           "name": "Ajzon z Halikarnasu",
           "father": {
-            "name": "Forgel Me Not of Szedresi",
+            "name": "Forget Me Not of Szedresi",
             "father": {
               "name": "Caradhras of Szedresi",
               "father": {
@@ -2127,7 +2127,7 @@
           "mother": {
             "name": "Kora z Halikarnasu",
             "father": {
-              "name": "Frodo z Kacewskiej Zagrody",
+              "name": "Frodo z Kaczewskiej Zagrody",
               "father": {
                 "clp": "9145",
                 "name": "Bret z Křižanovské stráně"
@@ -3188,7 +3188,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": true,
-      "name": "FYDAL CRYSTAL DEL WINEPOINT",
+      "name": "Fydal Crystal Del Winepoint",
       "date_of_birth": "2017-04-30",
       "clp": "11466",
       "father": "Athos Pointerland Sáregresi",
@@ -3482,7 +3482,7 @@
         },
         "mother": {
           "clp": "11182",
-          "name": "Audrey z Mešínské hájovny",
+          "name": "Audrey z Mešinské hájovny",
           "father": {
             "clp": "10927",
             "name": "Scott z Mešínské hájovny",
@@ -3764,7 +3764,7 @@
           "father": {
             "name": "Ajzon z Halikarnasu",
             "father": {
-              "name": "Forgel Me Not of Szedresi",
+              "name": "Forget Me Not of Szedresi",
               "father": {
                 "name": "Caradhras of Szedresi"
               },
@@ -4121,7 +4121,7 @@
       "date_of_birth": "2021-09-22",
       "clp": "11956",
       "father": "WHIPSPAN GOLDEN LEGACY",
-      "mother": "FYDAL Crystal  del WinePoint",
+      "mother": "Fydal Crystal Del Winepoint",
       "body": {
         "height": "62",
         "color": "bílooranžová",

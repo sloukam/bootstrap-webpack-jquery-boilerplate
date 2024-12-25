@@ -1015,7 +1015,7 @@
     {
       "visible": true,
       "breed": "GS",
-      "name": "CEDRIC Z HOLUBICKÉ STRÁNĚ",
+      "name": "Cedric z Holubické stráně",
       "date_of_birth": "2015-07-03",
       "clp": "6603",
       "father": "Lamborghini Black Ivy",
@@ -1609,7 +1609,7 @@
       "breed": "GS",
       "sex": "male",
       "visible": true,
-      "name": "FORESTER's IGNOTUS PEVERELL OF DARKMOOR",
+      "name": "Forester's Ignotus Peverell of Darkmoor",
       "date_of_birth": "2019-06-05",
       "clp": "6959",
       "father": "Forester's Devils Answer of Darkmoor",
@@ -1619,7 +1619,7 @@
         "sex": "male",
         "clp": "6959",
         "father": {
-          "name": "Forester's Devil Answer of Darkmoor",
+          "name": "Forester's Devils Answer of Darkmoor",
           "father": {
             "name": "Laurelhach Encrypt",
             "father": {
@@ -2554,14 +2554,14 @@
       "name": "Cerberus Silesia Setter",
       "date_of_birth": "2022-05-21",
       "clp": "7148",
-      "father": "Forester´s Devils Answer of Darkmoor",
+      "father": "Forester's Devils Answer of Darkmoor",
       "mother": "Freya z Holubické stráně",
       "pedigree": {
         "breed": "GS",
         "sex": "male",
         "clp": "7148",
         "father": {
-          "name": "Forester´s Answer of Darkmoor",
+          "name": "Forester's Answer of Darkmoor",
           "father": {
             "name": "Laurelhach Encrypt",
             "father": {
@@ -2584,7 +2584,7 @@
             }
           },
           "mother": {
-            "name": "Courtier´s Catch my Heart",
+            "name": "Courtier's Catch my Heart",
             "father": {
               "name": "Triseter Ebonie Zeus",
               "father": {
@@ -2595,12 +2595,12 @@
               }
             },
             "mother": {
-              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "name": "Forester's Hot-Sensation of Darkmoor",
               "father": {
                 "name": "Warchant Twilight Bolero"
               },
               "mother": {
-                "name": "Forester´s Xinia of Darkmoor"
+                "name": "Forester's Xinia of Darkmoor"
               }
             }
           }
@@ -2687,14 +2687,14 @@
       "name": "Cobain Silesia Setter",
       "date_of_birth": "2022-05-21",
       "clp": "7150",
-      "father": "Forester´s Devils Answer of Darkmoor",
+      "father": "Forester's Devils Answer of Darkmoor",
       "mother": "Freya z Holubické stráně",
       "pedigree": {
         "breed": "GS",
         "sex": "male",
         "clp": "7150",
         "father": {
-          "name": "Forester´s Devils Answer of Darkmoor",
+          "name": "Forester's Devils Answer of Darkmoor",
           "father": {
             "name": "Laurelhach Encrypt",
             "father": {
@@ -2728,12 +2728,12 @@
               }
             },
             "mother": {
-              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "name": "Forester's Hot-Sensation of Darkmoor",
               "father": {
                 "name": "Warchant Twilight Bolero"
               },
               "mother": {
-                "name": "Forester´s Xinia of Darkmoor"
+                "name": "Forester's Xinia of Darkmoor"
               }
             }
           }

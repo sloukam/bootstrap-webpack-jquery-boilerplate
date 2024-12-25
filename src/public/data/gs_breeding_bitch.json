@@ -1207,9 +1207,9 @@
               }
             },
             "mother": {
-              "name": "Forester’s Nora-Jane of Darkmoor",
+              "name": "Forester's Nora-Jane of Darkmoor",
               "father": {
-                "name": "Forester’s Ironduke of Darkmoor"
+                "name": "Forester's Ironduke of Darkmoor"
               },
               "mother": {
                 "name": "Timberley van Monte di Angeli"
@@ -4126,16 +4126,16 @@
       "name": "Ayra Dorcanell",
       "date_of_birth": "2022-04-24",
       "clp": "7140",
-      "father": "Forester´s Xactly my boy of Darkmoor",
+      "father": "Forester's Xactly my boy of Darkmoor",
       "mother": "Revolution Breeze Smashing Pumpkin",
       "pedigree": {
         "breed": "GS",
         "sex": "female",
         "clp": "7140",
         "father": {
-          "name": "Forester´s Xactly my boy of Darkmoor",
+          "name": "Forester's Xactly my boy of Darkmoor",
           "father": {
-            "name": "Earth Fire from Fire´Sons Garden",
+            "name": "Earth Fire From Fire'Sons Garden",
             "father": {
               "name": "Boyers Shillow",
               "father": {
@@ -4167,12 +4167,12 @@
               }
             },
             "mother": {
-              "name": "Forester´s Hot-Sensation of Darkmoor",
+              "name": "Forester's Hot-Sensation of Darkmoor",
               "father": {
                 "name": "Warchant Twilight Bolero"
               },
               "mother": {
-                "name": "Forester´s Xinia of Darkmoor"
+                "name": "Forester's Xinia of Darkmoor"
               }
             }
           }
