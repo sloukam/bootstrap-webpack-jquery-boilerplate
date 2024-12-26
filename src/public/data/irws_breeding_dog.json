@@ -9,7 +9,7 @@
       "date_of_exclusion": "2022-05-26",
       "reason_of_exclusion": "na žádost majitele",
       "clp": "261",
-      "father": "Exlusive's Gypsyboy",
+      "father": "Exclusive's Gypsyboy",
       "mother": "Dreams Come True Shadow Dog",
       "body": {
         "height": "62",
@@ -39,7 +39,7 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": false,
-      "name": "RONY Z LUKOVSKÝCH LÁNU",
+      "name": "RONY Z LUKOVSKÝCH LÁNů",
       "date_of_birth": "2013-04-18",
       "date_vyrazeni": "2024-12-15",
       "duvod_vyrazeni": "uhyn",
@@ -62,7 +62,7 @@
               }
             },
             "mother": {
-              "name": "History's of Higland Audrey",
+              "name": "History's of Highland Audrey",
               "father": {
                 "name": "Exclusive's Querido"
               },
@@ -197,7 +197,7 @@
       "breed": "IRWS",
       "sex": "male",
       "visible": true,
-      "name": "LANAMOR ALPHA EDITION ANGELO",
+      "name": "Lanamore Alpha Edition Angelo",
       "date_of_birth": "2016-11-18",
       "clp": "376",
       "father": "Vistador Bohemian",
@@ -207,9 +207,9 @@
           "clp": "376",
           "name": "Vistador Bohemian",
           "father": {
-            "name": "Spyefire May Springs Rainbow",
+            "name": "Spyefire May Spring Rainbow",
             "father": {
-              "name": "Spyefire Pricelless",
+              "name": "Spyefire Priceless",
               "father": {
                 "name": "Cormallen Strike a Light with Spyefire "
               },
@@ -220,7 +220,7 @@
             "mother": {
               "name": "All That Jazz Among",
               "father": {
-                "name": "Tulamore Ted"
+                "name": "Tullamore Ted"
               },
               "mother": {
                 "name": "Laoirebay Midnicht Dreamer"
@@ -228,7 +228,7 @@
             }
           },
           "mother": {
-            "name": "United Spota Quicksilver",
+            "name": "United Spots Quicksilver",
             "father": {
               "name": "United Spots Nightwish",
               "father": {
@@ -268,7 +268,7 @@
                 "name": "Vanders Venatic Legend"
               },
               "mother": {
-                "name": "Caispern Godita Of Chayselt"
+                "name": "Caispem Godita Of Chayselt"
               }
             }
           },
@@ -327,7 +327,7 @@
       "date_of_birth": "2018-03-19",
       "clp": "353",
       "father": "Rolf z Lukovských lánů",
-      "mother": "Lucy Mc Gillicuddy‘s",
+      "mother": "Lucy Mc Gillicuddy's",
       "pedigree": {
         "father": {
           "clp": "273",
@@ -340,7 +340,7 @@
                 "name": "Cevin vom Duvenseer Moor"
               },
               "mother": {
-                "name": "History's of Highland  Audrey"
+                "name": "History's of Highland Audrey"
               }
             },
             "mother": {
@@ -365,7 +365,7 @@
               }
             },
             "mother": {
-              "name": "Peppesrtown Polly",
+              "name": "Pepperstown Polly",
               "father": {
                 "name": "Rushfield Rascal"
               },
@@ -496,7 +496,7 @@
                 "name": "Cormallen Moonlight Silver"
               },
               "mother": {
-                "name": "United Spots Mr. Jones"
+                "name": "United Spots Mrs Jones"
               }
             }
           }
@@ -577,7 +577,7 @@
       "date_of_birth": "2018-03-19",
       "clp": "349",
       "father": "Rolf z Lukovských lánů",
-      "mother": "Lucy Mc Gillicuddy‘s",
+      "mother": "Lucy Mc Gillicuddy's",
       "pedigree": {
         "father": {
           "clp": "273",
@@ -590,7 +590,7 @@
                 "name": "Cevin vom Duvenseer Moor"
               },
               "mother": {
-                "name": "History's of Highland  Audrey"
+                "name": "History's of Highland Audrey"
               }
             },
             "mother": {
@@ -615,7 +615,7 @@
               }
             },
             "mother": {
-              "name": "Peppesrtown Polly",
+              "name": "Pepperstown Polly",
               "father": {
                 "name": "Rushfield Rascal"
               },
@@ -730,7 +730,7 @@
             }
           },
           "mother": {
-            "name": "Jeroben Full of  Joy",
+            "name": "Jeroben Full of Joy",
             "father": {
               "name": "Dalriach Garryowen",
               "father": {
@@ -753,7 +753,7 @@
         },
         "mother": {
           "clp": "318",
-          "name": "Mc Gillicuddys Lucy",
+          "name": "Mc Gillicuddy's Lucy",
           "father": {
             "name": "Fanfan Du Val Des Mordorees",
             "father": {
@@ -766,7 +766,7 @@
               }
             },
             "mother": {
-              "name": "Swone Du Val Des Mordorees",
+              "name": "Swane Du Val Des Mordorees",
               "father": {
                 "name": "Exclusive'' Viscount"
               },
@@ -780,7 +780,7 @@
             "father": {
               "name": "Dalriach Rolling Stone",
               "father": {
-                "name": "Tulamore Troubador"
+                "name": "Tullamore Troubador"
               },
               "mother": {
                 "name": "Dalriach Geraldine"
@@ -901,7 +901,7 @@
               "father": {
                 "country": "KCSB",
                 "clp": "0187",
-                "name": "Tullamore TED"
+                "name": "Tullamore Ted"
               },
               "mother": {
                 "country": "KCSB",
@@ -946,7 +946,7 @@
               "mother": {
                 "country": "HR",
                 "clp": "10007",
-                "name": "Sinead Red NOKOMIS"
+                "name": "Sinead Red Nokomis"
               }
             }
           },
@@ -961,7 +961,7 @@
               "father": {
                 "country": "KCSB",
                 "clp": "3632",
-                "name": "VANDERS VERACITY"
+                "name": "Vanders Veracity"
               },
               "mother": {
                 "country": "KCRC",
@@ -1044,7 +1044,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "2658",
-                "name": "Laoirebay  All That Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {
@@ -1059,7 +1059,7 @@
               "mother": {
                 "country": "hr",
                 "clp": "10007",
-                "name": "Sinead Red NokomisBe"
+                "name": "Sinead Red Nokomis"
               }
             }
           },
@@ -1231,7 +1231,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "2658",
-                "name": "Laoirebay  All That Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {
@@ -1414,7 +1414,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "2658",
-                "name": "Laoirebay  All That Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {

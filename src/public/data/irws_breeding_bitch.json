@@ -26,7 +26,7 @@
               }
             },
             "mother": {
-              "name": "History's of Higland Audrey",
+              "name": "History's of Highland Audrey",
               "father": {
                 "name": "Exclusive's Querido"
               },
@@ -127,7 +127,7 @@
       "breed": "IRWS",
       "sex": "female",
       "visible": false,
-      "name": "LUCY MC GILLICUDDY‘S",
+      "name": "Lucy Mc Gillicuddy's",
       "date_of_birth": "2015-06-16",
       "date_vyrazeni": "2022-08-31",
       "duvod_vyrazeni": "vek",
@@ -285,7 +285,7 @@
       "breed": "IRWS",
       "sex": "female",
       "visible": false,
-      "name": "TERA Z LUKOVSKÝCH LÁNU",
+      "name": "Tera z Lukovských Lánů",
       "date_of_birth": "2015-10-03",
       "date_vyrazeni": "2022-08-31",
       "duvod_vyrazeni": "vek a byla uchonena jen na 2 vrhy a ty uz mela",
@@ -308,7 +308,7 @@
               }
             },
             "mother": {
-              "name": "History's of Higland Audrey",
+              "name": "History's of Highland Audrey",
               "father": {
                 "name": "Exclusive's Querido"
               },
@@ -564,10 +564,10 @@
             "mother": {
               "name": "Casafelice Charollais",
               "father": {
-                "name": "Vanders Venatic Legend at Oldestone"
+                "name": "Vanders Venatic Legend"
               },
               "mother": {
-                "name": "Calspem Godita of Chaysett"
+                "name": "Caispem Godita Of Chayselt"
               }
             }
           },
@@ -597,7 +597,7 @@
           "clp": "222",
           "name": "Redmore Debbie",
           "father": {
-            "name": "Keamey- Kea Red Nokomis",
+            "name": "KEARNEY-KEA Red Nokomis",
             "father": {
               "name": "United Spots Nightflame",
               "father": {
@@ -671,7 +671,7 @@
       "date_of_birth": "2018-03-19",
       "clp": "354",
       "father": "Rolf z Lukovských Lánů",
-      "mother": "Lucy Mc Gillicuddy‘s",
+      "mother": "Lucy Mc Gillicuddy's",
       "pedigree": {
         "father": {
           "clp": "273",
@@ -684,7 +684,7 @@
                 "name": "Cevin vom Duvenseer Moor"
               },
               "mother": {
-                "name": "History's of Highland  Audrey"
+                "name": "History's of Highland Audrey"
               }
             },
             "mother": {
@@ -709,7 +709,7 @@
               }
             },
             "mother": {
-              "name": "Peppesrtown Polly",
+              "name": "Pepperstown Polly",
               "father": {
                 "name": "Rushfield Rascal"
               },
@@ -812,11 +812,11 @@
             "father": {
               "country": "ČLP",
               "clp": "258",
-              "name": "Lohmann s Bernstein",
+              "name": "Lohmann's Bernstein",
               "father": {
                 "country": "VDH",
                 "clp": "07",
-                "name": "History s of Highland Baloú"
+                "name": "History's of Highland Baloú"
               },
               "mother": {
                 "country": "VDH",
@@ -843,7 +843,7 @@
           "mother": {
             "country": "ČLP",
             "clp": "318",
-            "name": "Mc Gillicuddys Lucy",
+            "name": "Mc Gillicuddy's Lucy",
             "father": {
               "country": "LOF",
               "clp": "79",
@@ -1014,7 +1014,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "3658",
-                "name": "Laoirebay All that Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {
@@ -1029,7 +1029,7 @@
               "mother": {
                 "country": "Hr",
                 "clp": "10007",
-                "name": "Sinehad Red Nokomis"
+                "name": "Sinead Red Nokomis"
               }
             }
           },
@@ -1076,11 +1076,11 @@
           "father": {
             "country": "čr",
             "clp": "258",
-            "name": "Lohmann's Bernsteln",
+            "name": "Lohmann's Bernstein",
             "father": {
               "country": "dpsz",
               "clp": "07",
-              "name": "History's of Eighland Baloú",
+              "name": "History's of Highland Baloú",
               "father": {
                 "country": "dpsz",
                 "clp": "4",
@@ -1089,7 +1089,7 @@
               "mother": {
                 "country": "dpsz",
                 "clp": "14",
-                "name": "History's of Higland Audrey"
+                "name": "History's of Highland Audrey"
               }
             },
             "mother": {
@@ -1104,7 +1104,7 @@
               "mother": {
                 "country": "ikc",
                 "clp": "27893",
-                "name": "Sheebkin Orla"
+                "name": "Sheebhin Orla"
               }
             }
           },
@@ -1196,7 +1196,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "3658",
-                "name": "Laoirebay All that Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {
@@ -1211,7 +1211,7 @@
               "mother": {
                 "country": "Hr",
                 "clp": "10007",
-                "name": "Sinehad Red Nokomis"
+                "name": "Sinead Red Nokomis"
               }
             }
           },
@@ -1258,11 +1258,11 @@
           "father": {
             "country": "čr",
             "clp": "258",
-            "name": "Lohmann's Bernsteln",
+            "name": "Lohmann's Bernstein",
             "father": {
               "country": "dpsz",
               "clp": "07",
-              "name": "History's of Eighland Baloú",
+              "name": "History's of Highland Baloú",
               "father": {
                 "country": "dpsz",
                 "clp": "4",
@@ -1271,7 +1271,7 @@
               "mother": {
                 "country": "dpsz",
                 "clp": "14",
-                "name": "History's of Higland Audrey"
+                "name": "History's of Highland Audrey"
               }
             },
             "mother": {
@@ -1286,7 +1286,7 @@
               "mother": {
                 "country": "ikc",
                 "clp": "27893",
-                "name": "Sheebkin Orla"
+                "name": "Sheebhin Orla"
               }
             }
           },
@@ -1373,7 +1373,7 @@
               "mother": {
                 "country": "kcsb",
                 "clp": "2658",
-                "name": "Laoirebay  All That Jazz Among Spyefire"
+                "name": "Laoirebay All That Jazz Among Spyefire"
               }
             },
             "mother": {
@@ -1388,7 +1388,7 @@
               "mother": {
                 "country": "hr",
                 "clp": "10007",
-                "name": "Sinead Red NokomisBe"
+                "name": "Sinead Red Nokomis"
               }
             }
           },
@@ -1581,7 +1581,7 @@
           "mother": {
             "country": "NHSB",
             "clp": "2890517",
-            "name": "Simply red and whit Abiageal",
+            "name": "Simply red and white Abiageal",
             "father": {
               "country": "NHSB",
               "clp": "2860043",
@@ -1660,7 +1660,7 @@
             "father": {
               "country": "CR",
               "clp": "113",
-              "name": "Dick  ze Skřípů",
+              "name": "Dick ze Skřípů",
               "father": {
                 "country": "cr",
                 "clp": "53",
@@ -1776,7 +1776,7 @@
             "father": {
               "country": "ohzb",
               "clp": "166",
-              "name": "Kearney -Kea Red Nokomis",
+              "name": "KEARNEY-KEA Red Nokomis",
               "father": {
                 "country": "SLR",
                 "clp": "2",
@@ -1800,7 +1800,7 @@
               "mother": {
                 "country": "ohzb",
                 "clp": "53",
-                "name": "Gigi Conqurerer of Hidden Irland"
+                "name": "Gigi Conquerer of Hidden Irland"
               }
             }
           }
@@ -1820,7 +1820,7 @@
               "father": {
                 "country": "vdh",
                 "clp": "07",
-                "name": "History of Highland Baloú"
+                "name": "History's of Highland Baloú"
               },
               "mother": {
                 "country": "vdh",
@@ -1860,7 +1860,7 @@
               "mother": {
                 "country": "lof",
                 "clp": "7",
-                "name": "Swane  Du Val Des Mordorees"
+                "name": "Swane Du Val Des Mordorees"
               }
             },
             "mother": {
