@@ -156,11 +156,11 @@
         "father": {
           "name": "Indian Boy Jay Slovak Base",
           "father": {
-            "name": "Garden Star's Irish-Vagabond",
+            "name": "Garden Star's Irish Vagabond",
             "father": {
               "name": "Xtullyowen of the Golden Vale",
               "father": {
-                "name": "New Lincare Old Fellow"
+                "name": "New Linacre Old Fellow"
               },
               "mother": {
                 "name": "Temptress of the Golden Vale"
@@ -281,11 +281,11 @@
       "breed": "IS",
       "sex": "male",
       "visible": false,
-      "name": "HRABIA Z ORSAKU CHROBREGO",
+      "name": "Hrabia z Orszaku Chrobrego",
       "date_of_birth": "2009-11-26",
       "clp": "15450",
       "father": "Kerrimere Winter Wine",
-      "mother": "Shadwell Absolutely All My Loving",
+      "mother": "Shadwell Absolutely All My Love",
       "pedigree": {
         "father": {
           "name": "Kerrimere Winter Wine",
@@ -333,7 +333,7 @@
           }
         },
         "mother": {
-          "name": "Shadwell Absolutely All My Loving",
+          "name": "Shadwell Absolutely All My Love",
           "father": {
             "name": "Erinade Extinguished",
             "father": {
@@ -372,7 +372,7 @@
                 "name": "Reddins Niall"
               },
               "mother": {
-                "name": "Wickenberrry Pretty Poll"
+                "name": "Wickenberry Pretty Poll"
               }
             }
           }
@@ -437,7 +437,7 @@
             "clp": "13749",
             "name": "Ballantines of Redweed",
             "father": {
-              "name": "Orstone Country Gentleman of Westerhuy",
+              "name": "Orstone Country Gentleman of Wester-Huy",
               "father": {
                 "name": "Konakakela Zagar by Romarne"
               },
@@ -446,7 +446,7 @@
               }
             },
             "mother": {
-              "name": "Murphy v.d. Westerhuy",
+              "name": "Murphy v.d. Wester-Huy",
               "father": {
                 "name": "VICARY'S PIPEPIPER"
               },
@@ -462,7 +462,7 @@
           "father": {
             "name": "Lochfrae Ralph Lauren",
             "father": {
-              "name": "Jonola Adnosi at Redchester",
+              "name": "Jonola Adonis at Redchester",
               "father": {
                 "name": "Dunnygask Aristotle"
               },
@@ -494,7 +494,7 @@
             "mother": {
               "name": "Logan v.d. Wester-Huy",
               "father": {
-                "name": "Armach Fenit v.d. Wester-huy"
+                "name": "Armach Fenit v.d. Wester-Huy"
               },
               "mother": {
                 "name": "Romarne Desire"
@@ -561,7 +561,7 @@
             "clp": "13749",
             "name": "Ballantines of Redweed",
             "father": {
-              "name": "Orstone Country Gentleman of Westerhuy",
+              "name": "Orstone Country Gentleman of Wester-Huy",
               "father": {
                 "name": "Konakakela Zagar by Romarne"
               },
@@ -570,7 +570,7 @@
               }
             },
             "mother": {
-              "name": "Murphy v.d. Westerhuy",
+              "name": "Murphy v.d. Wester-Huy",
               "father": {
                 "name": "VICARY'S PIPEPIPER"
               },
@@ -586,7 +586,7 @@
           "father": {
             "name": "Lochfrae Ralph Lauren",
             "father": {
-              "name": "Jonola Adnosi at Redchester",
+              "name": "Jonola Adonis at Redchester",
               "father": {
                 "name": "Dunnygask Aristotle"
               },
@@ -618,7 +618,7 @@
             "mother": {
               "name": "Logan v.d. Wester-Huy",
               "father": {
-                "name": "Armach Fenit v.d. Wester-huy"
+                "name": "Armach Fenit v.d. Wester-Huy"
               },
               "mother": {
                 "name": "Romarne Desire"
@@ -664,7 +664,7 @@
             "clp": "13162",
             "name": "Grosby z Lesinky",
             "father": {
-              "name": "Luxatori Glint Of Gold",
+              "name": "Luxatori Glint of Gold",
               "father": {
                 "name": "Dutch Little Flirt v.d. Westerhuy"
               },
@@ -726,7 +726,7 @@
                 "name": "Arkus vom Torsfeld"
               },
               "mother": {
-                "name": "Kokino Arisz"
+                "name": "Kokina Arisz"
               }
             },
             "mother": {
@@ -861,7 +861,7 @@
               }
             },
             "mother": {
-              "name": "Priscilla od Velkého dubu12735",
+              "name": "Priscilla od Velkého dubu",
               "father": {
                 "clp": "11312",
                 "name": "Ilsi od Velkého dubu"
@@ -988,7 +988,7 @@
               "clp": "13631",
               "name": "Ussure od Velkého dubu",
               "father": {
-                "name": "Orstone Country Gentleman od Westerhuy"
+                "name": "Orstone Country Gentleman of Wester-Huy"
               },
               "mother": {
                 "clp": "12735",
@@ -1078,11 +1078,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Paige of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -1200,11 +1200,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Paige of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -1317,88 +1317,40 @@
           "father": {
             "name": "Pendoric Foggy Perfection",
             "father": {
-              "name": "Setterlands Tamburello at Pendoric",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Setterlands Tamburello at Pendoric"
             },
             "mother": {
-              "name": "Pendoric Fire Anythyme",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Pendoric Fire Anythyme"
             }
           },
           "mother": {
             "name": "Applegrove Look At Me I'm Natalie",
             "father": {
-              "name": "Grove Creek's Xtreme Quick Blow",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Grove Creek's Xtreme Quick Blow"
             },
             "mother": {
-              "name": "Fairhaven Brown Eyed Girl",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Fairhaven Brown Eyed Girl"
             }
           }
         },
         "mother": {
-          "name": "Karmino Made Impprovisation",
+          "name": "Karmino Made Improvisation",
           "father": {
             "name": "Karmino Made Fanfan La Tulipe",
             "father": {
-              "name": "Dubliner Wallstreet",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Dubliner Wallstreet"
             },
             "mother": {
-              "name": "Karmino Chiquita",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Karmino Chiquita"
             }
           },
           "mother": {
             "name": "Karmino Made Enigma",
             "father": {
-              "name": "Gwyndara Double Impact",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Gwyndara Double Impact"
             },
             "mother": {
-              "name": "Chic Choix East of Eden",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Chic Choix East of Eden"
             }
           }
         }
@@ -1447,11 +1399,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Paige of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Same Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -1486,7 +1438,7 @@
           "clp": "15042",
           "name": "Ashley Punk Mahagony Paw",
           "father": {
-            "name": "VICARY'S COBACABAMA",
+            "name": "Vicary's Cobacabama",
             "father": {
               "name": "Clonageera Limited Edition",
               "father": {
@@ -1570,10 +1522,10 @@
             "father": {
               "name": "Thendara Don Corleone",
               "father": {
-                "name": "Scarletti Smoothe Criminal"
+                "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Palge of Thedara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
@@ -1589,9 +1541,9 @@
           "mother": {
             "name": "Thendara Vanilla Ice",
             "father": {
-              "name": "Thendara Kromer",
+              "name": "Thendara Kramer",
               "father": {
-                "name": "Scotselaw Detroit Spiner by Thendara"
+                "name": "Scotselaw Detroit Spinner By Thendara"
               },
               "mother": {
                 "name": "Thendara Miss Dior"
@@ -1631,7 +1583,7 @@
               },
               "mother": {
                 "clp": "11603",
-                "name": "Princes Carolina Irsal"
+                "name": "Princess Carolina Irsal"
               }
             }
           },
@@ -1642,7 +1594,7 @@
               "clp": "13631",
               "name": "Ussure od Velkého dubu",
               "father": {
-                "name": "Orstone Country Gentleman of Westerhuy"
+                "name": "Orstone Country Gentleman of Wester-Huy"
               },
               "mother": {
                 "clp": "11658",
@@ -1713,10 +1665,10 @@
               "clp": "13749",
               "name": "Ballantines of Redweed",
               "father": {
-                "name": "Orstone Country Gentleman of Westerhuy"
+                "name": "Orstone Country Gentleman of Wester-Huy"
               },
               "mother": {
-                "name": "Murphy v.d. Westerhuy"
+                "name": "Murphy v.d. Wester-Huy"
               }
             }
           },
@@ -1738,7 +1690,7 @@
                 "name": "Sametsuz Mak´N Good"
               },
               "mother": {
-                "name": "Logan v.d. Wester_Huy"
+                "name": "Logan v.d. Wester-Huy"
               }
             }
           }
@@ -1747,7 +1699,7 @@
           "clp": "15043",
           "name": "Assonance Mahagony Paw",
           "father": {
-            "name": "VICARY'S COBACABAMA",
+            "name": "Vicary's Cobacabama",
             "father": {
               "name": "Clonageera Limited Edition",
               "father": {
@@ -1838,7 +1790,7 @@
             "clp": "13830",
             "name": "Irr z Lesinky",
             "father": {
-              "name": "Scirrocco's Norton The Red Destiny",
+              "name": "Scirocco's Norton The Red Destiny",
               "father": {
                 "name": "Arkus vom Torsfeld"
               },
@@ -1850,7 +1802,7 @@
               "clp": "13167",
               "name": "Gloria z Lesinky",
               "father": {
-                "name": "Luxatori Glint Of Gold"
+                "name": "Luxatori Glint of Gold"
               },
               "mother": {
                 "clp": "12114",
@@ -1892,21 +1844,21 @@
           "father": {
             "name": "Russell's Kismet",
             "father": {
-              "name": "Saeterelva s Russell",
+              "name": "Saeterelva's Russell",
               "father": {
                 "name": "Hav Gas Arco"
               },
               "mother": {
-                "name": "Saeterelva s Trom-So"
+                "name": "Saeterelva's Trom-So"
               }
             },
             "mother": {
               "name": "Highteather Raise",
               "father": {
-                "name": "Kulana Oismet s Rhuzara"
+                "name": "Kulana Oismet's Rhuzara"
               },
               "mother": {
-                "name": "Russell s Roxy roller"
+                "name": "Russell's Roxy roller"
               }
             }
           },
@@ -1978,7 +1930,7 @@
                 "name": "Arkus vom Torsfeld"
               },
               "mother": {
-                "name": "Kokino Arisz"
+                "name": "Kokina Arisz"
               }
             },
             "mother": {
@@ -1986,7 +1938,7 @@
               "name": "Usty z Hradiska Rájce",
               "father": {
                 "clp": "12707",
-                "name": "Scandal v.d. Wester-huy"
+                "name": "Scandal v.d. Wester-Huy"
               },
               "mother": {
                 "clp": "11871",
@@ -2035,7 +1987,7 @@
                 "name": "Hubertus Vulkan vom Söhrenberg"
               },
               "mother": {
-                "name": "Huberrtus Umbra vom Söhrenberg"
+                "name": "Hubertus Umbra vom Söhrenberg"
               }
             },
             "mother": {
@@ -2110,7 +2062,7 @@
         "father": {
           "name": "Cordarragh Picasso",
           "father": {
-            "name": "Scotselaw Detroit Spinner by Thendara",
+            "name": "Scotselaw Detroit Spinner By Thendara",
             "father": {
               "name": "Thendara The Tourist",
               "father": {
@@ -2156,7 +2108,7 @@
           "clp": "15446",
           "name": "Artemis Elimar Doubrava",
           "father": {
-            "name": "Garden Star's Irish-Vagabond",
+            "name": "Garden Star's Irish Vagabond",
             "father": {
               "name": "Xtullyowen of the Golden Vale",
               "father": {
@@ -2235,7 +2187,7 @@
         "father": {
           "name": "Cordarragh Picasso",
           "father": {
-            "name": "Scotselaw Detroit Spinner by Thendara",
+            "name": "Scotselaw Detroit Spinner By Thendara",
             "father": {
               "name": "Thendara The Tourist",
               "father": {
@@ -2281,7 +2233,7 @@
           "clp": "15446",
           "name": "Artemis Elimar Doubrava",
           "father": {
-            "name": "Garden Star's Irish-Vagabond",
+            "name": "Garden Star's Irish Vagabond",
             "father": {
               "name": "Xtullyowen of the Golden Vale",
               "father": {
@@ -2365,7 +2317,7 @@
                 "name": "Lochfrae Ralph Lauren"
               },
               "mother": {
-                "name": "Jonola Bellstar"
+                "name": "Jonola Bellestar"
               }
             },
             "mother": {
@@ -2426,7 +2378,7 @@
               },
               "mother": {
                 "clp": "11156",
-                "name": "Bernardetta Mahagon Moravia"
+                "name": "Bernadetta Mahagon Moravia"
               }
             }
           },
@@ -2434,12 +2386,12 @@
             "clp": "13941",
             "name": "Vanilka z Hradiska Rájce",
             "father": {
-              "name": "Kris Wonderstar von der Igallfy-Igaly",
+              "name": "Kris-Wonderstar von der Igalffy-Igaly",
               "father": {
                 "name": "Arkus vom Torsfeld"
               },
               "mother": {
-                "name": "Kokino Arisz"
+                "name": "Kokina Arisz"
               }
             },
             "mother": {
@@ -2539,7 +2491,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like it Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -2620,11 +2572,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Page Of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -2634,7 +2586,7 @@
             }
           },
           "mother": {
-            "name": "Garden Star's Light Yoghurt",
+            "name": "Garden Star's Light Joghurt",
             "father": {
               "name": "Ardan of Funny Home",
               "father": {
@@ -2659,7 +2611,7 @@
           "clp": "15043",
           "name": "Assonance Mahagony Paw",
           "father": {
-            "name": "VICARY'S COBACABAMA",
+            "name": "Vicary's Cobacabama",
             "father": {
               "name": "Clonageera Limited Edition",
               "father": {
@@ -2686,7 +2638,7 @@
               "clp": "14067",
               "name": "Dorian Grey Jenny's Irsal",
               "father": {
-                "name": "Kris-WonderStar von der Igalffy-Igaly"
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
               "mother": {
                 "clp": "13335",
@@ -2702,7 +2654,7 @@
               },
               "mother": {
                 "clp": "11658",
-                "name": "Princess carolina Irsal"
+                "name": "Princess Carolina Irsal"
               }
             }
           }
@@ -2746,11 +2698,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Page Of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -2760,7 +2712,7 @@
             }
           },
           "mother": {
-            "name": "Garden Star's Light Yoghurt",
+            "name": "Garden Star's Light Joghurt",
             "father": {
               "name": "Ardan of Funny Home",
               "father": {
@@ -2785,7 +2737,7 @@
           "clp": "15043",
           "name": "Assonance Mahagony Paw",
           "father": {
-            "name": "VICARY'S COBACABAMA",
+            "name": "Vicary's Cobacabama",
             "father": {
               "name": "Clonageera Limited Edition",
               "father": {
@@ -2812,7 +2764,7 @@
               "clp": "14067",
               "name": "Dorian Grey Jenny's Irsal",
               "father": {
-                "name": "Kris-WonderStar von der Igalffy-Igaly"
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
               "mother": {
                 "clp": "13335",
@@ -2828,7 +2780,7 @@
               },
               "mother": {
                 "clp": "11658",
-                "name": "Princess carolina Irsal"
+                "name": "Princess Carolina Irsal"
               }
             }
           }
@@ -2921,7 +2873,7 @@
               "clp": "13940",
               "name": "Vesuv z Hradiska rájce",
               "father": {
-                "name": "Kris-Wonderstar von der Idalffy-Igaly"
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
               "mother": {
                 "clp": "13195",
@@ -3011,11 +2963,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Page Of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -3025,7 +2977,7 @@
             }
           },
           "mother": {
-            "name": "Garden Star's Light Yoghurt",
+            "name": "Garden Star's Light Joghurt",
             "father": {
               "name": "Ardan of Funny Home",
               "father": {
@@ -3050,7 +3002,7 @@
           "clp": "15446",
           "name": "Artemis Elimar Doubrava",
           "father": {
-            "name": "Garden Star's Irish-Vagabond",
+            "name": "Garden Star's Irish Vagabond",
             "father": {
               "name": "Xtullyowen of the Golden Vale",
               "father": {
@@ -3139,11 +3091,11 @@
                 "name": "Scarletti Smooth Criminal"
               },
               "mother": {
-                "name": "Greer Page Of Thendara"
+                "name": "Greer Paige Of Thendara"
               }
             },
             "mother": {
-              "name": "Jonola Some Like It Hot At Sumaric",
+              "name": "Jonola Some Like it Hot at Sumaric",
               "father": {
                 "name": "Jonola Jack Daniels"
               },
@@ -3153,7 +3105,7 @@
             }
           },
           "mother": {
-            "name": "Garden Star's Light Yoghurt",
+            "name": "Garden Star's Light Joghurt",
             "father": {
               "name": "Ardan of Funny Home",
               "father": {
@@ -3178,7 +3130,7 @@
           "clp": "15446",
           "name": "Artemis Elimar Doubrava",
           "father": {
-            "name": "Garden Star's Irish-Vagabond",
+            "name": "Garden Star's Irish Vagabond",
             "father": {
               "name": "Xtullyowen of the Golden Vale",
               "father": {
@@ -3306,23 +3258,23 @@
           "clp": "15404",
           "name": "Bereta Apoli Gwen",
           "father": {
-            "name": "Russell s Kismet",
+            "name": "Russell's Kismet",
             "father": {
-              "name": "Saeterelva s Russell",
+              "name": "Saeterelva's Russell",
               "father": {
                 "name": "Hav Gas Arco"
               },
               "mother": {
-                "name": "Saeterelva s Trom-So"
+                "name": "Saeterelva's Trom-So"
               }
             },
             "mother": {
               "name": "Highteather Raise",
               "father": {
-                "name": "Kulana Oismet s Rhuzara"
+                "name": "Kulana Oismet's Rhuzara"
               },
               "mother": {
-                "name": "Russell s Roxy roller"
+                "name": "Russell's Roxy roller"
               }
             }
           },
@@ -3393,7 +3345,7 @@
               "clp": "13162",
               "name": "Grosby z Lesinky",
               "father": {
-                "name": "Luxatori Glint Ot Gold"
+                "name": "Luxatori Glint of Gold"
               },
               "mother": {
                 "clp": "12114",
@@ -3447,21 +3399,21 @@
           "father": {
             "name": "Russell's Kismet",
             "father": {
-              "name": "Saeterelva s Russell",
+              "name": "Saeterelva's Russell",
               "father": {
                 "name": "Hav Gas Arco"
               },
               "mother": {
-                "name": "Saeterelva s Trom-So"
+                "name": "Saeterelva's Trom-So"
               }
             },
             "mother": {
               "name": "Highteather Raise",
               "father": {
-                "name": "Kulana Oismet s Rhuzara"
+                "name": "Kulana Oismet's Rhuzara"
               },
               "mother": {
-                "name": "Russell s Roxy roller"
+                "name": "Russell's Roxy roller"
               }
             }
           },
@@ -3534,7 +3486,7 @@
             "father": {
               "name": "Pendoric Foggy Perfection",
               "father": {
-                "name": "Setterlands Tamburello At Pendoric"
+                "name": "Setterlands Tamburello at Pendoric"
               },
               "mother": {
                 "name": "Pendoric Fire Anythyme"
@@ -3828,7 +3780,7 @@
             "clp": "15446",
             "name": "Artemis Elimar Doubrava",
             "father": {
-              "name": "Garden Star's Irish-Vagabond",
+              "name": "Garden Star's Irish Vagabond",
               "father": {
                 "name": "Xtullyowen of the Golden Vale"
               },
@@ -3854,21 +3806,21 @@
           "father": {
             "name": "Russell's Kismet",
             "father": {
-              "name": "Saeterelva s Russell",
+              "name": "Saeterelva's Russell",
               "father": {
                 "name": "Hav Gas Arco"
               },
               "mother": {
-                "name": "Saeterelva s Trom-So"
+                "name": "Saeterelva's Trom-So"
               }
             },
             "mother": {
               "name": "Highteather Raise",
               "father": {
-                "name": "Kulana Oismet s Rhuzara"
+                "name": "Kulana Oismet's Rhuzara"
               },
               "mother": {
-                "name": "Russell s Roxy roller"
+                "name": "Russell's Roxy roller"
               }
             }
           },
@@ -3994,7 +3946,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -4136,7 +4088,7 @@
             "clp": "15043",
             "name": "Assonance Mahagony Paw",
             "father": {
-              "name": "VICARY'S COBACABAMA",
+              "name": "Vicary's Cobacabama",
               "father": {
                 "name": "Clonageera Limited Edition"
               },
@@ -4169,7 +4121,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -4242,43 +4194,19 @@
           "father": {
             "name": "Chase Cinnamon's",
             "father": {
-              "name": "Copper's Champagne On Ice",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Copper's Champagne On Ice"
             },
             "mother": {
-              "name": "Banthi Cinammon's",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Banthi Cinammon's"
             }
           },
           "mother": {
             "name": "Dubliner Valkyria",
             "father": {
-              "name": "Dubliner Mac Mio",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Dubliner Mac Mio"
             },
             "mother": {
-              "name": "Kanelin Hurrah Dubliner",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Kanelin Hurrah Dubliner"
             }
           }
         },
@@ -4287,43 +4215,19 @@
           "father": {
             "name": "Pendoric Foggy Perfection",
             "father": {
-              "name": "Setterlands Tamburello at Pendoric",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Setterlands Tamburello at Pendoric"
             },
             "mother": {
-              "name": "Pendoric Fire Anythyme",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Pendoric Fire Anythyme"
             }
           },
           "mother": {
             "name": "Caemgen's Dark´N Dashing",
             "father": {
-              "name": "Garden Star's Billion Dolar",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Garden Star's Billion Dolar"
             },
             "mother": {
-              "name": "Caemgen's Butterflies in Winter",
-              "father": {
-                "name": "xxx xxx"
-              },
-              "mother": {
-                "name": "xxx xxx"
-              }
+              "name": "Caemgen's Butterflies in Winter"
             }
           }
         }
@@ -4390,13 +4294,13 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
               "name": "Thendara Capriati",
               "father": {
-                "name": "Scotselaw Detroit Spinner by Thendara"
+                "name": "Scotselaw Detroit Spinner By Thendara"
               },
               "mother": {
                 "name": "Thendara Miss Dior"
@@ -4415,7 +4319,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -4432,7 +4336,7 @@
             "clp": "15043",
             "name": "Assonance Mahagony Paw",
             "father": {
-              "name": "VICARY'S COBACABAMA",
+              "name": "Vicary's Cobacabama",
               "father": {
                 "name": "Clonageera Limited Edition"
               },
@@ -4519,13 +4423,13 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
               "name": "Thendara Capriati",
               "father": {
-                "name": "Scotselaw Detroit Spinner by Thendara"
+                "name": "Scotselaw Detroit Spinner By Thendara"
               },
               "mother": {
                 "name": "Thendara Miss Dior"
@@ -4544,7 +4448,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -4561,7 +4465,7 @@
             "clp": "15043",
             "name": "Assonance Mahagony Paw",
             "father": {
-              "name": "VICARY'S COBACABAMA",
+              "name": "Vicary's Cobacabama",
               "father": {
                 "name": "Clonageera Limited Edition"
               },
@@ -4681,7 +4585,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -4769,7 +4673,7 @@
       "name": "ATYLA WARRIOR MAHAGONY PAW",
       "date_of_birth": "2007-12-26",
       "clp": "15037",
-      "father": "VICARY'S COBACABAMA",
+      "father": "Vicary's Cobacabama",
       "mother": "Country Melody Jenny's Irsal",
       "body": {
         "HD": "A",
@@ -4797,7 +4701,7 @@
       "name": "WALTER REDWEED",
       "date_of_birth": "2012-09-20",
       "clp": "15774",
-      "father": "Garden Star ́s Royal Legend",
+      "father": "Garden Star's Royal Legend",
       "mother": "Isabel Montefigueiras",
       "body": {
         "HD": "C"
@@ -4822,7 +4726,7 @@
       "breed": "IS",
       "sex": "male",
       "visible": true,
-      "name": "UNIVERSE OF NEVER-ENDING ADVENTURE ALL IRISH GOLD",
+      "name": "Universe of Never-Ending Adventure All Irish Gold",
       "date_of_birth": "2019-01-05",
       "clp": "16711",
       "father": "Oakdene Que Du Bonheur",
@@ -4831,7 +4735,7 @@
         "father": {
           "name": "Oakdene Que du Bonheur",
           "father": {
-            "name": "Jonola Dr Doolittle",
+            "name": "Jonola Dr. Doolittle",
             "father": {
               "name": "Lochfrae Ralph Lauren",
               "father": {
@@ -4842,7 +4746,7 @@
               }
             },
             "mother": {
-              "name": "Jonola Bellstar",
+              "name": "Jonola Bellestar",
               "father": {
                 "name": "Jonola Southern Connection"
               },
@@ -4868,7 +4772,7 @@
                 "name": "Thendara Frozen Asset"
               },
               "mother": {
-                "name": "Mayfred Mrs Robinson"
+                "name": "Mayfred Mrs. Robinson"
               }
             }
           }
@@ -4908,7 +4812,7 @@
               }
             },
             "mother": {
-              "name": "Mayfred Mrs Robinson",
+              "name": "Mayfred Mrs. Robinson",
               "father": {
                 "name": "Sumaric Shadow of Mr. Jingles"
               },
@@ -4965,7 +4869,7 @@
                 "name": "Asoftwind of the Golden Vale"
               },
               "mother": {
-                "name": "Dublner Imagine"
+                "name": "Dubliner Imagine"
               }
             },
             "mother": {
@@ -5011,7 +4915,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot At Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -5030,7 +4934,7 @@
             "father": {
               "name": "Garden Star's Irish Vagabond",
               "father": {
-                "name": "XTULLYOWEN OF THE GOLDEN VALE"
+                "name": "Xtullyowen of the Golden Vale"
               },
               "mother": {
                 "name": "Garden Star's Bonnie Tyler"
@@ -5263,7 +5167,7 @@
             "clp": "13965",
             "name": "Stamboek Redweed",
             "father": {
-              "name": "Orstone Country Gentleman of Westerhuy",
+              "name": "Orstone Country Gentleman of Wester-Huy",
               "father": {
                 "name": "Konakakela Zagar by Romarne"
               },
@@ -5301,7 +5205,7 @@
                 "name": "Sametsuz Mak´N Good"
               },
               "mother": {
-                "name": "Logan v.d. Westerhuy"
+                "name": "Logan v.d. Wester-Huy"
               }
             }
           }
@@ -5397,7 +5301,7 @@
             "clp": "13965",
             "name": "Stamboek Redweed",
             "father": {
-              "name": "Orstone Country Gentleman of Westerhuy",
+              "name": "Orstone Country Gentleman of Wester-Huy",
               "father": {
                 "name": "Konakakela Zagar by Romarne"
               },
@@ -5435,7 +5339,7 @@
                 "name": "Sametsuz Mak´N Good"
               },
               "mother": {
-                "name": "Logan v.d. Westerhuy"
+                "name": "Logan v.d. Wester-Huy"
               }
             }
           }
@@ -5484,7 +5388,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -5504,7 +5408,7 @@
               "clp": "14067",
               "name": "Dorian Grey Jenny's Irsal",
               "father": {
-                "name": "Kris Wonderstar von der Igalffy-Igaly"
+                "name": "Kris-Wonderstar von der Igalffy-Igaly"
               },
               "mother": {
                 "clp": "13335",
@@ -5535,11 +5439,11 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
-              "name": "Garden Star's Light Youghurt",
+              "name": "Garden Star's Light Joghurt",
               "father": {
                 "name": "Ardan of Funny Home"
               },
@@ -5621,7 +5525,7 @@
                 "name": "Thendara Don Corleone"
               },
               "mother": {
-                "name": "Jonola Some Like It Hot at Sumaric"
+                "name": "Jonola Some Like it Hot at Sumaric"
               }
             },
             "mother": {
@@ -5642,7 +5546,7 @@
                 "name": "Lochfrae Ralph Lauren"
               },
               "mother": {
-                "name": "Jonola Bellstar"
+                "name": "Jonola Bellestar"
               }
             },
             "mother": {
@@ -5667,7 +5571,7 @@
                 "name": "SUMARIC SHADOW OF MR. JINGLES "
               },
               "mother": {
-                "name": "Garden Star's Light Yoghurt"
+                "name": "Garden Star's Light Joghurt"
               }
             },
             "mother": {
@@ -5697,7 +5601,7 @@
                 "name": "Garden Star's Gentleman"
               },
               "mother": {
-                "name": "Garden Star's Light Yoghurt"
+                "name": "Garden Star's Light Joghurt"
               }
             }
           }
@@ -5773,7 +5677,7 @@
                 "name": "Saeterelva's Russell"
               },
               "mother": {
-                "name": "Highfeather Raise´n a Ruckus"
+                "name": "Highfeather Raise'n a Ruckus"
               }
             },
             "mother": {
@@ -5970,7 +5874,7 @@
                 "name": "Saeterelva's Russell"
               },
               "mother": {
-                "name": "Highfeather Raise´n a Ruckus"
+                "name": "Highfeather Raise'n a Ruckus"
               }
             },
             "mother": {
@@ -6064,7 +5968,7 @@
                 "name": "Saeterelva's Russell"
               },
               "mother": {
-                "name": "Highfeather Raise´n a Ruckus"
+                "name": "Highfeather Raise'n a Ruckus"
               }
             },
             "mother": {
@@ -6089,7 +5993,7 @@
             "father": {
               "name": "Hubertus Zobel vom Söhrenberg",
               "father": {
-                "name": "Hubertus Vulkan vom Sohrenberg"
+                "name": "Hubertus Vulkan vom Söhrenberg"
               },
               "mother": {
                 "name": "Hubertus Umbra vom Söhrenberg"
@@ -6199,12 +6103,12 @@
             "clp": "15405",
             "name": "Brela Apoli Gwen",
             "father": {
-              "name": "Russel's Kismet",
+              "name": "Russell's Kismet",
               "father": {
-                "name": "Saetereiva's Russel"
+                "name": "Saeterelva's Russell"
               },
               "mother": {
-                "name": "Highfeather Raise´n a Ruckus"
+                "name": "Highfeather Raise'n a Ruckus"
               }
             },
             "mother": {
@@ -6343,7 +6247,7 @@
                 "name": "Saeterelva's Russell"
               },
               "mother": {
-                "name": "Highfeather Raise´n a Ruckus"
+                "name": "Highfeather Raise'n a Ruckus"
               }
             },
             "mother": {
