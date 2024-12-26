@@ -69,7 +69,7 @@
       "name": "ARAMIS Z VINNÝCH TRATÍ",
       "date_of_birth": "2009-09-09",
       "clp": "10615",
-      "father": "Ort z Měšínské hájovny",
+      "father": "Ort z Mešinské Hájovny",
       "mother": "Dorotka z Černých blat",
       "body": {
         "height": "63",
@@ -210,7 +210,7 @@
             "mother": {
               "name": "Dama del Biondo",
               "father": {
-                "name": "Roi del Biondo"
+                "name": "Rol del Biondo"
               },
               "mother": {
                 "name": "Emy del Biondo"
@@ -219,7 +219,7 @@
           },
           "mother": {
             "clp": "9166",
-            "name": "Ina z Lukovských lánů",
+            "name": "Ina z Lukavských lánů",
             "father": {
               "clp": "8691",
               "name": "Hak z Cechu",
@@ -505,7 +505,7 @@
                 "name": "MICK-JAGGER OD JUCE"
               },
               "mother": {
-                "name": "AJKA"
+                "name": "AJÅ A"
               }
             },
             "mother": {
@@ -558,7 +558,7 @@
           "father": {
             "name": "FUGELERE ICE KOVET SAREGRES",
             "father": {
-              "name": "SAREGRESI SPEEDY SNOWMANN"
+              "name": "Sáregresi Speedy Snowman"
             },
             "mother": {
               "name": "HYBORN  HIDDEN GEM OF FUGELERE ET"
@@ -628,7 +628,7 @@
       "datum_vyrazeni": "2024-10-23",
       "duvod_vyrazeni": "stri",
       "clp": "11088",
-      "father": "Kord z Měšínské hájovny,",
+      "father": "Kord z Měšínské hájovny",
       "mother": "Orka z Krzáku",
       "body": {
         "height": "62",
@@ -1005,7 +1005,7 @@
         "mother": {
           "name": "Pawprint Flaming Soul",
           "father": {
-            "name": "Sáregresi Pointerland-Atos",
+            "name": "Sáregresi POINTERLAND Athos",
             "father": {
               "name": "Csillaghegyi Foltos Izidor",
               "father": {
@@ -1102,7 +1102,7 @@
             }
           },
           "mother": {
-            "name": "Miss  Vom Muckenborn",
+            "name": "Miss Vom Muckenborn",
             "father": {
               "name": "Palaziensis Ugo",
               "father": {
@@ -1126,7 +1126,7 @@
         "mother": {
           "name": "Pawprint Flaming Soul",
           "father": {
-            "name": "Sáregresi Pointerland-Athos",
+            "name": "Sáregresi POINTERLAND Athos",
             "father": {
               "name": "Csillaghegyi Foltos Izidor",
               "father": {
@@ -1288,7 +1288,7 @@
       "date_of_birth": "2019-02-18",
       "date_of_stud": "2022-05-01",
       "clp": "11589",
-      "father": "Sáregresi Pointerland Athos",
+      "father": "Sáregresi POINTERLAND Athos",
       "mother": "Apache ze Štípek",
       "body": {
         "height": "63",
@@ -1634,7 +1634,7 @@
       "date_of_birth": "2021-06-18",
       "clp": "11885",
       "father": "Adon del WinePoint",
-      "mother": "Agata from WinePoint  Natyave Grove",
+      "mother": "Agata from WinePoint Natyave Grove",
       "body": {
         "height": "66",
         "color": "oranžovobílá",
@@ -1789,7 +1789,6 @@
         "last_name": "Cífková"
       }
     }
-
   ]
 }
 

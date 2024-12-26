@@ -4,7 +4,7 @@
       "breed": "POI",
       "sex": "female",
       "visible": false,
-      "name": "PORTA WK – SB",
+      "name": "PORTA WK–SB",
       "date_of_birth": "2011-04-27",
       "clp": "10885",
       "father": "Pluto z Knollovy školy",
@@ -233,7 +233,7 @@
             "father": {
               "name": "Owest del Sole",
               "father": {
-                "name": "Ribot della Noce"
+                "name": "Robot della Noce"
               },
               "mother": {
                 "name": "Atena del Sole"
@@ -395,7 +395,7 @@
       "date_of_birth": "2013-05-22",
       "datum_vyrazeni": "2023-07-19",
       "clp": "10958",
-      "father": "Ort z Měšínské hájovny",
+      "father": "Ort z Mešinské Hájovny",
       "mother": "Lea ze Srnína",
       "pedigree": {
         "father": {
@@ -403,7 +403,7 @@
           "name": "Ort z Mešinské Hájovny",
           "father": {
             "clp": "9525",
-            "name": "Ford z Mešinské Hájovny",
+            "name": "Ford z Mešinské hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
@@ -418,10 +418,10 @@
             },
             "mother": {
               "clp": "8688",
-              "name": "Moly z KunÅ¡tÃ¡tskÃ½ch lesÅ¯",
+              "name": "Moly z Kunštátských lesů",
               "father": {
                 "clp": "7610",
-                "name": "Mat ze SeÄ e"
+                "name": "Mat ze Seče"
               },
               "mother": {
                 "clp": "8234",
@@ -431,7 +431,7 @@
           },
           "mother": {
             "clp": "9166",
-            "name": "Ina z LukavskÃ½ch lÃ¡nÅ¯",
+            "name": "Ina z Lukavských lánů",
             "father": {
               "clp": "8691",
               "name": "Hak z Cechu",
@@ -453,14 +453,14 @@
               },
               "mother": {
                 "clp": "7417",
-                "name": "Nela z LukavskÃ½ch lÃ¡nÅ¯"
+                "name": "Nela z Lukovských lánů"
               }
             }
           }
         },
         "mother": {
           "clp": "10419",
-          "name": "Lea ze SrnÃ­na",
+          "name": "Lea ze Srnína",
           "father": {
             "clp": "8978",
             "name": "Holan z Tismenic",
@@ -473,7 +473,7 @@
               },
               "mother": {
                 "clp": "6804",
-                "name": "Hi-Fi z LuÅ¾ickÃ© strÃ¡nÄ›"
+                "name": "Hi-fi z Nuzické stráně"
               }
             },
             "mother": {
@@ -491,7 +491,7 @@
           },
           "mother": {
             "clp": "9369",
-            "name": "InÅ¾a ze SrnÃ­na",
+            "name": "Inža ze Srnína",
             "father": {
               "clp": "9089",
               "name": "Filip z Dolnic",
@@ -749,7 +749,7 @@
             "mother": {
               "name": "Dama del Biondo",
               "father": {
-                "name": "Roi del Biondo"
+                "name": "Rol del Biondo"
               },
               "mother": {
                 "name": "Emy del Biondo"
@@ -790,7 +790,7 @@
           "name": "Karen od Nezdickéo potoka",
           "father": {
             "clp": "9525",
-            "name": "Ford z Mešínské hájovny",
+            "name": "Ford z Mešinské hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
@@ -903,7 +903,7 @@
               },
               "mother": {
                 "clp": "8234",
-                "name": "Linka z Čertovy zmoly"
+                "name": "Linka z Čertovy smoly"
               }
             }
           },
@@ -1038,10 +1038,10 @@
           "name": "Aramis z Vinných tratí",
           "father": {
             "clp": "10054",
-            "name": "Ort z Mešínské hájovny",
+            "name": "Ort z Mešinské hájovny",
             "father": {
               "clp": "9525",
-              "name": "Ford z Mešínské hájovny",
+              "name": "Ford z Mešinské hájovny",
               "father": {
                 "clp": "9832",
                 "name": "Iran z Cechu"
@@ -1093,7 +1093,7 @@
         },
         "mother": {
           "clp": "10741",
-          "name": "Juka z Mešínské hájovny",
+          "name": "Juka z Mešinské hájovny",
           "father": {
             "name": "Panter Wilczy Raj",
             "father": {
@@ -1120,7 +1120,7 @@
           },
           "mother": {
             "clp": "9927",
-            "name": "Larga z Mešínské hájovny",
+            "name": "Larga z Mešinské hájovny",
             "father": {
               "name": "Max v.d. Ebershohe",
               "father": {
@@ -1132,14 +1132,14 @@
             },
             "mother": {
               "clp": "9309",
-              "name": "Citra z Mešínské hájovny",
+              "name": "Citra z Mešinské hájovny",
               "father": {
                 "clp": "8932",
                 "name": "Iran z Cechu"
               },
               "mother": {
                 "clp": "8688",
-                "name": "Molly z Kunštátských lesů"
+                "name": "Moly z Kunštátských lesů"
               }
             }
           }
@@ -1416,7 +1416,7 @@
           "name": "Karen od Nezdického potoka",
           "father": {
             "clp": "9525",
-            "name": "Ford z Mešinské Hájovny",
+            "name": "Ford z Mešinské hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
@@ -1503,7 +1503,7 @@
       "pedigree": {
         "father": {
           "clp": "10927",
-          "name": "Scott z Mešínské hájovny",
+          "name": "Scott z Mešinské hájovny",
           "father": {
             "clp": "10532",
             "name": "Endy z Hovoran",
@@ -1531,13 +1531,13 @@
           },
           "mother": {
             "clp": "10598",
-            "name": "Gala z Mešínské hájovny",
+            "name": "Gala z Mešinské hájovny",
             "father": {
               "clp": "10054",
-              "name": "Ort z Mešínské hájovny",
+              "name": "Ort z Mešinské hájovny",
               "father": {
                 "clp": "9525",
-                "name": "Ford z Mešínské hájovny"
+                "name": "Ford z Mešinské hájovny"
               },
               "mother": {
                 "clp": "9166",
@@ -2294,7 +2294,7 @@
             "father": {
               "name": "Coradhras of Szedresi",
               "father": {
-                "name": "Luj Buzahazl"
+                "name": "Luj Buzahazi"
               },
               "mother": {
                 "name": "Sáregresi Rambling Wind"
@@ -2479,7 +2479,7 @@
           "name": "Karen od Nezdického potoka",
           "father": {
             "clp": "9525",
-            "name": "Ford z Mešinské Hájovny",
+            "name": "Ford z Mešinské hájovny",
             "father": {
               "clp": "8932",
               "name": "Iran z Cechu",
@@ -2761,7 +2761,7 @@
             "name": "Ort z Mešinské Hájovny",
             "father": {
               "clp": "9525",
-              "name": "Ford z Mešinské Hájovny",
+              "name": "Ford z Mešinské hájovny",
               "father": {
                 "clp": "8932",
                 "name": "Iran z Cechu"
@@ -2801,7 +2801,7 @@
             },
             "mother": {
               "clp": "9369",
-              "name": "InÅ¾a ze Srnína",
+              "name": "Inža ze Srnína",
               "father": {
                 "clp": "9089",
                 "name": "Filip z Dolnic"
@@ -3195,7 +3195,7 @@
       "mother": "Fydal Ava",
       "pedigree": {
         "father": {
-          "name": "Sáregresi Pointerland Athos",
+          "name": "Sáregresi POINTERLAND Athos",
           "father": {
             "name": "Csillaghegyi Foltos Izidor",
             "father": {
@@ -3306,10 +3306,10 @@
             "name": "Alma od Zeleného stolu",
             "father": {
               "clp": "9905",
-              "name": "Kord z Mešínské hájovny",
+              "name": "Kord z Mešinské hájovny",
               "father": {
                 "clp": "9524",
-                "name": "Flik z Mešínské hájovny"
+                "name": "Flik z Mešinské hájovny"
               },
               "mother": {
                 "clp": "9437",
@@ -3338,10 +3338,10 @@
             "name": "Aramis z Vinných tratí",
             "father": {
               "clp": "10054",
-              "name": "Ort z Mešínské hájovny",
+              "name": "Ort z Mešinské hájovny",
               "father": {
                 "clp": "9525",
-                "name": "Ford z Mešínské Hájovny"
+                "name": "Ford z Mešinské hájovny"
               },
               "mother": {
                 "clp": "9166",
@@ -3485,7 +3485,7 @@
           "name": "Audrey z Mešinské hájovny",
           "father": {
             "clp": "10927",
-            "name": "Scott z Mešínské hájovny",
+            "name": "Scott z Mešinské hájovny",
             "father": {
               "clp": "10532",
               "name": "Endy z Hovoran",
@@ -3499,10 +3499,10 @@
             },
             "mother": {
               "clp": "10598",
-              "name": "Gala z Mešínské hájovny",
+              "name": "Gala z Mešinské hájovny",
               "father": {
                 "clp": "10054",
-                "name": "Ort z Mešínské hájovny"
+                "name": "Ort z Mešinské hájovny"
               },
               "mother": {
                 "clp": "9437",
@@ -3709,11 +3709,11 @@
       "name": "CLARYSA ZE ŠTÍPEK",
       "date_of_birth": "2019-02-18",
       "clp": "11593",
-      "father": "Sáregresi Pointerland Athos",
+      "father": "Sáregresi POINTERLAND Athos",
       "mother": "Apache ze Štípek",
       "pedigree": {
         "father": {
-          "name": "Sáregresi Pointerland Athos",
+          "name": "Sáregresi POINTERLAND Athos",
           "father": {
             "name": "Csillaghegyi Foltos Izidor",
             "father": {
