@@ -4,6 +4,7 @@
       "year": "2023",
       "items": [
         {
+          "breed": "GS",
           "id": "I/23",
           "publicationDate": "2023-01-10",
           "breeder": "Pearl Moravia",
@@ -13,6 +14,7 @@
           "puppies": "5/2"
         },
         {
+          "breed": "GS",
           "id": "II/23",
           "publicationDate": "2023-01-21",
           "breeder": "z Liškova gruntu",
@@ -22,6 +24,7 @@
           "puppies": "2/4"
         },
         {
+          "breed": "GS",
           "id": "III/23",
           "publicationDate": "2023-03-09",
           "breeder": "z Pňovských luhů",
@@ -31,6 +34,7 @@
           "puppies": ""
         },
         {
+          "breed": "GS",
           "id": "IV/23",
           "publicationDate": "2023-07-27",
           "breeder": "Neverending Grace",
@@ -40,6 +44,7 @@
           "puppies": ""
         },
         {
+          "breed": "GS",
           "id": "V/23",
           "publicationDate": "2023-08-27",
           "breeder": "z Holubické stráně",
@@ -49,6 +54,7 @@
           "puppies": "5/5"
         },
         {
+          "breed": "GS",
           "id": "VI/23",
           "publicationDate": "2023-09-01",
           "breeder": "Fiorchára",
@@ -58,6 +64,7 @@
           "puppies": "3/5"
         },
         {
+          "breed": "GS",
           "id": "VII/23",
           "publicationDate": "2023-10-09",
           "breeder": "Manon Lescaut",
@@ -72,6 +79,7 @@
       "year": "2022",
       "items": [
         {
+          "breed": "GS",
           "id": "I/22",
           "publicationDate": "2022-01-23",
           "breeder": "Dorcanell",
@@ -81,6 +89,7 @@
           "puppies": "4/4"
         },
         {
+          "breed": "GS",
           "id": "II/22",
           "publicationDate": "2022-01-25",
           "breeder": "z Holubické stráně",
@@ -90,6 +99,7 @@
           "puppies": "5/8"
         },
         {
+          "breed": "GS",
           "id": "III/22",
           "publicationDate": "2022-02-18",
           "breeder": "Red Fern Hunters",
@@ -99,6 +109,7 @@
           "puppies": "2/2"
         },
         {
+          "breed": "GS",
           "id": "IV/22",
           "publicationDate": "2022-02-22",
           "breeder": "Pearl Moravia",
@@ -108,6 +119,7 @@
           "puppies": ""
         },
         {
+          "breed": "GS",
           "id": "V/22",
           "publicationDate": "2022-03-14",
           "breeder": "Silesia setter",
@@ -117,6 +129,7 @@
           "puppies": "6/3"
         },
         {
+          "breed": "GS",
           "id": "VI/22",
           "publicationDate": "2022-04-28",
           "breeder": "Red Fern Hunters",
@@ -126,6 +139,7 @@
           "puppies": "6/4"
         },
         {
+          "breed": "GS",
           "id": "VII/22",
           "publicationDate": "2022-08-24",
           "breeder": "z Dvorku Čamourku",
@@ -140,6 +154,7 @@
       "year": "2021",
       "items": [
         {
+          "breed": "GS",
           "id": "I/21",
           "publicationDate": "2021-02-02",
           "breeder": "Love My Chocolate Soul",
@@ -149,6 +164,7 @@
           "puppies": "0/2"
         },
         {
+          "breed": "GS",
           "id": "II/21",
           "publicationDate": "2021-02-10",
           "breeder": "Red Fern Hunters",
@@ -158,6 +174,7 @@
           "puppies": "3/3"
         },
         {
+          "breed": "GS",
           "id": "III/21",
           "publicationDate": "2021-03-23",
           "breeder": "Manon Lescaut",
@@ -167,6 +184,7 @@
           "puppies": "2/5"
         },
         {
+          "breed": "GS",
           "id": "IV/21",
           "publicationDate": "2021-11-09",
           "breeder": "Sanybell",
@@ -176,6 +194,7 @@
           "puppies": "2/1"
         },
         {
+          "breed": "GS",
           "id": "V/21",
           "publicationDate": "2021-12-13",
           "breeder": "Neverending Grace",
@@ -190,6 +209,7 @@
       "year": "2020",
       "items": [
         {
+          "breed": "GS",
           "id": "I/20",
           "publicationDate": "2020-01-13",
           "breeder": "Scotch do pole",
@@ -199,6 +219,7 @@
           "puppies": "5/3"
         },
         {
+          "breed": "GS",
           "id": "II/20",
           "publicationDate": "2020-04-06",
           "breeder": "z Liškova gruntu",

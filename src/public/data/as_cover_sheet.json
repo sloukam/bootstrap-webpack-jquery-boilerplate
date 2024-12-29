@@ -4,6 +4,7 @@
       "year": "2024",
       "items": [
         {
+          "breed": "AS",
           "id": "I/24",
           "publicationDate": "2024-01-08",
           "breeder": "Badecri",
@@ -13,6 +14,7 @@
           "puppies": "2/6"
         },
         {
+          "breed": "AS",
           "id": "II/24",
           "publicationDate": "2024-05-07",
           "breeder": "The Golden Bracken",
@@ -22,6 +24,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "III/24",
           "publicationDate": "2024-05-29",
           "breeder": "The Golden Bracken",
@@ -31,6 +34,7 @@
           "puppies": "3/5"
         },
         {
+          "breed": "AS",
           "id": "IV/24",
           "publicationDate": "2024-05-29",
           "breeder": "Moravská LeRůž",
@@ -40,6 +44,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "V/24",
           "publicationDate": "2024-06-14",
           "breeder": "Bloom for you",
@@ -49,6 +54,7 @@
           "puppies": "7/1"
         },
         {
+          "breed": "AS",
           "id": "VI/24",
           "publicationDate": "2024-09-24",
           "breeder": "z Nového remízu",
@@ -63,6 +69,7 @@
       "year": "2023",
       "items": [
         {
+          "breed": "AS",
           "id": "I/23",
           "publicationDate": "2023-06-21",
           "breeder": "Lymarkos",
@@ -72,6 +79,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "II/23",
           "publicationDate": "2023-10-06",
           "breeder": "Lymarkos",
@@ -81,6 +89,7 @@
           "puppies": "2/6"
         },
         {
+          "breed": "AS",
           "id": "III/23",
           "publicationDate": "2023-10-18",
           "breeder": "Moravská LeRůž",
@@ -90,6 +99,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "IV/23",
           "publicationDate": "2023-10-18",
           "breeder": "Sylwaan",
@@ -99,6 +109,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "V/23",
           "publicationDate": "2023-10-30",
           "breeder": "de Dame Cerise",
@@ -113,6 +124,7 @@
       "year": "2022",
       "items": [
         {
+          "breed": "AS",
           "id": "I/22",
           "publicationDate": "2022-01-11",
           "breeder": "Lymarkos",
@@ -122,6 +134,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "II/22",
           "publicationDate": "2022-03-22",
           "breeder": "Lymarkos",
@@ -131,6 +144,7 @@
           "puppies": "1/5"
         },
         {
+          "breed": "AS",
           "id": "III/22",
           "publicationDate": "2022-08-07",
           "breeder": "DAMA Krkonoše",
@@ -140,6 +154,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "IV/22",
           "publicationDate": "2022-08-23",
           "breeder": "Moravská LeRůž",
@@ -149,6 +164,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "V/22",
           "publicationDate": "2022-10-24",
           "breeder": "Lymarkos",
@@ -158,6 +174,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "VI/22",
           "publicationDate": "2022-12-01",
           "breeder": "Davaroni",
@@ -167,6 +184,7 @@
           "puppies": "2/2"
         },
         {
+          "breed": "AS",
           "id": "VII/22",
           "publicationDate": "2022-12-20",
           "breeder": "DAMA Krkonoše",
@@ -181,6 +199,7 @@
       "year": "2021",
       "items": [
         {
+          "breed": "AS",
           "id": "I/21",
           "publicationDate": "2021-01-18",
           "breeder": "z Krásné doliny",
@@ -190,6 +209,7 @@
           "puppies": "4/4"
         },
         {
+          "breed": "AS",
           "id": "II/21",
           "publicationDate": "2021-01-18",
           "breeder": "Lymarkos",
@@ -204,6 +224,7 @@
       "year": "2020",
       "items": [
         {
+          "breed": "AS",
           "id": "I/20",
           "publicationDate": "2020-04-17",
           "breeder": "Davaroni",
@@ -213,6 +234,7 @@
           "puppies": "5/2"
         },
         {
+          "breed": "AS",
           "id": "II/20",
           "publicationDate": "2020-05-05",
           "breeder": "Lymarkos",
@@ -222,6 +244,7 @@
           "puppies": "3/3"
         },
         {
+          "breed": "AS",
           "id": "III/20",
           "publicationDate": "2020-08-04",
           "breeder": "Royal Setter",
@@ -231,6 +254,7 @@
           "puppies": ""
         },
         {
+          "breed": "AS",
           "id": "IV/20",
           "publicationDate": "2020-10-05",
           "breeder": "Mandygold",

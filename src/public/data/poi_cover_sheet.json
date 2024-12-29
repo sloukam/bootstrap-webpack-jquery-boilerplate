@@ -4,6 +4,7 @@
       "year": "2023",
       "items": [
         {
+          "breed": "POI",
           "id": "I/23",
           "publicationDate": "2023-01-01",
           "breeder": "AGEL MORAVIA",
@@ -13,6 +14,7 @@
           "puppies": "4/5"
         },
         {
+          "breed": "POI",
           "id": "II/23",
           "publicationDate": "2023-01-19",
           "breeder": "ZE ŠTÍPEK",
@@ -22,6 +24,7 @@
           "puppies": "1/5"
         },
         {
+          "breed": "POI",
           "id": "III/23",
           "publicationDate": "2023-01-29",
           "breeder": "OD SVATÉ VODY",
@@ -31,6 +34,7 @@
           "puppies": "0/1"
         },
         {
+          "breed": "POI",
           "id": "IV/23",
           "publicationDate": "2023-03-01",
           "breeder": "SULÍKOVSKÁ STRÁN",
@@ -45,6 +49,7 @@
       "year": "2022",
       "items": [
         {
+          "breed": "POI",
           "id": "I/22",
           "publicationDate": "2022-02-05",
           "breeder": "OD TEKLY",
@@ -54,6 +59,7 @@
           "puppies": "3/3"
         },
         {
+          "breed": "POI",
           "id": "II/22",
           "publicationDate": "2022-02-10",
           "breeder": "OD SVATÉ VODY",
@@ -63,6 +69,7 @@
           "puppies": "3/1"
         },
         {
+          "breed": "POI",
           "id": "III/22",
           "publicationDate": "2022-03-18",
           "breeder": "Z VEČEŘOVA DVORA",
@@ -72,6 +79,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "IV/22",
           "publicationDate": "2022-03-19",
           "breeder": "Premium Black pearl",
@@ -81,6 +89,7 @@
           "puppies": "3/4"
         },
         {
+          "breed": "POI",
           "id": "V/22",
           "publicationDate": "2022-05-05",
           "breeder": "ZE ZAJEČÍCH POLÍ",
@@ -90,6 +99,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "VI/22",
           "publicationDate": "2022-05-05",
           "breeder": "Žaneta Živělová",
@@ -99,6 +109,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "VII/22",
           "publicationDate": "2022-06-01",
           "breeder": "Z ŽEŠOVSKÉHO VRŠKU",
@@ -108,6 +119,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "VIII/22",
           "publicationDate": "2022-10-21",
           "breeder": "Z VEČEŘOVA DVORA",
@@ -122,6 +134,7 @@
       "year": "2021",
       "items": [
         {
+          "breed": "POI",
           "id": "I/21",
           "publicationDate": "2021-01-01",
           "breeder": "Jaroslav Mráček",
@@ -131,6 +144,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "II/21",
           "publicationDate": "2021-01-05",
           "breeder": "z Helmu",
@@ -140,6 +154,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "III/21",
           "publicationDate": "2021-01-18",
           "breeder": "z Žešovského vršku",
@@ -149,6 +164,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "IV/21",
           "publicationDate": "2021-01-19",
           "breeder": "Vladimír Zoufalý",
@@ -158,6 +174,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "V/21",
           "publicationDate": "2021-01-22",
           "breeder": "z Nemochovských žlebů",
@@ -167,6 +184,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "VI/21",
           "publicationDate": "2021-03-12",
           "breeder": "od Zeleného stolu",
@@ -181,6 +199,7 @@
       "year": "2020",
       "items": [
         {
+          "breed": "POI",
           "id": "I/20",
           "publicationDate": "2020-02-03",
           "breeder": "ze Zaječích polí",
@@ -190,6 +209,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "II/20",
           "publicationDate": "2020-02-03",
           "breeder": "ze Zaječích polí",
@@ -199,6 +219,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "III/20",
           "publicationDate": "2020-02-05",
           "breeder": "z Bítýšských bažin",
@@ -208,6 +229,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "IV/20",
           "publicationDate": "2020-03-01",
           "breeder": "z Lukovských lánů",
@@ -217,6 +239,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "V/20",
           "publicationDate": "2020-03-15",
           "breeder": "z Večeřova dvora",
@@ -226,6 +249,7 @@
           "puppies": "2/2"
         },
         {
+          "breed": "POI",
           "id": "VI/20",
           "publicationDate": "2020-03-25",
           "breeder": "z Tovačovských blat",
@@ -235,6 +259,7 @@
           "puppies": "2/3"
         },
         {
+          "breed": "POI",
           "id": "VII/20",
           "publicationDate": "2020-04-22",
           "breeder": "Fedan Bohemia",
@@ -244,6 +269,7 @@
           "puppies": "1/2"
         },
         {
+          "breed": "POI",
           "id": "VIII/20",
           "publicationDate": "2020-06-01",
           "breeder": "Sulíkovská stráň",
@@ -253,6 +279,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "IX/20",
           "publicationDate": "2020-06-01",
           "breeder": "Sulíkovská stráň",
@@ -262,6 +289,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "X/20",
           "publicationDate": "2020-06-10",
           "breeder": "ze Zaječích polí",
@@ -271,6 +299,7 @@
           "puppies": "0/2"
         },
         {
+          "breed": "POI",
           "id": "XI/20",
           "publicationDate": "2020-07-20",
           "breeder": "Natyave Grove",
@@ -280,6 +309,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "XII/20",
           "publicationDate": "2020-07-23",
           "breeder": "Beskydy Pointer Village",
@@ -289,6 +319,7 @@
           "puppies": "3/4"
         },
         {
+          "breed": "POI",
           "id": "XIII/20",
           "publicationDate": "2020-07-31",
           "breeder": "ze Zaječích polí",
@@ -298,6 +329,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "XIV/20",
           "publicationDate": "2020-08-23",
           "breeder": "Zdenek Valenta",
@@ -307,6 +339,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "XV/20",
           "publicationDate": "2020-11-07",
           "breeder": "z Vinných tratí",
@@ -316,6 +349,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "XVI/20",
           "publicationDate": "2020-11-08",
           "breeder": "Hastrmánek",
@@ -325,6 +359,7 @@
           "puppies": ""
         },
         {
+          "breed": "POI",
           "id": "XVII/20",
           "publicationDate": "2020-11-10",
           "breeder": "Farista Almas",
@@ -334,6 +369,7 @@
           "puppies": "6/2"
         },
         {
+          "breed": "POI",
           "id": "XVIII/20",
           "publicationDate": "2020-11-13",
           "breeder": "z Měnínského lesa",
@@ -343,6 +379,7 @@
           "puppies": "3/2"
         },
         {
+          "breed": "POI",
           "id": "XIX/20",
           "publicationDate": "2020-11-15",
           "breeder": "Sulíkovská stráň",
@@ -352,6 +389,7 @@
           "puppies": "5/4"
         },
         {
+          "breed": "POI",
           "id": "XX/20",
           "publicationDate": "2020-11-27",
           "breeder": "z Večeřova dvora",
@@ -361,6 +399,7 @@
           "puppies": "6/4"
         },
         {
+          "breed": "POI",
           "id": "XXI/20",
           "publicationDate": "2020-12-01",
           "breeder": "ze Zaječích polí",
