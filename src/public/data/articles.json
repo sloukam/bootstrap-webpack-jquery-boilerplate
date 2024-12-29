@@ -2,6 +2,24 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/12/26",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Dne 11. 12. 2024 se uskutečnila on-line výborová schůze MSKAO. Zápis z ní neleznete <a href=\"./public/pdf/2024/241211-schuze_vyboru/zapis.pdf\" target=\"_blank\">ZDE</a>."
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2024/12/18",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Dne 29. 11. 2024 se uskutečnila on-line výborová schůze MSKAO. Zápis z ní neleznete <a href=\"./public/pdf/2024/241129-schuze_vyboru/zapis.pdf\" target=\"_blank\">ZDE</a>."
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20240071,
       "publishDate": "2024/12/17",
       "title": "PF 2025",
