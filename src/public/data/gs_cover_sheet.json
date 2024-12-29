@@ -4,6 +4,7 @@
       "year": "2023",
       "items": [
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "I/23",
           "publicationDate": "2023-01-10",
@@ -14,6 +15,7 @@
           "puppies": "5/2"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "II/23",
           "publicationDate": "2023-01-21",
@@ -24,6 +26,7 @@
           "puppies": "2/4"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "III/23",
           "publicationDate": "2023-03-09",
@@ -34,6 +37,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "IV/23",
           "publicationDate": "2023-07-27",
@@ -44,6 +48,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "V/23",
           "publicationDate": "2023-08-27",
@@ -54,6 +59,7 @@
           "puppies": "5/5"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "VI/23",
           "publicationDate": "2023-09-01",
@@ -64,6 +70,7 @@
           "puppies": "3/5"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "VII/23",
           "publicationDate": "2023-10-09",
@@ -79,6 +86,7 @@
       "year": "2022",
       "items": [
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "I/22",
           "publicationDate": "2022-01-23",
@@ -89,6 +97,7 @@
           "puppies": "4/4"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "II/22",
           "publicationDate": "2022-01-25",
@@ -99,6 +108,7 @@
           "puppies": "5/8"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "III/22",
           "publicationDate": "2022-02-18",
@@ -109,6 +119,7 @@
           "puppies": "2/2"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "IV/22",
           "publicationDate": "2022-02-22",
@@ -119,6 +130,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "V/22",
           "publicationDate": "2022-03-14",
@@ -129,6 +141,7 @@
           "puppies": "6/3"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "VI/22",
           "publicationDate": "2022-04-28",
@@ -139,6 +152,7 @@
           "puppies": "6/4"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "VII/22",
           "publicationDate": "2022-08-24",
@@ -154,6 +168,7 @@
       "year": "2021",
       "items": [
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "I/21",
           "publicationDate": "2021-02-02",
@@ -164,6 +179,7 @@
           "puppies": "0/2"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "II/21",
           "publicationDate": "2021-02-10",
@@ -174,6 +190,7 @@
           "puppies": "3/3"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "III/21",
           "publicationDate": "2021-03-23",
@@ -184,6 +201,7 @@
           "puppies": "2/5"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "IV/21",
           "publicationDate": "2021-11-09",
@@ -194,6 +212,7 @@
           "puppies": "2/1"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "V/21",
           "publicationDate": "2021-12-13",
@@ -209,6 +228,7 @@
       "year": "2020",
       "items": [
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "I/20",
           "publicationDate": "2020-01-13",
@@ -219,6 +239,7 @@
           "puppies": "5/3"
         },
         {
+          "releaseNote": "",
           "breed": "GS",
           "id": "II/20",
           "publicationDate": "2020-04-06",

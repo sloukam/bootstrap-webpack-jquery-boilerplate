@@ -4,6 +4,7 @@
       "year": "2023",
       "items": [
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "I/23",
           "publicationDate": "2023-01-01",
@@ -14,6 +15,7 @@
           "puppies": "4/5"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "II/23",
           "publicationDate": "2023-01-19",
@@ -24,6 +26,7 @@
           "puppies": "1/5"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "III/23",
           "publicationDate": "2023-01-29",
@@ -34,6 +37,7 @@
           "puppies": "0/1"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "IV/23",
           "publicationDate": "2023-03-01",
@@ -49,6 +53,7 @@
       "year": "2022",
       "items": [
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "I/22",
           "publicationDate": "2022-02-05",
@@ -59,6 +64,7 @@
           "puppies": "3/3"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "II/22",
           "publicationDate": "2022-02-10",
@@ -69,6 +75,7 @@
           "puppies": "3/1"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "III/22",
           "publicationDate": "2022-03-18",
@@ -79,6 +86,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "IV/22",
           "publicationDate": "2022-03-19",
@@ -89,6 +97,7 @@
           "puppies": "3/4"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "V/22",
           "publicationDate": "2022-05-05",
@@ -99,6 +108,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VI/22",
           "publicationDate": "2022-05-05",
@@ -109,6 +119,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VII/22",
           "publicationDate": "2022-06-01",
@@ -119,6 +130,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VIII/22",
           "publicationDate": "2022-10-21",
@@ -134,6 +146,7 @@
       "year": "2021",
       "items": [
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "I/21",
           "publicationDate": "2021-01-01",
@@ -144,6 +157,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "II/21",
           "publicationDate": "2021-01-05",
@@ -154,6 +168,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "III/21",
           "publicationDate": "2021-01-18",
@@ -164,6 +179,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "IV/21",
           "publicationDate": "2021-01-19",
@@ -174,6 +190,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "V/21",
           "publicationDate": "2021-01-22",
@@ -184,6 +201,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VI/21",
           "publicationDate": "2021-03-12",
@@ -199,6 +217,7 @@
       "year": "2020",
       "items": [
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "I/20",
           "publicationDate": "2020-02-03",
@@ -209,6 +228,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "II/20",
           "publicationDate": "2020-02-03",
@@ -219,6 +239,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "III/20",
           "publicationDate": "2020-02-05",
@@ -229,6 +250,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "IV/20",
           "publicationDate": "2020-03-01",
@@ -239,6 +261,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "V/20",
           "publicationDate": "2020-03-15",
@@ -249,6 +272,7 @@
           "puppies": "2/2"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VI/20",
           "publicationDate": "2020-03-25",
@@ -259,6 +283,7 @@
           "puppies": "2/3"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VII/20",
           "publicationDate": "2020-04-22",
@@ -269,6 +294,7 @@
           "puppies": "1/2"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "VIII/20",
           "publicationDate": "2020-06-01",
@@ -279,6 +305,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "IX/20",
           "publicationDate": "2020-06-01",
@@ -289,6 +316,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "X/20",
           "publicationDate": "2020-06-10",
@@ -299,6 +327,7 @@
           "puppies": "0/2"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XI/20",
           "publicationDate": "2020-07-20",
@@ -309,6 +338,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XII/20",
           "publicationDate": "2020-07-23",
@@ -319,6 +349,7 @@
           "puppies": "3/4"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XIII/20",
           "publicationDate": "2020-07-31",
@@ -329,6 +360,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XIV/20",
           "publicationDate": "2020-08-23",
@@ -339,6 +371,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XV/20",
           "publicationDate": "2020-11-07",
@@ -349,6 +382,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XVI/20",
           "publicationDate": "2020-11-08",
@@ -359,6 +393,7 @@
           "puppies": ""
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XVII/20",
           "publicationDate": "2020-11-10",
@@ -369,6 +404,7 @@
           "puppies": "6/2"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XVIII/20",
           "publicationDate": "2020-11-13",
@@ -379,6 +415,7 @@
           "puppies": "3/2"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XIX/20",
           "publicationDate": "2020-11-15",
@@ -389,6 +426,7 @@
           "puppies": "5/4"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XX/20",
           "publicationDate": "2020-11-27",
@@ -399,6 +437,7 @@
           "puppies": "6/4"
         },
         {
+          "releaseNote": "",
           "breed": "POI",
           "id": "XXI/20",
           "publicationDate": "2020-12-01",
