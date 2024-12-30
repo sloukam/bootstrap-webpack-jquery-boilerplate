@@ -37,7 +37,13 @@
             &nbsp;
             {{/if}}
           </div>
-          <div class="col-md-2 d-none d-md-block">{{dateFormat releaseDate}}</div>
+          <div class="col-md-2 d-none d-md-block">
+            {{#if releaseDate}}
+              {{dateFormat releaseDate}}
+            {{else}}
+              {{releaseNote}}
+            {{/if}}
+          </div>
           <div class="col-md-1">{{puppies}}</div>
         </div>
         {{/each}}
