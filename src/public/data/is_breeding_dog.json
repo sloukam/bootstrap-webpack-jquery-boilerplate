@@ -790,7 +790,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk",
+      "visible": false,
       "name": "DERCETUS EVERDENE",
       "date_of_birth": "2012-03-09",
       "clp": "15673",
@@ -1061,7 +1063,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "EARNEST ENTHUSIAST EVERDENE",
       "date_of_birth": "2013-01-02",
       "clp": "15806",
@@ -1382,7 +1386,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "COLIN DUNCAN ROY MAHAGONY PAW",
       "date_of_birth": "2013-01-31",
       "clp": "15848",
@@ -1508,7 +1514,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "CLIFFORD Z BŘEVNOVSKÉHO VRCHU",
       "date_of_birth": "2013-04-08",
       "clp": "15867",
@@ -1638,7 +1646,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "DORIAN GRAY MAHAGONY PAW",
       "date_of_birth": "2013-11-23",
       "clp": "15940",
@@ -2177,7 +2187,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "ANDY WARHOL DAISY RAIN",
       "date_of_birth": "2014-03-13",
       "clp": "15994",
@@ -2300,7 +2312,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "Y-COLIN Z HRADISKA RÁJCE",
       "date_of_birth": "2014-07-14",
       "clp": "16045",
@@ -2681,7 +2695,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "ELPHIN PRINC MAHAGONY PAW",
       "date_of_birth": "2015-04-25",
       "clp": "16161",
@@ -4256,7 +4272,9 @@
     {
       "breed": "IS",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "FALCO EASY JET MAHAGONY PAW",
       "date_of_birth": "2018-05-11",
       "clp": "16574",
@@ -4513,6 +4531,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "male",
       "datum_uchovneni": "2023-10-08",

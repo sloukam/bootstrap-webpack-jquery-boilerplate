@@ -2099,7 +2099,9 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "ETERNAL FLAME GOLDSET",
       "date_of_birth": "2016-08-05",
       "clp": "16325",
@@ -2220,7 +2222,9 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "AMY AZARIEL CEDARWOOD ROAD",
       "date_of_birth": "2016-09-01",
       "clp": "16322",
@@ -2617,7 +2621,9 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "CHASING FANTASY Z ARISLANDU",
       "date_of_birth": "2017-05-08",
       "clp": "16514",
@@ -4486,7 +4492,9 @@
     {
       "breed": "IS",
       "sex": "female",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk?",
+      "visible": false,
       "name": "ENNY BOHEMIA TÁTRUM",
       "date_of_birth": "2019-05-10",
       "clp": "16683",
