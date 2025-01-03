@@ -43,9 +43,9 @@
           "publicationDate": "2024-02-19",
           "breeder": "OD CÍSAŘSKÉHO DUBU",
           "bitch": "Jara z Jirouškova dvora",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Bosia Mahagon Kenya",
+          "releaseDate": "2024-11-01",
+          "puppies": "5/1"
         },
         {
           "releaseNote": "",
@@ -59,18 +59,18 @@
           "puppies": "2/5"
         },
         {
-          "releaseNote": "nakryto",
+          "releaseNote": "",
           "breed": "IS",
           "id": "VI/24",
           "publicationDate": "2024-02-28",
           "breeder": "MIRELIONNE",
           "bitch": "Amazing Red Girl Mirelionne",
-          "dog": "",
-          "releaseDate": "",
-          "puppies": ""
+          "dog": "Caught Red-Handed Redweed",
+          "releaseDate": "2024-05-29",
+          "puppies": "5/5"
         },
         {
-          "releaseNote": "",
+          "releaseNote": "nevyužito",
           "breed": "IS",
           "id": "VII/24",
           "publicationDate": "2024-03-15",
@@ -81,12 +81,67 @@
           "puppies": ""
         },
         {
-          "releaseNote": "nakryto",
+          "releaseNote": "",
           "breed": "IS",
           "id": "VIII/24",
           "publicationDate": "2024-04-10",
           "breeder": "MAHAGONY ROSE",
           "bitch": "Andy z Římovské stráně",
+          "dog": "Aaron Arno Redweed",
+          "releaseDate": "2024-06-25",
+          "puppies": "7/3"
+        },
+        {
+          "releaseNote": "nakryto",
+          "breed": "IS",
+          "id": "IX/24",
+          "publicationDate": "2024-09-06",
+          "breeder": "MARTODE WOLF DREAM",
+          "bitch": "Angie z Hornopožárských lesů",
+          "dog": "Alan z Lukovečského remízu",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "nezabřezla",
+          "breed": "IS",
+          "id": "X/24",
+          "publicationDate": "2024-09-28",
+          "breeder": "DAISY RAIN",
+          "bitch": "Eternity Daisy Rain",
+          "dog": "Jetsetter Chip and Chic (AT)",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "nakryto",
+          "breed": "IS",
+          "id": "XI/24",
+          "publicationDate": "2024-10-17",
+          "breeder": "RED JOKER",
+          "bitch": "Elizabeth Red Joker",
+          "dog": "Ares Mars Regal Beauty",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "dosud nevyužito",
+          "breed": "IS",
+          "id": "XII/24",
+          "publicationDate": "2024-11-22",
+          "breeder": "MAHOGANY DREAM CATCHER",
+          "bitch": "Adina Meda Mahogany Dream Catcher",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "dosud nevyužito",
+          "breed": "IS",
+          "id": "XIII/24",
+          "publicationDate": "2024-12-22",
+          "breeder": "MAHAGONY PAW",
+          "bitch": "Honey Rose Mahagony Paw",
           "dog": "",
           "releaseDate": "",
           "puppies": ""
