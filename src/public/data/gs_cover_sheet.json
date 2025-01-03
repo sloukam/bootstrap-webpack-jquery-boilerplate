@@ -1,6 +1,77 @@
 {
   "years": [
     {
+      "year": "2024",
+      "items": [
+        {
+          "releaseNote": "",
+          "breed": "GS",
+          "id": "I/24",
+          "publicationDate": "2024-01-10",
+          "breeder": "vrh na CHS v ČPSK",
+          "bitch": "Charming  Zoe z Wenytry",
+          "dog": "Gael  from Stirlig Bridge",
+          "releaseDate": "2024-07-04",
+          "puppies": "6/3"
+        },
+        {
+          "releaseNote": "",
+          "breed": "GS",
+          "id": "II/24",
+          "publicationDate": "2024-01-24",
+          "breeder": "DORCANELL",
+          "bitch": "Revolution Breeze Smashing Pumpkin",
+          "dog": "Gordon Racer Manon Lescaut",
+          "releaseDate": "2024-05-05",
+          "puppies": "6/3"
+        },
+        {
+          "releaseNote": "",
+          "breed": "GS",
+          "id": "III/24",
+          "publicationDate": "2024-03-29",
+          "breeder": "z Dvorku Čamourku",
+          "bitch": "Elza z Dvorku Čamourku",
+          "dog": "Aiken Leannan Santini´s Legacy",
+          "releaseDate": "2024-06-02",
+          "puppies": "4/0"
+        },
+        {
+          "releaseNote": "",
+          "breed": "GS",
+          "id": "IV/24",
+          "publicationDate": "2024-04-11",
+          "breeder": "Love My Chocolate Soul",
+          "bitch": "Enjoy Victory z Holubické stráně",
+          "dog": "Just Limited Edition Áres Šamarkan",
+          "releaseDate": "2024-10-11",
+          "puppies": "4/4"
+        },
+        {
+          "releaseNote": "",
+          "breed": "GS",
+          "id": "V/24",
+          "publicationDate": "2024-04-16",
+          "breeder": "Neverending Grace",
+          "bitch": "Barrracuda Neverending Grace",
+          "dog": "Sherwin´s Quidditch",
+          "releaseDate": "2024-06-26",
+          "puppies": "1/6"
+        },
+        {
+          "releaseNote": "nezabřezla",
+          "breed": "GS",
+          "id": "VI/24",
+          "publicationDate": "2024-10-20",
+          "breeder": "Manon Lescaut",
+          "bitch": "Fazer Manon Lescaut",
+          "dog": "Great Glow Kochaney Emilki",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2023",
       "items": [
         {
