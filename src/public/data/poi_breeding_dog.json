@@ -54,7 +54,7 @@
         "address": {
           "street": "17 listopadu",
           "number": "2235",
-          "city": "Dvůr Králové n/L",
+          "city": "Dvůr Králové n/L.",
           "post_code": "54401"
         },
         "phone": "+420 737 217 117",
@@ -934,7 +934,7 @@
         "address": {
           "street": "17 listopadu",
           "number": "2235",
-          "city": "Dvùr Králové n/L.",
+          "city": "Dvůr Králové n/L.",
           "post_code": "54401"
         },
         "phone": "+420 737 217 117",
@@ -1211,8 +1211,9 @@
         "first_name": "Pavel",
         "last_name": "Thiel",
         "address": {
-          "street": "Nová Ves",
+          "street": "Nová ves",
           "number": "141",
+          "city": "Nová ves",
           "post_code": "46331"
         },
         "phone": "+420 721 546 741",

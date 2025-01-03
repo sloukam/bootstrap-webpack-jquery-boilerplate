@@ -3561,9 +3561,9 @@
         "first_name": "Petr",
         "last_name": "Malohlava",
         "address": {
-          "street": "Skřípov",
+          "street": "Skřipov",
           "number": "3",
-          "city": "okr. Opava",
+          "city": "Skřipov",
           "post_code": "74745"
         },
         "phone": "+420 724 296 737",
@@ -4375,9 +4375,9 @@
         "first_name": "Petr",
         "last_name": "Malohlava",
         "address": {
-          "street": "Skřípov",
+          "street": "Skřipov",
           "number": "3",
-          "city": "Skřípov",
+          "city": "Skřipov",
           "post_code": "74745"
         },
         "phone": "724296737",
