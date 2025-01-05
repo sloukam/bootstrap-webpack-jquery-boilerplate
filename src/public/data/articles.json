@@ -2,6 +2,18 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20250050,
+      "publishDate": "2025/01/01",
+      "title": "Modernější web spuštěn",
+      "paragraphs": [
+        "Dnes byl v spustěn v testovacím režimu modernější web MSKAO. Najdete jej momentálně na adrese <big><a href=\"https://new.mskao.cz\" target=\"_blank\">new.mskao.cz</a></big>.",
+        "Všem majitelům byl automaticky vytvořen účet na evidované emailové adrese. Před prvním přihlášením je potřeba si nejprve provést 'reset' hesla na této adrese: <a href=\"https://new.mskao.cz/password/reset\" target=\"_blank\">https://new.mskao.cz/password/reset</a>.",
+        "Momentálně je nová verze zaměřena na pohodlnou aktualizaci a správu většiny informací o chovných jedincích, vydaných krycích listech apod. Pro členy, kteří budou ověřeni je nyní dostupný seznam členů. Další akce a operace budou v budoucnu přibývat.",
+        "V případě, že budete mít problém se do nového systému přihlásit, tak se obraťte na web mastera na adrese \"web.mskao@gmail.com\"."
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20240050,
       "publishDate": "2024/12/26",
       "title": "Zápis z výborové schůze",
