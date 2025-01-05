@@ -70,14 +70,14 @@
           "puppies": "5/5"
         },
         {
-          "releaseNote": "nevyužito",
+          "releaseNote": "",
           "breed": "IS",
           "id": "VII/24",
           "publicationDate": "2024-03-15",
           "breeder": "Z ŘÍMOVSKÉ STRÁNĚ",
           "bitch": "Binjara Mahagon Kenya",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "nevyužito",
           "puppies": ""
         },
         {
@@ -92,58 +92,58 @@
           "puppies": "7/3"
         },
         {
-          "releaseNote": "nakryto",
+          "releaseNote": "",
           "breed": "IS",
           "id": "IX/24",
           "publicationDate": "2024-09-06",
           "breeder": "MARTODE WOLF DREAM",
           "bitch": "Angie z Hornopožárských lesů",
           "dog": "Alan z Lukovečského remízu",
-          "releaseDate": "",
+          "releaseDate": "nakryto",
           "puppies": ""
         },
         {
-          "releaseNote": "nezabřezla",
+          "releaseNote": "",
           "breed": "IS",
           "id": "X/24",
           "publicationDate": "2024-09-28",
           "breeder": "DAISY RAIN",
           "bitch": "Eternity Daisy Rain",
           "dog": "Jetsetter Chip and Chic (AT)",
-          "releaseDate": "",
+          "releaseDate": "nezabřezla",
           "puppies": ""
         },
         {
-          "releaseNote": "nakryto",
+          "releaseNote": "",
           "breed": "IS",
           "id": "XI/24",
           "publicationDate": "2024-10-17",
           "breeder": "RED JOKER",
           "bitch": "Elizabeth Red Joker",
           "dog": "Ares Mars Regal Beauty",
-          "releaseDate": "",
+          "releaseDate": "nakryto",
           "puppies": ""
         },
         {
-          "releaseNote": "dosud nevyužito",
+          "releaseNote": "",
           "breed": "IS",
           "id": "XII/24",
           "publicationDate": "2024-11-22",
           "breeder": "MAHOGANY DREAM CATCHER",
           "bitch": "Adina Meda Mahogany Dream Catcher",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "dosud nevyužito",
           "puppies": ""
         },
         {
-          "releaseNote": "dosud nevyužito",
+          "releaseNote": "",
           "breed": "IS",
           "id": "XIII/24",
           "publicationDate": "2024-12-22",
           "breeder": "MAHAGONY PAW",
           "bitch": "Honey Rose Mahagony Paw",
           "dog": "",
-          "releaseDate": "",
+          "releaseDate": "dosud nevyužito",
           "puppies": ""
         }
       ]
