@@ -1194,7 +1194,9 @@
     {
       "breed": "POI",
       "sex": "male",
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "věk",
+      "visible": false,
       "name": "ALL ALL ALL ARTEGERD",
       "date_of_birth": "2017-06-27",
       "clp": "11414",
