@@ -1,6 +1,77 @@
 {
   "years": [
     {
+      "year": "2024",
+      "items": [
+        {
+          "releaseNote": "nevyužito",
+          "breed": "POI",
+          "id": "I/24",
+          "publicationDate": "2024-05-01",
+          "breeder": "NATYAVE GROVE",
+          "bitch": "Fydal Crystal Del Winepoint",
+          "dog": "Diablo del WinePoint",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "",
+          "breed": "POI",
+          "id": "II/24",
+          "publicationDate": "2024-06-16",
+          "breeder": "AGEL MORAVIA",
+          "bitch": "Brís Natyave Gove",
+          "dog": "Car od Zeleného stolu",
+          "releaseDate": "2024-10-23",
+          "puppies": "5/3"
+        },
+        {
+          "releaseNote": "",
+          "breed": "POI",
+          "id": "III/24",
+          "publicationDate": "2024-09-07",
+          "breeder": "",
+          "bitch": "Cuvée Winepoint Natyave Grove",
+          "dog": "Pawprint High Five",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "nezabřezla",
+          "breed": "POI",
+          "id": "IV/24",
+          "publicationDate": "2024-09-26",
+          "breeder": "ZE ZAJEČÍCH POLÍ",
+          "bitch": "Baileys ze Zaječích polí",
+          "dog": "Scott Scandiaca",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "",
+          "breed": "POI",
+          "id": "V/24",
+          "publicationDate": "2024-12-18",
+          "breeder": "Z NEMOCHOVSKÝCH ŽLEBŮ",
+          "bitch": "Ameli ze Zaječích polí",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        },
+        {
+          "releaseNote": "",
+          "breed": "POI",
+          "id": "VI/24",
+          "publicationDate": "2024-12-20",
+          "breeder": "",
+          "bitch": "Bea Beskydy Pointer Village",
+          "dog": "",
+          "releaseDate": "",
+          "puppies": ""
+        }
+      ]
+    },
+    {
       "year": "2023",
       "items": [
         {
@@ -103,7 +174,7 @@
           "publicationDate": "2022-05-05",
           "breeder": "ZE ZAJEČÍCH POLÍ",
           "bitch": "Baileys ze Zaječích polí",
-          "dog": "Pawprint Hight Five",
+          "dog": "Pawprint High Five",
           "releaseDate": "",
           "puppies": ""
         },
