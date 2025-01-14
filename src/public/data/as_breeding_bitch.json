@@ -545,6 +545,7 @@
         },
         "email": "sloukam@gmail.com"
       },
+      "other": "Import IT",
       "img_ext": "jpg"
     },
     {
@@ -565,8 +566,8 @@
         "ED": "0/0"
       },
       "championships": "C.I.B., JCH SK, JCH CZ, CZ SK, CH CZ, Grand CH ČR, Grand CH SK",
-      "shows": "Výborná, CAJC, Vítěz Speciální výstavy SPKS, BOJ, Klubový vítěz mladých SKPS, CAC, CACIB, BOS",
-      "exams": "KZV - I. c.",
+      "shows": "Výborná, CAJC, Vítěz Speciální výstavy SPKS, BOJ, Klubový vítěz mladých SKPS, CAC, CACIB, BOS, BOB junior, Res.CAC, Res.CACIB, Národní výtěz",
+      "exams": "KZV - I.c., KZV MSKAO - I.c., KPZ MSKAO - I.c.",
       "owner": {
         "first_name": "Růžena",
         "last_name": "Lepařová",
@@ -598,9 +599,9 @@
         "BAER": true,
         "other": "Thyroid normal"
       },
-      "championships": "JCH CZ, CH CZ, SLO",
+      "championships": "JCH CZ, CH CZ, SLO, GCH CZ, Slovenský šampion práce",
       "shows": "BIS 3, BIG 1, Junior BIG 3, 3. Nejlepší pracovní pes výstavy, Alpensieger, BOB, Vítěz Lysé, BOJ, CACIB, Nejlepší fena, Res. CACIB, CAC, CACA, Res. CAC, CAJC, V",
-      "exams": "TAN, ZV - I. c., KZV MSKAO - II. c., PZ - I. c., Memoriál Josefa Luxe - I. c., ZVP - I. c., IFT SKPS - 18 b., CACT, CACIT, VSS (SK) - I. cena, 463 bodů, CACT",
+      "exams": "TAN, ZV - I. c., KZV MSKAO - II. c., PZ - I. c., Memoriál Josefa Luxe - I. c., ZVP - I. c., IFT SKPS - 18 b., CACT, CACIT, VSS (SK) - I. cena, 463 bodů, CACT, MFT SK - CACT, BZ - I. cena, LZ - II. cena, Pohár Sv. Huberta",
       "owner": {
         "title": "Ing.",
         "first_name": "Lucie",
@@ -615,6 +616,7 @@
         "email": "davaroni@davaroni.com",
         "web": "http://www.davaroni.com"
       },
+      "other": "Import USA",
       "img_ext": "jpg"
     },
     {
@@ -637,23 +639,20 @@
         "other": "thyroid normal"
       },
       "championships": "Ch. RO, CZ",
-      "shows": "BIS 1 KV MSKAO Slavkov u Brna\nSetter derby Rakousko - BOB 2022",
+      "shows": "BIS 1 KV MSKAO Slavkov u Brna, Setter derby Rakousko - BOB 2022, KV ČPSK, BIS KV ČPSK, Crufts - First prize 2024",
       "exams": "ZV - I. cena",
       "owner": {
-        "first_name": "Pavel",
-        "last_name": "Buryan",
+        "title": "MVDr.",
+        "first_name": "Ján",
+        "last_name": "Melicher",
         "address": {
           "street": "Rajmanova",
           "number": "426",
           "city": "Rožďalovice",
           "post_code": "28934"
         },
-        "phone": "+421915381950",
+        "phone": "+420 737 055 333",
         "email": "j.melicher258@gmail.com"
-      },
-      "co-owner": {
-        "first_name": "Ján",
-        "last_name": "Melicher"
       },
       "other": "Import HU."
     },
@@ -704,8 +703,8 @@
         "HD": "A",
         "ED": "0/0"
       },
-      "championships": "GCH CZ, SK, CH CZ, SK, JCH CZ, SK",
-      "shows": "BOB BOS, CACIB, Res. CACIB, CAC, CWC, CAJC",
+      "championships": "GCH CZ, SK, CH CZ, SK, JCH CZ, SK, CH PL",
+      "shows": "BOB BOS, CACIB, Res. CACIB, CAC, CWC, CAJC, Výborná, Res.CAC, Vítěz Slovenska, Nejlepší fena, Vítěz oblastní výstavy, Vítěz třídy, BOJ, Junior BOB, VŠV ml. , Nejlepší pracovní pes",
       "exams": "ZV - II. cena",
       "owner": {
         "first_name": "Růžena",
@@ -1183,6 +1182,7 @@
         "phone": "+420604720606",
         "email": "sylva.vanzurova@centrum.cz"
       },
+      "other": "Import BiH",
       "img_ext": "jpg"
     },
     {
@@ -1534,6 +1534,7 @@
         "phone": "+420 724 474 360",
         "email": "Tatana.bednarova@gmail.com"
       },
+      "other": "Import IT",
       "img_ext": "jpg"
     },
     {
@@ -1587,8 +1588,9 @@
         "ED": "0/0",
         "other": "OCD clear"
       },
+      "championships": "JCH CZ, C.I.B.J.",
       "shows": "V1, CAJC, CACIB - Junior, BOJ, BOS",
-      "exams": "ZV - I. cena, MVV (CACT) - I. cena, TAN",
+      "exams": "ZV - I. cena, MVV (CACT) - I. cena, TAN, Pole-voda SK - I. cena",
       "owner": {
         "title": "Ing.",
         "first_name": "Lucie",

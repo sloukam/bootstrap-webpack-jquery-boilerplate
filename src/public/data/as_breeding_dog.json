@@ -633,7 +633,7 @@
         "email": "helena.dankova@post.cz",
         "web": ""
       },
-      "other": "",
+      "other": "Import PL",
       "img_ext": "jpg"
     },
     {
@@ -673,7 +673,9 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "datum_vyrazeni": "2024-12-30",
+      "duvod_vyrazeni": "na žádost majitele",
+      "visible": false,
       "breed": "AS",
       "name": "ASLAN LIKE AN ANGEL ROYAL SETTER",
       "championships": "JCH CZ, SK, A",
@@ -864,6 +866,7 @@
         "phone": "+420 602 834 815",
         "email": "aila.falcons@volny.cz"
       },
+      "other": "Import IT",
       "img_ext": "jpg"
     },
     {
@@ -896,6 +899,7 @@
         "phone": "+420739096565",
         "email": "helena.dankova@post.cz"
       },
+      "other": "Import PL",
       "img_ext": "jpg"
     },
     {
@@ -930,6 +934,7 @@
         "phone": "775608861",
         "email": "avalance2@seznam.cz"
       },
+      "other": "Import PL",
       "img_ext": "jpg"
     },
     {
@@ -983,8 +988,8 @@
         "HD": "A",
         "BAER": true
       },
-      "championships": "Jch. SK, Švýcarsko",
-      "shows": "Junior World Winner 2023, Junior BIS 3 SV MSKAO Zákupy, Junior BIS 1 MSKAO Jaroměřice",
+      "championships": "JCH. SK, Švýcarsko, JCH CZ, CH CZ",
+      "shows": "Junior World Winner 2023, Junior BIS 3 SV MSKAO Zákupy, Junior BIS 1 MSKAO Jaroměřice, KV ČPSK 2024",
       "exams": "ZV - I. cena",
       "owner": {
         "first_name": "Pavel",
