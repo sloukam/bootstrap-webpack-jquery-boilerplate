@@ -3,6 +3,23 @@
     {
       "visible": true,
       "articleId": 20250050,
+      "publishDate": "2025/01/21",
+      "title": "Výstava ohařů při evropské výstavě v Brně",
+      "paragraphs": [
+        "Dne 12. 4. 2025 se v Brně uskuteční výstava ohařů při konání evropské výstavy. První uzávěrka je již 31. 1. 2025 a hlásit se můžete v <a href=\"http://www.dogoffice.cz\" target=\"_blank\">DogOfficu</a>. Tak ji nepropásněte!!!",
+        "<a href=\"./public/pdf/2025/250412-vystava_oharu/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250412-vystava_oharu/01.jpg\" height=\"220\" width=\"440\"></a>&nbsp;<a href=\"./public/pdf/2025/250412-vystava_oharu/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250412-vystava_oharu/02.jpg\" height=\"220\" width=\"150\"></a>&nbsp;<a href=\"./public/pdf/2025/250412-vystava_oharu/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250412-vystava_oharu/03.jpg\" height=\"220\" width=\"150\"></a>"
+      ],
+      "attachments": [
+        {
+          "description": "propozice - PDF",
+          "filePath": "./public/pdf/2025/250412-vystava_oharu/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20250050,
       "publishDate": "2025/01/10",
       "title": "‼\uFE0FZPRÁVA Z ČMKU‼\uFE0F",
       "paragraphs": [
