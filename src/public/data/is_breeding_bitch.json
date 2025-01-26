@@ -3443,6 +3443,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "visible": true,
@@ -4781,6 +4782,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "visible": true,
@@ -5049,6 +5051,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
       "datum_uchovneni": "2024-03-01",
