@@ -992,20 +992,17 @@
       "shows": "Junior World Winner 2023, Junior BIS 3 SV MSKAO Zákupy, Junior BIS 1 MSKAO Jaroměřice, KV ČPSK 2024",
       "exams": "ZV - I. cena",
       "owner": {
-        "first_name": "Pavel",
-        "last_name": "Buryan",
+        "title": "MVDr.",
+        "first_name": "Ján",
+        "last_name": "Melicher",
         "address": {
           "street": "Rajmanova",
           "number": "426",
           "city": "Rožďalovice",
           "post_code": "28934"
         },
-        "phone": "+421915381950",
+        "phone": "+420 737 055 333",
         "email": "j.melicher258@gmail.com"
-      },
-      "co-owner": {
-        "first_name": "Ján",
-        "last_name": "Melicher"
       },
       "other": "Import PL. Chybí P2 vlevo dole."
     }
