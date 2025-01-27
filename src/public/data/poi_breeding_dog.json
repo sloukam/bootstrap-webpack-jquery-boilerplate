@@ -1775,21 +1775,21 @@
       "shows": "V1, CAJC, CACIB-J, CAC, res. CACIB, CACIB, BOJ, BOB",
       "exams": "ZV I.cena, MFT -VG Madarsko",
       "owner": {
-        "title": "Ing.",
-        "first_name": "Zlata",
-        "last_name": "Zajícová",
+        "first_name": "Kateřina",
+        "last_name": "Cífková",
         "address": {
-          "street": "Dobromilice",
-          "number": "258",
-          "city": "Dobromilice",
-          "post_code": "79825"
+          "street": "Topolová",
+          "number": "1061",
+          "city": "Petřvald u Karviné",
+          "post_code": "73541"
         },
-        "phone": "608964289",
+        "phone": "777 099 776",
         "email": "Zlatka.z@seznam.cz"
       },
       "co-owner": {
-        "first_name": "Kateřina",
-        "last_name": "Cífková"
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová"
       }
     }
   ]
