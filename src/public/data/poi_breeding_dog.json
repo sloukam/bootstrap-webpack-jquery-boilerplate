@@ -1631,37 +1631,6 @@
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
-      "datum_uchovneni": "2024-09-01",
-      "visible": true,
-      "name": "Cabernet Natyave Grove",
-      "date_of_birth": "2021-06-18",
-      "clp": "11885",
-      "father": "Adon del WinePoint",
-      "mother": "Agata from WinePoint Natyave Grove",
-      "body": {
-        "height": "66",
-        "color": "oranžovobílá",
-        "HD": "A"
-      },
-      "championships": "CH CZ",
-      "shows": "V1,CAC,R-CACIB,KV.MSKAO- CAC,",
-      "exams": "ZV-I.c",
-      "owner": {
-        "first_name": "Barbora",
-        "last_name": "Opekarová",
-        "address": {
-          "street": "Újezd",
-          "number": "13",
-          "city": "Albrechtice nad Vltavou",
-          "post_code": "37501"
-        },
-        "email": "BarbaraHorth@seznam.cz"
-      }
-    },
-    {
-      "img_ext": "jpg",
-      "breed": "POI",
-      "sex": "male",
       "datum_uchovneni": "2022-11-10",
       "visible": true,
       "name": "DIABLO ZE ZAJEČÍCH POLÍ",
@@ -1689,6 +1658,37 @@
         },
         "phone": "608964289",
         "email": "zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-09-01",
+      "visible": true,
+      "name": "Cabernet Natyave Grove",
+      "date_of_birth": "2021-06-18",
+      "clp": "11885",
+      "father": "Adon del WinePoint",
+      "mother": "Agata from WinePoint Natyave Grove",
+      "body": {
+        "height": "66",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "championships": "CH CZ",
+      "shows": "V1,CAC,R-CACIB,KV.MSKAO- CAC,",
+      "exams": "ZV-I.c",
+      "owner": {
+        "first_name": "Barbora",
+        "last_name": "Opekarová",
+        "address": {
+          "street": "Újezd",
+          "number": "13",
+          "city": "Albrechtice nad Vltavou",
+          "post_code": "37501"
+        },
+        "email": "BarbaraHorth@seznam.cz"
       }
     },
     {
@@ -1730,37 +1730,6 @@
       "sex": "male",
       "datum_uchovneni": "2024-09-02",
       "visible": true,
-      "name": "HOUDINI ZE ZAJEČÍCH POLÍ",
-      "date_of_birth": "2023-02-17",
-      "clp": "12099",
-      "father": "Ampio del Winepoint",
-      "mother": "Cleopatra ze Zaječích polí",
-      "body": {
-        "height": "66",
-        "color": "oranžovobílá",
-        "HD": "A"
-      },
-      "shows": "V1, CAJC, Junior CACA, Res. CAC, CAC, CACA, BOJ, BOS, BOB, Jugendbester, Beste Rüde",
-      "exams": "KZV I.cena, ZV I.cena",
-      "owner": {
-        "first_name": "Zlata",
-        "last_name": "Zajícová",
-        "address": {
-          "street": "Dobromilice",
-          "number": "258",
-          "city": "Dobromilice",
-          "post_code": "79825"
-        },
-        "phone": "+420608964289",
-        "email": "Zlatka.z@seznam.cz"
-      }
-    },
-    {
-      "img_ext": "jpg",
-      "breed": "POI",
-      "sex": "male",
-      "datum_uchovneni": "2024-09-02",
-      "visible": true,
       "name": "HONEY ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2023-02-17",
       "clp": "12101",
@@ -1790,6 +1759,37 @@
         "title": "Ing.",
         "first_name": "Zlata",
         "last_name": "Zajícová"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-09-02",
+      "visible": true,
+      "name": "HOUDINI ZE ZAJEČÍCH POLÍ",
+      "date_of_birth": "2023-02-17",
+      "clp": "12099",
+      "father": "Ampio del Winepoint",
+      "mother": "Cleopatra ze Zaječích polí",
+      "body": {
+        "height": "66",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, Junior CACA, Res. CAC, CAC, CACA, BOJ, BOS, BOB, Jugendbester, Beste Rüde",
+      "exams": "KZV I.cena, ZV I.cena",
+      "owner": {
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "number": "258",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "+420608964289",
+        "email": "Zlatka.z@seznam.cz"
       }
     }
   ]
