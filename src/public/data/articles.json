@@ -2,6 +2,15 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2025/01/29",
+      "title": "Zápis z výborové schůze",
+      "paragraphs": [
+        "Dne 23. 1. 2025 se uskutečnila on-line výborová schůze MSKAO. Zápis z ní neleznete <a href=\"./public/pdf/2025/250129-schuze_vyboru/zapis.pdf\" target=\"_blank\">ZDE</a>."
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20250050,
       "publishDate": "2025/01/21",
       "title": "Výstava ohařů při evropské výstavě v Brně",
