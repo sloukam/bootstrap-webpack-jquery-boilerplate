@@ -1618,7 +1618,7 @@
         "color": "žemlová",
         "HD": "A"
       },
-      "championships": "JCH CZ, CH CZ, GrandCH CZ, CH CMK",
+      "championships": "JCH CZ, CH CZ, Grand CH CZ, CH CMK",
       "shows": "CAJC, CAC, r.CAC, CACIB, r.CACIB, BOS, BOB, Anw. Dt. Ch. VDH, Krajský vítěz, NV, Vítěz Slovenska",
       "exams": "PZ I.c",
       "owner": {
@@ -3559,8 +3559,9 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "shows": "VN1, V1, CAJC",
-      "exams": "ZV I.c, PZ II.c",
+      "championships": "CH CZ, SK CH",
+      "shows": "VN1, V1, CAJC, KV, Jugendbester, BOS, CACIB, res. CACIB, CAC",
+      "exams": "ZV I.c, PZ II.c, Memoriál Josefa Daňka",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -3863,8 +3864,8 @@
         "color": "černá",
         "HD": "A"
       },
-      "shows": "V3",
-      "exams": "ZV-I.c,",
+      "shows": "V, CACA, CAC",
+      "exams": "ZV I.c, PZ I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -3929,7 +3930,7 @@
       },
       "championships": "CH CZ",
       "shows": "V1.CAC,CACIB",
-      "exams": "ZV-I.c, KZV-I.c,MVV-ZV CACT-I.c, MFT Derby SOLO -T,B. 12.",
+      "exams": "ZV-I.c, KZV-I.c, MVV-ZV CACT I.c, MFT Derby-TB 12, MFT-EXC 16 , NFT solo-TB 15, Klubový NFT solo-TB 15, PZ-I.c, KPZ-I.c",
       "owner": {
         "first_name": "Kristýna",
         "last_name": "Šejnohová",
@@ -4176,7 +4177,7 @@
         "color": "hnědobílá",
         "HD": "A"
       },
-      "championships": "Český junior šampion, Český šampion",
+      "championships": "JCH CZ, CH CZ, CH ČMKU, Grand CH CZ",
       "shows": "Jubilejní vítěz štěně, V1, CAJC, CACIB-J, BOJ, res. CAC, CAC, res. CACIB, CACIB, BOJ, BOS, BOB, Národní vítěz, JBIG I., BIG III.",
       "exams": "ZV I.cena",
       "owner": {

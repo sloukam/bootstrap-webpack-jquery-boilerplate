@@ -525,7 +525,8 @@
         "color": "černobílá",
         "HD": "B"
       },
-      "shows": "V1, CAC, res. CACIB, BOB",
+      "championships": "Veterán CH ČR",
+      "shows": "V1, CAC, res. CACIB, BOB, Veterán BIS, BOV, CACIB-V",
       "exams": "I.U.O. Srbsko, ZV I.c,",
       "owner": {
         "title": "Ing.",
@@ -1643,7 +1644,7 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "championships": "Český šampion",
+      "championships": "CH CZ, Grand CH CZ",
       "shows": "Národní vítěz, ACIB, BOS, 2x CAC, 2x CAJC, 2x BOJ, výborná",
       "exams": "ZV - I. cena, 211/4 b.",
       "owner": {
@@ -1707,7 +1708,7 @@
         "color": "černá",
         "HD": "A"
       },
-      "championships": "Český šampion",
+      "championships": "CH CZ, CH SK",
       "shows": "BOB, 2x BOS 3x CACIB, 4x CAC CACIB-J, CAJC výborný",
       "exams": "KZV - I. cena, 225/4 bodů, CACT",
       "owner": {
@@ -1777,6 +1778,7 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
+      "championships": "JCH CZ, CH CZ, NV",
       "shows": "V1, CAJC, Junior CACA, Res. CAC, CAC, CACA, BOJ, BOS, BOB, Jugendbester, Beste Rüde",
       "exams": "KZV I.cena, ZV I.cena",
       "owner": {
