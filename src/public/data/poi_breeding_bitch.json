@@ -3256,8 +3256,8 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "championships": "CH SK, CH CZ",
-      "shows": "KL MSKAO, BOB, BOS, BOJ, CAC, V1, CAJC,",
+      "championships": "CH SK, CH CZ, C.I.B.",
+      "shows": "KL MSKAO, BOB, BOS, BOJ, CAC, V1, CAJC",
       "exams": "IFT solo VD 15 b",
       "owner": {
         "first_name": "Lenka",
@@ -3413,7 +3413,7 @@
         "HD": "A"
       },
       "shows": "V1, CAJC, BOJ, BOS",
-      "exams": "ZV.I.c, PZ.I.c,",
+      "exams": "ZV.I.c, PZ.I.c",
       "owner": {
         "title": "",
         "first_name": "Jaromír",
@@ -3593,7 +3593,7 @@
         "HD": "A"
       },
       "shows": "VN 1, V 2",
-      "exams": "ZV I.c, PZ I.c, VP I.c,",
+      "exams": "ZV I.c, PZ I.c, VP I.c",
       "owner": {
         "first_name": "Lubonír",
         "last_name": "Hofírek",
@@ -3622,7 +3622,7 @@
         "HD": "C"
       },
       "shows": "CAJC,BOJ,CAC,NV,BOB",
-      "exams": "ZV-II.c,SVP -II.c,PZ-I.c,",
+      "exams": "ZV-II.c,SVP -II.c,PZ-I.c",
       "owner": {
         "first_name": "Kamila",
         "last_name": "Hopjáková",
@@ -3652,7 +3652,7 @@
         "HD": "A"
       },
       "shows": "VN1,V1,VT RES.CACIB",
-      "exams": "ZV-I.c,BZ-I.c,PZ-I.c,PZ-I.c,",
+      "exams": "ZV-I.c,BZ-I.c,PZ-I.c,PZ-I.c",
       "owner": {
         "first_name": "Žaneta",
         "last_name": "Živělová",
@@ -3682,7 +3682,7 @@
         "HD": "A"
       },
       "shows": "VD3",
-      "exams": "PZ-I.c,",
+      "exams": "PZ-I.c",
       "owner": {
         "first_name": "Jakub",
         "last_name": "Toman",
@@ -3705,7 +3705,7 @@
         "HD": "A"
       },
       "shows": "V2",
-      "exams": "ZV-I.c, Pz-I.c, Pz-I.c,",
+      "exams": "ZV-I.c, Pz-I.c, Pz-I.c",
       "owner": {
         "first_name": "Václav a Kateřina",
         "last_name": "Manhalovi",
@@ -3900,7 +3900,7 @@
       },
       "championships": "CH CZ",
       "shows": "V1,CAC,NV,BOS,WDS V1,RES.CACIB",
-      "exams": "ZV-I.c, PZ-I.c,",
+      "exams": "ZV-I.c, PZ-I.c",
       "owner": {
         "first_name": "Vít",
         "last_name": "Klimeš",
@@ -3959,7 +3959,7 @@
         "HD": "A"
       },
       "shows": "V1,CAC",
-      "exams": "ZV-I.C,",
+      "exams": "ZV-I.C",
       "owner": {
         "first_name": "Nikol",
         "last_name": "Hajmonová",
@@ -3991,7 +3991,7 @@
         "HD": "A"
       },
       "shows": "V1,CAJC,CAC,VT,OV",
-      "exams": "ZV.I,c,MJL III.c,NFT-solo dobře 9b,",
+      "exams": "ZV.I,c,MJL III.c,NFT-solo dobře 9b",
       "owner": {
         "first_name": "VIKTOR",
         "last_name": "MÁRA",
@@ -4053,7 +4053,7 @@
         "HD": "A"
       },
       "shows": "VD1",
-      "exams": "ZV-Ic,PZ-I.c, MFT -r.CACT,r.CACIT ,ZV-I.c, LZ-I.c,",
+      "exams": "ZV-Ic,PZ-I.c, MFT -r.CACT,r.CACIT ,ZV-I.c, LZ-I.c",
       "owner": {
         "first_name": "František",
         "last_name": "Srnec",
@@ -4115,7 +4115,7 @@
         "HD": "A"
       },
       "shows": "V1, CAJC, CAC, CACIB, BOS, BOB, KV-2023",
-      "exams": "ZV.MSKAO I.c, PZ-II.c,",
+      "exams": "ZV.MSKAO I.c, PZ-II.c",
       "owner": {
         "first_name": "Adéla",
         "last_name": "Hajná",
@@ -4144,7 +4144,7 @@
         "color": "bílooranžová",
         "HD": "A"
       },
-      "championships": "CH CZ",
+      "championships": "CH CZ, CH SK",
       "shows": "KV -MSKAO 2023 CAC, V1, VT KRAJ.V, KV-MSKAO 2024 CAC, CACIB, BOS",
       "exams": "ZV-I.c, -1 místo",
       "owner": {

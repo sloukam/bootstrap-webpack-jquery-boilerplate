@@ -77,7 +77,7 @@
         "HD": "C"
       },
       "shows": "CAC, CAC ČMKU, res.CACIB, NV, KV",
-      "exams": "ZV-I. c CACT, PZ I.c, SZVP I.c, SZVP-II. c, LZ-I. c,",
+      "exams": "ZV-I. c CACT, PZ I.c, SZVP I.c, SZVP-II. c, LZ-I. c",
       "owner": {
         "first_name": "Aleš",
         "last_name": "Ševčík",
@@ -527,7 +527,7 @@
       },
       "championships": "Veterán CH ČR",
       "shows": "V1, CAC, res. CACIB, BOB, Veterán BIS, BOV, CACIB-V",
-      "exams": "I.U.O. Srbsko, ZV I.c,",
+      "exams": "I.U.O. Srbsko, ZV I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "Zlata",
@@ -637,7 +637,7 @@
         "HD": "B"
       },
       "shows": "V1, VT",
-      "exams": "ZV I.c, PZ I.c, 3x VZ I.c., nominační soutěž MRK I.c., MRK III.c. 431 b. nejlepší voda, MKP III.c. 474 b.,",
+      "exams": "ZV I.c, PZ I.c, 3x VZ I.c., nominační soutěž MRK I.c., MRK III.c. 431 b. nejlepší voda, MKP III.c. 474 b.",
       "owner": {
         "first_name": "Václav",
         "last_name": "Hejna",
@@ -677,7 +677,7 @@
           "city": "Mohelno",
           "post_code": "67575"
         },
-        "phone": "+420 602 788 769,",
+        "phone": "+420 602 788 769",
         "email": "evaillova@seznam.cz"
       },
       "img_ext": "jpg"
@@ -1268,7 +1268,7 @@
         "HD": "C"
       },
       "shows": "VD 1",
-      "exams": "KZV-CACT I.c., KZV-CACT I.c., PZ I.c.,",
+      "exams": "KZV-CACT I.c., KZV-CACT I.c., PZ I.c.",
       "owner": {
         "title": "Ing.",
         "first_name": "Pavel",
@@ -1300,7 +1300,7 @@
         "HD": "A"
       },
       "shows": "CAC,CACIB,BOB",
-      "exams": "ZV.I.c, PZ-I.c,",
+      "exams": "ZV.I.c, PZ-I.c",
       "owner": {
         "first_name": "Petr",
         "last_name": "Krčmář",
@@ -1363,7 +1363,7 @@
         "HD": "A"
       },
       "shows": "V1, Vítěz třídy",
-      "exams": "ZV I.c.,VP I.c.,PZ I.c.,",
+      "exams": "ZV I.c.,VP I.c.,PZ I.c.",
       "owner": {
         "first_name": "Ivanka",
         "last_name": "Soukupová",
@@ -1458,7 +1458,7 @@
         "HD": "A"
       },
       "shows": "V1,CAC.res.CAC-CACIB,BOB",
-      "exams": "ZVI.c,KPZ I.c,",
+      "exams": "ZVI.c,KPZ I.c",
       "owner": {
         "title": "Ing.",
         "first_name": "David",
@@ -1487,8 +1487,8 @@
         "color": "bílooranžová /lemon",
         "HD": "A"
       },
-      "shows": "V1,CAJC,BOJ ,",
-      "exams": "ZV.I,c,",
+      "shows": "V1,CAJC,BOJ ",
+      "exams": "ZV.I,c",
       "owner": {
         "first_name": "VIKTOR",
         "last_name": "MÁRA",
@@ -1551,7 +1551,7 @@
       },
       "championships": "CH CZ",
       "shows": "V1, CAC, CACIB, BOB, BOS, VT, OV",
-      "exams": "ZV.I.c,",
+      "exams": "ZV.I.c",
       "owner": {
         "first_name": "Lenka",
         "last_name": "Šeligová",
@@ -1583,7 +1583,7 @@
         "HD": "A"
       },
       "shows": "V2,V1,CAJC,BOJ",
-      "exams": "ZV.I.c, PZ-II.c, KPZ I.c CACT , VP I.c, KPZr.CACT -Ic,, VP-I.c,",
+      "exams": "ZV.I.c, PZ-II.c, KPZ I.c CACT , VP I.c, KPZr.CACT -Ic,, VP-I.c",
       "owner": {
         "title": "MUDr.",
         "first_name": "Josef ",
@@ -1615,7 +1615,7 @@
         "HD": "A"
       },
       "shows": "VD3",
-      "exams": "ZV-I.c, MFT -VD,PZ-I.c, VP I.c,",
+      "exams": "ZV-I.c, MFT -VD,PZ-I.c, VP I.c",
       "owner": {
         "first_name": "František",
         "last_name": "Srnec",
@@ -1678,7 +1678,7 @@
         "HD": "A"
       },
       "championships": "CH CZ",
-      "shows": "V1,CAC,R-CACIB,KV.MSKAO- CAC,",
+      "shows": "V1,CAC,R-CACIB,KV.MSKAO- CAC",
       "exams": "ZV-I.c",
       "owner": {
         "first_name": "Barbora",
@@ -1792,6 +1792,37 @@
         },
         "phone": "+420608964289",
         "email": "Zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2024-07-24",
+      "visible": true,
+      "name": "Durant K.D. ze Štípek",
+      "date_of_birth": "2023-04-02",
+      "clp": "12114",
+      "father": "Diablo del WinePoint",
+      "mother": "Clarysa ze Štípek",
+      "body": {
+        "height": "63",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "championships": " CZ JCH , SK JCH, CH CZ , CH SK",
+      "shows": "CAJC, BOJ, BIS-J, KVM,\nCACIB, BOS ,BOB",
+      "exams": "IFT solo – excelent, IFT derby couple – excelent, ZV – 1.c, res. CACT",
+      "owner": {
+        "first_name": "Aneta",
+        "last_name": "Nováková",
+        "address": {
+          "street": "Cihelní",
+          "number": "569",
+          "city": "Markvartovice",
+          "post_code": "74714"
+        },
+        "phone": "777 734 312",
+        "email": "a.novakova@kilpi.cz"
       }
     }
   ]
