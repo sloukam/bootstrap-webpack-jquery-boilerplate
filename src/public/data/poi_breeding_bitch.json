@@ -4007,6 +4007,7 @@
       "img_ext": "jpg"
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "female",
       "datum_uchovneni": "2023-09-21",
@@ -4038,6 +4039,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "female",
       "datum_uchovneni": "2022-11-10",
