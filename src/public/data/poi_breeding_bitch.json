@@ -4007,6 +4007,68 @@
       "img_ext": "jpg"
     },
     {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2023-09-21",
+      "visible": true,
+      "name": "Caramela ze Zaječích polí",
+      "date_of_birth": "2020-08-19",
+      "clp": "11763",
+      "father": "Sáregresi Infinite Love in the Mist",
+      "mother": "Audrey z Mešinské hájovny",
+      "body": {
+        "height": "62",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "championships": "Grand CH CZ, CH CZ, JCH CZ",
+      "shows": "BOB, BOS, BOJ, Klubový vítěz mladých, NV, Jubilejní NV. Nejlepší fena KV, CACIB, Res.CACIB, CAC, Res.CAC, CAJC, BIG 5, BIG working 2, JBIG 2",
+      "exams": "PZ - I. cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "Zlatka.z@seznam.cz"
+      }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2022-11-10",
+      "visible": true,
+      "name": "Cleopatra ze Zaječích polí",
+      "date_of_birth": "2020-08-19",
+      "clp": "11764",
+      "father": "Sáregresi Infinite Love in the Mist",
+      "mother": "Audrey z Mešinské hájovny",
+      "body": {
+        "height": "61",
+        "color": "černá se znaky",
+        "HD": "A"
+      },
+      "championships": "CH CZ, Grand CH CZ",
+      "shows": "NV, Bundesjugendsieger, Jugendbester, BOB, BOS, BOJ, CACIB, CAC, res. CAC, CAJC, KV mladých",
+      "exams": "ZV - I.cena",
+      "owner": {
+        "title": "Ing.",
+        "first_name": "Zlata",
+        "last_name": "Zajícová",
+        "address": {
+          "street": "Dobromilice",
+          "city": "Dobromilice",
+          "post_code": "79825"
+        },
+        "phone": "608964289",
+        "email": "Zlatka.z@seznam.cz"
+      }
+    },
+    {
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "female",
