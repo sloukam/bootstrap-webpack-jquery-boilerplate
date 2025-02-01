@@ -28,3 +28,6 @@ Handlebars.registerHelper('upper', function(aString) {
   return aString.toUpperCase();
 });
 
+Handlebars.registerHelper('lower', function(aString) {
+  return aString.toLowerCase();
+});

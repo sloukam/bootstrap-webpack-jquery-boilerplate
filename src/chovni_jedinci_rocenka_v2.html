@@ -16,13 +16,13 @@
       <br>
       <div class="row">
         <div class="col">
-          {{name}}
+          {{upper name}}
           <br>
           Datum narození: {{dateFormat date_of_birth}}
           <br>
-          Otec: {{father}}
+          Otec: {{upper father}}
           <br>
-          Matka: {{mother}}
+          Matka: {{upper mother}}
           <br>
           Zdraví: {{#if body.HD}}HD {{body.HD}}{{/if}}{{#if body.ED}}, ED {{body.ED}}{{/if}}{{#if (isDefined body.BAER)}}, BAER: {{#if body.BAER}}norm.{{else}}abnorm.{{/if}}{{/if}}{{#if body.rcd4}}, PRA rcd4 {{body.rcd4}}{{/if}}{{#if body.other}}, {{body.other}}{{/if}}
           <br>
@@ -30,7 +30,7 @@
           <br>
           Výkon: {{exams}}
           <br>
-          Majitel: {{owner.title}} {{owner.first_name}} {{owner.last_name}}{{#if co-owner.last_name}} a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}{{/if}}{{#if owner.address.street}}, {{owner.address.street}} {{owner.address.number}}, {{owner.address.post_code}} {{owner.address.city}}{{/if}}{{#if owner.phone}}, Tel.: {{owner.phone}}{{/if}}{{#if owner.email}}, e-mail: {{owner.email}}{{/if}}{{#if owner.web}}, {{trimProtocol owner.web}}{{/if}}{{#if other}}, {{other}}{{/if}}
+          Majitel: {{owner.title}} {{owner.first_name}} {{owner.last_name}}{{#if co-owner.last_name}} a {{co-owner.title}} {{co-owner.first_name}} {{co-owner.last_name}}{{/if}}{{#if owner.address.street}}, {{owner.address.street}} {{owner.address.number}}, {{owner.address.post_code}} {{owner.address.city}}{{/if}}{{#if owner.phone}}, Tel.: {{owner.phone}}{{/if}}{{#if owner.email}}, e-mail: {{lower owner.email}}{{/if}}{{#if owner.web}}, {{trimProtocol owner.web}}{{/if}}{{#if other}}, {{other}}{{/if}}
 
         </div>
         <div class="col-4">

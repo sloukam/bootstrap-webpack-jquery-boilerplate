@@ -180,7 +180,7 @@
             <div class="row">
               <div class="col-4"><img src="./public/images/email_icon.png" height="20" width="20"></div>
               <div class="col shorten-col">
-                <a href="mailto:{{owner.email}}">{{owner.email}}</a>
+                <a href="mailto:{{lower owner.email}}">{{lower owner.email}}</a>
               </div>
             </div>
             {{/if}}
@@ -207,7 +207,7 @@
               <br>
               <div id="pedigree-modal-content-{{clp}}" class="pedigree-modal-content">
                 <div class="h3">
-                  <u>{{name}}</u>
+                  <u>{{upper name}}</u>
                 </div>
                 <div>
                   <div id="pedigree_{{clp}}" class="rows-stripped">
