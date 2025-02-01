@@ -1529,7 +1529,8 @@
         "address": {
           "street": "Jižní",
           "number": "718",
-          "city": "Rychvald"
+          "city": "Rychvald",
+          "post_code": "73532"
         },
         "phone": "+420 724 474 360",
         "email": "Tatana.bednarova@gmail.com"
