@@ -12,6 +12,13 @@ Handlebars.registerHelper('dateFormat', function(date, options) {
   // return moment(date).format(formatToUse);
 });
 
+Handlebars.registerHelper('year', function(date) {
+  let momentDate = moment(date);
+
+  if (momentDate.isValid()) return momentDate.format('YYYY');
+  else return date;
+});
+
 Handlebars.registerHelper('isDefined', function(value) {
   return value !== undefined;
 });

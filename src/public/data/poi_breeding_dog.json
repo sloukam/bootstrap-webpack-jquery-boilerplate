@@ -1795,6 +1795,7 @@
       }
     },
     {
+      "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
       "datum_uchovneni": "2024-07-24",
