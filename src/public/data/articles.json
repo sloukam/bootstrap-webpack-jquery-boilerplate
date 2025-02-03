@@ -2,6 +2,23 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20250015,
+      "publishDate": "2025/02/03",
+      "title": "Pracovní akce na rok 2025",
+      "paragraphs": [
+        "Přinášíme Vám termíny pracovních akcí v roce 2025.",
+        "<b>Výcvikový víkend 5. - 6. 4. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1iM_3Ps5Ig93RWxhh5KG2Hy9ji6X0G1x6uTyPvSfgal4/preview\" target=\"_blank\">zde</a>",
+        "<b>Klubové podzimní zkoušky ohařů 3. 5. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1BR3UXkwQMynoTYHPxXec4nlr5sxhgCCZqTnHf55AEVo/preview\" target=\"_blank\">zde</a>",
+        "<b>Klubové zkoušky vloh ohařů 4. 5. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/19lj4Kv6fPOOm32ggBWJEO28Es4Z5xTOfwI7QCQJEemQ/preview\" target=\"_blank\">zde</a>",
+        "<b>Pohár MSKAO 2. - 3. 8. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1HEWiX2Wf0DK4BQlWZWDyoUUoP9pvFscwJNodfKL716Q/preview\" target=\"_blank\">zde</a>",
+        "<b>Klubové zkoušky vloh ohařů 4. 10. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1j0qljj8jRluIyEBF4nHu9MqfYCcfjhZ7x7IYtWsrQKk/preview\" target=\"_blank\">zde</a>",
+        "<b>Klubové podzimní zkoušky ohařů 5. 10. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1W2lzKl4lUjVyti59LYBrYsok-ra1S5TgWG7YVbEVQR8/preview\" target=\"_blank\">zde</a>",
+        "<b>Klubové všestranné zkoušky ohařů 18. - 19. 10. 2025</b> - přihlášku můžete vyplnit <a href=\"https://docs.google.com/forms/d/1APCEaVVILAvU_ZCe01wgJHzb4om5Q0q08PSUJSEMJ78/preview\" target=\"_blank\">zde</a>",
+        "<a href=\"./public/images/2025/plan_pracovnich_akci.jpg\" target=\"_blank\"><img src=\"./public/images/2025/plan_pracovnich_akci.jpg\" height=\"220\" width=\"280\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20240050,
       "publishDate": "2025/01/29",
       "title": "Zápis z výborové schůze",
