@@ -2,6 +2,26 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 2020058,
+      "publishDate": "2025/02/07",
+      "title": "Pozvánka a program na výroční členskou schůzi MSKAO",
+      "paragraphs": [
+        "<a href=\"./public/pdf/2025/250306-vyrocni_clenska_schuze/pozvanka.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250306-vyrocni_clenska_schuze/pozvanka.jpg\" height=\"150\" width=\"200\"/></a>&nbsp;&nbsp;&nbsp;<a href=\"./public/pdf/2025/250306-vyrocni_clenska_schuze/program.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250306-vyrocni_clenska_schuze/program.jpg\" height=\"150\" width=\"110\"/></a>"
+      ],
+      "attachments": [
+        {
+          "description": "pozvánka",
+          "filePath": "./public/pdf/2025/250306-vyrocni_clenska_schuze/pozvanka.jpg"
+        },
+        {
+          "description": "program",
+          "filePath": "./public/pdf/2025/250306-vyrocni_clenska_schuze/program.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20250015,
       "publishDate": "2025/02/03",
       "title": "Pracovní akce na rok 2025",
