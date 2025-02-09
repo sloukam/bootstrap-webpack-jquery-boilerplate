@@ -1486,16 +1486,18 @@
       "shows": "res. CAC, CAC, CACIB, BOS. BOB",
       "exams": "ZV I.cena CACT, MFT 7 b., NFT 12 b., MFT 12b., Memoriál A. Sklenáře NFT 18b. CACT",
       "owner": {
+        "title": "Bc.",
         "first_name": "Miroslava",
         "last_name": "Němcová",
         "address": {
           "street": "Heroltovice",
           "number": "1512",
-          "city": "Město Libavá",
+          "city": "Libavá",
           "post_code": "78307"
         },
         "phone": "+420 739 406 622",
-        "email": "nemcova_m@centrum.cz"
+        "email": "nemcova_m@centrum.cz",
+        "web": "https://mirelionne.webnode.cz/"
       },
       "img_ext": "jpg"
     },
@@ -3033,7 +3035,8 @@
           "post_code": "78307"
         },
         "phone": "+420 739 406 622",
-        "email": "nemcova_m@centrum.cz"
+        "email": "nemcova_m@centrum.cz",
+        "web": "https://mirelionne.webnode.cz/"
       },
       "img_ext": "jpg"
     },
@@ -3962,7 +3965,8 @@
           "post_code": "78307"
         },
         "phone": "+420 739 406 622",
-        "email": "nemcova_m@centrum.cz"
+        "email": "nemcova_m@centrum.cz",
+        "web": "https://mirelionne.webnode.cz/"
       },
       "img_ext": "jpg"
     },
@@ -6797,6 +6801,7 @@
       "shows": "CAJC, BOJ, CAC, res.CACIB, CACIB, BOS",
       "exams": "ZV I.cena",
       "owner": {
+        "title": "Bc.",
         "first_name": "Miroslava",
         "last_name": "Němcová",
         "address": {
