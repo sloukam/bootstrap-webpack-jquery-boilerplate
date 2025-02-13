@@ -3670,7 +3670,9 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": true,
+      "visible": false,
+      "datum_vyrazeni": "2025-02-13",
+      "duvod_vyrazeni": "",
       "name": "GAYA Z HELMU",
       "date_of_birth": "2019-01-09",
       "clp": "11559",
@@ -4211,7 +4213,7 @@
         "HD": "A"
       },
       "championships": "CH CZ, CH SK",
-      "shows": "KV -MSKAO 2023 CAC, V1, VT KRAJ.V, KV-MSKAO 2024 CAC, CACIB, BOS",
+      "shows": "KV -MSKAO 2023 CAC, V1, VT KRAJ.V, KV-MSKAO 2024 CAC, CACIB, BOS, BOB",
       "exams": "ZV-I.c, -1 místo",
       "owner": {
         "first_name": "Lenka",
