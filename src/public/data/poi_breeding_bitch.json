@@ -3918,10 +3918,9 @@
     {
       "breed": "POI",
       "sex": "female",
-      "visible": false,
+      "visible": true,
       "name": "BRILLIANT ZE ZAJEČÍCH POLÍ",
       "date_of_birth": "2019-04-18",
-      "datum_vyrazeni": "2022-09-19",
       "clp": "11613",
       "father": "AVON",
       "mother": "Audrey ze Zaječích polí",
