@@ -13,14 +13,14 @@
 
     {{#each years}}
       {{#if items}}
-      <h2><strong>{{year}}</strong></h2>
+      <h2><strong>{{this.year}}</strong></h2>
       <div class="rows-stripped">
         <div class="row rowHeader">
-          číslo,datum vystavení,chovatelská stanice,jméno feny/psa,datum vrhu,počet P/F
+          Číslo KL,Datum vystavení,Chovatelská stanice,Jméno feny Jméno psa,Datum vrhu,Narozeno P/F
         </div>
         {{#each items}}
         <div class="row">
-          {{id}},{{dateFormat publicationDate}},{{breeder}},{{bitch}}{{#if dog}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{dog}},{{else}},{{/if}}{{dateFormat releaseDate}},{{puppies}}
+          "{{id}}",{{dateFormat publicationDate}},{{breeder}},{{bitch}}{{#if dog}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{dog}},{{else}},{{/if}}{{dateFormat releaseDate}},"{{puppies}}"
         </div>
         {{/each}}
       </div>
