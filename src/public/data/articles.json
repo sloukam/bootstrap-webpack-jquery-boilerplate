@@ -2,6 +2,16 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20230050,
+      "publishDate": "2025/03/26",
+      "title": "Přihlášování na klubovou výstava v Jaroměřicích bylo spuštěno",
+      "paragraphs": [
+        "V informačním systému <a href=\"https://www.dogoffice.cz/\" target=\"_blank\">DogOffice</a> se již nyní můžete přihlásit na klubovou výstavu v Jaroměřicích nad Rokytnou. Využijtě nižší cenu za včasné přihlášení.",
+        "<a href=\"./public/pdf/2025/250510-jaromerice_klubovka/cz/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250510-jaromerice_klubovka/cz/01.jpg\" height=\"275\" width=\"200\"/></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20240050,
       "publishDate": "2025/03/07",
       "title": "\uD83C\uDF40Výcvikový víkend 5.-6.4.2025\uD83C\uDF40",
