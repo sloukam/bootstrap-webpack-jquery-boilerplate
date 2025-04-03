@@ -229,10 +229,12 @@
       "img_ext": "jpg"
     },
     {
-      "visible": true,
+      "visible": false,
       "breed": "GS",
       "name": "KAIRO Z ŽELEČKY",
       "date_of_birth": "2011-09-09",
+      "date_vyrazeni": "2025-03-29",
+      "duvod_vyrazeni": "úhyn",
       "clp": "6324",
       "father": "Britt z Dvorku Čamourku",
       "mother": "Happy z Želečky",
