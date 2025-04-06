@@ -4389,6 +4389,136 @@
         "web": "https://silesiasetter.weebly.com"
       },
       "img_ext": "jpg"
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "GS",
+      "sex": "female",
+      "datum_uchovneni": "2025-03-01",
+      "visible": true,
+      "name": "Daisy Pearl Moravia",
+      "date_of_birth": "2023-05-08",
+      "clp": "7227",
+      "father": "Ludstar Lindbergh",
+      "mother": "Carrie April Pearl Moravia",
+      "pedigree": {
+        "breed": "GS",
+        "sex": "female",
+        "clp": "7227",
+        "father": {
+          "name": "Ludstar Lindbergh",
+          "father": {
+            "name": "Ludstar Grisson",
+            "father": {
+              "name": "Laurelhach Moviestar",
+              "father": {
+                "name": "Liric Come Dance With ME Of Shilay"
+              },
+              "mother": {
+                "name": "Laurelhach Continue A Story"
+              }
+            },
+            "mother": {
+              "name": "Ludstar  Velsheda",
+              "father": {
+                "name": "Ludstar Tamburello"
+              },
+              "mother": {
+                "name": "Liric Summer Liaison With Ludstar"
+              }
+            }
+          },
+          "mother": {
+            "name": "Carnoustie Antlia Ludstar",
+            "father": {
+              "name": "Brodruggan Black Knight",
+              "father": {
+                "name": "Trisetr Ebonie Nirvana"
+              },
+              "mother": {
+                "name": "Tahtan Black Magic"
+              }
+            },
+            "mother": {
+              "name": "Jamanelph Pallas Athena",
+              "father": {
+                "name": "Triseter Ebinie Zeus"
+              },
+              "mother": {
+                "name": "Carnoustie What A Vision"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "Carrie April Pearl Moravia",
+          "father": {
+            "name": "Celtic Frost Kochanej Emilki",
+            "father": {
+              "name": "Fairray Black To The Future",
+              "father": {
+                "name": "Triseter Celtic Ice"
+              },
+              "mother": {
+                "name": "Sunny Prides Mac Bess"
+              }
+            },
+            "mother": {
+              "name": "Rosalie von der Wilden Horde",
+              "father": {
+                "name": "Laurelhat Legend"
+              },
+              "mother": {
+                "name": "Päivi von der Wilden Horde"
+              }
+            }
+          },
+          "mother": {
+            "name": "Beitris Pearl Moravia",
+            "father": {
+              "name": "Zir z Holubické stráně",
+              "father": {
+                "name": "Sangerfild Earldon"
+              },
+              "mother": {
+                "name": "Quina z Holubické stráně"
+              }
+            },
+            "mother": {
+              "name": "Ashley Princess Pearl Moravia",
+              "father": {
+                "name": "Atrei z Tomanikových vrškov"
+              },
+              "mother": {
+                "name": "Cinderella Carolain Áres Šamarkan"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "černá s pálením",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear"
+      },
+      "championships": "JCH ČR, CH ČR",
+      "shows": "výborná, CAJC, CACIB-J, CAC, res.CAC, CACIB, BOJ, BOS",
+      "exams": "ZV I.c. res.CACT",
+      "owner": {
+        "first_name": "Jana ",
+        "last_name": "Vajdíková",
+        "address": {
+          "street": "V Uličce ",
+          "number": "305",
+          "city": "Uherské Hradiště",
+          "post_code": "68601"
+        },
+        "phone": "733 761 328",
+        "email": "va.jana305@seznam.cz",
+        "web": "https://pearl-moravia.webnode.cz/"
+      }
     }
   ]
 }
