@@ -2,6 +2,28 @@
   "articles": [
     {
       "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2025/04/11",
+      "title": "Pozvánka na klubové zkoušky vloh a jejich propozice",
+      "paragraphs": [
+        "Všechny Vás srdečně zveme na klubové zkoušky vloh ohařů se zadáváním čekatelství CACT a res. CACT., které se budou konat 4. 5. 2025.",
+        "Odkaz na prihlašovací formulář najdete <a href=\"https://docs.google.com/forms/d/19lj4Kv6fPOOm32ggBWJEO28Es4Z5xTOfwI7QCQJEemQ/preview\" target=\"_blank\">ZDE</a>",
+        "<a href=\"./public/pdf/2025/250504-kzv/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250504-kzv/01.jpg\" height=\"220\" width=\"320\"></a>&nbsp;&nbsp;<a href=\"./public/pdf/2025/250504-kzv/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250504-kzv/02.jpg\" height=\"220\" width=\"320\"></a>&nbsp;&nbsp;<a href=\"./public/pdf/2025/250504-kzv/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250504-kzv/03.jpg\" height=\"220\" width=\"320\"></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
+      "publishDate": "2025/04/11",
+      "title": "Pozvánka na klubové podzimní zkoušky a jejich propozice",
+      "paragraphs": [
+        "Všechny Vás srdečně zveme na klubové podzimní zkoušky ohařů se zadáváním čekatelství CACT a res. CACT., které se budou konat 3. 5. 2025.",
+        "Odkaz na prihlašovací formulář najdete <a href=\"https://docs.google.com/forms/d/1BR3UXkwQMynoTYHPxXec4nlr5sxhgCCZqTnHf55AEVo/preview\" target=\"_blank\">ZDE</a>",
+        "<a href=\"./public/pdf/2025/250503-kpz/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250503-kpz/01.jpg\" height=\"220\" width=\"320\"></a>&nbsp;&nbsp;<a href=\"./public/pdf/2025/250503-kpz/02.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250503-kpz/02.jpg\" height=\"220\" width=\"320\"></a>&nbsp;&nbsp;<a href=\"./public/pdf/2025/250503-kpz/03.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250503-kpz/03.jpg\" height=\"220\" width=\"320\"></a>"
+      ]
+    },
+    {
+      "visible": true,
       "articleId": 20230050,
       "publishDate": "2025/03/26",
       "title": "Přihlášování na klubovou výstavu v Jaroměřicích bylo spuštěno",
