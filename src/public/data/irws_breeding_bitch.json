@@ -1714,6 +1714,196 @@
       "img_ext": "jpg",
       "breed": "IRWS",
       "sex": "female",
+      "datum_uchovneni": "2025-03-20",
+      "visible": true,
+      "name": "Aimee z Doubravského údolí",
+      "date_of_birth": "2022-02-12",
+      "clp": "441",
+      "father": "Artagan von Blahud",
+      "mother": "Darling Debbie Artegerd",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "941000024997488",
+        "father": {
+          "country": "ČR",
+          "clp": "356",
+          "name": "Artagan von Blahud",
+          "father": {
+            "country": "ČR",
+            "clp": "278",
+            "name": "Caesar Valiant Hunter",
+            "father": {
+              "country": "ČR",
+              "clp": "137",
+              "name": "Leo Bojandolí",
+              "father": {
+                "country": "ČR",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "ČR",
+                "clp": "57",
+                "name": "Iris Bohemia Thalset"
+              }
+            },
+            "mother": {
+              "country": "ČR",
+              "clp": "238",
+              "name": "Redder Everlasting Love",
+              "father": {
+                "country": "KC",
+                "clp": "04419408",
+                "name": "Chaersiveen Celtic Music"
+              },
+              "mother": {
+                "country": "HR",
+                "clp": "10006",
+                "name": "Saoisse Red Nokomis"
+              }
+            }
+          },
+          "mother": {
+            "country": "ČR",
+            "clp": "277",
+            "name": "Roxana z Lukovských lánů",
+            "father": {
+              "country": "ČR",
+              "clp": "258",
+              "name": "Lohmann's Bernstein",
+              "father": {
+                "country": "DPSZ",
+                "clp": "0715",
+                "name": "History's of Higland Baloú"
+              },
+              "mother": {
+                "country": "VDH",
+                "clp": "02",
+                "name": "Deargban O'Faolain"
+              }
+            },
+            "mother": {
+              "country": "ČR",
+              "clp": "257",
+              "name": "Dalriach Proud Mary",
+              "father": {
+                "country": "Kcsb",
+                "clp": "3482",
+                "name": "Dalriach Auchindoun"
+              },
+              "mother": {
+                "country": "KC",
+                "clp": "0900102",
+                "name": "Pepperstown Poly"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "čr",
+          "clp": "326",
+          "name": "Darling Debbie Artegerd",
+          "father": {
+            "country": "PKR",
+            "clp": "14549",
+            "name": "Boreas Artegerd",
+            "father": {
+              "country": "KC",
+              "clp": "03154603",
+              "name": "Casafelice Montadale",
+              "father": {
+                "country": "KCSB",
+                "clp": "0047",
+                "name": "Corranroo Connexion"
+              },
+              "mother": {
+                "country": "KCSB",
+                "clp": "3052",
+                "name": "Casafelice Charollais"
+              }
+            },
+            "mother": {
+              "country": "čr",
+              "clp": "219",
+              "name": "Artemis Bohemia Thalset",
+              "father": {
+                "country": "čr",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "čr",
+                "clp": "39",
+                "name": "Vanesa Rysi Wykrot"
+              }
+            }
+          },
+          "mother": {
+            "country": "SPKP",
+            "clp": "32",
+            "name": "Redmore Debbie",
+            "father": {
+              "country": "OHZB",
+              "clp": "166",
+              "name": "Kearney-Kea Red Nokomis",
+              "father": {
+                "country": "SLR",
+                "clp": "000002",
+                "name": "United Spots Nightflame"
+              },
+              "mother": {
+                "country": "FI",
+                "clp": "56355",
+                "name": "Mirta Red Nokomis"
+              }
+            },
+            "mother": {
+              "country": "OHZB",
+              "clp": "118",
+              "name": "Redmore Amy Sunny Moments",
+              "father": {
+                "country": "AC",
+                "clp": "042166002",
+                "name": "Cormallen Moonlight Silver"
+              },
+              "mother": {
+                "country": "OHZB",
+                "clp": "53",
+                "name": "Gigi Conquerer of Hidden Irland"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "červenobílá",
+        "HD": "A",
+        "rcd4": "clear",
+        "other": "CLAD, DM(SOD1) PRA-rcd1,vWDI clear"
+      },
+      "championships": "CHCZ",
+      "shows": "V1,CAC,CACIB",
+      "exams": "ZV Ic.",
+      "owner": {
+        "title": "Ing",
+        "first_name": "Gabriela",
+        "last_name": "Filipová",
+        "address": {
+          "street": "Podmoklany",
+          "number": "4",
+          "city": "Ždírec nad Doubravou",
+          "post_code": "58263"
+        },
+        "phone": "+420 724 512 611",
+        "email": "gabrielka.filipova@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IRWS",
+      "sex": "female",
       "datum_uchovneni": "2023-12-22",
       "visible": true,
       "name": "Elis z Drválovského revíru",
