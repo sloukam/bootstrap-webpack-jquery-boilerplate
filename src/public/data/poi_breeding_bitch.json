@@ -4264,6 +4264,36 @@
         "first_name": "Kristýna",
         "last_name": "Šejnohová"
       }
+    },
+    {
+      "breed": "POI",
+      "sex": "female",
+      "datum_uchovneni": "2025-02-18",
+      "visible": true,
+      "name": "Astoria Šar-Leh-Dog",
+      "date_of_birth": "2023-08-26",
+      "clp": "12154",
+      "father": "Diablo ze Zaječích polí ",
+      "mother": "Abby Beskydy Pointer Village",
+      "body": {
+        "height": "61",
+        "color": "bílooranžová",
+        "HD": "B"
+      },
+      "shows": "V1,CAJC ,CAC",
+      "exams": "ZV.I.c, ",
+      "owner": {
+        "first_name": "Aneta",
+        "last_name": "Limburská",
+        "address": {
+          "street": "Dolní nám.",
+          "number": "251",
+          "city": "Humpolec",
+          "post_code": "39609"
+        },
+        "phone": "+420732679824",
+        "email": "Patejl.M@seznam.cz"
+      }
     }
   ]
 }
