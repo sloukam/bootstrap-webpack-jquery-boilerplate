@@ -537,9 +537,11 @@
     {
       "breed": "IRWS",
       "sex": "female",
-      "visible": true,
+      "visible": false,
       "name": "Darling Debbie Artegerd",
       "date_of_birth": "2016-04-25",
+      "date_vyrazeni": "2025-04-18",
+      "duvod_vyrazeni": "úhyn",
       "clp": "326",
       "father": "Boreas Artegerd",
       "mother": "Redmore Debbie",
