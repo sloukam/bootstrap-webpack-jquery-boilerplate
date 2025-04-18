@@ -1530,192 +1530,6 @@
       "img_ext": "jpg",
       "breed": "IRWS",
       "sex": "female",
-      "datum_uchovneni": "2024-09-01",
-      "visible": true,
-      "name": "Gwendolyn Shadow Dog",
-      "date_of_birth": "2022-02-20",
-      "clp": "467",
-      "father": "Simply red and white Runar",
-      "mother": "Nuala Smudge Shadow Dog",
-      "pedigree": {
-        "breed": "IRWS",
-        "sex": "female",
-        "clp": "467",
-        "father": {
-          "country": "NHSB",
-          "clp": "3073705",
-          "name": "Simply red and white Runar",
-          "father": {
-            "country": "KRAR",
-            "clp": "0905197",
-            "name": "Killarys Grand Venture with Vanders and Romaunt",
-            "father": {
-              "country": "AKC",
-              "clp": "62864804",
-              "name": "Aramis farms High Road To Killary",
-              "father": {
-                "country": "AKC",
-                "clp": "24009707",
-                "name": "Waidmans Evyn"
-              },
-              "mother": {
-                "country": "AKC",
-                "clp": "29417502",
-                "name": "Connemara dea Beacon"
-              }
-            },
-            "mother": {
-              "country": "AKC",
-              "clp": "74776301",
-              "name": "Caniscaeli Waltzihme Killary",
-              "father": {
-                "country": "AKC",
-                "clp": "50070901",
-                "name": "Shireoak Caniscaeli Windsong"
-              },
-              "mother": {
-                "country": "CKC",
-                "clp": "001292",
-                "name": "Fourgere Song Im My Heart"
-              }
-            }
-          },
-          "mother": {
-            "country": "NHSB",
-            "clp": "2890517",
-            "name": "Simply red and white Abiageal",
-            "father": {
-              "country": "NHSB",
-              "clp": "2860043",
-              "name": "Tullamore Tartan",
-              "father": {
-                "country": "KCSB",
-                "clp": "187",
-                "name": "Tullamore Ted"
-              },
-              "mother": {
-                "country": "KCR",
-                "clp": "2491408",
-                "name": "Dalriach Glory by for Tullamore"
-              }
-            },
-            "mother": {
-              "country": "NHSB",
-              "clp": "2730343",
-              "name": "Taniswood Wicked Lady",
-              "father": {
-                "country": "Kcsb",
-                "clp": "47",
-                "name": "Corranroo Connexion"
-              },
-              "mother": {
-                "country": "KCR",
-                "clp": "03014301",
-                "name": "Taniswood whos that girl from Bencorrach"
-              }
-            }
-          }
-        },
-        "mother": {
-          "country": "PKR",
-          "clp": "15686",
-          "name": "Nuala Smudge Shadow Dog",
-          "father": {
-            "country": "KC",
-            "clp": "00310006",
-            "name": "Lovenjoel Winters Night",
-            "father": {
-              "country": "CU",
-              "clp": "3297",
-              "name": "Gallybob Gold Standard",
-              "father": {
-                "country": "CS",
-                "clp": "0187",
-                "name": "Tullamore Ted"
-              },
-              "mother": {
-                "country": "Af",
-                "clp": "05124604",
-                "name": "Autumnwood Gold Dust"
-              }
-            },
-            "mother": {
-              "country": "AH",
-              "clp": "00017103",
-              "name": "Royston Duchness at Lovenjoel",
-              "father": {
-                "country": "CM",
-                "clp": "1526",
-                "name": "Lockenna olympick flame"
-              },
-              "mother": {
-                "country": "AD",
-                "clp": "00679504",
-                "name": "Dalriach Deveron Lass"
-              }
-            }
-          },
-          "mother": {
-            "country": "PKR",
-            "clp": "12827",
-            "name": "Secret Wish Shadow Dog",
-            "father": {
-              "country": "CR",
-              "clp": "113",
-              "name": "Dick ze Skřípů",
-              "father": {
-                "country": "cr",
-                "clp": "53",
-                "name": "United Spots Justbe"
-              },
-              "mother": {
-                "country": "cr",
-                "clp": "16",
-                "name": "Gita z lukovských Lánů"
-              }
-            },
-            "mother": {
-              "country": "pkr",
-              "clp": "9123",
-              "name": "Jarda Rysi Wykrot",
-              "father": {
-                "country": "cr",
-                "clp": "19",
-                "name": "Hard z Lukovských Lánů"
-              },
-              "mother": {
-                "country": "pkr",
-                "clp": "5575",
-                "name": "Exclusive Velvet rouge blanche"
-              }
-            }
-          }
-        }
-      },
-      "body": {
-        "height": "62",
-        "color": "červenobílá",
-        "HD": "A"
-      },
-      "championships": "JCHCZ, SKCH",
-      "shows": "CAC,CACIB",
-      "exams": "ZV Ic. BZ IIc.",
-      "owner": {
-        "first_name": "Lucie",
-        "last_name": "Faltýnková",
-        "address": {
-          "street": "Šemíkovice",
-          "number": "64",
-          "city": "Rouchovany",
-          "post_code": "67557"
-        },
-        "email": "folkyn@seznam.cz"
-      }
-    },
-    {
-      "img_ext": "jpg",
-      "breed": "IRWS",
-      "sex": "female",
       "datum_uchovneni": "2025-03-20",
       "visible": true,
       "name": "Aimee z Doubravského údolí",
@@ -1900,6 +1714,192 @@
         },
         "phone": "+420 724 512 611",
         "email": "gabrielka.filipova@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IRWS",
+      "sex": "female",
+      "datum_uchovneni": "2024-09-01",
+      "visible": true,
+      "name": "Gwendolyn Shadow Dog",
+      "date_of_birth": "2022-02-20",
+      "clp": "467",
+      "father": "Simply red and white Runar",
+      "mother": "Nuala Smudge Shadow Dog",
+      "pedigree": {
+        "breed": "IRWS",
+        "sex": "female",
+        "clp": "467",
+        "father": {
+          "country": "NHSB",
+          "clp": "3073705",
+          "name": "Simply red and white Runar",
+          "father": {
+            "country": "KRAR",
+            "clp": "0905197",
+            "name": "Killarys Grand Venture with Vanders and Romaunt",
+            "father": {
+              "country": "AKC",
+              "clp": "62864804",
+              "name": "Aramis farms High Road To Killary",
+              "father": {
+                "country": "AKC",
+                "clp": "24009707",
+                "name": "Waidmans Evyn"
+              },
+              "mother": {
+                "country": "AKC",
+                "clp": "29417502",
+                "name": "Connemara dea Beacon"
+              }
+            },
+            "mother": {
+              "country": "AKC",
+              "clp": "74776301",
+              "name": "Caniscaeli Waltzihme Killary",
+              "father": {
+                "country": "AKC",
+                "clp": "50070901",
+                "name": "Shireoak Caniscaeli Windsong"
+              },
+              "mother": {
+                "country": "CKC",
+                "clp": "001292",
+                "name": "Fourgere Song Im My Heart"
+              }
+            }
+          },
+          "mother": {
+            "country": "NHSB",
+            "clp": "2890517",
+            "name": "Simply red and white Abiageal",
+            "father": {
+              "country": "NHSB",
+              "clp": "2860043",
+              "name": "Tullamore Tartan",
+              "father": {
+                "country": "KCSB",
+                "clp": "187",
+                "name": "Tullamore Ted"
+              },
+              "mother": {
+                "country": "KCR",
+                "clp": "2491408",
+                "name": "Dalriach Glory by for Tullamore"
+              }
+            },
+            "mother": {
+              "country": "NHSB",
+              "clp": "2730343",
+              "name": "Taniswood Wicked Lady",
+              "father": {
+                "country": "Kcsb",
+                "clp": "47",
+                "name": "Corranroo Connexion"
+              },
+              "mother": {
+                "country": "KCR",
+                "clp": "03014301",
+                "name": "Taniswood whos that girl from Bencorrach"
+              }
+            }
+          }
+        },
+        "mother": {
+          "country": "PKR",
+          "clp": "15686",
+          "name": "Nuala Smudge Shadow Dog",
+          "father": {
+            "country": "KC",
+            "clp": "00310006",
+            "name": "Lovenjoel Winters Night",
+            "father": {
+              "country": "CU",
+              "clp": "3297",
+              "name": "Gallybob Gold Standard",
+              "father": {
+                "country": "CS",
+                "clp": "0187",
+                "name": "Tullamore Ted"
+              },
+              "mother": {
+                "country": "Af",
+                "clp": "05124604",
+                "name": "Autumnwood Gold Dust"
+              }
+            },
+            "mother": {
+              "country": "AH",
+              "clp": "00017103",
+              "name": "Royston Duchness at Lovenjoel",
+              "father": {
+                "country": "CM",
+                "clp": "1526",
+                "name": "Lockenna olympick flame"
+              },
+              "mother": {
+                "country": "AD",
+                "clp": "00679504",
+                "name": "Dalriach Deveron Lass"
+              }
+            }
+          },
+          "mother": {
+            "country": "PKR",
+            "clp": "12827",
+            "name": "Secret Wish Shadow Dog",
+            "father": {
+              "country": "CR",
+              "clp": "113",
+              "name": "Dick ze Skřípů",
+              "father": {
+                "country": "cr",
+                "clp": "53",
+                "name": "United Spots Justbe"
+              },
+              "mother": {
+                "country": "cr",
+                "clp": "16",
+                "name": "Gita z lukovských Lánů"
+              }
+            },
+            "mother": {
+              "country": "pkr",
+              "clp": "9123",
+              "name": "Jarda Rysi Wykrot",
+              "father": {
+                "country": "cr",
+                "clp": "19",
+                "name": "Hard z Lukovských Lánů"
+              },
+              "mother": {
+                "country": "pkr",
+                "clp": "5575",
+                "name": "Exclusive Velvet rouge blanche"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "červenobílá",
+        "HD": "A"
+      },
+      "championships": "JCHCZ, SKCH",
+      "shows": "CAC,CACIB",
+      "exams": "ZV Ic. BZ IIc.",
+      "owner": {
+        "first_name": "Lucie",
+        "last_name": "Faltýnková",
+        "address": {
+          "street": "Šemíkovice",
+          "number": "64",
+          "city": "Rouchovany",
+          "post_code": "67557"
+        },
+        "email": "folkyn@seznam.cz"
       }
     },
     {
