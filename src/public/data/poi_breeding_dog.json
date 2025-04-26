@@ -1729,6 +1729,37 @@
       "img_ext": "jpg",
       "breed": "POI",
       "sex": "male",
+      "datum_uchovneni": "2025-04-14",
+      "visible": true,
+      "name": "Athos od Thekly",
+      "date_of_birth": "2022-04-09",
+      "clp": "11998",
+      "father": "Anook ze Štípek",
+      "mother": "Anděla z Černých blat",
+      "body": {
+        "height": "63",
+        "color": "oranžovobílá",
+        "HD": "A"
+      },
+      "shows": "V1, CAJC, CACIB",
+      "exams": "ZV-I.c, PZ -I.c",
+      "owner": {
+        "first_name": "Ladislav",
+        "last_name": "Dokoupil",
+        "address": {
+          "street": "Vrbátky",
+          "number": "144",
+          "city": "Vrbátky",
+          "post_code": "79813"
+        },
+        "phone": "+420603313211",
+        "email": "lerydoko@gmail.com"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
       "datum_uchovneni": "2024-09-02",
       "visible": true,
       "name": "HONEY ZE ZAJEČÍCH POLÍ",
