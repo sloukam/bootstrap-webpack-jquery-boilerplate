@@ -3,6 +3,19 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2025/05/01",
+      "title": "Poděkování",
+      "paragraphs": [
+        "Děkujeme za Váš zájem o klubovou výstavu!",
+        "Rádi bychom poděkovali všem, kteří přihlásili svého jedince (ale i více jedinců) na naši klubovou výstavu. Vašeho zájmu si velmi vážíme a děláme vše pro to, aby výstava proběhla na profesionální úrovni a stala se pro všechny nezapomenutelným zážitkem.",
+        "V následujících dnech Vám představíme partnery klubové výstavy, bez kterých by se tato akce neobešla, a budeme Vás průběžně informovat o důležitých detailech k průběhu výstavy.",
+        "Děkujeme, že jste s nám",
+        "<a href=\"./public/pdf/2025/250510-jaromerice_klubovka/prihlasky_final.png\" target=\"_blank\"><img src=\"./public/pdf/2025/250510-jaromerice_klubovka/prihlasky_final.png\" height=\"100\" width=\"300\"/></a>"
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2025/04/11",
       "title": "Pozvánka na klubové zkoušky vloh a jejich propozice",
       "paragraphs": [
@@ -10,7 +23,6 @@
         "<a href=\"./public/pdf/2025/250510-jaromerice_klubovka/cz/01.jpg\" target=\"_blank\"><img src=\"./public/pdf/2025/250510-jaromerice_klubovka/cz/01.jpg\" height=\"275\" width=\"200\"/></a>"
       ]
     },
-
     {
       "visible": true,
       "articleId": 20240050,
