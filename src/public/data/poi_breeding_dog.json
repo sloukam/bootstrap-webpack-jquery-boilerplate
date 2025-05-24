@@ -1856,6 +1856,36 @@
         "phone": "777 734 312",
         "email": "a.novakova@kilpi.cz"
       }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "POI",
+      "sex": "male",
+      "datum_uchovneni": "2025-05-10",
+      "visible": true,
+      "name": "Champion ze Zaječích polí",
+      "date_of_birth": "2023-08-29",
+      "clp": "12141",
+      "father": "Rossenarra Mezzo",
+      "mother": "Brilliant ze Zaječích polí",
+      "body": {
+        "height": "65",
+        "color": "citronová",
+        "HD": "A"
+      },
+      "shows": "VD2,",
+      "exams": "ZV-I.c,",
+      "owner": {
+        "first_name": "Kristýna",
+        "last_name": "Šejnohova",
+        "address": {
+          "street": "Rosice",
+          "number": "356",
+          "city": "ROSICE",
+          "post_code": "53834"
+        },
+        "email": "kristyna.sejnohova@seznam.cz"
+      }
     }
   ]
 }
