@@ -1480,7 +1480,7 @@
       "breed": "GS",
       "sex": "male",
       "visible": true,
-      "name": "BLACK MYSTIC NEVEREDNDING GRACE",
+      "name": "BLACK MYSTIC NEVERENDING GRACE",
       "date_of_birth": "2018-05-28",
       "clp": "6823",
       "father": "Cameron from Stirling Bridge",
@@ -1740,14 +1740,14 @@
       "name": "Ares Sanybell",
       "date_of_birth": "2019-08-31",
       "clp": "6923",
-      "father": "Passion Find Pay No Mind",
+      "father": "Passion Fild Pay No Mind",
       "mother": "Blaire Pearl Moravia",
       "pedigree": {
         "breed": "GS",
         "sex": "male",
         "clp": "6923",
         "father": {
-          "name": "Passion Find Pay No Mind",
+          "name": "Passion Fild Pay No Mind",
           "father": {
             "name": "Kingpoint Everywhere",
             "father": {
