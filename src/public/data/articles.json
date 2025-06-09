@@ -3,6 +3,25 @@
     {
       "visible": true,
       "articleId": 20240050,
+      "publishDate": "2025/06/05",
+      "title": "Zákupy 16. 8. 2025",
+      "paragraphs": [
+        "Milí členové Moravskoslezského klubu anglických ohařů,",
+        "rádi bychom Vás srdečně pozvali na další klubovou výstavu, která se uskuteční již tuto sobotu v Olomouci. Těšíme se na hojnou účast, krásné psy, přátelskou atmosféru a společně strávený čas v duchu naší společné vášně.",
+        "Zároveň si Vás dovolujeme upozornit, že přihlašování na následující klubovou výstavu v Zákupech je již spuštěno. Neváhejte tedy a zajistěte si své místo včas – těšíme se, že se s Vámi setkáme i tam!,",
+        "<a href=\"./public/pdf/2025/250816-zakupy/01.png\" target=\"_blank\"><img src=\"./public/pdf/2025/250816-zakupy/01.png\" height=\"150\" width=\"111\"/>&nbsp;<a href=\"./public/pdf/2025/250816-zakupy/02.png\" target=\"_blank\"><img src=\"./public/pdf/2025/250816-zakupy/02.png\" height=\"150\" width=\"111\"/>&nbsp;<a href=\"./public/pdf/2025/250816-zakupy/03.png\" target=\"_blank\"><img src=\"./public/pdf/2025/250816-zakupy/03.png\" height=\"150\" width=\"111\"/>&nbsp;<a href=\"./public/pdf/2025/250816-zakupy/04.png\" target=\"_blank\"><img src=\"./public/pdf/2025/250816-zakupy/04.png\" height=\"150\" width=\"111\"/>&nbsp;"
+      ],
+      "attachments": [
+        {
+          "description": "propozice",
+          "filePath": "./public/pdf/2025/250816-zakupy/propozice.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "articleId": 20240050,
       "publishDate": "2025/05/30",
       "title": "Propozice na pohár MSKAO 2.-3. 8. 2025",
       "paragraphs": [
