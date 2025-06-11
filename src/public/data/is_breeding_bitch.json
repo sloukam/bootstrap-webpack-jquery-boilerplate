@@ -2052,7 +2052,7 @@
         "rcd4": "clear",
         "other": "CLAD N/N, PRA rcd 1 "
       },
-      "championships": "GRAND CH ČR, CH ČR, CH AT, CH CRO, CH ČMKU JCH ČR, JCH AT",
+      "championships": "GCH ČR, CH ČR, CH AT, CH CRO, CH ČMKU JCH ČR, JCH AT",
       "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, KV, BOS, BOB, JBIG3",
       "exams": "ZV I.cena, PZ I.cena, SZVP II.cena",
       "owner": {
@@ -5595,7 +5595,7 @@
         "rcd4": "clear",
         "other": "PRA rcd1 clear, CLAD N/N"
       },
-      "championships": "JCH ČR, CH ČR, GRAND CH ČR, CH ČMKU",
+      "championships": "JCH ČR, CH ČR, GCH ČR, CH ČMKU",
       "shows": "CAJC, BOJ, CAC, CACIB, NV, KV, BOS, junior BIS",
       "exams": "výjimka",
       "owner": {

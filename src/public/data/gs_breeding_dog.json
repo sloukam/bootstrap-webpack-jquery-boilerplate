@@ -149,7 +149,7 @@
         "HD": "B",
         "rcd4": "clear"
       },
-      "championships": "Grand CH ČR, CH ČR, CH ČMKU, JCH ČR",
+      "championships": "GCH ČR, CH ČR, CH ČMKU, JCH ČR",
       "shows": "CAJC, res.CAC, CAC NV, CACIB, BOB",
       "exams": "ZV I.c.",
       "owner": {
@@ -211,7 +211,7 @@
         "ED": "0/0",
         "rcd4": "clear"
       },
-      "championships": "Šampion práce, C.I.B., C.I.E.Grand CH SK, Grand CH ČR, CH ČR, CH SK, CH HU, CH PL, JCH ČR, JCH SK",
+      "championships": "Šampion práce, C.I.B., C.I.E., GCH SK, GCH ČR, CH ČR, CH SK, CH HU, CH PL, JCH ČR, JCH SK",
       "shows": "CAJC, BOJ, CAC, CWC, CACA, CACIB, NV, BOB, III.BIG, JBIS, BOD, BIS, BIS pracovní",
       "exams": "ZV – I.c. CACT, PZ I.c., mem.M.Němce CACT, mem.J.LAmmera I.c, mem.J.Daňka I.c CACT, VZ I.c.,KVZ CACT",
       "owner": {
@@ -906,7 +906,7 @@
         "ED": "0/0",
         "rcd4": "clear"
       },
-      "championships": "JCH ČR, CH ČR, GRAND CH ČR, CH ÖST",
+      "championships": "JCH ČR, CH ČR, GCH ČR, CH ÖST",
       "shows": "CAC,CAJC, res.CACIB, CACIB, CAC ČMKU",
       "exams": "ZV I.c.",
       "owner": {
@@ -1274,7 +1274,7 @@
         "HD": "A",
         "rcd4": "clear"
       },
-      "championships": "JCH ČR, CH ČR, Grand CH ČR",
+      "championships": "JCH ČR, CH ČR, GCH ČR",
       "shows": "CAJC, CAC, res.CACIB, CACIB, BOB, BIG V.",
       "exams": "ZV I.c .",
       "owner": {
@@ -1716,7 +1716,7 @@
         "color": "černá s pálením",
         "HD": "A"
       },
-      "championships": "Slovenský šampion štěňat, JCH SK, Chorvatský JCH, CH SK, CH ČR, CH Makedonie, Grand CH Makedonie, CH Bosny a Hercegoviny, Grand CH Bosny a Hercegoviny, CH HU, C.I.E., C.I.B.",
+      "championships": "Slovenský šampion štěňat, JCH SK, Chorvatský JCH, CH SK, CH ČR, CH Makedonie, GCH Makedonie, CH Bosny a Hercegoviny, Grand CH Bosny a Hercegoviny, CH HU, C.I.E., C.I.B.",
       "shows": "Výborný, CAC, CACIB, BOB",
       "exams": "KLubové ZV I.c. CACT",
       "owner": {

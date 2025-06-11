@@ -1043,7 +1043,7 @@
       "body": {
         "HD": "A"
       },
-      "championships": "GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK, VET. CH ČR",
+      "championships": "GCH ČR, GCH SK, CH ČMKU, CH ČR, CH SK, VET. CH ČR",
       "shows": "CAJC, CAC, CACIB, BOB",
       "exams": "ZV I.cena",
       "owner": {
@@ -1167,7 +1167,7 @@
       "body": {
         "HD": "C"
       },
-      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČR, CH SK, CH AT, CH HR, VETERAN CH ČR, JCH ČR, JCH SK",
+      "championships": "C.I.E., C.I.B., GCH ČR, GCH SK, CH ČR, CH SK, CH AT, CH HR, VETERAN CH ČR, JCH ČR, JCH SK",
       "shows": "CAJC, CAC, CACIB, NV, BOB, JBIG, BIG",
       "exams": "ZV I.cena",
       "owner": {
@@ -2167,7 +2167,7 @@
         "rcd4": "carrier",
         "other": "CLAD N/N, PRA rcd 1 clear"
       },
-      "championships": "C.I.E., C.I.B., GRAND CH ČR, GRAND CH SK, CH ČMKU, CH ČR, CH SK, CH AT, Veterán CH ČR",
+      "championships": "C.I.E., C.I.B., GCH ČR, GCH SK, CH ČMKU, CH ČR, CH SK, CH AT, Veterán CH ČR",
       "shows": "CAC, CACA, CWC, CACIB, NV, BOB, BIG",
       "exams": "ZV I.cena, PZ I.cena, VP II.cena",
       "owner": {
@@ -2550,7 +2550,7 @@
       "body": {
         "HD": "B"
       },
-      "championships": "GRAND CH ČR, CH ČR, JCH ČR",
+      "championships": "GCH ČR, CH ČR, JCH ČR",
       "shows": "CAJC, CAC, CACIB, BOB",
       "exams": "ZV I.cena",
       "owner": {
@@ -3066,7 +3066,7 @@
       "body": {
         "HD": "B"
       },
-      "championships": "GRAND CH ČR, CH ČMKU, CH ČR, CH SK, JCH ČR",
+      "championships": "GCH ČR, CH ČMKU, CH ČR, CH SK, JCH ČR",
       "shows": "CAJC, BOJ, CAC, CACA, CACIB, NV, BOB, JBIG, BIG 3",
       "exams": "PZ I.cena, LZ I.cena, SVP I.cena, VZ II.cena, ZV I.cena",
       "owner": {
@@ -4009,7 +4009,7 @@
         "rcd4": "clear",
         "other": "PRA rcd 1 clear"
       },
-      "championships": "CH SK, JCH SK, JCH ČR, GRAND CH SK, CH ČR, C.I.B.",
+      "championships": "CH SK, JCH SK, JCH ČR, GCH SK, CH ČR, C.I.B.",
       "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB",
       "exams": "ZV I.cena CACT",
       "owner": {
@@ -4252,7 +4252,7 @@
         "height": "68",
         "HD": "A"
       },
-      "championships": "GRAND CH ČR, GRAND CH MK, CH MK, CH ČR, CH SK, JCH ČR",
+      "championships": "GCH ČR, GCH MK, CH MK, CH ČR, CH SK, JCH ČR",
       "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, JBIG",
       "exams": "ZV I.cena",
       "owner": {
@@ -4513,7 +4513,7 @@
         "rcd4": "clear",
         "other": "CLAD gen. free"
       },
-      "championships": "CH ČR, JCH ČR, GRAND CH ČR",
+      "championships": "CH ČR, JCH ČR, GCH ČR",
       "shows": "CAJC, BOJ, CAC, BOB",
       "exams": "ZV I.cena, PZ I.cena CACT, ZVP I.cena",
       "owner": {

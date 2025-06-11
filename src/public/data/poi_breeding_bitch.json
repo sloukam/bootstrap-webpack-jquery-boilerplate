@@ -1618,7 +1618,7 @@
         "color": "žemlová",
         "HD": "A"
       },
-      "championships": "JCH CZ, CH CZ, Grand CH CZ, CH CMK",
+      "championships": "JCH CZ, CH CZ, GCH CZ, CH CMK",
       "shows": "CAJC, CAC, r.CAC, CACIB, r.CACIB, BOS, BOB, Anw. Dt. Ch. VDH, Krajský vítěz, NV, Vítěz Slovenska",
       "exams": "PZ I.c",
       "owner": {
@@ -4023,7 +4023,7 @@
         "color": "oranžovobílá",
         "HD": "A"
       },
-      "championships": "Grand CH CZ, CH CZ, JCH CZ",
+      "championships": "GCH CZ, CH CZ, JCH CZ",
       "shows": "BOB, BOS, BOJ, Klubový vítěz mladých, NV, Jubilejní NV. Nejlepší fena KV, CACIB, Res.CACIB, CAC, Res.CAC, CAJC, BIG 5, BIG working 2, JBIG 2",
       "exams": "PZ - I. cena",
       "owner": {
@@ -4056,7 +4056,7 @@
         "color": "černá se znaky",
         "HD": "A"
       },
-      "championships": "CH CZ, Grand CH CZ",
+      "championships": "CH CZ, GCH CZ",
       "shows": "NV, Bundesjugendsieger, Jugendbester, BOB, BOS, BOJ, CACIB, CAC, res. CAC, CAJC, KV mladých",
       "exams": "ZV - I.cena",
       "owner": {
@@ -4244,7 +4244,7 @@
         "color": "hnědobílá",
         "HD": "A"
       },
-      "championships": "JCH CZ, CH CZ, CH ČMKU, Grand CH CZ",
+      "championships": "JCH CZ, CH CZ, CH ČMKU, GCH CZ",
       "shows": "Jubilejní vítěz štěně, V1, CAJC, CACIB-J, BOJ, res. CAC, CAC, res. CACIB, CACIB, BOJ, BOS, BOB, Národní vítěz, JBIG I., BIG III.",
       "exams": "ZV I.cena",
       "owner": {

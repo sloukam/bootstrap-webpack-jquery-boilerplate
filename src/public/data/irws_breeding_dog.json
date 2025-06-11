@@ -176,7 +176,7 @@
         "height": "66",
         "HD": "A"
       },
-      "championships": "CH CZ, CH SK, Grand CH CZ",
+      "championships": "CH CZ, CH SK, GCH CZ",
       "shows": "CAC, CACIB, BOS, BOB, Vítěz Prahy, KV ČPSK, KV MSKAO",
       "exams": "ZV I.c.",
       "owner": {
@@ -303,7 +303,7 @@
         "rcd4": "clear",
         "other": "CLAD free, PRA-rcd1 clear"
       },
-      "championships": "JCH SK, CH SK, GrandCH SK, C.I.B., C.I.E.",
+      "championships": "JCH SK, CH SK, GCH SK, C.I.B., C.I.E.",
       "exams": "ZV - I.c",
       "owner": {
         "first_name": "Jana Sedláková",
@@ -552,8 +552,8 @@
         "color": "červenobílý",
         "HD": "A"
       },
-      "championships": "JCH CZ, CH CZ, CH SK, GRAND CH CZ, CH ČMKU, C.I.E.",
-      "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, Krajský vítěz, Národní vítěz, Klubový vítěz MSKAO a ČPSK, vítěz speciální výstavy",
+      "championships": "JCH CZ, CH CZ, CH SK, GCH CZ, GCH SK, CH ČMKU, C.I.E.",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOS, BOB, Krajský vítěz, Národní vítěz, Klubový vítěz MSKAO a ČPSK, vítěz speciální výstavy, vícemistr Evropy",
       "exams": "ZV - I.c",
       "owner": {
         "first_name": "Ivana",
@@ -1548,7 +1548,7 @@
         "color": "červenobílá",
         "HD": "B"
       },
-      "championships": "C.I.E., šampion štěňat SK, JCH SK, CH CZ, CH SK, CH PL, CH ČMKU, GRAND CH CZ, GRAND CH SK",
+      "championships": "C.I.E., šampion štěňat SK, JCH SK, CH CZ, CH SK, CH PL, CH ČMKU, GCH CZ, GCH SK",
       "shows": "CAJC, CAC, VSV, KV, BOJ, BOBJ-7x, BOB 9x CACIB",
       "exams": "ZV Ic",
       "owner": {
