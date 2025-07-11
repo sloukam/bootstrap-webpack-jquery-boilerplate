@@ -5623,6 +5623,155 @@
     {
       "breed": "IS",
       "sex": "female",
+      "datum_uchovneni": "2025-07-01",
+      "visible": true,
+      "name": "DINA Z LESA KRÁLOVSTVÍ",
+      "date_of_birth": "2020-04-19",
+      "clp": "16889",
+      "father": "Grif z Jirouškova dvora",
+      "mother": "Berta z Lesa království",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16889",
+        "father": {
+          "clp": "16083",
+          "name": "Grif z Jirouškova dvora",
+          "father": {
+            "clp": "14986",
+            "name": "Pad ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "14313",
+              "name": "Kyty ze Srbeckých luhů",
+              "father": {
+                "clp": "13829",
+                "name": "Ikar z Lesinky"
+              },
+              "mother": {
+                "clp": "13394",
+                "name": "Agra von Kínhab"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15404",
+            "name": "Bereta Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russel"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus "
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "15717",
+          "name": "Berta z Lesa království",
+          "father": {
+            "clp": "14466",
+            "name": "Duke z Košumberka",
+            "father": {
+              "name": "Flynn z Dubanského kopce",
+              "father": {
+                "name": "Dunmore of Future´s Dream"
+              },
+              "mother": {
+                "clp": "12062",
+                "name": "Elis z Dubanského kopce"
+              }
+            },
+            "mother": {
+              "clp": "12782",
+              "name": "Dita z Šonovských hor",
+              "father": {
+                "clp": "10753",
+                "name": "Erik Jokran"
+              },
+              "mother": {
+                "clp": "10952",
+                "name": "Brita z Dubanského kopce"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14797",
+            "name": "Celia Mahagony Rose",
+            "father": {
+              "clp": "13029",
+              "name": "Hak z Luhové seče",
+              "father": {
+                "clp": "10753",
+                "name": "Kid Jokran"
+              },
+              "mother": {
+                "clp": "12140",
+                "name": "Doris z Luhové seče"
+              }
+            },
+            "mother": {
+              "clp": "13426",
+              "name": "Kréta z Nětčic",
+              "father": {
+                "clp": "12707",
+                "name": "Scandal v.d. Wester-Huy"
+              },
+              "mother": {
+                "clp": "12193",
+                "name": "Lussy od Velkého dubu"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "velmi dobrá",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Pavel",
+        "last_name": "Moskala",
+        "address": {
+          "street": "5.května",
+          "number": "782",
+          "city": "Frýdlant nad Ostravicí",
+          "post_code": "73911"
+        },
+        "phone": "736411841",
+        "email": "beata.ogrocka@gmail.com"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
       "datum_uchovneni": "2023-09-01",
       "visible": true,
       "name": "FRANCIS RED JOKER",
@@ -6302,6 +6451,280 @@
           "city": "Horní Bludovice",
           "post_code": "73937"
         }
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2025-07-01",
+      "visible": true,
+      "name": "ELIZABEL DAISY RAIN",
+      "date_of_birth": "2021-07-16",
+      "clp": "17236",
+      "father": "Aaron Arno Redweed",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17236",
+        "father": {
+          "clp": "16661",
+          "name": "Aaron Arno Redweed",
+          "father": {
+            "name": "Riverwood Pleased as Punch",
+            "father": {
+              "name": "Wynjill Well I Am",
+              "father": {
+                "name": "Sametsuz Scriptwriter"
+              },
+              "mother": {
+                "name": "Gwendariff Whata Wynjill"
+              }
+            },
+            "mother": {
+              "name": "Riverwood Kumbayah",
+              "father": {
+                "name": "Houston of the Trav´Lin Star"
+              },
+              "mother": {
+                "name": "GirlyGirl of McBirdy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16174",
+            "name": "Zephyre Maya Redweed",
+            "father": {
+              "clp": "13965",
+              "name": "Stamboek Redweed",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "12893",
+                "name": "Oriflame Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "65",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "shows": "V, CAC",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Ilona ",
+        "last_name": "Veletová",
+        "address": {
+          "street": "Nad Strání ",
+          "number": "46A",
+          "city": "Praha 8",
+          "post_code": "18200"
+        },
+        "phone": "607 769 485",
+        "email": "i.veletova@seznam.cz"
+      }
+    },
+    {
+      "img_ext": "jpg",
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2025-07-01",
+      "visible": true,
+      "name": "ELYSEÉ DAISY RAIN",
+      "date_of_birth": "2021-07-16",
+      "clp": "17237",
+      "father": "Aaron Arno Redweed",
+      "mother": "Betty Barcley Daisy Rain",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17237",
+        "father": {
+          "clp": "16661",
+          "name": "Aaron Arno Redweed",
+          "father": {
+            "name": "Riverwood Pleased as Punch",
+            "father": {
+              "name": "Wynjill Well I Am",
+              "father": {
+                "name": "Sametsuz Scriptwriter"
+              },
+              "mother": {
+                "name": "Gwendariff Whata Wynjill"
+              }
+            },
+            "mother": {
+              "name": "Riverwood Kumbayah",
+              "father": {
+                "name": "Houston of the Trav´Lin Star"
+              },
+              "mother": {
+                "name": "GirlyGirl of McBirdy"
+              }
+            }
+          },
+          "mother": {
+            "clp": "16174",
+            "name": "Zephyre Maya Redweed",
+            "father": {
+              "clp": "13965",
+              "name": "Stamboek Redweed",
+              "father": {
+                "name": "Orstone Country Gentleman of Westerhuy"
+              },
+              "mother": {
+                "clp": "12893",
+                "name": "Oriflame Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "clp": "15273",
+              "name": "Montefigueiras Isabel",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jackie v.d. Wester-Huy"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16221",
+          "name": "Betty Barcley Daisy Rain",
+          "father": {
+            "name": "Garden Star´s Red Bull",
+            "father": {
+              "name": "Sumaric Shadow of Mr. Jingles",
+              "father": {
+                "name": "Thendara Don Corleone"
+              },
+              "mother": {
+                "name": "Jonola Some Like It Hot At Sumaric"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Light Yoghurt",
+              "father": {
+                "name": "Ardan of Funny Home"
+              },
+              "mother": {
+                "name": "Garden Star´s Ferrero Rocher"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15446",
+            "name": "Artemis Elimar Doubrava",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen of the Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "clp": "14834",
+              "name": "Wictoria Becham z Arislandu",
+              "father": {
+                "name": "Zapach Jasminu z Arislandu"
+              },
+              "mother": {
+                "name": "Vicary´s Xuni"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "64",
+        "color": "mahagon",
+        "HD": "A",
+        "ED": "0/0",
+        "rcd4": "clear",
+        "other": "PRA rcd1 clear, CLAD N/N"
+      },
+      "championships": "GRAND CH ČR, CH ČR",
+      "shows": "r.CAC, CAC, CACIB, BOS",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Lýdia",
+        "last_name": "Tomajková",
+        "address": {
+          "street": "Branická ",
+          "number": "570/5",
+          "city": "Praha 4",
+          "post_code": "14700"
+        },
+        "phone": "776 376 585",
+        "email": "tomajkova.lydia@gmail.com"
       }
     },
     {
