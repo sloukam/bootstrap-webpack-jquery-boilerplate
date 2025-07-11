@@ -6027,6 +6027,133 @@
       }
     },
     {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2025-01-25",
+      "visible": true,
+      "name": "BARCELONA MAHOGANY DREAM CATCHER",
+      "date_of_birth": "2021-06-15",
+      "clp": "17180",
+      "father": "Universe of Never-Ending Adventure All Irish Gold",
+      "mother": "Eternal Flame Goldset",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17180",
+        "father": {
+          "clp": "16711",
+          "name": "Universe of Never-Ending Adventure All Irish Gold",
+          "father": {
+            "name": "Oakdene Que Du Bonheur",
+            "father": {
+              "name": "Jonola Dr. Doolittle",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Jonola Bellstar"
+              }
+            },
+            "mother": {
+              "name": "Oakdene Nothing Compares 2U",
+              "father": {
+                "name": "Thendara Satisfaction"
+              },
+              "mother": {
+                "name": "Oakdene Kilby"
+              }
+            }
+          },
+          "mother": {
+            "name": "Oakdene Puzzles´n Crisps",
+            "father": {
+              "name": "Paris Match Thendara",
+              "father": {
+                "name": "Gwendariff Pop The Question"
+              },
+              "mother": {
+                "name": "Thendara Lenamore"
+              }
+            },
+            "mother": {
+              "name": "Oakdene Kilby",
+              "father": {
+                "name": "Thendara Frozen Asset"
+              },
+              "mother": {
+                "name": "Mayfred Mrs. Robinson"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16325",
+          "name": "Eternal Flame Goldset",
+          "father": {
+            "name": "Garden Star´s Irish Tequila",
+            "father": {
+              "name": "Garden Star´s Royal Legend",
+              "father": {
+                "name": "Sumaric Shadow of Mr. Jingles"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Ferrero Rocher",
+              "father": {
+                "name": "Garden Star´s Billion Dollar"
+              },
+              "mother": {
+                "name": "Garden Star´s Amber Light"
+              }
+            }
+          },
+          "mother": {
+            "name": "Autumn Legend Goldset",
+            "father": {
+              "name": "Applegrove Bechamel",
+              "father": {
+                "name": "Pendoric Foggy Perfection"
+              },
+              "mother": {
+                "name": "Applegrove Look At Me I´m Natalie"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Irish Utopia",
+              "father": {
+                "name": "Garden Star´s Gentleman"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Youghurt"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "60",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "shows": "V, res.CAC, KrV",
+      "exams": "ZV I.cena",
+      "owner": {
+        "first_name": "Radek",
+        "last_name": "Morys",
+        "address": {
+          "street": "Mírová ",
+          "number": "618",
+          "city": "Studénka",
+          "post_code": "74213"
+        },
+        "phone": "739299707",
+        "email": "vecerkova.monca@seznam.cz"
+      }
+    },
+    {
       "img_ext": "jpg",
       "breed": "IS",
       "sex": "female",
@@ -6948,6 +7075,280 @@
           "post_code": "25246"
         },
         "email": "hankajarov@seznam.cz"
+      }
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2025-01-24",
+      "visible": true,
+      "name": "ADELE SLOVAK BASE",
+      "date_of_birth": "2023-01-04",
+      "clp": "17520",
+      "father": "Anakin Skywalker from Crawford Land",
+      "mother": "UK Vickory Jay Slovak Base",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "17520",
+        "father": {
+          "name": "Anakin Skywalker from Crawford Land",
+          "father": {
+            "name": "Millenium Falcon from Crawford Land",
+            "father": {
+              "name": "Luxatori Johny Cake",
+              "father": {
+                "name": "Luxatori X-Tra Long Lived"
+              },
+              "mother": {
+                "name": "Sumaric Scarllet O´Hara"
+              }
+            },
+            "mother": {
+              "name": "Evenflow Stop and Stare",
+              "father": {
+                "name": "Lochfrae Ralph Lauren"
+              },
+              "mother": {
+                "name": "Ronzalda Electra of Evenflow"
+              }
+            }
+          },
+          "mother": {
+            "name": "Crawford Just A Dream",
+            "father": {
+              "name": "Asoftwind of the Golden Vale",
+              "father": {
+                "name": "Goldings Jeroboam"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Crawford Eternal Flame",
+              "father": {
+                "name": "Luxatori X-Tra Long Lived"
+              },
+              "mother": {
+                "name": "Garden Star´s Angelic Innoncence"
+              }
+            }
+          }
+        },
+        "mother": {
+          "name": "UK Vicory Jay Slovak Base",
+          "father": {
+            "name": "At The Top Of The World Irish Devils",
+            "father": {
+              "name": "Cordarragh Picasso",
+              "father": {
+                "name": "Scotselaw Detroit Spinner By Thendara"
+              },
+              "mother": {
+                "name": "Cordarragh Lady In Red"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Irish Unique",
+              "father": {
+                "name": "Garden Star´s Gentleman"
+              },
+              "mother": {
+                "name": "Garden Star´s Light Yoghurt"
+              }
+            }
+          },
+          "mother": {
+            "name": "Lara Jay Slovak Base",
+            "father": {
+              "name": "Garden Star´s Irish Vagabond",
+              "father": {
+                "name": "Xtullyowen Of The Golden Vale"
+              },
+              "mother": {
+                "name": "Garden Star´s Bonnie Tyler"
+              }
+            },
+            "mother": {
+              "name": "Cinderella Jay Slovak Base",
+              "father": {
+                "name": "Winter Sun of Buffalo"
+              },
+              "mother": {
+                "name": "Beauty Jay Slovak Base"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "61",
+        "color": "mahagon",
+        "HD": "A"
+      },
+      "championships": "JCH ČR",
+      "shows": "CAJC, BOJ, CAC, CACIB, BOS",
+      "exams": "KZV I.cena - CACT",
+      "owner": {
+        "first_name": "Irena",
+        "last_name": "Guricová",
+        "address": {
+          "street": "Losky",
+          "number": "2426",
+          "city": "Zlín",
+          "post_code": "76001"
+        },
+        "phone": "+420 603 175 334"
+      },
+      "other": "import Slovensko"
+    },
+    {
+      "breed": "IS",
+      "sex": "female",
+      "datum_uchovneni": "2025-01-10",
+      "visible": true,
+      "name": "BORA AGÁTA Z HÝSKOVY FOŘTOVNY",
+      "date_of_birth": "2025-01-10",
+      "clp": "16883",
+      "father": "Tim ze Srbeckých luhů",
+      "mother": "Arina od Náplavky",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "female",
+        "clp": "16883",
+        "father": {
+          "clp": "15524",
+          "name": "Tim ze Srbeckých luhů",
+          "father": {
+            "clp": "14734",
+            "name": "Candy Mahagon Dream",
+            "father": {
+              "clp": "13830",
+              "name": "Irr z Lesinky",
+              "father": {
+                "name": "Scirocco´s Norton The Red Destiny"
+              },
+              "mother": {
+                "clp": "13167",
+                "name": "Gloria z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13585",
+              "name": "Bellinda Tojakr",
+              "father": {
+                "clp": "12408",
+                "name": "Wilkins Nonstop"
+              },
+              "mother": {
+                "clp": "12316",
+                "name": "Sally z Hodonského jezu"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14730",
+            "name": "Nela ze Srbeckých luhů",
+            "father": {
+              "clp": "14209",
+              "name": "Cit z Hosteckých vrchů",
+              "father": {
+                "clp": "13162",
+                "name": "Grosby z Lesinky"
+              },
+              "mother": {
+                "clp": "13535",
+                "name": "Arka z Hosteckých vrchů"
+              }
+            },
+            "mother": {
+              "clp": "13394",
+              "name": "Agra von Kínhab",
+              "father": {
+                "clp": "11250",
+                "name": "Athos z Železných hor"
+              },
+              "mother": {
+                "clp": "12212",
+                "name": "Iva ze Srbeckých luhů"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16009",
+          "name": "Arina od Náplavky",
+          "father": {
+            "clp": "14489",
+            "name": "Lary ze Srbeckých luhů",
+            "father": {
+              "clp": "13830",
+              "name": "Irr z Lesinky",
+              "father": {
+                "name": "Scirocco´s Norton The Red Destiny"
+              },
+              "mother": {
+                "clp": "13167",
+                "name": "Gloria z Lesinky"
+              }
+            },
+            "mother": {
+              "clp": "13394",
+              "name": "Agra von Kínhab",
+              "father": {
+                "clp": "11250",
+                "name": "Athos z Železných hor"
+              },
+              "mother": {
+                "clp": "12212",
+                "name": "Iva ze Srbeckých luhů"
+              }
+            }
+          },
+          "mother": {
+            "clp": "15405",
+            "name": "Brela Apoli Gwen",
+            "father": {
+              "name": "Russell´s Kismet",
+              "father": {
+                "name": "Saeterelva´s Russel"
+              },
+              "mother": {
+                "name": "Highfeather Raise´n a Ruckus"
+              }
+            },
+            "mother": {
+              "clp": "14470",
+              "name": "Desiree z Košumberka",
+              "father": {
+                "name": "Flynn z Dubanského kopce"
+              },
+              "mother": {
+                "clp": "12782",
+                "name": "Dita z Šonovských hor"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "62",
+        "color": "mahagon",
+        "HD": "B"
+      },
+      "shows": "V",
+      "exams": "PZ I.cena",
+      "owner": {
+        "first_name": "Jan",
+        "last_name": "Hýsek",
+        "address": {
+          "street": "Roudnička ",
+          "number": "36",
+          "city": "Hradec Králové",
+          "post_code": "50002"
+        },
+        "email": "jhhysek@gmail.com"
       }
     }
   ]

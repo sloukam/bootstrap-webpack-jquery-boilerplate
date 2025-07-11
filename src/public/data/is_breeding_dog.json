@@ -6363,6 +6363,132 @@
         "phone": "+420722061870",
         "email": "krecmer.martin@email.cz"
       }
+    },
+    {
+      "breed": "IS",
+      "sex": "male",
+      "datum_uchovneni": "2025-04-02",
+      "visible": true,
+      "name": "GORDIOS ELIMAR DOUBRAVA",
+      "date_of_birth": "2022-03-15",
+      "clp": "17335",
+      "father": "Abandinus Elimar Doubrava",
+      "mother": "Emily from Avon Farm",
+      "pedigree": {
+        "breed": "IS",
+        "sex": "male",
+        "clp": "17335",
+        "father": {
+          "clp": "15444",
+          "name": "Abandinus Elimar Doubrava",
+          "father": {
+            "name": "Garden Star´s Irish Vagabond",
+            "father": {
+              "name": "Xtullyowen of the Golden Vale",
+              "father": {
+                "name": "New Linacre Old Fellow"
+              },
+              "mother": {
+                "name": "Temptress of the Golden Vale"
+              }
+            },
+            "mother": {
+              "name": "Garden Star´s Bonnie Tyler",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Berboss Highlight"
+              }
+            }
+          },
+          "mother": {
+            "clp": "14834",
+            "name": "Wictoria Becham z Arislandu",
+            "father": {
+              "name": "Zapach Jasminu z Arislandu",
+              "father": {
+                "name": "Cardinal Song Quinniver´s"
+              },
+              "mother": {
+                "name": "Morena Mahagon Moravia"
+              }
+            },
+            "mother": {
+              "name": "Vicary´s Xuni",
+              "father": {
+                "name": "Vicary´s US Dollar"
+              },
+              "mother": {
+                "name": "Vicary´s Sugartop"
+              }
+            }
+          }
+        },
+        "mother": {
+          "clp": "16333",
+          "name": "Emily from Avon Farm",
+          "father": {
+            "name": "Avon Farm Thoughts Of Calcutta",
+            "father": {
+              "name": "Avn Farm Oh! Calcutta",
+              "father": {
+                "name": "Avon Farm Rockaway"
+              },
+              "mother": {
+                "name": "Tealwood´s Avon After Eight"
+              }
+            },
+            "mother": {
+              "name": "Avon Farm Penny For Your Thoughts",
+              "father": {
+                "name": "Avon Farm Noble Huntsman"
+              },
+              "mother": {
+                "name": "Avon Farm Orient Express"
+              }
+            }
+          },
+          "mother": {
+            "name": "Avon Farm Special Ruling",
+            "father": {
+              "name": "Avon Farm Kingston Rule",
+              "father": {
+                "name": "Eireannmada Fortuitous"
+              },
+              "mother": {
+                "name": "Avon Farm London Bells"
+              }
+            },
+            "mother": {
+              "name": "Avon Farm Camelot ",
+              "father": {
+                "name": "Avon Farm Rockaway"
+              },
+              "mother": {
+                "name": "Tealwood´s Avon After Eight"
+              }
+            }
+          }
+        }
+      },
+      "body": {
+        "height": "63",
+        "color": "mahagon",
+        "HD": "C"
+      },
+      "shows": "V, res. CAC",
+      "exams": "ZV I.cena, PZ I.cena, ZVP II.cena",
+      "owner": {
+        "first_name": "Vladimír ",
+        "last_name": "Procházka",
+        "address": {
+          "number": "74",
+          "city": "Vážany nad Litavou",
+          "post_code": "68401"
+        },
+        "phone": "732853323"
+      }
     }
   ]
 }
